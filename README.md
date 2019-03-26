@@ -10,7 +10,7 @@ Sur YouTube, ma chaîne **FormationVidéo** vous propose des cours, tutoriels et
 
 Retrouvez ci-dessous les formations disponibles (par ordre alphabétique).
 
-## Programmation / Web / bases de données 🖥
+## 🖥 Programmation / Web / bases de données
 
 | NOM | COURS | TUTORIELS | EXERCICES |
 |---|---|---|---|
@@ -24,20 +24,20 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique).
 | Python | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFMB2Qeuej6efzZRvjRdXo8) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1) |
 | SQL | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) | - | - |
 
-## Systèmes et réseaux 🛠
+## 🛠 Systèmes et réseaux
 
 | NOM | COURS | TUTORIELS | EXERCICES |
 |---|---|---|---|
 | GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | - | - |
 | Windows | - | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - |
 
-## Audio/vidéo 🔊🎬
+## 🔊🎬 Audio/vidéo
 
 | NOM | COURS | TUTORIELS | EXERCICES |
 |---|---|---|---|
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | - | - |
 
-## Divers 🔗
+## 📙 Divers
 
 | NOM | PLAYLIST |
 |---|---|

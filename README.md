@@ -8,7 +8,9 @@ Sur YouTube, ma chaîne **FormationVidéo** vous propose des cours, tutoriels et
 
 # Contenus disponibles sur la chaîne
 
-Retrouvez ci-dessous les formations disponibles (par ordre alphabétique).
+Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui sera fait :
+
+![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
 
 ## 🖥 Programmation / Web / bases de données
 

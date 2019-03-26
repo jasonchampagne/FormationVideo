@@ -36,3 +36,10 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique).
 | NOM | COURS | TUTORIELS | EXERCICES |
 |---|---|---|---|
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | - | - |
+
+## Divers
+
+| NOM | PLAYLIST |
+|---|---|
+| Aide Générale | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB) |
+| Support Après Visionnage | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr) |

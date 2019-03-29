@@ -6,12 +6,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propo
 + Les tutoriels viennent en annexe du cours pour apporter des sujets supplémentaires et traiter des cas spécifiques
 + Les exercices suivent la progression du cours et sont conçus pour tester vos connaissances et mettre en pratique ce que vous avez appris
 
-# Ressources pour les vidéos
-
-Sur certaines vidéos publiées sur YouTube, je distribue du code, des archives ou même des PDFs et images. Vous pouvez donc retrouver toutes ces ressources ici également.
-
-Vous pouvez à tout moment faire un clic-droit sur un fichier en particulier puis **Enregistrer le lien sous...** pour le télécharger. 
-
 # Contenus disponibles sur la chaîne
 
 Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui sera fait :

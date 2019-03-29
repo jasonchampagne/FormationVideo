@@ -10,7 +10,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propo
 
 Sur certaines vidéos publiées sur YouTube, je distribue du code, des archives ou même des PDFs et images. Vous pouvez donc retrouver toutes ces ressources ici également.
 
-Vous pouvez à tout moment faire un clic-droit sur un fichier en particulier puis **Enregistrer la cible sous...** pour le télécharger. 
+Vous pouvez à tout moment faire un clic-droit sur un fichier en particulier puis **Enregistrer le lien sous...** pour le télécharger. 
 
 # Contenus disponibles sur la chaîne
 

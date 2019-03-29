@@ -1,6 +1,6 @@
-# FormationVidéo
+# Chaîne YouTube
 
-Sur YouTube, ma chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propose des cours, tutoriels et exercices dans divers domaines techniques et artistiques :
+La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propose des cours, tutoriels et exercices dans divers domaines techniques et artistiques :
 
 + Le cours est progressif et permet d'aborder les notions essentielles, en partant de la base et jusqu'aux concepts avancés
 + Les tutoriels viennent en annexe du cours pour apporter des sujets supplémentaires et traiter des cas spécifiques

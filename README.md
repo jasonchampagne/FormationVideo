@@ -15,7 +15,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ## 🖥 Programmation / Web / bases de données
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
-|---|---|---|---|:--:|
+|---|:--:|:--:|:--:|:--:|
 | Algorithmie | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) | - | - | ❌ |
 | C | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) | ✔️ |
 | C++ | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFiuDVCjWgQZOeaVws7eQmf) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHtAe6ZTyNR1qI_qAFe3zPD) | - | ❌ |
@@ -29,19 +29,19 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ## 🛠 Systèmes et réseaux
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
-|---|---|---|---|:--:|
+|---|:--:|:--:|:--:|:--:|
 | GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | - | - | ❌ |
 | Windows | - | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - | ❌ |
 
 ## 🔊🎬 Audio/vidéo
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
-|---|---|---|---|:--:|
+|---|:--:|:--:|:--:|:--:|
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | - | - | ❌ |
 
 ## 📙 Divers
 
 | NOM | PLAYLIST |
-|---|---|
+|---|:--:|
 | Aide Générale | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB) |
 | Support Après Visionnage | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr) |

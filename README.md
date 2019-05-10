@@ -45,6 +45,14 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |---|:--:|:--:|:--:|:--:|
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | - | - | ❌ |
 
+## 🔊🎬 Langues
+
+| NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
+|---|:--:|:--:|:--:|:--:|
+| Anglais | - | - | - | - |
+| Français | - | - | - | - |
+| Japonais | - | - | - | - |
+
 ## 📙 Divers
 
 | NOM | PLAYLIST |

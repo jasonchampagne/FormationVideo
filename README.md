@@ -27,6 +27,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | PHP | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2) | - | ✔️ |
 | Python | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFMB2Qeuej6efzZRvjRdXo8) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1) | ✔️ |
 | Ruby | - | - | - | - |
+| Rust | - | - | - | - |
 | SQL | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) | - | - | ❌ |
 
 ## 🛠 Systèmes et réseaux

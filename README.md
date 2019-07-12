@@ -12,7 +12,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
 
-## 🖥 Programmation / Web / bases de données
+## Programmation / Web / bases de données
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
 |---|:--:|:--:|:--:|:--:|
@@ -21,6 +21,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | C | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) | ✔️ |
 | C++ | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFiuDVCjWgQZOeaVws7eQmf) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHtAe6ZTyNR1qI_qAFe3zPD) | - | ❌ |
 | C# | courant 2019 | - | - | - |
+| Django | - | - | - | - |
 | HTML/CSS | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) | ✔️ |
 | Hacking | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFTu6-vUc7lejdp0ls8loq2) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIzX18zg86FjcrXBzMzFj0) | - | ❌ |
 | Java | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) | - | ❌ |
@@ -34,7 +35,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | SQL | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) | - | - | ❌ |
 | Visual Basic | - | - | - | - |
 
-## 🛠 Systèmes et réseaux
+## Systèmes et réseaux
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
 |---|:--:|:--:|:--:|:--:|
@@ -42,7 +43,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | - | - | ❌ |
 | Windows | courant 2019 | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - | ❌ |
 
-## 🔊🎬 Image, audio et vidéo
+## Image, audio et vidéo
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
 |---|:--:|:--:|:--:|:--:|
@@ -50,7 +51,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | Infographie | - | - | - | - |
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | - | - | ❌ |
 
-## 🗣 Langues
+## Langues
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
 |---|:--:|:--:|:--:|:--:|
@@ -58,7 +59,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | Français | - | - | - | - |
 | Japonais | - | - | - | - |
 
-## 📙 Divers
+## Divers
 
 | NOM | PLAYLIST |
 |---|:--:|

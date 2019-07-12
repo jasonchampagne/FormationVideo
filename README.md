@@ -31,6 +31,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | Ruby | - | - | - | - |
 | Rust | - | - | - | - |
 | SQL | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) | - | - | ❌ |
+| Visual Basic | - | - | - | - |
 
 ## 🛠 Systèmes et réseaux
 

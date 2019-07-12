@@ -42,10 +42,12 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | - | - | ❌ |
 | Windows | courant 2019 | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - | ❌ |
 
-## 🔊🎬 Audio/vidéo
+## 🔊🎬 Image, audio et vidéo
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
 |---|:--:|:--:|:--:|:--:|
+| Dessin | - | - | - | - |
+| Infographie | - | - | - | - |
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | - | - | ❌ |
 
 ## 🗣 Langues

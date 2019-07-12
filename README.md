@@ -22,6 +22,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | C++ | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFiuDVCjWgQZOeaVws7eQmf) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHtAe6ZTyNR1qI_qAFe3zPD) | - | ❌ |
 | C# | courant 2019 | - | - | - |
 | HTML/CSS | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) | ✔️ |
+| Hacking | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFTu6-vUc7lejdp0ls8loq2) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIzX18zg86FjcrXBzMzFj0) | - | ❌ |
 | Java | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) | - | ❌ |
 | JavaScript | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) | - | - | ❌ |
 | Lua | - | - | - | - |

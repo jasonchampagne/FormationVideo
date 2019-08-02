@@ -2,9 +2,9 @@
 
 La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propose des cours, tutoriels et exercices dans divers domaines techniques et artistiques :
 
-+ Le cours est progressif et permet d'aborder les notions essentielles, en partant de la base et jusqu'aux concepts avancés
-+ Les tutoriels viennent en annexe du cours pour apporter des sujets supplémentaires et traiter des cas spécifiques
-+ Les exercices suivent la progression du cours et sont conçus pour tester vos connaissances et mettre en pratique ce que vous avez appris
++ La playlist **cours** est progressive et permet d'aborder des notions essentielles, en partant de la base jusqu'aux concepts avancés.
++ La playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques et un complément d'informations.
++ La playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris
 
 # Contenus disponibles sur la chaîne
 

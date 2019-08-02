@@ -34,7 +34,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
 |---|:--:|:--:|:--:|:--:|
 | GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | à venir | - | ❌ |
-| Windows | courant 2019 | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - | ❌ |
+| Windows | courant 2019 | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - | - |
 
 ## Image, audio et vidéo
 

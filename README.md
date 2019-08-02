@@ -8,7 +8,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propo
 
 # Contenus disponibles sur la chaîne
 
-Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui sera fait :
+Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui peut être envisagé sur la chaîne :
 
 ![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
 

@@ -3,8 +3,8 @@
 La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propose des cours, tutoriels et exercices dans divers domaines techniques et artistiques. Ce sont des sujets qui me passionnent et que je tiens naturellement à vous partager. L'ensemble des contenus est réparti généralement sous 3 catégories (appelées **playlists** sur la plateforme YouTube) :
 
 + Une playlist de **cours** est progressive et permet d'aborder des notions essentielles, en partant de la base jusqu'aux concepts avancés.
-+ Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques et un complément d'informations (si vous n'en avez jamais assez 😉)
-+ Une playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris
++ Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (si vous n'en avez jamais assez 😉).
++ Une playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris.
 
 # Contenus disponibles sur la chaîne
 

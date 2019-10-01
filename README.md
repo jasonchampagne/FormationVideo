@@ -20,7 +20,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | Assembleur x86 | fin 2019 / début 2020 | - | - | - |
 | C | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) | ✔️ |
 | C++ | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFiuDVCjWgQZOeaVws7eQmf) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHtAe6ZTyNR1qI_qAFe3zPD) | à venir | ❌ |
-| C# | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) | - | - | - |
+| C# | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) | - | - | ❌ |
 | HTML/CSS | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) | ✔️ |
 | Hacking | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFTu6-vUc7lejdp0ls8loq2) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIzX18zg86FjcrXBzMzFj0) | - | ❌ |
 | Java | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) | à venir | ❌ |

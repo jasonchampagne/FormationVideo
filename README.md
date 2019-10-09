@@ -8,6 +8,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propo
 
 > Et depuis cette page, vous pouvez consulter le dossier **Ressources** qui vous propose des résumés, mémentos et documents utiles et/ou présentés sur les vidéos de la chaîne.
 
+---
+
 # Contenus de la chaîne
 
 Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui peut être envisagé sur la chaîne :
@@ -50,5 +52,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |---|:--:|
 | Aide Générale | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB) |
 | Support Après Visionnage | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr) |
+
+---
 
 Bon apprentissage et bon courage ! 👍

@@ -6,6 +6,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propo
 + Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (si vous n'en avez jamais assez 😉).
 + Une playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris.
 
+| Et depuis cette page, vous pouvez consulter le dossier **Ressources** qui vous propose des résumés, mémentos et documents utiles et/ou présentés sur les vidéos de la chaîne.
+
 # Contenus disponibles sur la chaîne
 
 Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui peut être envisagé sur la chaîne :

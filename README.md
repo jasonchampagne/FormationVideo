@@ -1,5 +1,7 @@
 # Présentation de la chaîne YouTube
 
+![Logo de FormationVidéo](https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png)
+
 La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propose des cours, tutoriels et exercices dans divers domaines techniques et artistiques. Ce sont des sujets qui me passionnent et que je tiens naturellement à vous partager. L'ensemble des contenus est réparti généralement sous 3 catégories (appelées **playlists** sur la plateforme YouTube) :
 
 + Une playlist de **cours** est progressive et permet d'aborder des notions essentielles, en partant de la base jusqu'aux concepts avancés.

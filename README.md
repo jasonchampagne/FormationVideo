@@ -52,8 +52,8 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 | NOM | PLAYLIST |
 |---|:--:|
-| Aide Générale | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB) |
-| Support Après Visionnage | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr) |
+| AIDE | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB) |
+| SAV | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr) |
 
 ---
 

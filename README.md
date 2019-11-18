@@ -18,6 +18,8 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
 
+> **LES FORMATIONS TERMINÉES SONT INDIQUÉES AVEC UNE ✔️**
+
 ## Programmation / Web / bases de données
 
 | NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |

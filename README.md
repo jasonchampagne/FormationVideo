@@ -24,7 +24,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|---|:--:|:--:|:--:|
-| Algorithmie | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) | - | - |
+| - | Algorithmie | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) | - | - |
 | - | ASM | fin 2019 / début 2020 | - | - | - |
 | ✔️ | C | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) |
 | - | C++ | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFiuDVCjWgQZOeaVws7eQmf) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHtAe6ZTyNR1qI_qAFe3zPD) | à venir |

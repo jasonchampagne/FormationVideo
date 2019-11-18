@@ -23,7 +23,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ## Programmation / Web / bases de données
 
 | NOM | COURS | TUTORIELS | EXERCICES |
-|---|:--:|:--:|:--:|:--:|
+|---|:--:|:--:|:--:|
 | Algorithmie | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) | - | - |
 | ASM | fin 2019 / début 2020 | - | - | - |
 | C ✔️ | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) |
@@ -39,15 +39,15 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ## Systèmes et réseaux
 
-| NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
-|---|:--:|:--:|:--:|:--:|
+| NOM | COURS | TUTORIELS | EXERCICES |
+|---|:--:|:--:|:--:|
 | GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | à venir | - |
 | Windows | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - |
 
 ## Image, audio et vidéo
 
-| NOM | COURS | TUTORIELS | EXERCICES | FORMATION TERMINÉE ? |
-|---|:--:|:--:|:--:|:--:|
+| NOM | COURS | TUTORIELS | EXERCICES |
+|---|:--:|:--:|:--:|
 | Piano | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk) | à venir | - |
 
 ## Divers

@@ -1,6 +1,6 @@
 # GNU/Linux
 
-> [COURS]() / [TUTORIELS]()
+> [COURS](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) / [TUTORIELS](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 
 ## Index des ressources
 

@@ -4,6 +4,6 @@
 
 ## Index des ressources
 
-|VIDÉO|SÉANCE|
+|VIDÉO|RESSOURCES|
 |:--|:--|
 |[Tutoriel : quelle distribution choisir](xx)|[quelle-distribution-choisir.pdf](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/GNU-Linux/quelle-distribution-choisir.pdf)<br>[linux-timeline.png](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/GNU-Linux/linux-timeline.png)|

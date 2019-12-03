@@ -6,4 +6,4 @@
 
 |VIDÉO|RESSOURCES|
 |:--|:--|
-|[Tutoriel : quelle distribution choisir](xx)|[quelle-distribution-choisir.pdf](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/GNU-Linux/quelle-distribution-choisir.pdf)<br>[linux-timeline.png](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/GNU-Linux/linux-timeline.png)|
+|[Tutoriel : quelle distribution choisir](https://youtu.be/6w2jBj8m7-8)|[quelle-distribution-choisir.pdf](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/GNU-Linux/quelle-distribution-choisir.pdf)<br>[linux-timeline.png](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/GNU-Linux/linux-timeline.png)|

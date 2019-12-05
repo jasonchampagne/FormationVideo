@@ -6,4 +6,4 @@
 
 |VIDÉO|RESSOURCES|
 |:--|:--|
-|[Hacking #1 - introduction](https://youtu.be/IsAIGWJ82tc)|[hacking-ethique-v3.pdf](dd)|
+|[Hacking #1 - introduction](https://youtu.be/IsAIGWJ82tc)|[hacking-ethique-v3.pdf](https://github.com/jasonchampagne/FormationVideo/blob/master/Ressources/Hacking/hacking-ethique-v3.pdf)|

@@ -6,6 +6,6 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|commandes-shell.md|Listing des commandes Bash abordés dans le cours GNU/Linux|
+|commandes-shell.md|Listing des commandes Bash abordés dans le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)|
 |linux-timeline.png|Chronologie des distributions Linux|
 |quelle-distribution-choisir.pdf|Diaporama pour le tutoriel de [choix d'une distribution Linux](https://www.youtube.com/watch?v=6w2jBj8m7-8)|

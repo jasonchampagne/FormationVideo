@@ -22,7 +22,7 @@
 
 |Type|Alias .NET|Place en mémoire|Fourchette de valeurs|
 |:--:|:--|:--:|:--:|
-|float|System.Single|4 octets|±1,5x10^(−45) à ±3,4 x10^38 (~6 à 9 chiffres significatifs)|
+|float|System.Single|4 octets|±1,5x10^<sup>−45</sup> à ±3,4 x10^38 (~6 à 9 chiffres significatifs)|
 
 ---
 

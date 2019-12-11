@@ -48,8 +48,8 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**hostname**|Afficher le nom d'hôte du système|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
-|**ifconfig**|Afficher et configurer les interfaces réseau|!! A EDITER !!|
-|**ip**|Afficher le routage et les interfaces réseau|!! A EDITER !!|
+|**ifconfig**|Afficher et configurer les interfaces réseau|[#27](https://www.youtube.com/watch?v=KGPNP9WggK0)|
+|**ip**|Afficher le routage et les interfaces réseau|[#27](https://www.youtube.com/watch?v=KGPNP9WggK0)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
 |**kill**|Envoyer un signal à un processus|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|
@@ -65,7 +65,7 @@ Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|[#21](https://www.youtube.com/watch?v=5IPkSVEYnXw)|
 |**nohup**|Exécuter un programme en le rendant insensible aux déconnexions|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
 |**passwd**|Modifier le mot de passe d'un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
-|**ping**|Envoyer des datagrammes à un hôte sur le réseau|!! A EDITER !!|
+|**ping**|Envoyer des datagrammes à un hôte sur le réseau|[#27](https://www.youtube.com/watch?v=KGPNP9WggK0)|
 |**ps**|Afficher l'état des processus en cours|[#22](https://www.youtube.com/watch?v=noGCntpmYpk)|
 |**pwd**|Récupérer le nom du répertoire courant|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
 |**quota**|Afficher l'utilisation du disque et les quotas|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|

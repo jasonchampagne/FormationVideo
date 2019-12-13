@@ -7,6 +7,6 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |commandes-shell.md|Liste des commandes Bash|
-|fichiers-configuration.md|Fichiers de configuration du système|
+|fichiers-config-systeme.md|Fichiers de configuration du système|
 |linux-timeline.png|Chronologie des distributions Linux|
 |quelle-distribution-choisir.pdf|Diaporama de présentation des distributions Linux|

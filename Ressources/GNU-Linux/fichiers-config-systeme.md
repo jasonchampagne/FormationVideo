@@ -4,6 +4,7 @@
 
 |ARBORESCENCE DEPUIS LA RACINE|DESCRIPTION|SÉANCE|
 |:--|:--|:--:|
+|/etc/**hostname**|Nom de la machine sur le réseau|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |/etc/**hosts**|Noms d'hôte|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |/etc/apt/**sources.list**|Liste des dépôts (sources) de logiciels|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
 |/etc/network/**interfaces**|Configuration historique des interfaces réseau (sans systemd)|-|

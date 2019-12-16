@@ -1,6 +1,6 @@
 # Commandes UNIX
 
-Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) ou quelques vidéos d'[AIDE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB).
+Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 
 |NOM|DESCRIPTION|N° SÉANCE|
 |:--|:--|:--:|

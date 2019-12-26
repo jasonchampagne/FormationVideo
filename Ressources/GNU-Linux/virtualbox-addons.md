@@ -2,6 +2,8 @@
 
 > Les additions invité VirtualBox (_vbox guest additions_) proposent des pilotes et applications pour optimiser le système virtualisé et offrir de meilleures performances. Cela inclut également la prise en charge du changement de résolution de l'interface.
 
+---
+
 + Depuis le menu de la fenêtre du système virtualisé, aller dans **Périphériques** > **Insérer l'image CD des Additions invité**
 
 <p align="center"><img src="https://nsa40.casimages.com/img/2019/12/26/191226031630264577.png" alt=""></p>

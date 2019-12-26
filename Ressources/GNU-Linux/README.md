@@ -10,3 +10,4 @@
 |fichiers-config-systeme.md|Fichiers de configuration du système|
 |linux-timeline.png|Chronologie des distributions Linux|
 |quelle-distribution-choisir.pdf|Diaporama de présentation des distributions Linux|
+|virtualbox-addons.md|Installation des additions invité de VirtualBox|

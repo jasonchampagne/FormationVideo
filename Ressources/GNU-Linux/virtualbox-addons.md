@@ -7,8 +7,8 @@
 + Taper une à une les commandes suivantes (en **root**)
 
 ```bash
-cd /dev/cdrom #Accède à l'emplacement des fichiers des addons
-./VBoxLinuxAdditions.run #Lancement du script d'installation
+cd /dev/cdrom            # Accède à l'emplacement des fichiers des addons
+./VBoxLinuxAdditions.run # Lancement du script d'installation
 ```
 
 Une fois l'opération terminée, redémarrez le système virtualisé.

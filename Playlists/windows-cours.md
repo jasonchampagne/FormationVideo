@@ -1,4 +1,4 @@
-# Cours - Windows
+# Windows - cours
 
 > [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
 

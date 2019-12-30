@@ -23,7 +23,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ## Programmation / Web / bases de données
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
-|:--:|---|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 |-| Algorithmie | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGy7xYmf5LlNr8f-niDkf7_) | - | - |
 |-| ASM | début 2020 | - | - | - |
 |✔️| C | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) |
@@ -40,20 +40,20 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ## Systèmes et réseaux
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
-|:--:|---|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 |-| GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | - | - |
 |-| Windows | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md) | - |
 
 ## Image, audio et vidéo
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
-|:--:|---|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 |-| Piano | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md) | - | - |
 
 ## Divers
 
 | NOM | CONTENU |
-|---|:--:|
+|:--:|:--:|
 | AIDE | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md) |
 | SAV | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md) |
 

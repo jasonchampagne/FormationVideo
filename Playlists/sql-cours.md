@@ -1,4 +1,4 @@
-# Cours - SQL
+# SQL - cours
 
 > [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg)
 

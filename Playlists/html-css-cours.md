@@ -19,7 +19,7 @@
 + [13. Structurer page web](https://www.youtube.com/watch?v=kvjz6GyiQsE)
 + [14. Introduction design](https://www.youtube.com/watch?v=l10hhz0VJj4)
 + [15. Styliser texte (1/2)](https://www.youtube.com/watch?v=n4H0nod_gHY)
-+ [16. Styliser texte [2/2)](https://www.youtube.com/watch?v=K9UciHsxieI)
++ [16. Styliser texte (2/2)](https://www.youtube.com/watch?v=K9UciHsxieI)
 + [17. Couleur et fond](https://www.youtube.com/watch?v=txiwOU0gUlw)
 + [18. Styliser liste](https://www.youtube.com/watch?v=yMFEqm_8D5k)
 + [19. Modèle de boîte](https://www.youtube.com/watch?v=ByUtms52CGc)

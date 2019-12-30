@@ -1,4 +1,4 @@
-# Cours - piano
+# Piano - cours
 
 > [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk)
 

@@ -47,7 +47,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ## Image, audio et vidéo
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
-|:--:|---|:--|:--:|:--:|
+|:--:|---|:--:|:--:|:--:|
 |-| Piano | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md) | - | - |
 
 ## Divers

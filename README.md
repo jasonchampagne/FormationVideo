@@ -26,7 +26,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |:--:|:--:|:--:|:--:|:--:|
 |-| Algorithmie | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md) | - | - |
 |-| ASM | début 2020 | - | - | - |
-|✔️| C | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) |
+|✔️| C | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md) |
 |-| C++ | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md) | - |
 |-| C# | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md) | - | - |
 |✔️| HTML/CSS | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md) |

@@ -1,6 +1,8 @@
 # Cours de piano
 
-> [LIEN DE LA PLAYLIST SUR YOUTUBE]
+> [LIEN DE LA PLAYLIST SUR YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGVnQHe3Zqo9AUr0kXCmvtk)
+
+---
 
 |VIDÉO|
 |:--|

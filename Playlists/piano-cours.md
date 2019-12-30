@@ -11,4 +11,4 @@
 + [5. Fluidité des sons](https://www.youtube.com/watch?v=xoe2PKA0upI)
 + [6. Jouons un morceau](https://www.youtube.com/watch?v=odDQ2Q4LOtM)
 + [7. Prendre plaisir à jouer](https://www.youtube.com/watch?v=yqCgo8S8Uho)
-+ [8. Schémas mélodiques](https://www.youtube.com/watch?v=43KGGo2xPrs)|
++ [8. Schémas mélodiques](https://www.youtube.com/watch?v=43KGGo2xPrs)

@@ -30,7 +30,7 @@
 + [24. Héritage](https://www.youtube.com/watch?v=BqO7U0ed-pA)
 + [25. Classe abstraite](https://www.youtube.com/watch?v=Wh0aRwvZigc)
 + [26. Interface](https://www.youtube.com/watch?v=3APJu3DjbHQ)
-+ [27. Traits]
++ [27. Traits](https://www.youtube.com/watch?v=ZIqKnK37y9A)
 + [28. Exceptions](https://www.youtube.com/watch?v=ePFxa2VcCoE)
 + [29. Introduction PDO](https://www.youtube.com/watch?v=ZXekAnqLwe0)
 + [30. Interroger base de données](https://www.youtube.com/watch?v=W1g01wKWVv4)

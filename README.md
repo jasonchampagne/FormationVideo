@@ -42,7 +42,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|---|:--:|:--:|:--:|
 |-| GNU/Linux | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97) | - | - |
-|-| Windows | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - |
+|-| Windows | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd) | - |
 
 ## Image, audio et vidéo
 

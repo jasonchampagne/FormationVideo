@@ -55,7 +55,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | NOM | CONTENU |
 |---|:--:|
 | AIDE | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md) |
-| SAV | [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE)<br>[No such file or directory](https://www.youtube.com/watch?v=ymzo7cGvxlo)<br>[Pourquoi utiliser la ligne de commande](https://www.youtube.com/watch?v=hre1w-mZF6k)<br>[Serveur mysqld ne démarre pas](https://www.youtube.com/watch?v=JvyM_mZqYrc)<br>[Undefined reference to WinMain](https://www.youtube.com/watch?v=RNAdJW2J-wA)<br>[VSCode est en anglais](https://www.youtube.com/watch?v=WSdKlAqXh3o)|
+| SAV | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md) |
 
 ---
 

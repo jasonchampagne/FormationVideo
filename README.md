@@ -31,7 +31,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |-| C# | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) | - | - |
 |✔️| HTML/CSS | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) |
 |-| Hacking | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFTu6-vUc7lejdp0ls8loq2) - suite : [plus tard](https://www.youtube.com/watch?v=wn3y_XcPuiM&t=7571s) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIzX18zg86FjcrXBzMzFj0) | - |
-|-| Java | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) | - |
+|-| Java | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md) | - |
 |-| JavaScript | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md) | - | - |
 |✔️| PHP | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md) | - |
 |✔️| Python | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md) |

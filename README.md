@@ -8,7 +8,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propo
 + Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (si vous n'en avez jamais assez 😉).
 + Une playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris.
 
-> NOTE : Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, ou le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles et/ou présentés sur les vidéos.
+> NOTE : Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, ou le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre progression et/ou présentés sur les vidéos.
 
 ---
 

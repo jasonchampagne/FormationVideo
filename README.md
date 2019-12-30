@@ -33,7 +33,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |-| Hacking | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFTu6-vUc7lejdp0ls8loq2) - suite : [plus tard](https://www.youtube.com/watch?v=wn3y_XcPuiM&t=7571s) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIzX18zg86FjcrXBzMzFj0) | - |
 |-| Java | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) | - |
 |-| JavaScript | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) | - | - |
-|✔️| PHP | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2) | - |
+|✔️| PHP | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md) | - |
 |✔️| Python | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md) |
 |-| SQL | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md) | - | - |
 

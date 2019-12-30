@@ -2,7 +2,7 @@
 
 ![Logo de FormationVidéo](https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png)
 
-La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous propose des cours, tutoriels et exercices dans divers domaines techniques et artistiques. Ce sont des sujets qui me passionnent et que je tiens naturellement à vous partager. L'ensemble des contenus est réparti généralement sous 3 catégories (appelées **playlists** sur la plateforme YouTube) :
+La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invite à aborder plusieurs domaines techniques et artistiques. Des sujets qui me passionnent et que je tiens naturellement à vous partager. L'ensemble des contenus est réparti sur 3 catégories, sauf quelques exceptions, sous forme de **playlists** sur la plateforme YouTube :
 
 + Une playlist de **cours** est progressive et permet d'aborder des notions essentielles, en partant de la base jusqu'aux concepts avancés.
 + Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (si vous n'en avez jamais assez 😉).

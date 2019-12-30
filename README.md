@@ -34,7 +34,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |-| Java | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) | - |
 |-| JavaScript | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) | - | - |
 |✔️| PHP | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2) | - |
-|✔️| Python | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFMB2Qeuej6efzZRvjRdXo8) | [lien](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1) |
+|✔️| Python | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md) |
 |-| SQL | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md) | - | - |
 
 ## Systèmes et réseaux

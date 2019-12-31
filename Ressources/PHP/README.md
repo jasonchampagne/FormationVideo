@@ -6,4 +6,4 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|test-valeur-variables.md|Différence des fonctions empty(), isset() et is_null()|
+|test-valeur-variables.md|Différence entre les fonctions empty(), isset() et is_null()|

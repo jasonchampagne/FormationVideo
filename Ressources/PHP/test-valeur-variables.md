@@ -6,6 +6,8 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 + **isset()** détermine si une variable est déclarée et est différente de NULL
 + **is_null()** indique si une variable vaut NULL
 
+---
+
 |VALEUR TESTÉE|EMPTY ?|ISSET ?|IS_NULL ?|
 |:--|:--:|:--:|:--:|
 |var $data;|true|false|true|
@@ -19,3 +21,12 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 |$data = "";|true|true|false|
 |$data = " ";|false|true|false|
 |$data = [];|true|true|false|
+
+---
+
+## Code de vérification
+
+```php
+<?php
+echo 'CHEH !';
+```

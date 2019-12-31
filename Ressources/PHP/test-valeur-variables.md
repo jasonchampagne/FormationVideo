@@ -16,6 +16,7 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 |$data = 0;|true|true|false|
 |$data = 0.0;|true|true|false|
 |$data = "0";|true|true|false|
+|$data = "text";|false|true|false|
 |$data = "\0";|false|true|false|
 |$data = "";|true|true|false|
 |$data = " ";|false|true|false|

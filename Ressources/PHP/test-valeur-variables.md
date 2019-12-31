@@ -11,3 +11,11 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 |var $data;|true|false|true|
 |$data = NULL;|true|false|true|
 |$data = true;|false|true|false|
+|$data = false;|true|true|false|
+|$data = 0;|true|true|false|
+|$data = 0.0;|true|true|false|
+|$data = "0";|true|true|false|
+|$data = "\0";|false|true|false|
+|$data = "";|true|true|false|
+|$data = " ";|false|true|false|
+|$data = [];|true|true|false|

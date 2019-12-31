@@ -10,7 +10,6 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 
 |VALEUR TESTÉE|EMPTY ?|ISSET ?|IS_NULL ?|
 |:--|:--:|:--:|:--:|
-|var $data;|true|false|true|
 |$data = NULL;|true|false|true|
 |$data = true;|false|true|false|
 |$data = false;|true|true|false|

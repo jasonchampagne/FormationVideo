@@ -27,5 +27,57 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 
 ```php
 <?php
-echo 'CHEH !';
+
+function show_results($data)
+{
+	$result = '';
+
+	if(empty($data))
+		$result .= 'TRUE ';
+	else
+		$result .= 'FALSE ';
+
+	if(isset($data))
+		$result .= 'TRUE ';
+	else
+		$result .= 'FALSE ';
+
+	if(is_null($data))
+		$result .= 'TRUE';
+	else
+		$result .= 'FALSE';
+
+	return $result.'<br>';
+}
+
+$data = NULL;
+echo show_results($data);
+
+$data = true;
+echo show_results($data);
+
+$data = false;
+echo show_results($data);
+
+$data = 0;
+echo show_results($data);
+
+$data = 0.0;
+echo show_results($data);
+
+$data = "0";
+echo show_results($data);
+
+$data = "\0";
+echo show_results($data);
+
+$data = "";
+echo show_results($data);
+
+$data = " ";
+echo show_results($data);
+
+$data = [];
+echo show_results($data);
+?>
 ```

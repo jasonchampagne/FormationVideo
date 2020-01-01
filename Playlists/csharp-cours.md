@@ -9,3 +9,4 @@
 + [3. Types de données](https://www.youtube.com/watch?v=T4D2a2gbxYc)
 + [4. Variables](https://www.youtube.com/watch?v=Ssu2rZUZY64)
 + [5. Opérateurs](https://www.youtube.com/watch?v=9zUUp3HOtxo)
++ [6. Conditions](https://www.youtube.com/watch?v=QkOUHfTVXEI)

@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|-|-|
+|SDL_2.0.10_32bits.zip|Projet SDL 2.0.10 (32-bits) prêt-à-l'emploi|
+|SDL_2.0.10_64bits.zip|Projet SDL 2.0.10 (64-bits) prêt-à-l'emploi|

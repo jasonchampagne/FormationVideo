@@ -1,7 +1,5 @@
 # Commandes UNIX
 
-Petit pense-bête des commandes shell vues sur le [cours GNU/Linux](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
-
 |NOM|DESCRIPTION|N° SÉANCE|
 |:--|:--|:--:|
 |**addgroup**|Ajouter un nouveau groupe|[#25](https://www.youtube.com/watch?v=I78LksopViE)|

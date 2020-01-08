@@ -9,6 +9,7 @@
 + [Comment consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
 + [Comment convertir des fichiers média (FFmpeg)](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Comment créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)
++ [Comment créer un installateur (Inno Setup)](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Comment débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Comment écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Comment gérer plusieurs version de fichiers (Git)](https://www.youtube.com/watch?v=CEb_JM_hsFw&)

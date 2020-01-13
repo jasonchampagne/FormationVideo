@@ -6,4 +6,4 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|types-donnees.md|Types de données utilisables en C#|
+|types-donnees|Types de données utilisables en C#|

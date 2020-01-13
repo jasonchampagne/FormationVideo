@@ -6,5 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|test-valeur-variables.md|Différence entre les fonctions empty(), isset() et is_null()|
-|wamp-64bits.zip|Environnement web prêt à l'emploi (Apache + PHP + MySQL + phpMyAdmin)|
+|test-valeur-variables|Différence entre les fonctions empty(), isset() et is_null()|
+|wamp-64bits|Environnement web prêt à l'emploi (Apache + PHP + MySQL + phpMyAdmin)|

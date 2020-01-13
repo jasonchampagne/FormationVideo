@@ -7,4 +7,4 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |test-valeur-variables|Différence entre les fonctions empty(), isset() et is_null()|
-|wamp-64bits|Environnement web prêt à l'emploi (Apache + PHP + MySQL + phpMyAdmin)|
+|wamp-64bits|Environnement web : Apache + PHP + MySQL + phpMyAdmin prêt-à-l'emploi (64-bits)|

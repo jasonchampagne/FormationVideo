@@ -1,4 +1,4 @@
-# FlushInputStream
+# FlushInputBuffer
 
 Lors de plusieurs saisies au clavier (lecture de l'entrée standard **stdin**), il est nécessaire de vider le tampon (buffer) de lecture. Par exemple, après un appel à une fonction comme **scanf()**, pensez à appeler la fonction de vidage du buffer.
 

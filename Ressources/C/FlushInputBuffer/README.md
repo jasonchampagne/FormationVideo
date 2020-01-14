@@ -2,7 +2,7 @@
 
 Lors de plusieurs saisies au clavier (lecture de l'entrée standard **stdin**), il est nécessaire de vider le tampon (buffer) de lecture. Par exemple, après un appel à une fonction comme **scanf()**, pensez à appeler la fonction de vidage du buffer.
 
-> ⚠ Comme on peut le voir couramment, ne faîtes pas un **fflush(stdin)** qui est une très mauvaise habitude et peut engendrer un comportement totalement indéfini de votre programme. Cette fonction est à utiliser uniquement sur des flux de sortie.
+> ⚠ Comme on peut le voir couramment, ne faîtes pas un **fflush(stdin)** qui est une très mauvaise habitude et peut engendrer un comportement totalement indéfini de votre programme. Cette fonction est à utiliser uniquement sur le tampon de sortie.
 
 ## Fonction
 

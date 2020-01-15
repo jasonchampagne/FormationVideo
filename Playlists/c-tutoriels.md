@@ -10,4 +10,5 @@
 + [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk)
 + [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
 + [Installer MinGW](https://www.youtube.com/watch?v=kG1c8ZOb6rM)
++ [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
 + [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)

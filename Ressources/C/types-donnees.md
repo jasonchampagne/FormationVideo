@@ -4,11 +4,11 @@
 
 > Attention au type **char**, dont son usage ne garantit pas une occupation mémoire de 1 octet !
 
-|Syntaxe|Occupation mémoire|Fourchette de valeurs|
-|:--:|:--:|:--:|
+|Syntaxe|Occupation mémoire|Valeur minimale|Valeur maximale|
+|:--:|:--:|:--:|:--:|
 |char|-|-|
-|signed char|1 octet|-128 à 127|
-|int|2 octets / 4 octets|-32 768 à 32 767 / -2 147 483 648 à 2 147 483 647|
+|signed char|1 octet|-128|127|
+|int|2 octets ou 4 octets|-32 768 ou -2 147 483 648|32 767 ou 2 147 483 647|
 
 ---
 

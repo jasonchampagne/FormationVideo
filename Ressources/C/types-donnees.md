@@ -17,6 +17,7 @@
 |Syntaxe|Occupation mémoire|Valeur MIN|Valeur MAX|
 |:--:|:--:|:--:|:--:|
 |unsigned char|1 octet|0|255|
+|unsigned int|2 octets ou 4 octets|0|65 635 ou 4 294 967 295|
 
 ---
 

@@ -2,6 +2,8 @@
 
 ## Types simples
 
+> Attention au type **char**, dont son usage ne garantit pas une occupation mémoire de 1 octet !
+
 |Syntaxe|Occupation mémoire|Fourchette de valeurs|
 |:--:|:--:|:--:|
 |char|-|-|

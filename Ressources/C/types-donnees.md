@@ -4,7 +4,7 @@
 
 > Attention au type **char**, dont son usage ne garantit pas une occupation mémoire de 1 octet !
 
-|Syntaxe|Occupation mémoire|Valeur minimale|Valeur maximale|
+|Syntaxe|Occupation mémoire|Valeur MIN|Valeur MAX|
 |:--:|:--:|:--:|:--:|
 |char|-|-|
 |signed char|1 octet|-128|127|

@@ -4,7 +4,7 @@ L'utilisation des types en gras nécessite l'ajout de l'en-tête **stdint.h** à
 
 ## Types signés
 
-|FIXE|MINIMAL|MAXIMAL|RAPIDE<sup>1</sup>|CORRESPONDANCE|
+|FIXE|MINIMAL|MAXIMAL|RAPIDE|CORRESPONDANCE|
 |:--|:--|:--|:--|:--|
 |int8_t|int_least8_t|-|int_fast8_t|signed char|
 
@@ -12,5 +12,4 @@ L'utilisation des types en gras nécessite l'ajout de l'en-tête **stdint.h** à
 
 |FIXE|MINIMAL|MAXIMAL|RAPIDE<sup>1</sup>|CORRESPONDANCE|
 |:--|:--|:--|:--|:--|
-
-> <sup>1</sup> Dans ce cas, la taille est choisie pour optimiser les opérations
+|uint8_t|uint_least8_t|-|uint_fast8_t|unsigned char|

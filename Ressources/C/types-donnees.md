@@ -23,7 +23,10 @@
 |Syntaxe|Occupation mémoire|Valeur MIN|Valeur MAX|
 |:--:|:--:|:--:|:--:|
 |unsigned char|1 octet|0|255|
+|unsigned short|2 octets|0|65 535|
 |unsigned int|2 octets ou 4 octets|0|65 635 ou 4 294 967 295|
+|unsigned long|4 octets|0|4 294 967 295|
+|unsigned long long|8 octets|0|18 446 744 073 709 600 000|
 
 ---
 

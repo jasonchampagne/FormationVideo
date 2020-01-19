@@ -13,7 +13,7 @@
 |short|2 octets|-32 768|32 767|
 |int|2 octets ou 4 octets|-32 768 ou -2 147 483 648|32 767 ou 2 147 483 647|
 |long|4 octets|-2 147 483 648|2 147 483 647|
-|long long|8 octets|-9 223 372 036 854 780 000|9 223 372 036 854 780 000|
+|long long|8 octets|-9 223 372 036 854 775 808|9 223 372 036 854 775 807|
 |float|4 octets|-3,4.10<sup>38</sup>|3,4.10<sup>38</sup>|
 |double|8 octets|-1,7.10<sup>308</sup>|1,7.10<sup>308</sup>|
 |long double|10 octets|-1,1.10<sup>4932</sup>|1,1.10<sup>4932</sup>|
@@ -26,7 +26,7 @@
 |unsigned short|2 octets|0|65 535|
 |unsigned int|2 octets ou 4 octets|0|65 635 ou 4 294 967 295|
 |unsigned long|4 octets|0|4 294 967 295|
-|unsigned long long|8 octets|0|18 446 744 073 709 600 000|
+|unsigned long long|8 octets|0|18 446 744 073 709 551 615|
 
 ---
 

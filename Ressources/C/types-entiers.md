@@ -1,40 +1,16 @@
 # Types entiers
 
-> Nécessite l'ajout de l'en-tête **stdint.h** à votre fichier source.
+L'utilisation des types en gras nécessite l'ajout de l'en-tête **stdint.h** à votre fichier source.
 
-## Types à taille fixe
+## Types signés
 
-|TYPE FIXE|TYPE CORRESPONDANT|
-|:--|:--|
-|**int8_t**|signed char|
-|**int16_t**|short|
-|**int32_t**|int|
-|**int64_t**|long long|
-|**uint8_t**|unsigned char|
-|**uint16_t**|unsigned short|
-|**uint32_t**|unsigned int|
-|**uint64_t**|unsigned long long|
+|FIXE|MINIMAL|MAXIMAL|RAPIDE<sup>1</sup>|CORRESPONDANCE|
+|:--|:--|:--|:--|:--|
+|int8_t|int_least8_t|-|int_fast8_t|signed char|
 
----
+## Types non signés
 
-## Types à taille maximale
+|FIXE|MINIMAL|MAXIMAL|RAPIDE<sup>1</sup>|CORRESPONDANCE|
+|:--|:--|:--|:--|:--|
 
-|TYPE FIXE|TYPE CORRESPONDANT|
-|:--|:--|
-|-|-|
-
----
-
-## Types à taille minimale garantie
-
-|TYPE FIXE|TYPE CORRESPONDANT|
-|:--|:--|
-|-|-|
-
----
-
-## Types à à taille minimale (et rapide) garantie
-
-|TYPE FIXE|TYPE CORRESPONDANT|
-|:--|:--|
-|-|-|
+> <sup>1</sup> Dans ce cas, la taille est choisie pour optimiser les opérations

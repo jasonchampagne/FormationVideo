@@ -8,7 +8,7 @@
 
 |Syntaxe|Occupation mémoire|Fourchette de valeurs|
 |:--:|:--:|:--:|
-|char|-|-|
+|char|?|?|
 |signed char|1 octet|-128 à 127|
 |short|2 octets|-32 768 à 32 767|
 |int|2 octets / 4 octets|-32 768 / -2 147 483 648 à 32 767 / 2 147 483 647|

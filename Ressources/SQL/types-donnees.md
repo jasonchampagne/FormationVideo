@@ -11,11 +11,15 @@
 
 > **NOTE** : Le type BOOLEAN est équivalent à un TINYINT(1)
 
+---
+
 ## Types pour les chaînes
 
 |TYPE|TAILLE|LIMITE (signé)|LIMITE (non signé)|
 |:--|:--|:--|:--|
 |-|-|-|-|
+
+---
 
 ## Types pour les dates
 

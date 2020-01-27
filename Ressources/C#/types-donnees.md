@@ -5,13 +5,13 @@
 |Type|Alias .NET|Place en mémoire|Fourchette de valeurs|
 |:--:|:--|:--:|:--:|
 |sbyte|System.SByte|1 octet|-128 à 127|
-|short|System.Int16|2 octets|-32768 à 32767|
-|int|System.Int32|4 octets|-2 147 483 648 à 2 147 483 647|
-|long|System.Int64|8 octets|-9 223 372 036 854 775 808 à 9 223 372 036 854 775 807|
+|short|System.Int16|2 octets|-32_768 à 32_767|
+|int|System.Int32|4 octets|-2_147_483_648 à 2_147_483_647|
+|long|System.Int64|8 octets|-9_223_372_036_854_775_808 à 9_223_372_036_854_775_807|
 |byte|System.Byte|1 octet|0 à 255|
-|ushort|System.UInt16|2 octets|0 à 65535|
-|uint|System.UInt16|4 octets|0 à 4 294 967 295|
-|ulong|System.UInt16|8 octets|0 à 18 446 744 073 709 551 615|
+|ushort|System.UInt16|2 octets|0 à 65_535|
+|uint|System.UInt16|4 octets|0 à 4_294_967_295|
+|ulong|System.UInt16|8 octets|0 à 18_446_744_073_709_551_615|
 
 ---
 

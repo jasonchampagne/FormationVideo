@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|file|Code source d'une File (entiers)|
 |FlushInputBuffer|Fonction de vidage du tampon d'entrée (stdin)|
 |mots-reserves|Mots-clés réservés et utilisés par le langage|
 |schema-pile|Schéma d'une Pile (structure de données)|

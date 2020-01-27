@@ -6,12 +6,12 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|file|Code source d'une File (entiers)|
 |FlushInputBuffer|Fonction de vidage du tampon d'entrée (stdin)|
 |mots-reserves|Mots-clés réservés et utilisés par le langage|
 |schema-pile|Schéma d'une Pile (structure de données)|
 |SDL_2.0.10_32bits|Projet SDL 2.0.10 prêt-à-l'emploi (32-bits)|
 |SDL_2.0.10_64bits|Projet SDL 2.0.10 prêt-à-l'emploi (64-bits)|
+|queue|Code source d'une File (entiers)|
 |stack-int|Code source d'une Pile (entiers)|
 |stack-player|Code source d'une Pile (joueurs)|
 |types-entiers|Liste des types entiers (simples et étendus)|

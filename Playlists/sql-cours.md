@@ -17,3 +17,10 @@
 + [11. Enregistrer données](https://www.youtube.com/watch?v=ETBhek3AklE)
 + [12. Modifier et supprimer](https://www.youtube.com/watch?v=7gMgsSrFgaw)
 + [13. Fonctions d'agrégation](https://www.youtube.com/watch?v=TnPLdAuGCzU)
++ 14. Grouper résultats
++ 15. Unions et intersections
++ 16. Sous-requêtes
++ 17. Jointures
++ 18. Fonctions sur les chaînes
++ 19. Fonctions sur les dates
++ 20. Conclusion

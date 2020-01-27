@@ -7,4 +7,6 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |data1|Fichier de données SQL pour la séance 9 du cours|
+|data2|Fichier de données SQL pour la séance 10 du cours|
+|data3|Fichier de données SQL pour la séance 11 du cours|
 |types-donnees|Types de données utilisables en SQL|

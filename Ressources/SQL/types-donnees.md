@@ -20,9 +20,16 @@
 
 ## Types pour les chaînes
 
-|TYPE|TAILLE|LIMITE (signé)|LIMITE (non signé)|
-|:--|:--|:--|:--|
-|-|-|-|-|
+|TYPE|TAILLE|LIMITE|
+|:--|:--|:--|
+|CHAR(m)<br>BINARY(m)|m|255 caractères / octet|
+|VARCHAR(m)<br>VARBINARY(m)|m+1|255 caractères / octet|
+|TINYTEXT<br>TINYBLOB|m+1|255 caractères / octet|
+|TEXT(m)<br>BLOB(m)|m+2|65535 caractères / octet|
+|MEDIUMTEXT<br>MEDIUMBLOB|m+3|16777215 caractères / octet|
+|LONGTEXT<br>LONGBLOB|m+4|4294967295 caractères / octet|
+|SET|1, 2, 3, 4 ou 8 octets|8, 16, 24, 32 ou 64 choix|
+|ENUM|1 ou 2 octets|255 ou 65535 choix|
 
 ---
 

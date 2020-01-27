@@ -23,6 +23,10 @@
 
 ## Types pour les dates
 
-|TYPE|TAILLE|LIMITE (signé)|LIMITE (non signé)|
-|:--|:--|:--|:--|
-|-|-|-|-|
+|TYPE|TAILLE|LIMITE|
+|:--|:--|:--|
+|DATE|3 octets|1000-01-01 à 9999-12-31|
+|TIME|3 octets|00:00:00 à 23:59:59|
+|DATETIME|8 octets|1000-01-01 00:00:00 à 9999-12-31 23:59:59|
+|YEAR|1 octet|1901 à 2155|
+|TIMESTAMP|4 octets|19700101000000 à 20380119031407|

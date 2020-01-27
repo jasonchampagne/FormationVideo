@@ -10,6 +10,7 @@
 |SMALLINT(m)|2 octets|-32768 à 32767|0 à 65535|
 |MEDIUMINT(m)|3 octets|-8388608 à 8388607|0 à 16777215|
 |INT(m)/INTEGER(m)|4 octets|-2147483648 à 2147483647|0 à 4294967295|
+|BIGINT(m)|8 octets|-2<sup>63</sup> à 2<sup>63</sup>-1|0 à 2<sup>64</sup>-1|
 
 > **NOTE** : Le type BOOLEAN est équivalent à un TINYINT(1)
 

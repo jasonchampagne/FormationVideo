@@ -17,3 +17,4 @@
 + [11. Enregistrer données](https://www.youtube.com/watch?v=ETBhek3AklE)
 + [12. Modifier et supprimer](https://www.youtube.com/watch?v=7gMgsSrFgaw)
 + [13. Fonctions d'agrégation](https://www.youtube.com/watch?v=TnPLdAuGCzU)
++ [14. Grouper résultats](https://www.youtube.com/watch?v=5RFdXGicu1o)

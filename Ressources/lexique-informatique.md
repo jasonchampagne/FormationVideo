@@ -12,6 +12,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |:--|:--|:--|
 |**Algorithme**|Algorithm|Suite d'opérations permettant de résoudre un problème spécifique comme le chiffrement de données, le tri, la compression ou même le rendu d'une image|
 |**Algorithmique**|Algorithmic|Étude de la résolution des problèmes par la mise en oeuvre d'algorithmes pour aboutir à une solution|
+|**ASCII**|ASCII|Norme informatique de codage de caractères (lettres, chiffres, symboles). Par exemple, la lettre A majuscule a pour code ASCII 65|
 |**Assembleur**|Assembler|Programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable|
 
 ---

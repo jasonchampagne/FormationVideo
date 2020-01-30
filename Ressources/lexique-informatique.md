@@ -71,6 +71,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |:--|:--|:--|
 |**Internaute**|Internet surfer|Utilisateur d'Internet|
 |**Internet**|Internet|Réseau informatique mondial qui concentre plusieurs réseaux interconnectés et offre diverses applications et services  : Web, courriel, communication instantanée, partage de fichiers en P2P, streaming, etc.|
+|**IP**|IP|Famille de protocoles de communication mis au point pour un usage sur Internet, au 3<sup>ème</sup> niveau du modèle OSI|
 
 ---
 
@@ -99,6 +100,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
 |**Octet**|Byte|Plus petite unité adressable en informatique où 1 octet vaut 8 bits, soit 2<sup>8</sup> = 256 valeurs différentes|
+|**OSI**|OSI|Norme de communication qui modélise les systèmes informatiques et la communication entre eux|
 
 ---
 

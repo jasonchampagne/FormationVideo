@@ -59,7 +59,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Frimouse**|Smiley|Symbole de forme ronde représentant une expression facilage, a été peu à peu remplacé par l'emoji|
+|**Frimousse**|Smiley|Symbole de forme ronde représentant une expression facilage, a été peu à peu remplacé par l'emoji|
 
 ---
 

@@ -52,6 +52,9 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |:--|:--|:--|
 |**Emoji**|Emoji|Symbole qui vient remplacer les frimousses et représentant des émotions, des personnes, des objets ou même des caractères|
 |**Émoticône**|Emoticon|Ensemble de caractères typographiques utilisés pour représenter des émotions|
+|**Extension** /|Addon|_voir **Greffon**_|
+
+> **REMARQUE** : on peut aussi écrire add-on.
 
 ---
 
@@ -67,7 +70,9 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Greffon**|Add-on / Plugin|Paquet logiciel visant à ajouter des fonctionnalités à un programe existant|
+|**Greffon** /|Plugin|Paquet logiciel visant à ajouter des fonctionnalités à un programe existant|
+
+> **REMARQUE** : on peut aussi écrire plug-in.
 
 ---
 

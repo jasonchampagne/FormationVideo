@@ -12,6 +12,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |:--|:--|:--|
 |**Algorithme**|Algorithm|Suite d'opérations élémentaires permettant de résoudre un problème spécifique|
 |**Algorithmique**|Algorithmic|Étude de la résolution des problèmes par la mise en oeuvre d'algorithmes pour aboutir à une solution|
+|**API**|API|Interface de programmation issue d'une bibliothèque, d'une application web ou de tout système informatique permettant son utilisation dans la conception d'un autre programme|
 |**ASCII**|ASCII|Norme informatique de codage de caractères (lettres, chiffres, symboles). Par exemple, le code ASCII du caractère 'A' est 65|
 |**Assembleur**|Assembler|Programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable|
 
@@ -21,6 +22,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
+|**Bibliothèque**|Library|Ensemble de fonctions utilisées pour créer des API, des frameworks ou même des plugins|
 |**Binaire**|Binary|Système de numération en base 2 utilisé par les ordinateurs pour la représentation de la valeur d'un bit (0 ou 1). Il modélise également l'état des commutateurs en électronique (_0 = le courant ne passe pas, 1 = le courant passe_)|
 |**Bit**|Bit|Uunité du système de numération binaire (0 ou 1), qui permet de mesurer la quantité de données en informatique|
 
@@ -30,7 +32,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Cadriciel**|Framework|Ensemble d'outils et de composants logiciels (bibliothèques) servant de base à l'élaboration d'un projet tout en accélérant certains processus|
+|**Cadriciel**|Framework|Ensemble de bibliothèques servant de base à l'élaboration d'un projet tout en accélérant certains processus|
 |**Chiffrement**|Encryption|Procédé de cryptographie utilisant un algorithme en vue de protéger des données (fichier, support média, ...) à l'aide d'une clé pour les rendre illisibles à tout individu ne disposant pas de celle-ci|
 |**Chiffrer**|Encrypt|Transformer de l'informatique via une méthode de chiffrement|
 
@@ -183,3 +185,4 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 + cryptage
 + crypter
 + encrypter
++ librairie

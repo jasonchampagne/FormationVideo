@@ -115,3 +115,4 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en Z
 
++ **Zone d'accès sans fil [hot spot]** : espace public proposant un accès sans fil à internet (Wi-Fi)

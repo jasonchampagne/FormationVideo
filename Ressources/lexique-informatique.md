@@ -67,7 +67,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Greffon**|Add-on<br>Plugin|Paquet logiciel visant à ajouter des fonctionnalités à un programe existant|
+|**Greffon**|Add-on / Plugin|Paquet logiciel visant à ajouter des fonctionnalités à un programe existant|
 
 ---
 

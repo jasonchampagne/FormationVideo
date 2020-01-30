@@ -8,7 +8,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en A
 
-+ **Algorithme [algorithm]** : suite d'opérations permettant de résoudre un problème spécifiqu comme le chiffrement de données, le tri, la compression ou même le rendu d'une image.
++ **Algorithme [algorithm]** : suite d'opérations permettant de résoudre un problème spécifique comme le chiffrement de données, le tri, la compression ou même le rendu d'une image.
 + **Assembleur [assembler]** : programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable.
 
 ---
@@ -23,7 +23,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 ## Termes en C
 
 + **Cadriciel [framework]** : ensemble d'outils et de composants logiciels (bibliothèques) servant de base à l'élaboration d'un projet tout en accélérant certains processus.
-+ **Chiffrement [encryption]** : procédé de cryptographie utilisant un algorithme en vue de protéger de l'information (fichier, support média, ...) à l'aide d'une clé pour la rendre illisible à tout individu ne disposant pas de celle-ci.
++ **Chiffrement [encryption]** : procédé de cryptographie utilisant un algorithme en vue de protéger des données (fichier, support média, ...) à l'aide d'une clé pour les rendre illisibles à tout individu ne disposant pas de celle-ci.
 + **Chiffrer** : transformer de l'informatique via une méthode de chiffrement.
 
 ---

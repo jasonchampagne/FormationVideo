@@ -89,6 +89,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en P
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Point d'accès Wi-Fi**|Hot spot|Espace public proposant un accès sans fil à internet (Wi-Fi)|
+
 ---
 
 ## Termes en Q
@@ -128,10 +132,6 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 ---
 
 ## Termes en Z
-
-|FR|EN|DÉFINITION|
-|:--|:--|:--|
-|**Zone d'accès sans fil**|Hot spot|Espace public proposant un accès sans fil à internet (Wi-Fi)|
 
 ---
 

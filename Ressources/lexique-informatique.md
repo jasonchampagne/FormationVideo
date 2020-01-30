@@ -73,6 +73,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en H
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**HTTP**|HTTP|Protocole de transfert hypertexte, situé au 7<ème> niveau du modèle OSI, qui assure la communication client-serveur sur la Toile|
+
 ---
 
 ## Termes en I

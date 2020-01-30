@@ -2,7 +2,7 @@
 
 Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de termes en français (avec leur équivalent en anglaiS) liés de près ou de loin à l'informatique.
 
-> Navigation rapide -> **[A](#termes-en-a) [B](#termes-en-b) [C](#termes-en-c) [D](#termes-en-d) [E](#termes-en-e) [F](#termes-en-f) [G](#termes-en-g) [H](#termes-en-h) [I](#termes-en-i) [J](#termes-en-j) [K](#termes-en-k) [L](#termes-en-l) [M](#termes-en-m) [N](#termes-en-n) [O](#termes-en-o) [P](#termes-en-p) [Q](#termes-en-q) [R](#termes-en-r) [S](#termes-en-s) [T](#termes-en-t) [U](#termes-en-u) [V](#termes-en-v) [W](#termes-en-w) [X](#termes-en-x) [Y](#termes-en-y) [Z](#termes-en-z)**
+> Navigation rapide -> **[A](#termes-en-a) [B](#termes-en-b) [C](#termes-en-c) [D](#termes-en-d) [E](#termes-en-e) [F](#termes-en-f) [G](#termes-en-g) [H](#termes-en-h) [I](#termes-en-i) [J](#termes-en-j) [K](#termes-en-k) [L](#termes-en-l) [M](#termes-en-m) [N](#termes-en-n) [O](#termes-en-o) [P](#termes-en-p) [Q](#termes-en-q) [R](#termes-en-r) [S](#termes-en-s) [T](#termes-en-t) [U](#termes-en-u) [V](#termes-en-v) [W](#termes-en-w) [X](#termes-en-x) [Y](#termes-en-y) [Z](#termes-en-z) | [TERMES INCORRECTS](#termes-incorrects)**
 
 ---
 
@@ -33,8 +33,6 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |**Chiffrement**|Encryption|Procédé de cryptographie utilisant un algorithme en vue de protéger des données (fichier, support média, ...) à l'aide d'une clé pour les rendre illisibles à tout individu ne disposant pas de celle-ci|
 |**Chiffrer**|Encrypt|Transformer de l'informatique via une méthode de chiffrement|
 
-> **TERME(S) INCORRECT(S)** : chiffrage, cryptage, crypter.
-
 ---
 
 ## Termes en D
@@ -42,8 +40,6 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 ---
 
 ## Termes en E
-
-> **TERME(S) INCORRECT(S)** : encrypter.
 
 ---
 
@@ -136,3 +132,12 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
 |**Zone d'accès sans fil**|Hot spot|Espace public proposant un accès sans fil à internet (Wi-Fi)|
+
+---
+
+## Termes incorrects
+
++ chiffrage
++ cryptage
++ crypter
++ encrypter

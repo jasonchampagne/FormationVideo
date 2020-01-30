@@ -1,6 +1,6 @@
 # Lexique en informatique
 
-Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de termes en français (avec leur équivalent en anglais si nécessaire) liés de près ou de loin à l'informatique.
+Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de termes en français (avec leur équivalent en anglaiS) liés de près ou de loin à l'informatique.
 
 > Navigation rapide -> **[A](#termes-en-a) [B](#termes-en-b) [C](#termes-en-c) [D](#termes-en-d) [E](#termes-en-e) [F](#termes-en-f) [G](#termes-en-g) [H](#termes-en-h) [I](#termes-en-i) [J](#termes-en-j) [K](#termes-en-k) [L](#termes-en-l) [M](#termes-en-m) [N](#termes-en-n) [O](#termes-en-o) [P](#termes-en-p) [Q](#termes-en-q) [R](#termes-en-r) [S](#termes-en-s) [T](#termes-en-t) [U](#termes-en-u) [V](#termes-en-v) [W](#termes-en-w) [X](#termes-en-x) [Y](#termes-en-y) [Z](#termes-en-z)**
 
@@ -8,9 +8,11 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en A
 
-+ **Algorithme [algorithm]** : suite d'opérations permettant de résoudre un problème spécifique comme le chiffrement de données, le tri, la compression ou même le rendu d'une image.
-+ **Algorithmique [algorithmic]** : étude de la résolution des problèmes par la mise en oeuvre d'algorithmes pour aboutir à une solution.
-+ **Assembleur [assembler]** : programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable.
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Algorithme**|Algorithm|Suite d'opérations permettant de résoudre un problème spécifique comme le chiffrement de données, le tri, la compression ou même le rendu d'une image|
+|**Algorithmique**|Algorithmic|Étude de la résolution des problèmes par la mise en oeuvre d'algorithmes pour aboutir à une solution|
+|**Assembleur**|Assembler|Programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable|
 
 ---
 

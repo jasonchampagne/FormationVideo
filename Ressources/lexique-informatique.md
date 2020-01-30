@@ -22,7 +22,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Bibliothèque**|Library|Ensemble de fonctions utilisées pour créer des API, des frameworks ou même des plugins|
+|**Bibliothèque**|Library|Ensemble de fonctions utilisées pour créer des interfaces de programmation, des cadriciels ou même des greffons|
 |**Binaire**|Binary|Système de numération en base 2 utilisé par les ordinateurs pour la représentation de la valeur d'un bit (0 ou 1). Il modélise également l'état des commutateurs en électronique (_0 = le courant ne passe pas, 1 = le courant passe_)|
 |**Bit**|Bit|Uunité du système de numération binaire (0 ou 1), qui permet de mesurer la quantité de données en informatique|
 
@@ -64,6 +64,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 ---
 
 ## Termes en G
+
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Greffon**|Plugin|Paquet logiciel visant à ajouter des fonctionnalités à un programe existant|
 
 ---
 

@@ -38,6 +38,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en D
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Datagramme**|Datagram|Paquet dans un réseau informatique ou de télécommunication utilisé par des protocoles “non fiables” (ex : UDP)|
+
 ---
 
 ## Termes en E
@@ -132,11 +136,16 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
+|**TCP**|TCP|Protocole de contrôle de transmission situé au 4<sup>ème</sup> niveau du modèle OSI et permettant la transmission (fiable et connecté) de données entre deux machines|
 |**Toile (mondiale)**|(World Wide) Web|Ensemble de documents publics accessibles sur Internet depuis un navigateur|
 
 ---
 
 ## Termes en U
+
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**UDP**|UDP|Protocole de datagramme utilisateur situé au 4<sup>ème</sup> niveau du modèle OSI et permettant la transmission (non fiable et non-connecté) de données entre deux machines|
 
 ---
 

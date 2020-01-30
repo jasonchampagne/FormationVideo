@@ -143,6 +143,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en Z
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Zip**|Zip|Format de fichier conçu pour l'archivage et la compression des données|
+
 ---
 
 ## ⛔ Termes incorrects

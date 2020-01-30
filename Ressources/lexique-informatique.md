@@ -8,8 +8,8 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en A
 
-+ **Algorithme** : suite d'opérations permettant de résoudre un problème spécifiqu comme le chiffrement de données, le tri, la compression ou même le rendu d'une image.
-+ **Assembleur** : programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable.
++ **Algorithme [algorithm]** : suite d'opérations permettant de résoudre un problème spécifiqu comme le chiffrement de données, le tri, la compression ou même le rendu d'une image.
++ **Assembleur [assembler]** : programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable.
 
 ---
 

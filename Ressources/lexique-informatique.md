@@ -135,7 +135,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ---
 
-## Termes incorrects
+## ⛔ Termes incorrects
 
 + chiffrage
 + cryptage

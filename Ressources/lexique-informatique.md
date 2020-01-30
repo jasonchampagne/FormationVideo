@@ -59,7 +59,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Frimousse**|Smiley|Symbole de forme ronde représentant une expression facilage, a été peu à peu remplacé par l'emoji|
+|**Frimousse**|Smiley|Symbole de forme ronde représentant une expression faciale, a été peu à peu remplacé par l'emoji|
 
 ---
 
@@ -84,7 +84,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
 |**Internaute**|Internet surfer|Utilisateur d'Internet|
-|**Internet**|Internet|Réseau informatique mondial qui concentre plusieurs réseaux interconnectés et offre diverses applications et services  : Web, courriel, communication instantanée, partage de fichiers en P2P, streaming, etc.|
+|**Internet**|Internet|Réseau informatique mondial qui concentre plusieurs réseaux interconnectés et offre diverses applications et services (Web, messagerie électronique, communication instantanée, pair-à-pair, streaming, etc.)|
 |**IP**|IP|Famille de protocoles de communication mis au point pour un usage sur Internet, au 3<sup>ème</sup> niveau du modèle OSI|
 
 ---
@@ -122,7 +122,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Point d'accès Wi-Fi**|Hot spot|Espace public proposant un accès sans fil à internet (Wi-Fi)|
+|**Point d'accès Wi-Fi**|Hot spot|Espace public proposant un accès sans fil à internet|
 
 ---
 

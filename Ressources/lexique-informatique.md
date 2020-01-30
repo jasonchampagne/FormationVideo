@@ -100,7 +100,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
 |**Octet**|Byte|Plus petite unité adressable en informatique où 1 octet vaut 8 bits, soit 2<sup>8</sup> = 256 valeurs différentes|
-|**OSI**|OSI|Norme de communication qui modélise les systèmes informatiques et la communication entre eux|
+|**OSI**|OSI|Norme de communication qui modélise par différentes couches (matérielles et hautes) les communications entre systèmes informatiques|
 
 ---
 

@@ -43,7 +43,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**Emoji**|Emoji|Symbole qui vient remplacer les frimousses et représentant des émotions ou des personnes, des objets ou même des caractères|
+|**Emoji**|Emoji|Symbole qui vient remplacer les frimousses et représentant des émotions, des personnes, des objets ou même des caractères|
 |**Émoticône**|Emoticon|Ensemble de caractères typographiques utilisés pour représenter des émotions|
 
 ---

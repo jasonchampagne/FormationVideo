@@ -19,6 +19,8 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en C
 
++ **Cadriciel [framework]** : ensemble d'outils et de composants logiciels (bibliothèques) servant de base à l'élaboration d'un projet tout en accélérant certains processus.
+
 ---
 
 ## Termes en D

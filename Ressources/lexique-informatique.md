@@ -136,7 +136,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**TCP**|TCP|Protocole de contrôle de transmission situé au 4<sup>ème</sup> niveau du modèle OSI et permettant la transmission (fiable et connecté) de données entre deux machines|
+|**TCP**|TCP|Protocole de contrôle de transmission situé au 4<sup>ème</sup> niveau du modèle OSI et permettant la transmission (fiable et en mode connecté) de données entre deux machines|
 |**Toile (mondiale)**|(World Wide) Web|Ensemble de documents publics accessibles sur Internet depuis un navigateur|
 
 ---
@@ -145,7 +145,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
-|**UDP**|UDP|Protocole de datagramme utilisateur situé au 4<sup>ème</sup> niveau du modèle OSI et permettant la transmission (non fiable et non-connecté) de données entre deux machines|
+|**UDP**|UDP|Protocole de datagramme utilisateur situé au 4<sup>ème</sup> niveau du modèle OSI et permettant la transmission (non fiable et en mode non-connecté) de données entre deux machines|
 
 ---
 

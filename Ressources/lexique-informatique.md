@@ -69,6 +69,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 |FR|EN|DÉFINITION|
 |:--|:--|:--|
+|**Internaute**|Internet surfer|Utilisateur d'Internet|
 |**Internet**|Internet|Réseau informatique mondial qui concentre plusieurs réseaux interconnectés et offre diverses applications et services (Web, messagerie électronique, communication instantanée, partage de fichiers en P2P, streaming, etc.)|
 
 ---

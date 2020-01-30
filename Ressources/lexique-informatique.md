@@ -12,7 +12,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en B
 
-+ **Binaire [Binary]** : système de numération en base 2 utilisé par les ordinateurs pour la représentation de la valeur d'un bit (0 ou 1). Il modélise également l'état des commutateurs en électronique (_0 = le courant ne passe pas, 1 = le courant passe_)
++ **Binaire [binary]** : système de numération en base 2 utilisé par les ordinateurs pour la représentation de la valeur d'un bit (0 ou 1). Il modélise également l'état des commutateurs en électronique (_0 = le courant ne passe pas, 1 = le courant passe_)
 + **Bit** : unité du système de numération binaire (0 ou 1), qui permet de mesurer la quantité d'informations transmissibles en informatique.
 
 ---
@@ -66,6 +66,8 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 ---
 
 ## Termes en O
+
++ **Octet [byte]** : plus petite unité adressable en informatique où 1 octets vaut 8 bits, soit 2<sup>8</sup> = 256 valeurs possibles.
 
 ---
 

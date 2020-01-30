@@ -8,6 +8,8 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en A
 
++ **Assembleur** : programme qui effectue la traduction d'un code écrit en langage d'Assembleur vers un fichier objet ou exécutable.
+
 ---
 
 ## Termes en B

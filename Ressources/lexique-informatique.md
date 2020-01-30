@@ -67,7 +67,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en O
 
-+ **Octet [byte]** : plus petite unité adressable en informatique où 1 octets vaut 8 bits, soit 2<sup>8</sup> = 256 valeurs possibles.
++ **Octet [byte]** : plus petite unité adressable en informatique où 1 octet vaut 8 bits, soit 2<sup>8</sup> = 256 valeurs possibles.
 
 ---
 

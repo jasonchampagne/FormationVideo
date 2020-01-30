@@ -146,6 +146,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en W
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Wi-Fi**|Wi-Fi|Protocole normalisé de communication sans fil|
+
 ---
 
 ## Termes en X

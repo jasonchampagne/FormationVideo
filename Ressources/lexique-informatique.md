@@ -41,9 +41,18 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en E
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Emoji**|Emoji|Symbole qui vient remplacer les frimousses et représentant des émotions ou des personnes, des objets ou même des caractères|
+|**Émoticône**|Emoticon|Ensemble de caractères typographiques utilisés pour représenter des émotions|
+
 ---
 
 ## Termes en F
+
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Frimouse**|Smiley|Symbole de forme ronde représentant une expression facilage, a été peu à peu remplacé par l'emoji|
 
 ---
 

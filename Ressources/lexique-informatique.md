@@ -116,6 +116,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en R
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Robot**|Bot|Programme informatique autonome et conçu afin de réaliser des tâches (semi-)automatiques|
+
 ---
 
 ## Termes en S

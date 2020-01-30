@@ -33,7 +33,7 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 |**Chiffrement**|Encryption|Procédé de cryptographie utilisant un algorithme en vue de protéger des données (fichier, support média, ...) à l'aide d'une clé pour les rendre illisibles à tout individu ne disposant pas de celle-ci|
 |**Chiffrer**|Encrypt|Transformer de l'informatique via une méthode de chiffrement|
 
-> **REMARQUE** : en français, les termes “crypter” ou “cryptage” n'ont pas de sens.
+> **REMARQUE** : en français, les termes “crypter”, “cryptage” ou encore “chiffrage” sont incorrects.
 
 ---
 

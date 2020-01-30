@@ -67,6 +67,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 
 ## Termes en I
 
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Internet**|Internet|Réseau informatique mondial qui concentre plusieurs réseaux interconnectés et offre diverses applications et services (Web, messagerie électronique, partage de fichiers en P2P, streaming, etc.)|
+
 ---
 
 ## Termes en J
@@ -118,6 +122,10 @@ Ce lexique regroupe une liste (qui sera complétée au fur et à mesure) de term
 ---
 
 ## Termes en T
+
+|FR|EN|DÉFINITION|
+|:--|:--|:--|
+|**Toile (mondiale)**|(World Wide) Web|Ensemble de documents publics accessibles sur Internet depuis un navigateur|
 
 ---
 

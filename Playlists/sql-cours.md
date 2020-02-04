@@ -18,3 +18,4 @@
 + [12. Modifier et supprimer](https://www.youtube.com/watch?v=7gMgsSrFgaw)
 + [13. Fonctions d'agrégation](https://www.youtube.com/watch?v=TnPLdAuGCzU)
 + [14. Grouper résultats](https://www.youtube.com/watch?v=5RFdXGicu1o)
++ [15. Unions et intersections](https://www.youtube.com/watch?v=tIP_bQeFeXg)

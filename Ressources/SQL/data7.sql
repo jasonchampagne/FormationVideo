@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `fv_playertrades`
 	PRIMARY KEY(`id_playertrade`)
 );
 
-CREATE TABLE IF NOT EXISTS `fv_iems`
+CREATE TABLE IF NOT EXISTS `fv_items`
 (
 	`id_item` INT NOT NULL AUTO_INCREMENT, 
 	`item_name` VARCHAR(65) NOT NULL, 

@@ -19,3 +19,5 @@
 + [13. Fonctions d'agrégation](https://www.youtube.com/watch?v=TnPLdAuGCzU)
 + [14. Grouper résultats](https://www.youtube.com/watch?v=5RFdXGicu1o)
 + [15. Unions et intersections](https://www.youtube.com/watch?v=tIP_bQeFeXg)
++ [16. Sous-requêtes](https://www.youtube.com/watch?v=n2y6DZAM_fM)
++ [17. Jointures](https://www.youtube.com/watch?v=Qms4XqTtnkA)

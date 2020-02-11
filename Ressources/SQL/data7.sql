@@ -85,7 +85,7 @@ VALUES
 ('Arc en fer', 'arme', 8), 
 ('Arc en argent', 'arme', 15), 
 ('Cape de héros Niv. 13', 'armure', 23), 
-('Pierre bruite', 'matériau', 1)
+('Pierre brute', 'matériau', 1), 
 ('Grimoire de sorts Niv. 30', 'magie', 30), 
 ('Enclos à bétail', 'élevage', 14), 
 ('Sacoche 20 emplacements', 'stockage', 8), 

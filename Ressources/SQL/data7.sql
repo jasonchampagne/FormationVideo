@@ -60,7 +60,6 @@ VALUES
 ('BigBoss_89', 15, 1), 
 ('Sephiroth', 37, 5), 
 ('Nephion', 23, 6), 
-('Django', 25, 16)
 ('Cladjuju', 1, 2), 
 ('Haryko', 1, 3), 
 ('Greg_war', 16, 5),  

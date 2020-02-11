@@ -12,4 +12,5 @@
 |data4|Fichier de données SQL pour la séance 14 du cours|
 |data5|Fichier de données SQL pour la séance 15 du cours|
 |data6|Fichier de données SQL pour la séance 16 du cours|
+|data7|Fichier de données SQL pour la séance 17 du cours|
 |types-donnees|Types de données utilisables en SQL|

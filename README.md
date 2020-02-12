@@ -50,6 +50,12 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |:--:|:--:|:--:|:--:|:--:|
 |-| Piano | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md) | - | - |
 
+## Langues
+
+| / | NOM | COURS | TUTORIELS | EXERCICES |
+|:--:|:--:|:--:|:--:|:--:|
+|Japonais|en préparation|-|-|-|
+
 ## Divers
 
 | NOM | CONTENU |

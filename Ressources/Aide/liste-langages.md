@@ -2,7 +2,7 @@
 
 D'abord, une liste non-exhaustive de langages de programmation ou requête :
 
-|LANGAGE|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|PARADIGME(S)|
+|NOM LANGAGE|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|PARADIGME(S)|
 |:--|:--|:--:|:--|
 |**Ada**|Jean Ichbiah (CII Honeywell Bull)|1980|orienté-objet|
 |**ASM**|FASM : Tomasz Grysztar<br>GAS : GNU<br>MASM : Microsoft<br>NASM : Hans Peter Anvin|1999<br>N/A<br>1981<br>1996|impératif|

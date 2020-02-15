@@ -1,6 +1,6 @@
 # Aide
 
-> [PLAYLIST](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
+> [**PLAYLIST**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
 
 ## Index des ressources
 

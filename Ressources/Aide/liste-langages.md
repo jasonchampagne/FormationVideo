@@ -1,6 +1,6 @@
 # Liste de langages
 
-Ci-dessous, une liste non-exhaustive de langages de programmation ou requête :
+D'abord, une liste non-exhaustive de langages de programmation ou requête :
 
 |NOM|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|PARADIGME(S)|
 |:--|:--|:--:|:--|
@@ -51,7 +51,7 @@ Ci-dessous, une liste non-exhaustive de langages de programmation ou requête :
 
 ---
 
-Ainsi que des langages de balisage et des formats pour la représentation et le stockage de données :
+Ensuite, quelques langages de balisage et formats pour la représentation des données :
 
 |NOM|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|
 |:--|:--|:--:|

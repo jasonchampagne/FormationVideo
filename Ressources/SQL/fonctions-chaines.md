@@ -6,6 +6,7 @@
 |:--|:--|:--:|:--:|:--:|:--:|:--:|
 |CHAR_LENGTH()|Nombre de caractères|✔|❌|✔|❌|❌|
 |CONCAT()|Concaténation des chaînes|✔|✔|✔|❌|✔|
+|INSTR()|Position d'une chaîne|✔|✔|❌|✔|❌|
 |LEN()|Nombre de caractères|❌|❌|❌|❌|✔|
 |LENGTH()|Nombre de caractères|❌|✔|✔|✔|❌|
 |AAAAAAAA|nnnnnnnnn|gg|gg|gg|gg|gg|

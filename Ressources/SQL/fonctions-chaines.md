@@ -43,6 +43,7 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
+|**||**|Concaténation de chaînes|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**SUBSTR()**|Extraction d'une sous-chaîne|
 |**SUBSTRING()**|_Alias de substr()_|

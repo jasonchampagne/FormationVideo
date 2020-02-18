@@ -5,4 +5,4 @@
 |NOM|DESCRIPTION|SUPPORT|
 |:--|:--|:--|
 |**CHAR_LENGTH()<br>CHARACTER_LENGTH()**|Retourner le nombre de caractères|M|
-|**CONCAT()**|Concaténer plusieurs chaînes|M/O/P/S|
+|**CONCAT()**|Concaténer plusieurs chaînes|M, O, P, S|

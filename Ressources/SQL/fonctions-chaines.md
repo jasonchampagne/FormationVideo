@@ -13,8 +13,8 @@
 |**CHARACTER_LENGTH(str)**|_Alias de char_length()_|
 |**CONCAT(str1, str2, ...)**|Concaténation de chaînes|
 |**CONCAT_WS(sep, str1, str2, ...)**|Concaténation de chaînes avec un séparateur|
-|**ELT()**|N<sup>ème</sup> élément d'une liste de chaînes|
-|**INSTR()**|Position d'une occurrence dans une chaîne|
+|**ELT(n, str1, str2, ...)**|N<sup>ème</sup> élément d'une liste de chaînes|
+|**INSTR(str, substr)**|Position d'une occurrence dans une chaîne|
 |**LCASE()**|_Alias de lower()_|
 |**LENGTH()**|Longueur d'une chaîne en octets|
 |**LOCATE()**|Position de la première occurrence dans une chaîne|

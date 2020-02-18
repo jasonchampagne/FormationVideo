@@ -2,7 +2,7 @@
 
 > **NOTE** : Certains systèmes de gestion de base de données proposent à la place d'une fonction des opérateurs pour effectuer certains traitement sur les chaînes
 
-## [MySQL](https://dev.mysql.com/doc/refman/8.0/en)
+## [MySQL](https://dev.mysql.com/doc/)
 
 |NOM|DESCRIPTION|
 |:--|:--|

@@ -16,7 +16,7 @@
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**REPLACE()**|Remplacement des caractères d'une chaîne|
 |**REVERSE()**|Inversion des caractères d'une chaîne|
-|**SUBSTR()**|Extraction d'une  sous-chaîne|
+|**SUBSTR()**|Extraction d'une sous-chaîne|
 |**SUBSTRING()**|_Alias de substr()_|
 |**TRIM()**|Suppression des caractères blancs en début et fin de chaîne|
 |**UCASE()**|_Alias de upper()_|
@@ -27,6 +27,8 @@
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
+|**SUBSTR()**|Extraction d'une sous-chaîne|
+|**SUBSTRING()**|_Alias de substr()_|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
@@ -34,6 +36,8 @@
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
+|**SUBSTR()**|Extraction d'une sous-chaîne|
+|**SUBSTRING()**|_Alias de substr()_|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
 
 ## [SQLite](https://sqlite.org/docs.html)
@@ -41,6 +45,7 @@
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
+|**SUBSTR()**|Extraction d'une sous-chaîne|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
@@ -48,4 +53,5 @@
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
+|**SUBSTRING()**|Extraction d'une sous-chaîne|
 |**UPPER()**|Conversion d'une chaîne en majuscule|

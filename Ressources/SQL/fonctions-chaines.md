@@ -6,6 +6,7 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
+|**ASCII()**|Valeur ASCII du premier caractère d'une chaîne|
 |**BIT_LENGTH()**|Longueur d'une chaîne en bits|
 |**CHAR_LENGTH()**|Nombre de caractères d'une chaîne|
 |**CHARACTER_LENGTH()**|_Alias de char_length()_|

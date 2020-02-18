@@ -6,11 +6,11 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**ASCII()**|Valeur ASCII du premier caractère d'une chaîne|
-|**BIN()**|Représentation binaire d'un nombre|
-|**BIT_LENGTH()**|Longueur d'une chaîne en bits|
-|**CHAR_LENGTH()**|Nombre de caractères d'une chaîne|
-|**CHARACTER_LENGTH()**|_Alias de char_length()_|
+|**ASCII(str)**|Valeur ASCII du premier caractère d'une chaîne|
+|**BIN(n)**|Représentation binaire d'un nombre|
+|**BIT_LENGTH(str)**|Longueur d'une chaîne en bits|
+|**CHAR_LENGTH(str)**|Nombre de caractères d'une chaîne|
+|**CHARACTER_LENGTH(str)**|_Alias de char_length()_|
 |**CONCAT()**|Concaténation de chaînes|
 |**CONCAT_WS()**|Concaténation de chaînes avec un séparateur|
 |**ELT()**|N<sup>ème</sup> élément d'une liste de chaînes|

@@ -15,19 +15,33 @@
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**UCASE()**|Alias de upper()|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
+|**AAAA**|bbbbbbbbb|
+|**AAAA**|bbbbbbbbb|
 
 ## Oracle Database
 
-À venir...
+|NOM|DESCRIPTION|
+|:--|:--|
+|**LOWER()**|Conversion d'une chaîne en minuscule|
+|**UPPER()**|Conversion d'une chaîne en majuscule|
 
 ## PostgreSQL
 
-À venir...
+|NOM|DESCRIPTION|
+|:--|:--|
+|**LOWER()**|Conversion d'une chaîne en minuscule|
+|**UPPER()**|Conversion d'une chaîne en majuscule|
 
 ## SQLite
 
-À venir...
+|NOM|DESCRIPTION|
+|:--|:--|
+|**LOWER()**|Conversion d'une chaîne en minuscule|
+|**UPPER()**|Conversion d'une chaîne en majuscule|
 
 ## SQL Server (Microsoft)
 
-À venir...
+|NOM|DESCRIPTION|
+|:--|:--|
+|**LOWER()**|Conversion d'une chaîne en minuscule|
+|**UPPER()**|Conversion d'une chaîne en majuscule|

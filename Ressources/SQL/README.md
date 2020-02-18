@@ -13,6 +13,7 @@
 |data5|Fichier de données pour la séance 15 du cours|
 |data6|Fichier de données pour la séance 16 du cours|
 |data7|Fichier de données pour la séance 17 du cours|
+|data8|Fichier de données pour la séance 18 du cours|
 |fonctions-chaines|Fonctions sur les chaînes de caractères|
 |schema-jointures-tables|Schéma des jointures de tables|
 |types-donnees|Types de données utilisables|

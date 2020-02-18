@@ -2,7 +2,7 @@
 
 > **NOTE** : Certains systèmes de gestion de base de données proposent à la place d'une fonction des opérateurs pour effectuer certains traitement sur les chaînes
 
-## MySQL
+## [MySQL](https://dev.mysql.com/doc/refman/8.0/en)
 
 |NOM|DESCRIPTION|
 |:--|:--|
@@ -18,28 +18,28 @@
 |**AAAA**|bbbbbbbbb|
 |**AAAA**|bbbbbbbbb|
 
-## Oracle Database
+## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
 
-## PostgreSQL
+## [PostgreSQL](https://docs.postgresql.fr/)
 
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
 
-## SQLite
+## [SQLite](https://sqlite.org/docs.html)
 
 |NOM|DESCRIPTION|
 |:--|:--|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
 
-## SQL Server (Microsoft)
+## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 
 |NOM|DESCRIPTION|
 |:--|:--|

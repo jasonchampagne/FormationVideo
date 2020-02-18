@@ -14,6 +14,8 @@
 |**LCASE()**|_Alias de lower()_|
 |**LOCATE()**|Position de la première occurrence dans une chaîne|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
+|**SUBSTR()**|Extraction de chaîne|
+|**SUBSTRING()**|_Alias de substr()_|
 |**TRIM()**|Suppression des caractères blancs en début et fin de chaîne|
 |**UCASE()**|_Alias de upper()_|
 |**UPPER()**|Conversion d'une chaîne en majuscule|

@@ -7,6 +7,7 @@
 |NOM|DESCRIPTION|
 |:--|:--|
 |**ASCII()**|Valeur ASCII du premier caractère d'une chaîne|
+|**BIN()**|Représentation binaire d'un nombre|
 |**BIT_LENGTH()**|Longueur d'une chaîne en bits|
 |**CHAR_LENGTH()**|Nombre de caractères d'une chaîne|
 |**CHARACTER_LENGTH()**|_Alias de char_length()_|
@@ -19,6 +20,7 @@
 |**LOCATE()**|Position de la première occurrence dans une chaîne|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**LTRIM()**|Suppression des caractères blancs en début de chaîne|
+|**OCT()**|Représentation octale d'un nombre|
 |**REPLACE()**|Remplacement des caractères d'une chaîne|
 |**REVERSE()**|Inversion des caractères d'une chaîne|
 |**RTRIM()**|Suppression des caractères blancs en fin de chaîne|

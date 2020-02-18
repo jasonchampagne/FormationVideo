@@ -4,6 +4,7 @@
 
 |ACTION|MySQL|Oracle|PostgreSQL|SQLite|SQL Server|
 |:--|:--|:--|:--|:--|:--|
-|Concaténer plusieurs chaînes|CONCAT()|CONCAT()|CONCAT()|\|\||CONCAT()|
+|Concaténation de chaînes|CONCAT()|CONCAT()|CONCAT()|\|\||CONCAT()|
+|Nombre de caractères|CHAR_LENGTH()|-|-|-|-|
 
 -> [Retrouver la doc d'un SGBD](https://github.com/jasonchampagne/FindMyDoc)

@@ -6,7 +6,7 @@
 |:--|:--|:--|:--|:--|:--|
 |Concaténation de chaînes|CONCAT|CONCAT|CONCAT|\|\||CONCAT|
 |Nombre de caractères|CHAR_LENGTH|LENGTH|LENGTH|LENGTH|LEN|
-|Position d'une chaîne|LOCATE|-|-|-|CHARINDEX|
+|Position d'une chaîne|INSTR / LOCATE|INSTR|-|-|CHARINDEX|
 |AAAA|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|
 |AAAA|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|
 |AAAA|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|bbbbbbbbbb|

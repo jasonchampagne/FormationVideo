@@ -11,8 +11,8 @@
 |**BIT_LENGTH(str)**|Longueur d'une chaîne en bits|
 |**CHAR_LENGTH(str)**|Nombre de caractères d'une chaîne|
 |**CHARACTER_LENGTH(str)**|_Alias de char_length()_|
-|**CONCAT()**|Concaténation de chaînes|
-|**CONCAT_WS()**|Concaténation de chaînes avec un séparateur|
+|**CONCAT(str1, str2, ...)**|Concaténation de chaînes|
+|**CONCAT_WS(sep, str1, str2, ...)**|Concaténation de chaînes avec un séparateur|
 |**ELT()**|N<sup>ème</sup> élément d'une liste de chaînes|
 |**INSTR()**|Position d'une occurrence dans une chaîne|
 |**LCASE()**|_Alias de lower()_|

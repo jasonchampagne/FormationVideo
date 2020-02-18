@@ -12,7 +12,7 @@
 |**CHARACTER_LENGTH()**|_Alias de char_length()_|
 |**CONCAT()**|Concaténation de chaînes|
 |**CONCAT_WS()**|Concaténation de chaînes avec un séparateur|
-|**ELT()**|Nème élément d'une liste de chaînes|
+|**ELT()**|N<sup>ème</sup> élément d'une liste de chaînes|
 |**INSTR()**|Position d'une occurrence dans une chaîne|
 |**LCASE()**|_Alias de lower()_|
 |**LOCATE()**|Position de la première occurrence dans une chaîne|

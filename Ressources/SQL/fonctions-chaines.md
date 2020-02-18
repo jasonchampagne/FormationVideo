@@ -15,8 +15,6 @@
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**UCASE()**|Alias de upper()|
 |**UPPER()**|Conversion d'une chaîne en majuscule|
-|**AAAA**|bbbbbbbbb|
-|**AAAA**|bbbbbbbbb|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

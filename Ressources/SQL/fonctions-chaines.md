@@ -15,6 +15,7 @@
 |**ELT()**|N<sup>ème</sup> élément d'une liste de chaînes|
 |**INSTR()**|Position d'une occurrence dans une chaîne|
 |**LCASE()**|_Alias de lower()_|
+|**LENGTH()**|Longueur d'une chaîne en octets|
 |**LOCATE()**|Position de la première occurrence dans une chaîne|
 |**LOWER()**|Conversion d'une chaîne en minuscule|
 |**LTRIM()**|Suppression des caractères blancs en début de chaîne|

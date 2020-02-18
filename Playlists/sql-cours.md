@@ -21,3 +21,4 @@
 + [15. Unions et intersections](https://www.youtube.com/watch?v=tIP_bQeFeXg)
 + [16. Sous-requêtes](https://www.youtube.com/watch?v=n2y6DZAM_fM)
 + [17. Jointures](https://www.youtube.com/watch?v=Qms4XqTtnkA)
++ [18. Fonctions chaînes de caractères](https://www.youtube.com/watch?v=oEaLoI3Io90)

@@ -10,7 +10,7 @@
 |LEN()|Nombre de caractères|❌|❌|❌|❌|✔|
 |LENGTH()|Nombre de caractères|❌|✔|✔|✔|❌|
 |LOCATE()|Position d'une chaîne|✔|❌|❌|❌|❌|
-|LOWER()|Conversion chaîne en minuscule|✔|✔|✔|✔|✔|
-|UPPER()|Conversion chaîne en majuscule|✔|✔|✔|✔|✔|
+|LOWER()|Chaîne en minuscule|✔|✔|✔|✔|✔|
+|UPPER()|Chaîne en majuscule|✔|✔|✔|✔|✔|
 |AAAAAAAA|nnnnnnnnn|gg|gg|gg|gg|gg|
 |AAAAAAAA|nnnnnnnnn|gg|gg|gg|gg|gg|

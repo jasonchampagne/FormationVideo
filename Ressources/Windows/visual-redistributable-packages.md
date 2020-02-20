@@ -1,4 +1,4 @@
-# Paquets de redistribution Visual C++
+# Paquets redistribuables Visual C++
 
 Pour fonctionner correctement, certains logiciels et jeux vidéo sur Windows demandent l'installation de _Visual C++ Redistribuable Packages_. Selon la version demandée, et l'architecture de votre machine, voici quelques liens (officiels) vers ces derniers.
 

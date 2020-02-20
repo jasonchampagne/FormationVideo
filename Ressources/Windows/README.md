@@ -6,4 +6,4 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|redistribuable-packages|Liste des packages redistribuables|
+|visual-redistributable-packages|Liste des packages Visual C++|

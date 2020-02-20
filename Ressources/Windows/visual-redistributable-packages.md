@@ -2,7 +2,7 @@
 
 Pour fonctionner correctement, certains logiciels et jeux vidéo sur Windows demandent l'installation de _Visual C++ Redistribuable Packages_. Selon la version demandée, et l'architecture de votre machine, voici quelques liens (officiels) vers ces derniers.
 
-|NOM|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
+|NOM DU PACKAGE|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
 |:--:|:--:|:--:|:--:|:--:|
 |Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(tout-en-un)|[lien](https://aka.ms/vs/16/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/16/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/16/release/VC_redist.arm64.exe)|-|
 |Visual C++ 2017|[lien](https://download.visualstudio.microsoft.com/download/pr/100349138/88b50ce70017bf10f2d56d60fcba6ab1/VC_redist.x86.exe)|[lien](https://download.microsoft.com/download/3/b/f/3bf6e759-c555-4595-8973-86b7b4312927/vc_redist.x64.exe)|-|-|

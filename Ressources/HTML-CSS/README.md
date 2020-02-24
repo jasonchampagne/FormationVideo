@@ -6,7 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|exo-1|Exercice n°1 + corrigé|
-|exo-2|Exercice n°2 + corrigé|
-|exo-4|Fichier HTML pour l'exercice n°4|
-|exo-5|Fichier HTML pour l'exercice n°5|
+|exo-1|Corrigé de l'xercice n°1|
+|exo-2|Corrigé de l'xercice n°2|
+|exo-4|Corrigé de l'xercice n°4|
+|exo-5|Corrigé de l'xercice n°5|

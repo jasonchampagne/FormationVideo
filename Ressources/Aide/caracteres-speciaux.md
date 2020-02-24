@@ -19,6 +19,6 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 
 ## Liste de caractères
 
-|Caractère|AZERTY|QWERTY|
+|Caractère|Clavier AZERTY|Clavier QWERTY|
 |:--|:--|:--|
 |@|AltGr + à|AltGr + 2|

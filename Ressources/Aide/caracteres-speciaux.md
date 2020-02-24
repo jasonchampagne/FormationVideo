@@ -9,7 +9,7 @@ Plusieurs agencements de clavier existent :
 + **AZERTY** : arrangement utilisé en France pour l'alphabet latin.
 + **BÉPO** : disposition plus moderne et conçue pour l'écriture du français.
 + **DVORAK** : agencement de clavier optimisé pour l'écriture de l'anglais.
-+ **QWERTY** : type de clavier historique et copié des machines à écrire, très répandu dans d'autres pays de l'Europe ou en Amérique.
++ **QWERTY** : type historique et copié des machines à écrire, répandu dans d'autres pays de l'Europe ou en Amérique.
 + **QWERTZ** : disposition de clavier germanophone, utilisée en Allemange ou en Suisse.
 
 ## Disposition des caractères sur les touches

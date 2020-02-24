@@ -23,7 +23,7 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 
 |Caractère|Nom FR|Nom EN|Clavier AZERTY|Clavier QWERTY|
 |:--:|:--|:--|:--|:--|
-|@|Arobase|At|AltGr + à|Maj + 2|
-|#|Dièse|Hash|AltGr + "|Maj + 3|
-|&|Esperluette (“et” commercial)|Ampersand|_accès direct_|Maj + 7|
-|"|Guillemet|Quote|_accès direct_|Maj + '|
+|@|arobase|at|AltGr + à|Maj + 2|
+|#|dièse|hash|AltGr + "|Maj + 3|
+|&|esperluette (“et” commercial)|ampersand|_accès direct_|Maj + 7|
+|"|guillemet|quote|_accès direct_|Maj + '|

@@ -1,0 +1,91 @@
+<!--
+COULEURS UTILISÉES :
+	- #000
+	- #1E1A17
+	- #2C2119
+	- #403131
+	- #4E3628
+	- #6B493B
+	- #705849
+	- #9C8070
+	- #D15429
+	- #ECDFAD
+	- #F9B51D
+	- #FCD788
+	- #FFF
+-->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+	<title>HTML/CSS - exercice n°5</title>
+	<link rel="stylesheet" href="normalize.css">
+	<link rel="stylesheet" href="style.css">
+	<!--<link rel="stylesheet" href="correction.css">-->
+	<link href="https://fonts.googleapis.com/css?family=Charm" rel="stylesheet">
+</head>
+<body>
+	<header>
+		<h1>Strange News</h1>
+	</header>
+
+	<nav>
+		<ul>
+			<li><a href="#">Accueil</a></li>
+			<li><a href="#">Galerie</a></li>
+			<li><a href="#">Équipe</a></li>
+			<li><a href="#">Archives</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+	</nav>
+
+	<main>
+		<section>
+			<article>
+				<h2><a href="#">Une forme de vie extra-terrestre découverte !</a></h2>
+				<img src="img/pic1.jpg" alt="">
+				<p>Nous l'apprenons du Haut Comité internationnal et aérospatial : une nouvelle forme de vie a été mise en lumière par quelques scientifiques lors d'une analyse du sol terrestre sur Mars. Après l'obtention de quelques clichés, on peut clairement distinguer des entités qui se meuvent. Ces dernières sont de forme ovale, un peu aplaties, comme des Kebabs...</p>
+			</article>
+			<hr>
+			<article>
+				<h2><a href="#">Retour en arrière pour la France</a></h2>
+				<img src="img/pic2.jpg" alt="">
+				<p>C'est un véritable retour dans le passé qui est sur le point de se produire. Dès le mois de septembre, les Français pourront procéder à l'échange de leur monnaie contre des écus. Pour beaucoup, cela annonce enfin une ré-appropriation des richesses...</p>
+			</article>
+			<hr>
+			<article>
+				<h2><a href="#">La Percevalite : nouvelle maladie reconnue</a></h2>
+				<img src="img/pic3.jpg" alt="">
+				<p>Après la reconnaissance de l'addiction aux jeux vidéo, le Gouvernement a fait voter une nouvelle loi, la Percevalite. Désormais, si vous ne bitez rien à ce que racontent vos interlocuteurs, vous pourrez vous faire dépister auprès de votre médecin traitant...</p>
+			</article>
+
+			<div class="pagination">
+				<a class="button" href="#">Anciens articles &rarr;</a>
+			</div>
+		</section>
+
+		<div id="sidebar">
+			<aside>
+				<h2>Rechercher</h2>
+				<form>
+					<input type="text" required> <input type="submit" value="OK">
+				</form>
+			</aside>
+			<aside>
+				<h2>Articles les plus consultés</h2>
+				<p><a href="#">&raquo; Mon castor a un incroyable talent</a><br>
+				<a href="#">&raquo; Pousser Mémé dans les orties, bientôt interdit par la loi</a><br>
+				<a href="#">&raquo; Une journée fait désormais 26 heures</a><br>
+				<a href="#">&raquo; Fortnite : un succès en maison de retraite !</a><br>
+				<a href="#">&raquo; Effondrement suite un pet mal contrôlé</a></p>
+			</aside>
+		</div>
+	</main>
+
+	<div class="clear"></div>
+
+	<footer>
+		<p>Copyleft 2019 // Site à contenu fictif et parodique</p>
+	</footer>
+</body>
+</html>

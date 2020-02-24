@@ -28,3 +28,4 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 |**$**|dollar|dollar|_accès direct_|Maj + 4|
 |**&**|esperluette (“et” commercial)|ampersand|_accès direct_|Maj + 7|
 |**'**<br>**"**<br>**\`**|guillemet simple<br>guillemet double<br>guillemet inversée|quote<br>double quote<br>backquote|_accès direct_<br>_accès direct_<br>AltGr + è|_accès direct_<br>Maj + '<br>_accès direct_|
+|**-**<br>**_**|tiret<br>tiret bas|dash<br>underscore|_accès direct_|_accès direct_<br>Maj + -|

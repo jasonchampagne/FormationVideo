@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|caracteres-speciaux|Caractères spéciaux utiles en informatique|
 |liste-langages|Liste de langages de programmation ou de requête|

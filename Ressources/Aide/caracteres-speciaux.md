@@ -30,3 +30,4 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 |**'**<br>**"**<br>**`**|guillemet simple<br>guillemet double<br>guillemet inversée|quote<br>double quote<br>backquote|accès direct<br>accès direct<br>AltGr + è|_accès direct<br>Maj + '<br>accès direct|
 |**-**<br>**_**|tiret<br>tiret bas|dash<br>underscore|accès direct|accès direct<br>Maj + -|
 |**\|**<br>**/**<br>**\\**|barre verticale<br>barre oblique<br>barre oblique inversée|vertical bar<br>slash<br>backslash|AltGr + -<br>Maj + :<br>AltGr + _|Maj + \\<br>accès direct<br>accès direct|
+|**(**<br>**)**|parenthèses|parentheses|accès direct|Maj + 9<br>Maj + 0|

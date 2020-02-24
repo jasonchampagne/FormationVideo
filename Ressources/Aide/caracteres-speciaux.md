@@ -16,9 +16,10 @@ Plusieurs agencements de clavier existent :
 Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont chacun est accessible à l'aide d'une combinaison spécifique :
 
 ![Touche de clavier](https://nsa40.casimages.com/img/2020/02/24/200224081650142301.png)
-> **NOTE** : la touche Maj (français) est aussi appellée Shift (anglais)
 
 ## Liste de caractères
+
+> **NOTE** : la touche Maj (français) est aussi appellée Shift (anglais)
 
 |Caractère|Clavier AZERTY|Clavier QWERTY|
 |:--|:--|:--|

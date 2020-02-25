@@ -23,12 +23,14 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 
 |Caractère|Nom FR|Nom EN|Clavier AZERTY|Clavier QWERTY|
 |:--:|:--|:--|:--|:--|
+|**+**|plus|plus|Maj + =|Maj + =|
+|**\***|astérisque|asterisk|accès direct|Maj + 8|
 |**@**|arobase|at|AltGr + à|Maj + 2|
 |**#**|dièse|hash|AltGr + "|Maj + 3|
 |**$**|dollar|dollar|accès direct|Maj + 4|
 |**&**|esperluette (“et” commercial)|ampersand|accès direct|Maj + 7|
 |**'**<br>**"**<br>**`**|guillemet simple<br>guillemet double<br>guillemet inversée|quote<br>double quote<br>backquote|accès direct<br>accès direct<br>AltGr + è|_accès direct<br>Maj + '<br>accès direct|
-|**-**<br>**_**|tiret<br>tiret bas|dash<br>underscore|accès direct|accès direct<br>Maj + -|
+|**-**<br>**_**|moins ou tiret<br>tiret bas|minus or dash<br>underscore|accès direct|accès direct<br>Maj + -|
 |**\|**<br>**/**<br>**\\**|barre verticale<br>barre oblique<br>barre oblique inversée|vertical bar<br>slash<br>backslash|AltGr + -<br>Maj + :<br>AltGr + _|Maj + \\<br>accès direct<br>accès direct|
 |**(**<br>**)**|parenthèses|round brackets|accès direct|Maj + 9<br>Maj + 0|
 |**[**<br>**]**|crochets|square brackets|AltGr + (<br>AltGr + )|accès direct|

@@ -21,3 +21,4 @@
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
 + [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
 + [Programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)
++ [Quel langage choisir ?](https://www.youtube.com/watch?v=h8I7vhChquw)

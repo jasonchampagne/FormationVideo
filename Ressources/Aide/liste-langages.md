@@ -10,6 +10,7 @@ D'abord, une liste non-exhaustive de langages de programmation ou requête :
 |**C**|Dennis Ritchie, Ken Thompson|1972|impératif, procédural, structuré|
 |**C++**|Bjarne Stroustrup|1983|générique, orienté-objet, procédural|
 |**C#**|Microsoft|2001|structuré, impératif, orienté-objet|
+|**COBOL**|Short Range Committee|1959|impératif, procédural|
 |**D**|Walter Bright|2001|impératif, orienté objet, procédural|
 |**Dart**|Lars Bak, Kasper Lund|2011|impératif, orienté objet|
 |**Eiffel**|Bertrand Meyer|1986|orienté objet|

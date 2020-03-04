@@ -10,6 +10,7 @@
 |**CURRENT_TIME()**|_Alias de curtime()_|
 |**CURRENT_TIMESTAMP()**|_Alias de now()_|
 |**DATE()**|Extraction de la date|
+|**DATE_FORMAT()**|Formatage d'une date|
 |**DAY()**|Extraction du jour|
 |**HOUR()**|Extraction de l'heure|
 |**MINUTE()**|Extraction des minutes|

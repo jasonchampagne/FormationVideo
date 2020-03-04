@@ -4,9 +4,14 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
+|**CURDATE()**|Date actuelle (ex : 2019-07-25)|
+|**CURTIME()**|Heure actuelle (ex : 14:56:23)|
+|**CURRENT_DATE()**|_Alias de curdate()_|
+|**CURRENT_TIME()**|_Alias de curtime()_|
+|**CURRENT_TIMESTAMP()**|_Alias de now()_|
 |**DAY()**|Numéro du jour d'une date|
 |**MONTH()**|Numéro du mois d'une date|
-|**NOW()**|Date et heure actuelle (horodatage)|
+|**NOW()**|Horodatage (ex : 2019-07-25 14:56:23)|
 |**YEAR()**|Année d'une date|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)

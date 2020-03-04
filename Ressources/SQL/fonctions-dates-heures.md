@@ -10,7 +10,7 @@
 |**CURRENT_TIME()**|_Alias de curtime()_|
 |**CURRENT_TIMESTAMP()**|_Alias de now()_|
 |**DATE()**|Extraction de la date|
-|**DATEDIFF()**|Différence entre deux dates (nombre de jours)|
+|**DATEDIFF()**|Différence entre deux dates|
 |**DATE_FORMAT()**|Formatage d'une date|
 |**DAY()**|Extraction du jour|
 |**HOUR()**|Extraction de l'heure|
@@ -20,7 +20,8 @@
 |**MONTH()**|Extraction du mois|
 |**NOW()**|Horodatage (date + temps)|
 |**SECOND()**|Extraction des secondes|
-|**TEMPS()**|Extraction du temps|
+|**TIME()**|Extraction du temps|
+|**TIMEDIFF()**|Différence entre deux temps|
 |**YEAR()**|Extraction de l'année|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)

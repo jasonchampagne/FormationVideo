@@ -4,13 +4,13 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAAA**|bbb|
+|**NOW()**|Date et heure actuelle (horodatage)|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAAA**|bbb|
+|**GETDATE()<br>SYSDATE**|Date et heure actuelle (horodatage)|
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 
@@ -22,10 +22,10 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAAA**|bbb|
+|**DATE('now')**|Date et heure actuelle (horodatage)|
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAAA**|bbb|
+|**GETDATE()**|Date et heure actuelle (horodatage)|

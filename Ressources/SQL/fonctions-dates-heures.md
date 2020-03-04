@@ -9,10 +9,13 @@
 |**CURRENT_DATE()**|_Alias de curdate()_|
 |**CURRENT_TIME()**|_Alias de curtime()_|
 |**CURRENT_TIMESTAMP()**|_Alias de now()_|
-|**DAY()**|Numéro du jour d'une date|
-|**MONTH()**|Numéro du mois d'une date|
+|**DAY()**|Extraction du jour|
+|**HOUR()**|Extraction de l'heure|
+|**MINUTE()**|Extraction des minutes|
+|**MONTH()**|Extraction du mois|
 |**NOW()**|Horodatage (date + heure)|
-|**YEAR()**|Année d'une date|
+|**SECOND()**|Extraction des secondes|
+|**YEAR()**|Extraction de l'année|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

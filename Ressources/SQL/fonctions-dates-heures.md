@@ -5,38 +5,40 @@
 |NOM|DESCRIPTION|
 |:--|:--|
 |**CURDATE()**|Date actuelle|
-|**CURTIME()**|Heure actuelle|
+|**CURTIME()**|Temps actuell|
 |**CURRENT_DATE()**|_Alias de curdate()_|
 |**CURRENT_TIME()**|_Alias de curtime()_|
 |**CURRENT_TIMESTAMP()**|_Alias de now()_|
+|**DATE()**|Extraction de la date|
 |**DAY()**|Extraction du jour|
 |**HOUR()**|Extraction de l'heure|
 |**MINUTE()**|Extraction des minutes|
 |**MONTH()**|Extraction du mois|
-|**NOW()**|Horodatage (date + heure)|
+|**NOW()**|Horodatage (date + temps)|
 |**SECOND()**|Extraction des secondes|
+|**TEMPS()**|Extraction du temps|
 |**YEAR()**|Extraction de l'année|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**GETDATE()<br>SYSDATE**|Horodatage (date + heure)|
+|**GETDATE()<br>SYSDATE**|Horodatage (date + temps)|
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**NOW()**|Horodatage (date + heure)|
+|**NOW()**|Horodatage (date + temps)|
 
 ## [SQLite](https://sqlite.org/docs.html)
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**DATE('now')**|Horodatage (date + heure)|
+|**DATE('now')**|Horodatage (date + temps)|
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**GETDATE()**|Horodatage (date + heure)|
+|**GETDATE()**|Horodatage (date + temps)|

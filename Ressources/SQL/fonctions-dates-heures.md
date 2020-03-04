@@ -22,6 +22,7 @@
 |**SECOND()**|Extraction des secondes|
 |**TIME()**|Extraction du temps|
 |**TIMEDIFF()**|Différence entre deux temps|
+|**WEEK()**|Extraction de la semaine|
 |**YEAR()**|Extraction de l'année|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)

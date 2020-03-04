@@ -16,7 +16,7 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAAA**|bbb|
+|**NOW()**|Date et heure actuelle (horodatage)|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

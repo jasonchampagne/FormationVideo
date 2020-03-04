@@ -4,7 +4,10 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
+|**DAY()**|Numéro du jour d'une date|
+|**MONTH()**|Numéro du mois d'une date|
 |**NOW()**|Date et heure actuelle (horodatage)|
+|**YEAR()**|Année d'une date|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

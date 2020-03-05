@@ -37,7 +37,12 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAA**|bbbbbbb|
+|**ABS()**|Valeur absolue|`ABS(n)`|
+|**ACOS()**|Arc cosinus|`ACOS(n)`|
+|**ASIN()**|Arc sinus|`ASIN(n)`|
+|**ATAN()**|Arc tangente|`ATAN(n)`|
+|**CEIL()**|Arrondi à l'entier supérieur|`CEIL(n)`|
+|**COS()**|Cosinus|`COS(n)`|
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 

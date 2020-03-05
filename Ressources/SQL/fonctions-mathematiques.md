@@ -5,12 +5,12 @@
 |NOM|DESCRIPTION|USAGE
 |:--|:--|:--|
 |**ABS**|Valeur absolue|`ABS(-5)`|
-|**ACOS**|Arc cosinus|-|
-|**ASIN**|Arc sinus|-|
-|**ATAN**|Arc tangente|-|
+|**ACOS**|Arc cosinus|`ACOS(1)`|
+|**ASIN**|Arc sinus|`ASIN(0.3)`|
+|**ATAN**|Arc tangente|`ATAN(2)`|
 |**CEIL**|_Alias de ceiling()_|-|
-|**CEILING**|Arrondi à l'entier supérieur|-|
-|**CONV**|Conversion d'une base à une autre|-|
+|**CEILING**|Arrondi à l'entier supérieur|`CEILING(14.26)`|
+|**CONV**|Conversion d'une base à une autre|`CONV('124', 10, 2)`|
 |**COS**|Cosinus|-|
 |**COT**|Cotangente|-|
 |**FLOOR**|Arrondi à l'entier inférieur|-|

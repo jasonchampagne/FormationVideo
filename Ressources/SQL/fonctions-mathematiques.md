@@ -92,6 +92,8 @@
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
 |**ABS()**|Valeur absolue|`ABS(n)`|
+|**RANDOM()**|Nombre entier aléatoire (positif ou négatif)|`RANDOM()`|
+|**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 

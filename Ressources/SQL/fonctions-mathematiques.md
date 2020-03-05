@@ -41,9 +41,17 @@
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 
-|NOM|DESCRIPTION|
-|:--|:--|
-|**AAA**|bbbbbbb|
+|NOM|DESCRIPTION|USAGE|
+|:--|:--|:--|
+|**ABS()**|Valeur absolue|`ABS(n)`|
+|**CBRT()**|Racine cubique|`CBRT(n)`|
+|**CEIL()**|_Alias de ceiling()_|`CEIL(n)`|
+|**CEILING()**|Arrondi à l'entier supérieur|`CEILING(n)`|
+|**DEGREES()**|Conversion radians en degrés|`DEGREES(n)`|
+|**EXP()**|Exponentielle|`EXP(n)`|
+|**FLOOR()**|Arrondi à l'entier inférieur|`FLOOR(n)`|
+|**LN()**|Logarithme népérien|`LN(n)`|
+|**LOG()**|Logarithme en base (10 par défaut)|`LOG(n)`<br>`LOG(base, n)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

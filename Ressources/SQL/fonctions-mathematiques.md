@@ -4,8 +4,7 @@
 
 |NOM|DESCRIPTION|USAGE
 |:--|:--|:--|
-|**ABS**|Valeur absolue|```sql
-ABS(-5)```|
+|**ABS**|Valeur absolue|`ABS(-5)`|
 |**ACOS**|Arc cosinus|-|
 |**ASIN**|Arc sinus|-|
 |**ATAN**|Arc tangente|-|

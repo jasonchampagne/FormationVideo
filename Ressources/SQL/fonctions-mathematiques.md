@@ -4,7 +4,16 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAA**|bbbbbbb|
+|**ABS()**|Valeur absolue|
+|**ACOS()**|Arc cosinus|
+|**ASIN()**|Arc sinus|
+|**ATAN()**|Arc tangente|
+|**CEIL()**|_Alias de ceiling()_|
+|**CEILING()**|Arrondi à l'entier supérieur|
+|**COS()**|Cosinus|
+|**FLOOR()**|Arrondi à l'entier inférieur|
+|**SIN()**|Sinus|
+|**TAN()**|Tangente|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

@@ -53,8 +53,9 @@
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 
-|NOM|DESCRIPTION|
-|:--|:--|
+|NOM|DESCRIPTION|USAGE|
+|:--|:--|:--|
+|**%**|Modulo (reste de la division Euclidienne)|`n % m`|
 |**ABS()**|Valeur absolue|`ABS(n)`|
 |**ACOS()**|Arc cosinus|`ACOS(n)`|
 |**ASIN()**|Arc sinus|`ASIN(n)`|

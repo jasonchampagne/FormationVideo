@@ -2,18 +2,20 @@
 
 ## [MySQL](https://dev.mysql.com/doc/)
 
-|NOM|DESCRIPTION|
-|:--|:--|
-|**ABS()**|Valeur absolue|
-|**ACOS()**|Arc cosinus|
-|**ASIN()**|Arc sinus|
-|**ATAN()**|Arc tangente|
-|**CEIL()**|_Alias de ceiling()_|
-|**CEILING()**|Arrondi à l'entier supérieur|
-|**COS()**|Cosinus|
-|**FLOOR()**|Arrondi à l'entier inférieur|
-|**SIN()**|Sinus|
-|**TAN()**|Tangente|
+|NOM|DESCRIPTION|USAGE
+|:--|:--|:--|
+|**ABS**|Valeur absolue|`ABS(-5)`|
+|**ACOS**|Arc cosinus|-|
+|**ASIN**|Arc sinus|-|
+|**ATAN**|Arc tangente|-|
+|**CEIL**|_Alias de ceiling()_|-|
+|**CEILING**|Arrondi à l'entier supérieur|-|
+|**CONV**|Conversion d'une base à une autre|-|
+|**COS**|Cosinus|-|
+|**COT**|Cotangente|-|
+|**FLOOR**|Arrondi à l'entier inférieur|-|
+|**SIN**|Sinus|-|
+|**TAN**|Tangente|-|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

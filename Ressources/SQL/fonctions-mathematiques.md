@@ -43,6 +43,18 @@
 |**ATAN()**|Arc tangente|`ATAN(n)`|
 |**CEIL()**|Arrondi à l'entier supérieur|`CEIL(n)`|
 |**COS()**|Cosinus|`COS(n)`|
+|**EXP()**|Exponentielle|`EXP(n)`|
+|**FLOOR()**|Arrondi à l'entier inférieur|`FLOOR(n)`|
+|**LN()**|Logarithme népérien|`LN(n)`|
+|**LOG()**|Logarithme en base|`LOG(base, n)`|
+|**MOD()<br>%**|Modulo (reste de la division Euclidienne)|`MOD(n, m)`<br>`n % m`|
+|**POWER()**|Puissance|`POWER(n, p)`|
+|**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
+|**SIGN()**|Signe|`SIGN(n)`|
+|**SIN()**|Sinus|`SIN(n)`|
+|**SQRT()**|Racine carrée|`SQRT(n)`|
+|**TAN()**|Tangente|`TAN(n)`|
+|**TRUNC()**|Troncature sur décimales|`TRUNC(n)`<br>`TRUNC(n, decimals)`|
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 

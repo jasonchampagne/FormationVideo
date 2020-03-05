@@ -8,7 +8,7 @@
 |**ACOS**|Arc cosinus|`ACOS(n)`|
 |**ASIN**|Arc sinus|`ASIN(n)`|
 |**ATAN**|Arc tangente|`ATAN(n)`|
-|**CEIL**|_Alias de ceiling()_|-|
+|**CEIL**|_Alias de ceiling()_|`CEIL(n)`|
 |**CEILING**|Arrondi à l'entier supérieur|`CEILING(n)`|
 |**CONV**|Conversion d'une base à une autre|`CONV(n, from, to)`|
 |**COS**|Cosinus|`COS(n)`|
@@ -16,6 +16,8 @@
 |**DEGREES**|Conversion radians en degrés|`DEGREES(n)`|
 |**EXP**|Exponentielle|`EXP(n)`|
 |**FLOOR**|Arrondi à l'entier inférieur|`FLOOR(n)`|
+|**LN**|_Alias de log()_|`LN(n)`|
+|**LOG**|Logarithme népérien|`LOG(n)`|
 |**SIN**|Sinus|`SIN(n)`|
 |**TAN**|Tangente|`TAN(n)`|
 

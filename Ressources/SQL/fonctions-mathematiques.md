@@ -20,6 +20,7 @@
 |**LOG**|Logarithme népérien|`LOG(n)`<br>`LOG(n, base)`|
 |**LOG2**|Logarithme en base 2|`LOG2(n)`|
 |**LOG10**|Logarithme en base 10|`LOG10(n)`|
+|**MOD<br>%<br>MOD**|Modulo (reste de la division Euclidienne)|`MOD(n, m)`<br>`n % m`<br>`n MOD m`|
 |**SIN**|Sinus|`SIN(n)`|
 |**TAN**|Tangente|`TAN(n)`|
 

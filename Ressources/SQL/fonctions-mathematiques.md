@@ -55,4 +55,25 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|**AAA**|bbbbbbb|
+|**ABS()**|Valeur absolue|`ABS(n)`|
+|**ACOS()**|Arc cosinus|`ACOS(n)`|
+|**ASIN()**|Arc sinus|`ASIN(n)`|
+|**ATAN()**|Arc tangente|`ATAN(n)`|
+|**CEILING()**|Arrondi à l'entier supérieur|`CEILING(n)`|
+|**COS()**|Cosinus|`COS(n)`|
+|**COT()**|Cotangente|`COT(n)`|
+|**DEGREES()**|Conversion radians en degrés|`DEGREES(n)`|
+|**EXP()**|Exponentielle|`EXP(n)`|
+|**FLOOR()**|Arrondi à l'entier inférieur|`FLOOR(n)`|
+|**LOG()**|Logarithme népérien|`LOG(n)`<br>`LOG(n, base)`|
+|**LOG10()**|Logarithme en base 10|`LOG10(n)`|
+|**PI()**|Valeur de PI|`PI()`|
+|**POWER()**|Puissance|`POWER(n, p)`|
+|**RADIANS()**|Conversion degrés en radians|`RADIANS(n)`|
+|**RAND()**|Valeur aléatoire à virgule flottante|`RAND()`<br>`RAND(seed)`|
+|**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
+|**SIGN()**|Signe|`SIGN(n)`|
+|**SIN()**|Sinus|`SIN(n)`|
+|**SQRT()**|Racine carrée|`SQRT(n)`|
+|**SQUARE()**|Valeur carrée|`SQUARE(n)`|
+|**TAN()**|Tangente|`TAN(n)`|

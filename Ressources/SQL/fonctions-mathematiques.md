@@ -89,9 +89,9 @@
 
 ## [SQLite](https://sqlite.org/docs.html)
 
-|NOM|DESCRIPTION|
-|:--|:--|
-|**AAA**|bbbbbbb|
+|NOM|DESCRIPTION|USAGE|
+|:--|:--|:--|
+|**ABS()**|Valeur absolue|`ABS(n)`|
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 

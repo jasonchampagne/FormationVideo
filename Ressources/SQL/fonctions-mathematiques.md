@@ -4,18 +4,20 @@
 
 |NOM|DESCRIPTION|USAGE
 |:--|:--|:--|
-|**ABS**|Valeur absolue|`ABS(-5)`|
-|**ACOS**|Arc cosinus|`ACOS(1)`|
-|**ASIN**|Arc sinus|`ASIN(0.3)`|
-|**ATAN**|Arc tangente|`ATAN(2)`|
+|**ABS**|Valeur absolue|`ABS(n)`|
+|**ACOS**|Arc cosinus|`ACOS(n)`|
+|**ASIN**|Arc sinus|`ASIN(n)`|
+|**ATAN**|Arc tangente|`ATAN(n)`|
 |**CEIL**|_Alias de ceiling()_|-|
-|**CEILING**|Arrondi à l'entier supérieur|`CEILING(14.26)`|
-|**CONV**|Conversion d'une base à une autre|`CONV('124', 10, 2)`|
-|**COS**|Cosinus|-|
-|**COT**|Cotangente|-|
-|**FLOOR**|Arrondi à l'entier inférieur|-|
-|**SIN**|Sinus|-|
-|**TAN**|Tangente|-|
+|**CEILING**|Arrondi à l'entier supérieur|`CEILING(n)`|
+|**CONV**|Conversion d'une base à une autre|`CONV(n, from, to)`|
+|**COS**|Cosinus|`COS(n)`|
+|**COT**|Cotangente|`COT(n)`|
+|**DEGREES**|Conversion radians en degrés|`DEGREES(n)`|
+|**EXP**|Exponentielle|`EXP(n)`|
+|**FLOOR**|Arrondi à l'entier inférieur|`FLOOR(n)`|
+|**SIN**|Sinus|`SIN(n)`|
+|**TAN**|Tangente|`TAN(n)`|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

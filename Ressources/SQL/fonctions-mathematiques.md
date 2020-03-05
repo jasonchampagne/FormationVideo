@@ -44,9 +44,14 @@
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
 |**ABS()**|Valeur absolue|`ABS(n)`|
+|**ACOS()**|Arc cosinus|`ACOS(n)`|
+|**ASIN()**|Arc sinus|`ASIN(n)`|
+|**ATAN()**|Arc tangente|`ATAN(n)`|
 |**CBRT()**|Racine cubique|`CBRT(n)`|
 |**CEIL()**|_Alias de ceiling()_|`CEIL(n)`|
 |**CEILING()**|Arrondi à l'entier supérieur|`CEILING(n)`|
+|**COS()**|Cosinus|`COS(n)`|
+|**COT()**|Cotangente|`COT(n)`|
 |**DEGREES()**|Conversion radians en degrés|`DEGREES(n)`|
 |**EXP()**|Exponentielle|`EXP(n)`|
 |**FLOOR()**|Arrondi à l'entier inférieur|`FLOOR(n)`|
@@ -56,9 +61,13 @@
 |**PI()**|Valeur de PI|`PI()`|
 |**POWER()**|Puissance|`POWER(n, p)`|
 |**RADIANS()**|Conversion degrés en radians|`RADIANS(n)`|
+|**RANDOM()**|Valeur aléatoire à virgule flottante|`RAND()`|
 |**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
+|**SETSEED()**|Graine pour les appels à random()|`SETSEED(seed)`|
 |**SIGN()**|Signe|`SIGN(n)`|
+|**SIN()**|Sinus|`SIN(n)`|
 |**SQRT()**|Racine carrée|`SQRT(n)`|
+|**TAN()**|Tangente|`TAN(n)`|
 |**TRUNC()**|Troncature sur décimales|`TRUNC(n)`<br>`TRUNC(n, decimals)`|
 
 ## [SQLite](https://sqlite.org/docs.html)

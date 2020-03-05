@@ -14,6 +14,7 @@
 |data6|Fichier de données pour la séance 16 du cours|
 |data7|Fichier de données pour la séance 17 du cours|
 |data8|Fichier de données pour la séance 18 du cours|
+|fonctions-agregation|Fonctions d'agrégation|
 |fonctions-chaines|Fonctions sur les chaînes de caractères|
 |fonctions-dates-heures|Fonctions sur les dates et heures|
 |fonctions-mathematiques|Fonctions de mathématiques|

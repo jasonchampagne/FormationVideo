@@ -21,6 +21,9 @@
 |**LOG2()**|Logarithme en base 2|`LOG2(n)`|
 |**LOG10()**|Logarithme en base 10|`LOG10(n)`|
 |**MOD()<br>%<br>MOD**|Modulo (reste de la division Euclidienne)|`MOD(n, m)`<br>`n % m`<br>`n MOD m`|
+|**PI()**|Valeur de PI|`PI()`|
+|**POW()**|Puissance|`POW(n, p)`|
+|**POWER()**|_Alias de pow()_|`POWER(n, p)`|
 |**SIN()**|Sinus|`SIN(n)`|
 |**TAN()**|Tangente|`TAN(n)`|
 

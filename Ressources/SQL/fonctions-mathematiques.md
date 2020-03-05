@@ -2,7 +2,7 @@
 
 ## [MySQL](https://dev.mysql.com/doc/)
 
-|NOM|DESCRIPTION|USAGE
+|NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
 |**ABS()**|Valeur absolue|`ABS(n)`|
 |**ACOS()**|Arc cosinus|`ACOS(n)`|
@@ -35,8 +35,8 @@
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
-|NOM|DESCRIPTION|
-|:--|:--|
+|NOM|DESCRIPTION|USAGE|
+|:--|:--|:--|
 |**ABS()**|Valeur absolue|`ABS(n)`|
 |**ACOS()**|Arc cosinus|`ACOS(n)`|
 |**ASIN()**|Arc sinus|`ASIN(n)`|

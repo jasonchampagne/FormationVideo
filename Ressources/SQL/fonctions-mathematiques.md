@@ -17,7 +17,7 @@
 |**EXP**|Exponentielle|`EXP(n)`|
 |**FLOOR**|Arrondi à l'entier inférieur|`FLOOR(n)`|
 |**LN**|_Alias de log()_|`LN(n)`|
-|**LOG**|Logarithme népérien|`LOG(n)`|
+|**LOG**|Logarithme népérien|`LOG(n)`<br>`LOG(n, base)`|
 |**SIN**|Sinus|`SIN(n)`|
 |**TAN**|Tangente|`TAN(n)`|
 

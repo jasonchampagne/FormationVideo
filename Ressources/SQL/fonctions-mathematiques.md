@@ -24,6 +24,8 @@
 |**PI()**|Valeur de PI|`PI()`|
 |**POW()**|Puissance|`POW(n, p)`|
 |**POWER()**|_Alias de pow()_|`POWER(n, p)`|
+|**RADIANS()**|Conversion degrés en radians|`RADIANS(n)`|
+|**RAND()**|Valeur aléatoire à virgule flottante|`RAND()`<br>`RAND(seed)`|
 |**SIN()**|Sinus|`SIN(n)`|
 |**TAN()**|Tangente|`TAN(n)`|
 

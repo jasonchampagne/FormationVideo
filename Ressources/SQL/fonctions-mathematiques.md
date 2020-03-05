@@ -52,6 +52,14 @@
 |**FLOOR()**|Arrondi à l'entier inférieur|`FLOOR(n)`|
 |**LN()**|Logarithme népérien|`LN(n)`|
 |**LOG()**|Logarithme en base (10 par défaut)|`LOG(n)`<br>`LOG(base, n)`|
+|**MOD()<br>%**|Modulo (reste de la division Euclidienne)|`MOD(n, m)`<br>`n % m`|
+|**PI()**|Valeur de PI|`PI()`|
+|**POWER()**|Puissance|`POWER(n, p)`|
+|**RADIANS()**|Conversion degrés en radians|`RADIANS(n)`|
+|**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
+|**SIGN()**|Signe|`SIGN(n)`|
+|**SQRT()**|Racine carrée|`SQRT(n)`|
+|**TRUNC()**|Troncature sur décimales|`TRUNC(n)`<br>`TRUNC(n, decimals)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

@@ -26,8 +26,12 @@
 |**POWER()**|_Alias de pow()_|`POWER(n, p)`|
 |**RADIANS()**|Conversion degrés en radians|`RADIANS(n)`|
 |**RAND()**|Valeur aléatoire à virgule flottante|`RAND()`<br>`RAND(seed)`|
+|**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
+|**SIGN()**|Signe|`SIGN(n)`|
 |**SIN()**|Sinus|`SIN(n)`|
+|**SQRT()**|Racine carrée|`SQRT(n)`|
 |**TAN()**|Tangente|`TAN(n)`|
+|**TRUNCATE()**|Troncature sur décimales|`TRUNCATE(n, decimals)`|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

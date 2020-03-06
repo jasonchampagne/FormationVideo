@@ -23,3 +23,4 @@
 + [17. Jointures](https://www.youtube.com/watch?v=Qms4XqTtnkA)
 + [18. Fonctions chaînes de caractères](https://www.youtube.com/watch?v=oEaLoI3Io90)
 + [19. Fonctions dates et heures](https://www.youtube.com/watch?v=hLY7cBnFoPQ)
++ [20. Fonctions mathématiques](https://www.youtube.com/watch?v=9Y20_0MQzEE)

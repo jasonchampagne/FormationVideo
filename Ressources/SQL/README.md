@@ -18,5 +18,6 @@
 |fonctions-chaines|Fonctions sur les chaînes de caractères|
 |fonctions-dates-heures|Fonctions sur les dates et heures|
 |fonctions-mathematiques|Fonctions de mathématiques|
+|fonctions-securite|Fonctions de chiffrement et hashage|
 |schema-jointures-tables|Schéma des jointures de tables|
 |types-donnees|Types de données utilisables|

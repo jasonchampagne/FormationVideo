@@ -17,6 +17,8 @@
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 
+> Fonctions fournies avec la module **pgcrypto**
+
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
 |**MD5()**|Calcul d'une somme de contrôle MD5 de 128 bits|`MDR(str)`|

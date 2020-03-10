@@ -14,7 +14,7 @@
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|
 |**SHA2()**|Génération d'un hash SHA-2 (256 bits par défaut)|`SHA2(str, length)`|
 
-## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
+## [Oracle Database & PL/SQL](https://docs.oracle.com/cd/B19306_01/index.htm)
 
 > Algorithmes de hash disponibles : MD5, SHA1, SHA256, SHA384, SHA512 
 

@@ -2,7 +2,7 @@
 
 ## [MySQL](https://dev.mysql.com/doc/)
 
-> Algorithmes disponibles : MD5, SHA-2 (224, 256, 384, 512)
+> Algorithmes de hash disponibles : MD5, SHA-2 (224, 256, 384, 512)
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -15,7 +15,7 @@
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
-> Algorithmes disponibles : MD5, SHA1, SHA256, SHA384, SHA512 
+> Algorithmes de hash disponibles : MD5, SHA1, SHA256, SHA384, SHA512 
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -23,7 +23,7 @@
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 
-> Algorithmes disponibles : md5, sha1, sha224, sha256, sha384, sha512
+> Algorithmes de hash disponibles : md5, sha1, sha224, sha256, sha384, sha512
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -36,7 +36,7 @@
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 
-> Algorithmes disponibles : MD2, MD4, MD5, SHA, SHA1, SHA2_256, SHA2_512  
+> Algorithmes de hash disponibles : MD2, MD4, MD5, SHA, SHA1, SHA2_256, SHA2_512  
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|

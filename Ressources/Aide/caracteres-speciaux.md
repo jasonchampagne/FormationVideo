@@ -28,6 +28,7 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 |**\***|astérisque|asterisk|accès direct|Maj + 8|
 |**%**|pourcent ou modulo|percent or modulo|Maj + ù|Maj + 5|
 |**!**|point d'exclamation|exclamation mark|accès direct|Maj + 1|
+|**^**|accent circonflexe|circumflex|accès direct|Maj + 6|
 |**@**|arobase|at|AltGr + à|Maj + 2|
 |**#**|dièse|hash|AltGr + "|Maj + 3|
 |**$**|dollar|dollar|accès direct|Maj + 4|

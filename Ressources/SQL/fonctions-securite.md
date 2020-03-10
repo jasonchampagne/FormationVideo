@@ -21,7 +21,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**MD5()**|Calcul d'une somme de contrôle MD5 de 128 bits|`MDR(str)`|
+|**digest()**|Hachage md5, sha1, sha224, sha256, sha384 ou sha512|`digest(str, algorithm)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

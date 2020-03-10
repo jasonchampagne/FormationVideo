@@ -17,7 +17,7 @@
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 
-> Fonctions fournies avec la module **pgcrypto**
+> Fonctions fournies avec le module **pgcrypto**
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|

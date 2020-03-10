@@ -19,7 +19,7 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 
 ## Liste de caractères
 
-> **NOTE** : la touche Maj (français) est aussi appellée Shift (anglais)
+> **NOTE** : la touche MAJ (français) est aussi appellée SHIFT (anglais)
 
 |Caractère|Nom FR|Nom EN|Clavier AZERTY|Clavier QWERTY|
 |:--:|:--|:--|:--|:--|

@@ -4,7 +4,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**AAAA()**|bbbbb|`CCCCC`|
+|**MD5()**|Calcul d'une somme de contrôle MD5 de 128 bits|`MDR(str)`|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
@@ -16,7 +16,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**AAAA()**|bbbbb|`CCCCC`|
+|**MD5()**|Calcul d'une somme de contrôle MD5 de 128 bits|`MDR(str)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

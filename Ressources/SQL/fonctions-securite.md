@@ -13,7 +13,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**AAAA()**|bbbbb|`CCCCC`|
+|**STANDARD_HASH()**|Hashage MD5, SHA1, SHA256, SHA384 ou SHA512|`STANDARD_HASH(str, algorithm)`|
 
 ## [PostgreSQL](https://docs.postgresql.fr/)
 

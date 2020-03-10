@@ -60,32 +60,32 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**ABS()**|Valeur absolue|`ABS(n)`|
-|**ACOS()**|Arc cosinus|`ACOS(n)`|
-|**ASIN()**|Arc sinus|`ASIN(n)`|
-|**ATAN()**|Arc tangente|`ATAN(n)`|
-|**CBRT()**|Racine cubique|`CBRT(n)`|
-|**CEIL()**|_Alias de ceiling()_|`CEIL(n)`|
-|**CEILING()**|Arrondi à l'entier supérieur|`CEILING(n)`|
-|**COS()**|Cosinus|`COS(n)`|
-|**COT()**|Cotangente|`COT(n)`|
-|**DEGREES()**|Conversion radians en degrés|`DEGREES(n)`|
-|**EXP()**|Exponentielle|`EXP(n)`|
-|**FLOOR()**|Arrondi à l'entier inférieur|`FLOOR(n)`|
-|**LN()**|Logarithme népérien|`LN(n)`|
-|**LOG()**|Logarithme en base (10 par défaut)|`LOG(n)`<br>`LOG(base, n)`|
-|**MOD()<br>%**|Modulo (reste de la division Euclidienne)|`MOD(n, m)`<br>`n % m`|
-|**PI()**|Valeur de PI|`PI()`|
-|**POWER()**|Puissance|`POWER(n, p)`|
-|**RADIANS()**|Conversion degrés en radians|`RADIANS(n)`|
-|**RANDOM()**|Valeur aléatoire à virgule flottante|`RAND()`|
-|**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
-|**SETSEED()**|Graine pour les appels à random()|`SETSEED(seed)`|
-|**SIGN()**|Signe|`SIGN(n)`|
-|**SIN()**|Sinus|`SIN(n)`|
-|**SQRT()**|Racine carrée|`SQRT(n)`|
-|**TAN()**|Tangente|`TAN(n)`|
-|**TRUNC()**|Troncature sur décimales|`TRUNC(n)`<br>`TRUNC(n, decimals)`|
+|**ABS()**|Valeur absolue|`abs(n)`|
+|**ACOS()**|Arc cosinus|`acos(n)`|
+|**ASIN()**|Arc sinus|`asin(n)`|
+|**ATAN()**|Arc tangente|`atan(n)`|
+|**CBRT()**|Racine cubique|`cbrt(n)`|
+|**CEIL()**|_Alias de ceiling()_|`ceil(n)`|
+|**CEILING()**|Arrondi à l'entier supérieur|`ceiling(n)`|
+|**COS()**|Cosinus|`cos(n)`|
+|**COT()**|Cotangente|`cot(n)`|
+|**DEGREES()**|Conversion radians en degrés|`degrees(n)`|
+|**EXP()**|Exponentielle|`exp(n)`|
+|**FLOOR()**|Arrondi à l'entier inférieur|`floor(n)`|
+|**LN()**|Logarithme népérien|`ln(n)`|
+|**LOG()**|Logarithme en base (10 par défaut)|`log(n)`<br>`Llog(base, n)`|
+|**MOD()<br>%**|Modulo (reste de la division Euclidienne)|`mod(n, m)`<br>`n % m`|
+|**PI()**|Valeur de PI|`pi()`|
+|**POWER()**|Puissance|`power(n, p)`|
+|**RADIANS()**|Conversion degrés en radians|`radians(n)`|
+|**RANDOM()**|Valeur aléatoire à virgule flottante|`rand()`|
+|**ROUND()**|Arrondi sur décimales|`round(n)`<br>`round(n, decimals)`|
+|**SETSEED()**|Graine pour les appels à random()|`setseed(seed)`|
+|**SIGN()**|Signe|`sign(n)`|
+|**SIN()**|Sinus|`sin(n)`|
+|**SQRT()**|Racine carrée|`sqrt(n)`|
+|**TAN()**|Tangente|`tan(n)`|
+|**TRUNC()**|Troncature sur décimales|`trunc(n)`<br>`trunc(n, decimals)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

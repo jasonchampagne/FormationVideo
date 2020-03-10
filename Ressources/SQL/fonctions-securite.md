@@ -21,7 +21,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**DIGEST()**|Hachage md5, sha1, sha224, sha256, sha384 ou sha512|`DIGEST(str, algorithm)`|
+|**DIGEST()**|Hachage md5, sha1, sha224, sha256, sha384 ou sha512|`digest(str, algorithm)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

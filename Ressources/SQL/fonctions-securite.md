@@ -37,7 +37,7 @@
 
 + _Aucune fonction de sécurité disponible (à vous de les définir)_
 
-## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
+## [SQL Server & Transact-SQL (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 
 > Algorithmes de hash disponibles : MD2, MD4, MD5, SHA, SHA1, SHA2_256, SHA2_512  
 

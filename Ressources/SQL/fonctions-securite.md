@@ -4,7 +4,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**MD5()**|Hashage MD5 (128 bits)|`MDR(str)`|
+|**MD5()**|Hashage MD5 (128 bits)|`MD5(str)`|
 |**SHA()**|Hashage SHA-1 (160 bits)|`SHA(str)`|
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|
 |**SHA2()**|Hashage SHA-2 (256 par défaut, sinon 224, 384 ou 512 bits)|`SHA2(str, length)`|
@@ -22,6 +22,7 @@
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
 |**DIGEST()**|Hachage md5, sha1, sha224, sha256, sha384 ou sha512|`digest(str, algorithm)`|
+|**MD5()**|Hashage MD5|`md5(str)`|
 
 ## [SQLite](https://sqlite.org/docs.html)
 

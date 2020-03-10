@@ -25,9 +25,7 @@
 
 ## [SQLite](https://sqlite.org/docs.html)
 
-|NOM|DESCRIPTION|USAGE|
-|:--|:--|:--|
-|**AAAA()**|bbbbb|`CCCCC`|
++ _Aucune fonction de sécurité disponible (à vous de les définir)_
 
 ## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
 

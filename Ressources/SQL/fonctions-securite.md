@@ -6,6 +6,8 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
+|**AES_ENCRYPT()**|Chiffrement AES à l'aide d'une clé|`AES_ENCRYPT(str, key)`|
+|**AES_DECRYPT()**|Déchiffrement AES à l'aide d'une clé|`AES_ENCRYPT(crypt_data, key)`|
 |**MD5()**|Génération d'un hash MD5 (128 bits)|`MD5(str)`|
 |**SHA()**|Génération d'un hash SHA-1 (160 bits)|`SHA(str)`|
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|

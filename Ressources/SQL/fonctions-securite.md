@@ -8,7 +8,7 @@
 |:--|:--|:--|
 |**AES_ENCRYPT()**|Chiffrement AES à l'aide d'une clé|`AES_ENCRYPT(str, key)`|
 |**AES_DECRYPT()**|Déchiffrement AES à l'aide d'une clé|`AES_ENCRYPT(crypt_data, key)`|
-|**CREATE_DIGEST()**|Création d'une empreinte numérique|`CREATE_DIGEST(algorithm, str)`|
+|**CREATE_DIGEST()**|Génération d'un hash sous forme de chaîne binaire|`CREATE_DIGEST(algorithm, str)`|
 |**MD5()**|Génération d'un hash MD5 (128 bits)|`MD5(str)`|
 |**SHA()**|Génération d'un hash SHA-1 (160 bits)|`SHA(str)`|
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|

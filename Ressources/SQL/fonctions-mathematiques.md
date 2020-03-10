@@ -73,7 +73,7 @@
 |**EXP()**|Exponentielle|`exp(n)`|
 |**FLOOR()**|Arrondi à l'entier inférieur|`floor(n)`|
 |**LN()**|Logarithme népérien|`ln(n)`|
-|**LOG()**|Logarithme en base (10 par défaut)|`log(n)`<br>`Llog(base, n)`|
+|**LOG()**|Logarithme en base (10 par défaut)|`log(n)`<br>`log(base, n)`|
 |**MOD()<br>%**|Modulo (reste de la division Euclidienne)|`mod(n, m)`<br>`n % m`|
 |**PI()**|Valeur de PI|`pi()`|
 |**POWER()**|Puissance|`power(n, p)`|

@@ -28,4 +28,4 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**AAAA()**|bbbbb|`CCCCC`|
+|**HASHBYTES()**|Hachage MD2, MD4, MD5, SHA, SHA1 ou SHA2|`HASHBYTES(algorithm, str)`|

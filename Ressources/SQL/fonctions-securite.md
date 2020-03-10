@@ -4,7 +4,10 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**MD5()**|Calcul d'une somme de contrôle MD5 de 128 bits|`MDR(str)`|
+|**MD5()**|Hashage MD5 (128 bits)|`MDR(str)`|
+|**SHA()**|Hashage SHA-1 (160 bits)|`SHA(str)`|
+|**SHA1**|_Alias de sha()_|`SHA1(str)`|
+|**SHA2()**|Hashage SHA-2 (256 par défaut, sinon 224, 384 ou 512 bits)|`SHA2(str, length)`|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 

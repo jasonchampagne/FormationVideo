@@ -2,14 +2,14 @@
 
 ## [MySQL](https://dev.mysql.com/doc/)
 
-> Algorithmes disponibles : 
+> Algorithmes disponibles : MD5, SHA-2 (224, 256, 384, 512)
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**MD5()**|Hashage MD5 (128 bits)|`MD5(str)`|
-|**SHA()**|Hashage SHA-1 (160 bits)|`SHA(str)`|
+|**MD5()**|Génération d'un hash MD5 (128 bits)|`MD5(str)`|
+|**SHA()**|Génération d'un hash SHA-1 (160 bits)|`SHA(str)`|
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|
-|**SHA2()**|Hashage SHA-2 (256 par défaut, sinon 224, 384 ou 512 bits)|`SHA2(str, length)`|
+|**SHA2()**|Génération d'un hash SHA-2 (256 bits par défaut)|`SHA2(str, length)`|
 
 ## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
 
@@ -25,7 +25,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**DIGEST()**|Génération d'un hash<br>(via le module **pgcrypto**)|`digest(str, algorithm)`|
+|**DIGEST()**|Génération d'un hash (via le module **pgcrypto**)|`digest(str, algorithm)`|
 |**MD5()**|Génération d'un hash MD5|`md5(str)`|
 
 ## [SQLite](https://sqlite.org/docs.html)

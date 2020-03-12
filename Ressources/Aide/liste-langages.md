@@ -44,7 +44,7 @@ D'abord, une liste non-exhaustive de langages de programmation ou requête :
 |**Smalltalk**|Adele Goldberg, Alan Kay, Dan Ingals, Ted Kaehler|1980|orienté-objet|
 |**SQL**|Donald D. Chamberlin, Raymond F. Boyce|1974|déclaratif, orienté-objet, procédural|
 |**Swift**|Apple|2014|fonctionnel, impératif, orienté-objet, procédural|
-|**V**|Alexander Medvednikov|2015|impératif, procédural|
+|**V**|Alexander Medvednikov|2015|impératif, procédural, structuré|
 |**Vala**|Jürg Billeter, Raffaele Sandrini|2006|impératif, orienté-objet, structuré|
 |**Visual Basic**|Microsoft|2001|impératif, orienté-objet, structuré|
 |**WLangage**|PC SOFT|1992|orienté-objet, procédural, structuré|

@@ -1,4 +1,4 @@
-# Variable Path
+# Variable d'environnement Path
 
 Si vous avez par erreur supprimé le contenu par défaut de la **variable d'environnement Path**, voici les chemins à définir au minimum !
 

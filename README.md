@@ -35,7 +35,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |-| JavaScript | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md) | - | - |
 |✔️| PHP | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md) | - |
 |✔️| Python | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md) |
-|-| SQL | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md) | - | - |
+|✔️| SQL | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md) | - | - |
 
 ## Systèmes et réseaux
 

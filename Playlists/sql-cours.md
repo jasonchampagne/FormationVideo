@@ -25,3 +25,4 @@
 + [19. Fonctions dates et heures](https://www.youtube.com/watch?v=hLY7cBnFoPQ)
 + [20. Fonctions mathématiques](https://www.youtube.com/watch?v=9Y20_0MQzEE)
 + [21. Fonctions de sécurité](https://www.youtube.com/watch?v=VTkhWoQ4QPA)
++ [22. Conclusion](https://www.youtube.com/watch?v=TgvBXMaZULk)

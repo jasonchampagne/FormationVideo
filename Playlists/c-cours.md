@@ -1,4 +1,4 @@
-# C - cours
+# C - cours ✔
 
 > [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j)
 

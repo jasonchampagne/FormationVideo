@@ -1,4 +1,4 @@
-# HTML/CSS - cours
+# HTML/CSS - cours ✔
 
 > [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
 

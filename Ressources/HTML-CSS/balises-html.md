@@ -91,6 +91,14 @@ Ce texte <bdo dir="rtl">écrit de droite à gauche</bdo>
 Ce texte <bdo dir="ltr">ehcuag à etiord ed tircé</bdo>
 ```
 
+### \<blockquote\>
+
+```html
+<blockquote cite="http://lien_de_la_source">
+    <p>Une longue citation dans un bloc...</p>
+</blockquote>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

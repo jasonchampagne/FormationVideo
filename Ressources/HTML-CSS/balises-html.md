@@ -158,6 +158,10 @@ Dans quelques jours sortira un <del>nouvel article</del> nouveau comparatif.
 </dl>
 ```
 
+### \<dialog\>
+
+> [voir JavaScript](https://github.com/jasonchampagne/FormationVideo/tree/master/Ressources/JavaScript)
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

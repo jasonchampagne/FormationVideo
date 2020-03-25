@@ -14,6 +14,8 @@ Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](ht
 
 ## Balises obsolètes
 
+⛔ Ces balises ne sont pas à utiliser !
+
 + \<acronym\>
 + \<applet\>
 + \<basefont\>

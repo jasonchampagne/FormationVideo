@@ -11,8 +11,7 @@ Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](ht
 |NOM|USAGE|
 |:--:|:--|
 |**\<!-- --\>**|\<!-- Ceci est un commentaire --\>|
-|**\<a\>**|\<a href="https://jasonchampagne.fr"\>Site personnel de Jason\</a\><br>\<a href="#maSection"\>Aller vers maSection\</a\>
-\<a href="http://lien.com" title="Description"\>UnLien\</a\><br>\<a href="https://youtube.com" target="_blank"\>Ouverture nouvel onglet\</a\><br>\<a href="mailto:chuck@norris.com"\>Envoyer un e-mail\</a\>|
+|**\<a\>**|-|
 
 ## Balises obsolètes
 

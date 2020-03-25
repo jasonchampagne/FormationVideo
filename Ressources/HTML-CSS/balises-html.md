@@ -524,7 +524,7 @@ Ce long mot sera tronqué : aaaaaaaaaaaaaaa<wbr>aaaaaaaaaaa
 
 ## Balises obsolètes
 
-> ⛔ Ces balises ne sont pas à utiliser !
+> ⛔ Ces balises ne sont pas à utiliser ([voir tutoriel](https://www.youtube.com/watch?v=23Kcs7AW-18)) !
 
 + `<acronym>`
 + `<applet>`

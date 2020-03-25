@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|balises-html|Liste de balises HTML|
 |exo-1|Corrigé de l'xercice n°1|
 |exo-2|Corrigé de l'xercice n°2|
 |exo-4|Corrigé de l'xercice n°4|

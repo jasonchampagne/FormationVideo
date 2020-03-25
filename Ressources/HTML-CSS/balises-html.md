@@ -10,8 +10,8 @@ Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](ht
 
 |NOM|USAGE|
 |:--:|:--|
-|**`<!-- --\>`**|\<!-- Ceci est un commentaire --\>|
-|**\<a\>**|-|
+|**`<!-- -->`**|\<!-- Ceci est un commentaire --\>|
+|**`<a>`**|-|
 
 ## Balises obsolètes
 

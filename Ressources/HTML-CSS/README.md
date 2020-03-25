@@ -11,3 +11,4 @@
 |exo-2|Corrigé de l'xercice n°2|
 |exo-4|Corrigé de l'xercice n°4|
 |exo-5|Corrigé de l'xercice n°5|
+|proprietes-css|Liste de propriétés CSS|

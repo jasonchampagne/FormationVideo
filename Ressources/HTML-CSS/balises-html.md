@@ -23,6 +23,12 @@ de plusieurs lignes -->
 <a href="mailto:chuck@norris.com">Envoyer un e-mail</a>
 ```
 
+### \<abbr\>
+
+```html
+Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

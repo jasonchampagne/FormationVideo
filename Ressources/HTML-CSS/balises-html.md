@@ -39,6 +39,19 @@ Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 </address>
 ```
 
+### \<article\>
+
+```html
+<article>
+   <header>
+      <h2>Un premier titre</h2>
+   </header>
+   <section>
+      <p>bla bla bla...</p>
+   </section>
+</article>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

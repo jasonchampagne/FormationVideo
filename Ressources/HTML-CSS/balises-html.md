@@ -17,20 +17,20 @@ Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](ht
 
 > ⛔ Ces balises ne sont pas à utiliser !
 
-+ \<acronym\>
-+ \<applet\>
-+ \<basefont\>
-+ \<big\>
-+ \<center\>
-+ \<command\>
-+ \<dir\>
-+ \<font\>
-+ \<frame\>
-+ \<frameset\>
-+ \<hgroup\>
-+ \<keygen\>
-+ \<noframes\>
-+ \<strike\>
-+ \<tt\>
-+ \<u\>
-+ \<xmp\>
++ `<acronym>`
++ `<applet>`
++ `<basefont>`
++ `<big>`
++ `<center>`
++ `<command>`
++ `<dir>`
++ `<font>`
++ `<frame>`
++ `<frameset>`
++ `<hgroup>`
++ `<keygen>`
++ `<noframes>`
++ `<strike>`
++ `<tt>`
++ `<u>`
++ `<xmp>`

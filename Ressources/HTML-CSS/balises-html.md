@@ -162,6 +162,55 @@ Dans quelques jours sortira un <del>nouvel article</del> nouveau comparatif.
 
 > [voir JavaScript](https://github.com/jasonchampagne/FormationVideo/tree/master/Ressources/JavaScript)
 
+### \<em\>
+
+```html
+On veut insister <em>sur cet extrait du texte</em> et pas le reste !
+```
+
+### \<fieldset\>, \<legend\>
+
+```html
+<fieldset>
+   <legend>Section</legend>
+   <!-- champs de formulaire... -->
+</fieldset>
+```
+
+### \<figure\>, \<figcaption\>
+
+```html
+<figure>
+    <img src="une-image.png" alt="Texte alternatif">
+    <figcaption>Légende de l'image</figcaption>
+</figure>
+```
+
+### \<form\>
+
+```html
+<form method="get|post" action="mapage.php" autocomplete="off">
+    <!-- champs de saisie, soumission, etc. -->
+</form>
+```
+
+### \<footer\>
+
+```html
+<footer>
+    <p>Copyright &copy; 2020</p>
+</footer>
+```
+
+### \<h1\>, \<h2\>, \<h3\>, \<h4\>, \<h5\>, \<h6\>
+
+```html
+<h1>Un titre en H1</h1>
+<h2>Un titre en H2</h2>
+...
+<h6>Un titre en H6</h6>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

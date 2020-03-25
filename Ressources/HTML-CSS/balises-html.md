@@ -29,6 +29,16 @@ de plusieurs lignes -->
 Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 ```
 
+### \<address\>
+
+```html
+<address>
+   Chuck NORRIS
+   8 Rue des potiers
+   75000 PARIS
+</address>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

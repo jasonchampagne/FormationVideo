@@ -465,6 +465,63 @@ Surface habitable : 120m<sup>2</sup>
 </table>
 ```
 
+### \<textarea\>
+
+```html
+<textarea name="monChampTexte" rows="10" cols="65">
+    Entrez votre commentaire ici...
+</textarea>
+```
+
+### \<time\>
+
+```html
+Date sans précision : <time>19 janvier 2018</time>
+Année : <time datetime="2018">2018</time>
+Date complète : <time datetime="2018-01-19">19/01/2018</time>
+Date et heure : <time datetime="2018-01-19 13:45:00">19 jan 2017, 13h45</time>
+```
+
+### \<ul\>, \<ol\>, \<li\>
+
+```html
+<ul>
+    <li>Un premier élément</li>
+    <li>Un autre élément</li>
+</ul>
+
+<ol type="I">
+    <li>Première étape</li>
+    <li>Seconde étape</li>
+    <li>Dernière étape</li>
+</ol>
+```
+
+### \<var\>
+
+```html
+En informatique : <var>nombre</var> = <var>14</var>
+En mathématiques : équation <var>x</var> + 5 = 13
+```
+
+### \<video\>
+
+```html
+<video src="fichier.mp4" width="640" height="auto" controls>
+    Merci de mettre à jour votre navigateur pour lire la vidéo
+</video>
+
+<video controls preload="metadata">
+    <source src="fichier.webm" type="video/webm">
+</video>
+```
+
+### \<wbr\>
+
+```html
+Ce long mot sera tronqué : aaaaaaaaaaaaaaa<wbr>aaaaaaaaaaa
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

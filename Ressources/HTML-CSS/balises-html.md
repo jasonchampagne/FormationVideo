@@ -15,6 +15,14 @@ de plusieurs lignes -->
 
 ### \<a\>
 
+```html
+<a href="https://jasonchampagne.fr">Site personnel de Jason</a>
+<a href="#maSection">Aller vers maSection</a>
+<a href="http://lien.com" title="Description">UnLien</a>
+<a href="https://youtube.com" target="_blank">Ouverture nouvel onglet</a>
+<a href="mailto:chuck@norris.com">Envoyer un e-mail</a>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

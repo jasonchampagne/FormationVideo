@@ -319,6 +319,60 @@ Température : <meter value="34" optimum="37.4">37 degrés</meter>
 </nav>
 ```
 
+### \<output\>
+
+```html
+Calcul : 6 + 2 = <output>8</output>
+```
+
+### \<p\>
+
+```html
+<p>Un premier paragraphe de texte.</p>
+<p>Un autre paragraphe, séparé du premier...</p>
+```
+
+### \<picture\>, \<source\>
+
+```html
+<picture>
+    <source srcset="image-large.jpg" media=(min-width:800px)">
+    <img src="image-petite.jpg" alt="">
+</picture>
+```
+
+### \<pre\>
+
+```html
+<pre>Ce texte
+sera pré-formaté et le HTML va bien prendre en
+compte chaque espace, saut de ligne,      tabulation, etc.</pre>
+```
+
+### \<progress\>
+
+```html
+Avancement du projet : <progress value="30" max="100"></progress>
+```
+
+### \<q\>
+
+```html
+William Penn a dit <q>Si tu reçois une injure, que cela ne te pousse pas à en commettre</q>, qu'en pensez-vous ?
+```
+
+### \<ruby\>, \<rt\>, \<rp\>
+
+```html
+<ruby>
+    あ <rt>A</rt>
+    り <rt>RI</rt>
+    が <rt>GA</rt>
+    と <rt>TO</rt>
+    う <rp>(</rp><rt>U</rt><rp>)</rp>
+</ruby>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

@@ -373,6 +373,44 @@ William Penn a dit <q>Si tu reçois une injure, que cela ne te pousse pas à en 
 </ruby>
 ```
 
+### \<s\>
+
+```html
+HTML est un langage de <s>programmation</s> balisage pour concevoir des sites web.
+```
+
+### \<samp\>
+
+```html
+Le programme affichera <samp>Bonjour tout le monde !</samp>
+```
+
+### \<section\>
+
+```html
+<section>
+    <h1>Le titre de la section</h1>
+    <p>Contenu de la section du document...</p>
+</section>
+```
+
+### \<select\>, \<option\>, \<optgroup\>, \<datalist\>
+
+````html
+<select name="choixOS">
+    <option value="win">Windows</option>
+    <option value="linux">GNU/Linux</option>
+    <option value="macos">Mac OS</option>
+</select>
+
+<input list="jeu_prefere">
+<datalist id="jeu_prefere">
+    <option value="Final Fantasy">
+    <option value="Pokemon">
+    <option value="Tekken">
+</datalist>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

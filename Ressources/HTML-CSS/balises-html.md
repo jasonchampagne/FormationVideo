@@ -14,20 +14,20 @@ Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](ht
 
 ## Balises obsolètes
 
-+ acronym
-+ applet
-+ basefont
-+ big
-+ center
-+ command
-+ dir
-+ font
-+ frame
-+ frameset
-+ hgroup
-+ keygen
-+ noframes
-+ strike
-+ tt
-+ u
-+ xmp
++ \<acronym\>
++ \<applet\>
++ \<basefont\>
++ \<big\>
++ \<center\>
++ \<command\>
++ \<dir\>
++ \<font\>
++ \<frame\>
++ \<frameset\>
++ \<hgroup\>
++ \<keygen\>
++ \<noframes\>
++ \<strike\>
++ \<tt\>
++ \<u\>
++ \<xmp\>

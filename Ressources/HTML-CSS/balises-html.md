@@ -99,6 +99,45 @@ Ce texte <bdo dir="ltr">ehcuag à etiord ed tircé</bdo>
 </blockquote>
 ```
 
+### \<br\>
+
+```html
+La première ligne du texte<br>
+et la seconde ligne.
+```
+
+### \<button\>
+
+```html
+<button type="button">Cliquez ICI</button>
+```
+
+### \<cite\>
+
+```html
+Dans la série <cite>Charmed</cite>, trois soeurs chassent des démons...
+```
+
+### \<code\>
+
+```html
+Code machine : <code>printf("Bonjour tout le monde !\n");</code>
+```
+
+### \<del\>
+
+```html
+Dans quelques jours sortira un <del>nouvel article</del> nouveau comparatif.
+```
+
+### \<details\>
+
+```html
+<details>
+    Ce texte sera masqué par défaut tant que l'utilisateur n'aura pas cliqué sur le bloc.
+</details>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

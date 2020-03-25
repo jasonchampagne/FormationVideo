@@ -6,6 +6,13 @@ Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](ht
 
 ### \<!-- --\>
 
+```html
+<!-- Ceci est un commentaire -->
+
+<!-- Ceci est un commentaire
+de plusieurs lignes -->
+```
+
 ### \<a\>
 
 ## Balises obsolètes

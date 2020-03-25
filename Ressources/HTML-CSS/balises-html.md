@@ -211,6 +211,54 @@ On veut insister <em>sur cet extrait du texte</em> et pas le reste !
 <h6>Un titre en H6</h6>
 ```
 
+### \<header\>
+
+```html
+<header>
+    <h1>Mon Site Web</h1>
+    <img src="logo.png" alt="logo de MonSiteWeb">
+</header>
+```
+
+### \<hr\>
+
+```html
+Un premier contenu.
+<hr>
+L'autre contenu après le séparateur.
+```
+
+### \<i\>
+
+```html
+<p>Dans un texte, je peux avoir une partie bien à part <i>comme cela</i> sans que ça n'ai d'importance pour la globalité du contenu.</p>
+```
+
+### \<img\>
+
+```html
+<img src="http://lien-vers-image.jpg" alt="Texte alternatif si l'image ne s'affiche pas">
+```
+
+### \<input\>
+
+```html
+<input type="text" name="user" placeholder="Utilisateur" required>
+<input type="password" name="pass" required>
+
+Choix : <input type="radio" name="monChoix" value="oui" checked> Oui / <input type="radio" name="monChoix" value="non"> Non
+
+OS utilisés :<br>
+<input type="checkbox" name="windows"> Windows<br>
+<input type="checkbox" name="linux"> GNU/Linux<br>
+<input type="checkbox" name="macos"> MacOS
+
+<label for="webURL">Site</label> : <input id="webURL" name="user_site">
+<input type="submit" value="Valider formulaire"> <input type="reset" value="Effacer informations">
+```
+
+Autres types de champ : color, date, datetime-local, email, file, hidden, image, month, number, range, search, tel, time, url, week
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

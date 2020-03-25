@@ -259,6 +259,66 @@ OS utilisés :<br>
 
 Autres types de champ : color, date, datetime-local, email, file, hidden, image, month, number, range, search, tel, time, url, week
 
+### \<ins\>
+
+```html
+Ce jour sort <ins>le nouveau Assassin's Creed sur PS4 !</ins>
+```
+
+### \<kbd\>
+
+```html
+Utiliseé le raccourci-clavier <kbd>Ctrl + S</kbd> pour sauvegarder un fichier
+```
+
+### \<main\>
+
+```html
+<main>
+    <section>
+       <h2>Une section</h2>
+       <p>Contenu principal...</p>
+    </section>
+</main>
+```
+
+### \<map\>, \<area\>
+
+```html
+<img usemap="#worldmap" src="global-map.jpg" alt="Carte du monde">
+
+<map name="worldmap">
+    <area href="map-details.html" shape="rect" coords="0,0 250,250">
+    <area href="other-map.jpg" shape="rect" coords="250,250 500,500">
+</map>
+```
+
+### \<mark\>
+
+```html
+Nous avons <mark>15 résultats</mark> correspondants à vos critères
+```
+
+### \<meter\>
+
+```html
+Pourcentage : <meter value="0.4">40%</meter>
+Température : <meter value="34" optimum="37.4">37 degrés</meter>
+```
+
+### \<nav\>
+
+```html
+<nav>
+    <ul>
+       <li><a href="home.html">Accueil</li>
+       <li><a href="articles.html">Articles</li>
+       <li><a href="forum.html">Forum</li>
+       <li><a href="contact.html">Contact</li>
+    </ul>
+</nav>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

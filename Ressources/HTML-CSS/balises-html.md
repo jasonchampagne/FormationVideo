@@ -72,6 +72,25 @@ Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 </audio>
 ```
 
+### \<b\>
+
+```html
+Une mise <b>en évidence</b> d'un peu de texte
+```
+
+### \<bdi\>
+
+```html
+Ce texte sera <bdi>écrit dans le sens déduit</bdi>
+```
+
+### \<bdo\>
+
+```html
+Ce texte <bdo dir="rtl">écrit de droite à gauche</bdo>
+Ce texte <bdo dir="ltr">ehcuag à etiord ed tircé</bdo>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

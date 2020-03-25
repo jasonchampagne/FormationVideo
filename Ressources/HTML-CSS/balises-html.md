@@ -396,7 +396,7 @@ Le programme affichera <samp>Bonjour tout le monde !</samp>
 
 ### \<select\>, \<option\>, \<optgroup\>, \<datalist\>
 
-````html
+```html
 <select name="choixOS">
     <option value="win">Windows</option>
     <option value="linux">GNU/Linux</option>
@@ -409,6 +409,60 @@ Le programme affichera <samp>Bonjour tout le monde !</samp>
     <option value="Pokemon">
     <option value="Tekken">
 </datalist>
+```
+
+### \<small\>
+
+```html
+Texte normal <small>Copyright 2017</small>
+```
+
+### \<strong\>
+
+```html
+<p>Lorsque est sorti le jeu PimpMyChuckNorris, il a été <strong>vendu à plus de 15 millions d'exemplaires</strong>. Les gens ont particulièrement apprécié le gameplay.</p>
+```
+
+### \<sub\>
+
+```html
+Formule du dioxyde de carbone : CO<sub>2</sub>
+```
+
+### \<sup\>
+
+```html
+Surface habitable : 120m<sup>2</sup>
+```
+
+### \<summary\>
+
+```html
+<details>
+    <summary>Cliquez pour afficher la réponse</summary>
+    La réponse est 42 !
+</details>
+```
+
+### \<table\>, \<caption\>, \<thead\>, \<tbody\>, \<tfoot\>, \<tr\>, \<th\>, \<td\>, \<colgroup\>, \<col\>
+
+```html
+<table>
+    <caption>Titre du tableau</caption>
+    <thead>
+       <tr>
+          <th>En-tête 1</th>
+          <th>En-tête 2</th>
+          <th>En-tête 3</th>
+       </tr>
+    </thead>
+    <tbody>
+       <tr>
+          <td>Cellule de l'en-tête 1</td>
+          <td colspan="2">Cellule des colonnes 2 et 3</td>
+       </tr>
+    </tody>
+</table>
 ```
 
 ## Balises obsolètes

@@ -138,6 +138,26 @@ Dans quelques jours sortira un <del>nouvel article</del> nouveau comparatif.
 </details>
 ```
 
+### \<dfn\>
+
+```html
+<dfn>HTML</dfn> est le langage informatique pour faire des pages web
+```
+
+### \<dl\>, \<dt\>, \<dd\>
+
+```html
+<dl>
+   <dt>Mot 1</dt>
+      <dd>Définition de mot1</dd>
+   <dt>Mot 2</dt>
+      <dd>Définition de mot2</dd>
+   <dt>Mot 3</dt>
+      <dt>Mot 4</dt>
+   <dd>Définition de mot3 et mot4</dd>
+</dl>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

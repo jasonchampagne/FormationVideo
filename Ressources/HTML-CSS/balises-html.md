@@ -52,6 +52,26 @@ Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 </article>
 ```
 
+### \<aside\>
+
+```html
+<aside>
+    <p>Contenu non lié au document...</p>
+</aside>
+```
+
+### \<audio\>
+
+```html
+<audio src="fichier.mp3" controls>
+    Merci de mettre à jour votre navigateur pour lire le son
+</audio>
+
+<audio controls autoplay muted>
+    <source src="fichier.ogg" type="audio/ogg">
+</audio>
+```
+
 ## Balises obsolètes
 
 > ⛔ Ces balises ne sont pas à utiliser !

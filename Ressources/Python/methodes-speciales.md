@@ -8,4 +8,4 @@ Si besoin, ces méthodes peuvent être redéfinies afin de les surcharger, pour 
 
 |CATÉGORIE|MÉTHODES|
 |:--|:--|
-|Opérations|`__add__()` ou `__radd__()` : opérateur d'addition<br>`__sub__()` ou `__rsub__()` : opérateur de soustraction|
+|Opérations|`__add__()` ou `__radd__()` : opérateur d'addition<br>`__sub__()` ou `__rsub__()` : opérateur de soustraction<br>`__mul__()` ou `__rmul__()` : opérateur de multiplication<br>`__truediv__()` ou `__rtruediv__()` : opérateur de division<br>`__floordiv__()` ou `__rfloordiv__()` : opérateur de division entière<br>`__mod__()` ou `__rmod__()` : opérateur de modulo<br>`__pow__()` ou `__rpow__()` : opérateur de puissance|

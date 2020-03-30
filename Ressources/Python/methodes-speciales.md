@@ -8,4 +8,4 @@ Si besoin, ces méthodes peuvent être redéfinies afin de les surcharger, pour 
 
 |CATÉGORIE|MÉTHODES|UTILISATION|
 |:--:|:--|:--:|
-|Opérations|`object.__add__(self, other)`|addition|
+|Opérations|`object.__add__(self, other)`<br>`object.__sub__(self, other)`|addition<br>soustraction|

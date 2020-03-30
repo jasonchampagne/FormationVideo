@@ -9,4 +9,4 @@ Si besoin, ces méthodes peuvent être redéfinies afin de les surcharger, pour 
 |CATÉGORIE|MÉTHODES|SYNTAXE
 |:--:|:--|:--:|
 |Opérations|`__add__()` ou `__radd__()` : addition<br>`__sub__()` ou `__rsub__()` : soustraction<br>`__mul__()` ou `__rmul__()` : multiplication<br>`__truediv__()` ou `__rtruediv__()` : division<br>`__floordiv__()` ou `__rfloordiv__()` : division entière<br>`__mod__()` ou `__rmod__()` : modulo<br>`__pow__()` ou `__rpow__()` : puissance<br>`__iadd__()` : incrémentation<br>`__isub__()` : décrémentation|+<br>-<br>\*<br>/<br>//<br>%<br>\*\*<br>+=<br>-=|
-|Comparaisons|`__eq__()` : égalité<br>`__neq__()` : inégalité<br>`__lt__()` : strictement inférieur|==<br>!=<br>\<|
+|Comparaisons|`__eq__()` : égalité<br>`__neq__()` : inégalité<br>`__lt__()` : strictement inférieur<br>`__gt__()` : strictement supérieur<br>`__le__()` : inférieur ou égal<br>`__ge__()` : supérieur ou égal|==<br>!=<br>\<<br>\><br>\<=<br>\>=|

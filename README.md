@@ -90,6 +90,6 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |Moteurs|CryENGINE, Godot Engine, Unity, Unreal Engine|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD|
-|Techniques|dessin, effets spéciaux, infographie, son, vidéo|
+|Techniques|dessin, effets spéciaux, imagerie, son, vidéo|
 
 Bon apprentissage et bon courage ! 👍

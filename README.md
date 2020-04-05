@@ -80,6 +80,8 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ## Contenus à venir
 
+Ici, une liste (non complète et qui peut changer à tout moment) des contenus que j'aimerais aborder sur la chaîne. Par exemple, le cours sur le [langage de programmation Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) vous permettra d'aborder d'autres choses comme Django ou Ren'Py.
+
 |TYPE|CONTENUS|
 |:--|:--|
 |Applications|Audacity, Blender, DaVinci Resolve, Docker, Doxygen, GIMP, Inkscape, Krita, LibreOffice, LMMS, MS Office, Mypaint, OBS Studio, Photoshop, REAPER, Ren'Py, Tiled, Wireshark|

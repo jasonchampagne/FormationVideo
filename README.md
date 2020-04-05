@@ -36,6 +36,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-| Algorithmie | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md) | - | - |
+|-|ASM (fin avril)|-|-|-|
 |✔️| C | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md) |
 |-| C++ | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md) | - |
 |-| C# | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md) | - | - |
@@ -85,7 +86,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |Bibliothèques|DirectX, GTK+, JQuery, Kivy, OpenGL, Qt, React, SFML, wxWidgets|
 |CMS|phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Django, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
-|Langages|ASM (fin avril), Go, Kotlin, LaTeX, Lua, Ruby, Rust, Visual Basic, XML|
+|Langages|Go, Kotlin, LaTeX, Lua, Ruby, Rust, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|
 |Moteurs|CryENGINE, Godot Engine, Unity, Unreal Engine|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|

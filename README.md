@@ -93,6 +93,6 @@ Ici, une liste (non complète et qui peut changer à tout moment) des contenus q
 |Moteurs|CryENGINE, Godot Engine, Unity, Unreal Engine|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD|
-|Techniques|dessin, effets spéciaux, imagerie, son, vidéo|
+|Techniques|analyse (UML), infographie (3D, calligraphie, dessin, imagerie, pixel-art), son (montage, mix, mastering), vidéo (montage, effets spéciaux)|
 
 Bon apprentissage et bon courage ! 👍

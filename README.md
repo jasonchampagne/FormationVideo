@@ -10,6 +10,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 > NOTE : Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, ou le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre progression et/ou présentés sur les vidéos.
 
+---
+
 **SOMMAIRE**
 + [**Contenus disponibles**](#contenus-disponibles)
   + [Programmation / Web / bases de données](#programmation--web--bases-de-données)
@@ -52,6 +54,8 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |-| GNU/Linux | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md) | - | - |
 |-| Windows | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md) | - |
 
+> Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell.
+
 ### Image, audio et vidéo
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
@@ -75,6 +79,8 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ## Contenus à venir
 
-+ Langage d'Assembleur (fin avril 2020)
+|THÈME|FORMATIONS|
+|:--|:--|
+|Langages de programmation|Assembleur (fin avril), Go, Lua, Ruby, Rust|
 
 Bon apprentissage et bon courage ! 👍

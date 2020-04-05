@@ -11,8 +11,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 > NOTE : Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, ou le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre progression et/ou présentés sur les vidéos.
 
 **SOMMAIRE**
-> + [Contenus disponibles](#contenus-disponibles)
-> + [Contenus à venir](#contenus-à-venir)
++ [Contenus disponibles](#contenus-disponibles)
++ [Contenus à venir](#contenus-à-venir)
 
 ---
 

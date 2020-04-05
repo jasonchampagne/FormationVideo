@@ -10,9 +10,13 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 > NOTE : Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, ou le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre progression et/ou présentés sur les vidéos.
 
+**SOMMAIRE**
+> + [Contenus disponibles](#contenus-disponibles)
+> + [Contenus à venir](#contenus-à-venir)
+
 ---
 
-# Contenus de la chaîne
+## Contenus disponibles
 
 Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui peut être envisagé sur la chaîne :
 
@@ -20,12 +24,11 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 > **LES FORMATIONS TERMINÉES SONT INDIQUÉES AVEC UNE ✔️**
 
-## Programmation / Web / bases de données
+### Programmation / Web / bases de données
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-| Algorithmie | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md) | - | - |
-|-| Assembleur | fin avril 2020 | - | - | - |
 |✔️| C | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md) |
 |-| C++ | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md) | - |
 |-| C# | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md) | - | - |
@@ -37,26 +40,26 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |✔️| Python | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md) |
 |✔️| SQL | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md) | - | - |
 
-## Systèmes et réseaux
+### Systèmes et réseaux
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-| GNU/Linux | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md) | - | - |
 |-| Windows | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md) | - |
 
-## Image, audio et vidéo
+### Image, audio et vidéo
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-| Piano | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md) | - | - |
 
-## Langues
+### Langues
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-|Japonais|en préparation|-|-|
 
-## Divers
+### Divers
 
 | NOM | CONTENU |
 |:--:|:--:|
@@ -64,5 +67,9 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | SAV | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md) |
 
 ---
+
+## Contenus à venir
+
++ Langage d'Assembleur (fin avril 2020)
 
 Bon apprentissage et bon courage ! 👍

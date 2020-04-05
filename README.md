@@ -79,8 +79,17 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ## Contenus à venir
 
-|THÈME|FORMATIONS|
+|TYPE|CONTENUS|
 |:--|:--|
-|Langages de programmation|Assembleur (fin avril), Go, Lua, Ruby, Rust|
+|Applications|Audacity, Blender, DaVinci Resolve, Docker, Doxygen, GIMP, Inkscape, Krita, LibreOffice, LMMS, MS Office, Mypaint, OBS Studio, Photoshop, REAPER, Ren'Py, Tiled, Wireshark|
+|Bibliothèques|DirectX, GTK+, JQuery, Kivy, OpenGL, Qt, React, SFML, wxWidgets|
+|CMS|phpBB, PrestaShop, WordPress|
+|Frameworks|Angular, Boostrap, CodeIgniter, Django, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
+|Langages|ASM (fin avril), Go, Kotlin, LaTeX, Lua, Ruby, Rust, Visual Basic, XML|
+|Langues|anglais, français, chinois, coréen|
+|Moteurs|CryENGINE, Godot Engine, Unity, Unreal Engine|
+|Plateformes|Nginx, NodeJS, Twitch, YouTube|
+|Systèmes|Android, BSD|
+|Techniques|dessin, effets spéciaux, infographie, son, vidéo|
 
 Bon apprentissage et bon courage ! 👍

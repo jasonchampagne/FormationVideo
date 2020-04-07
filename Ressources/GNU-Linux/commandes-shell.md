@@ -46,7 +46,7 @@
 |**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|
 |**hostname**|Afficher le nom d'hôte du système|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|
-|**ifconfig**|_à ne plus employer, préférez l'usage de la commande ip_|
+|**ifconfig**|_plus maintenue, préférez l'usage de la commande ip_|
 |**ip**|Afficher le routage et les interfaces réseau|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
 |**kill**|Envoyer un signal à un processus|
@@ -68,6 +68,7 @@
 |**pwd**|Récupérer le nom du répertoire courant|
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
+|**rcp**|_non sécurisée, préférez l'usage de scp_|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**sh**|_voir commande “dash”_|

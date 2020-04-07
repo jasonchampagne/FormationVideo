@@ -37,7 +37,8 @@
 |**file**|Déterminer le type d'un fichier|
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**finger**|Rechercher des informations sur un utilisateur|
-|**free**|Afficher la quantité de mémoire libre et utilisée par le système|-|
+|**free**|Afficher la quantité de mémoire libre et utilisée par le système|
+|**ftp**|⛔ _non sécurisée, préférez l'usage de la commande sftp_|
 |**grep**|Afficher les lignes correspondant à un motif donné|
 |**groups**|Afficher les groupes d'un utilisateur|
 |**gunzip**|Décompacter des fichiers|
@@ -74,6 +75,7 @@
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
+|**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
 |**sh**|_voir commande “dash”_|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|

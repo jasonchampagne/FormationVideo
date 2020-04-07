@@ -71,9 +71,11 @@
 |**rcp**|⛔ _non sécurisée, préférez l'usage de scp_|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
+|**scp**|Copier des fichiers vers une machine distante|
 |**sh**|_voir commande “dash”_|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|
+|**ssh**|Se connecter à une machine distante|
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**sudo**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|

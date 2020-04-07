@@ -70,7 +70,7 @@
 |**pwd**|Récupérer le nom du répertoire courant|
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
-|**rcp**|⛔ _non sécurisée, préférez l'usage de scp_|
+|**rcp**|⛔ _non sécurisée, préférez l'usage de la commande scp_|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
@@ -81,7 +81,7 @@
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**sudo**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|
-|**telnet**|⛔ _non sécurisée, préférez l'usage de ssh_|
+|**telnet**|⛔ _non sécurisée, préférez l'usage de la commande ssh_|
 |**tload**|Afficher graphiquement la charge du système|
 |**top**|Lister les processus (avec mise à jour toutes les X secondes)|
 |**touch**|Modifier l'horodatage d'un fichier (peut aussi en créer)|

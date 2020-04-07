@@ -95,6 +95,7 @@
 |**uptime**|Afficher le temps depuis lequel la machine est démarrée|
 |**usermod**|Modifier les informations d'un utilisateur|
 |**users**|Afficher les utilisateurs connectés|
+|**vi**|Lancer l'éditeur en ligne de commande **Vi**|
 |**w**|Afficher les utilisateurs connectés et leur activité|
 |**wc**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|
 |**wget**|Télécharger un fichier depuis le Web|

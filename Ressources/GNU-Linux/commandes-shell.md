@@ -48,6 +48,7 @@
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|
 |**ifconfig**|⛔ _plus maintenue, préférez l'usage de la commande ip_|
 |**ip**|Afficher le routage et les interfaces réseau|
+|**iptables**|Filtrer les paquets IP et NAT (pare-feu)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
 |**kill**|Envoyer un signal à un processus|
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|
@@ -80,6 +81,7 @@
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**sudo**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|
+|**telnet**|⛔ _non sécurisée, préférez l'usage de ssh_|
 |**tload**|Afficher graphiquement la charge du système|
 |**top**|Lister les processus (avec mise à jour toutes les X secondes)|
 |**touch**|Modifier l'horodatage d'un fichier (peut aussi en créer)|

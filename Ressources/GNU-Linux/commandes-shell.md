@@ -14,22 +14,22 @@
 |**bash**|Lancer un shell **Bash** (Bourne-Again)|
 |**bg**|Exécuter des tâches en arrière-plan|
 |**bunzip2**|Décompacter des fichiers|
-|**bzip2**|Compacter ou décompacter des fichiers|[#18](https://www.youtube.com/watch?v=0VyUecw1CQA)|
-|**cat**|Concaténer des fichiers et les afficher sur la sortie standard|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
-|**cd**|Changer de répertoire|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**chgrp**|Changer le groupe propriétaire d'un fichier|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
-|**chmod**|Modifier les autorisations d'accès à un fichier|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
-|**chmown**|Modifier le propriétaire et le groupe d'un fichier|[#15](https://www.youtube.com/watch?v=AvdVbh3j-50)|
-|**clear**|Effacer le terminal|[#12](https://www.youtube.com/watch?v=9xpItgaWVso)|
-|**cp**|Copier des fichiers et des répertoires|[#13](https://www.youtube.com/watch?v=iIIE3s0FuiQ)|
-|**crontab**|Gérer des tâches CRON|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
-|**cut**|Supprimer une partie de chaque ligne d'un fichier|[#17](https://www.youtube.com/watch?v=Kl242W57-PU)|
-|**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|[#11](https://www.youtube.com/watch?v=DQeBbPsGoHY)|
-|**date**|Afficher ou configurer la date et l'heure du système|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
-|**deluser**|Supprimer un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
-|**df**|Afficher la quantité d'espace occupé par les systèmes de fichiers|-|
-|**diff**|Trouver les différences entre des fichiers|[#19](https://www.youtube.com/watch?v=UDmLDYMwn7c)|
-|**dpkg**|Gérer des paquets DEB|[#20](https://www.youtube.com/watch?v=WHCb06mDPXI)|
+|**bzip2**|Compacter ou décompacter des fichiers|
+|**cat**|Concaténer des fichiers et les afficher sur la sortie standard|
+|**cd**|Changer de répertoire|
+|**chgrp**|Changer le groupe propriétaire d'un fichier|
+|**chmod**|Modifier les autorisations d'accès à un fichier|
+|**chmown**|Modifier le propriétaire et le groupe d'un fichier|
+|**clear**|Effacer le terminal|
+|**cp**|Copier des fichiers et des répertoires|
+|**crontab**|Gérer des tâches CRON|
+|**cut**|Supprimer une partie de chaque ligne d'un fichier|
+|**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|
+|**date**|Afficher ou configurer la date et l'heure du système|
+|**deluser**|Supprimer un utilisateur|
+|**df**|Afficher la quantité d'espace occupé par les systèmes de fichiers|
+|**diff**|Trouver les différences entre des fichiers|
+|**dpkg**|Gérer des paquets DEB|
 |**du**|Afficher les statistiques sur l'utilisation du disque|
 |**echo**|Afficher du texte|
 |**fdisk**|Manipuler des tables de partitions|

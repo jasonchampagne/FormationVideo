@@ -55,6 +55,7 @@
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|
 |**less**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|
+|**ln**|Créer des liens entre fichiers|
 |**ls**|Lister (afficher) le contenu d'un répertoire|
 |**man**|Afficher le manuel d'une commande/fonction|
 |**mkdir**|Créer des répertoires|

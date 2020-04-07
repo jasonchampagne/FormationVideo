@@ -46,7 +46,7 @@
 |**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|
 |**hostname**|Afficher le nom d'hôte du système|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|
-|**ifconfig**|_À ne plus employer, préférez l'usage de la commande ip_|
+|**ifconfig**|_à ne plus employer, préférez l'usage de la commande ip_|
 |**ip**|Afficher le routage et les interfaces réseau|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
 |**kill**|Envoyer un signal à un processus|

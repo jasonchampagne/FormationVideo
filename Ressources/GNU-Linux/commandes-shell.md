@@ -46,7 +46,7 @@
 |**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**hostname**|Afficher le nom d'hôte du système|[#26](https://www.youtube.com/watch?v=W25iWpDLt6Q)|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|[#25](https://www.youtube.com/watch?v=I78LksopViE)|
-|**ifconfig**|Afficher et configurer les interfaces réseau|[#27](https://www.youtube.com/watch?v=KGPNP9WggK0)|
+|**ifconfig**|_À ne plus employer, préférez l'usage de la commande ip_|[#27](https://www.youtube.com/watch?v=KGPNP9WggK0)|
 |**ip**|Afficher le routage et les interfaces réseau|[#27](https://www.youtube.com/watch?v=KGPNP9WggK0)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|[#24](https://www.youtube.com/watch?v=kdGaurPWL10)|
 |**kill**|Envoyer un signal à un processus|[#23](https://www.youtube.com/watch?v=hJ0f1Pd-v2Y)|

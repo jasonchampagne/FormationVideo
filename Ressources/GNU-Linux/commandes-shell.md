@@ -56,7 +56,7 @@
 |**ls**|Lister (afficher) le contenu d'un répertoire|
 |**man**|Afficher le manuel d'une commande/fonction|
 |**mkdir**|Créer des répertoires|
-|**mkfs**|Créér un système de fichiers (_peut aussi formater un périphérique de stockage_)|
+|**mkfs**|Créér un système de fichiers (peut aussi formater un périphérique de stockage)|
 |**more**|Se déplacer dans un texte, écran par écran|
 |**mount**|Monter un système de fichiers|
 |**mv**|Déplacer ou renommer un fichier|
@@ -68,17 +68,17 @@
 |**pwd**|Récupérer le nom du répertoire courant|
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
-|**rm**|Effacer des fichiers (_ou répertoires contenant des fichiers_)|
+|**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**sh**|_voir commande “dash”_|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|
-|**su**|Executer un shell avec un User-ID et un Group-ID différents (_ex : root_)|
+|**su**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**sudo**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|
 |**tload**|Afficher graphiquement la charge du système|
-|**top**|Lister les processus (_avec mise à jour toutes les X secondes_)|
-|**touch**|Modifier l'horodatage d'un fichier (_peut aussi en créer_)|
+|**top**|Lister les processus (avec mise à jour toutes les X secondes)|
+|**touch**|Modifier l'horodatage d'un fichier (peut aussi en créer)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|
 |**umount**|Démonter des systèmes de fichiers|
 |**unrar**|Extraire des fichiers compressés dans une archive RAR|

@@ -64,7 +64,7 @@
 |**mount**|Monter un système de fichiers|
 |**mv**|Déplacer ou renommer un fichier|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|
-|**netstat**|Afficher les connexions réseau, tables de routage, statistiques des interfaces, connexions masquées et multicast|
+|**netstat**|Afficher les connexions réseau, tables de routage, statistiques des interfaces, connexions masquées et membres multicast|
 |**nohup**|Exécuter un programme en le rendant insensible aux déconnexions|
 |**passwd**|Modifier le mot de passe d'un utilisateur|
 |**ping**|Envoyer des datagrammes à un hôte sur le réseau|

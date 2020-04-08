@@ -109,4 +109,5 @@ Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolète
 + ifconfig
 + netstat
 + rcp
++ route
 + telnet

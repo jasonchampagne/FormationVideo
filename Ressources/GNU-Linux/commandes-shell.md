@@ -76,6 +76,7 @@
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
+|**sed**|Filtrer et transformer du texte|
 |**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
 |**sh**|_voir commande “dash”_|
 |**sleep**|Endormir le processus pour une durée déterminée|

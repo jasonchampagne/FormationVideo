@@ -107,6 +107,8 @@ Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolète
 + arp
 + ftp
 + ifconfig
++ ifdown
++ ifup
 + iptunnel
 + iwconfig
 + nameif

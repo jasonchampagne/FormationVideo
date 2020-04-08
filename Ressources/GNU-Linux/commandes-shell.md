@@ -38,7 +38,6 @@
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**finger**|Rechercher des informations sur un utilisateur|
 |**free**|Afficher la quantité de mémoire libre et utilisée par le système|
-|**ftp**|⛔ _non sécurisée, préférez l'usage de la commande sftp_|
 |**grep**|Afficher les lignes correspondant à un motif donné|
 |**groups**|Afficher les groupes d'un utilisateur|
 |**gunzip**|Décompacter des fichiers|
@@ -47,7 +46,6 @@
 |**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|
 |**hostname**|Afficher le nom d'hôte du système|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|
-|**ifconfig**|⛔ _plus maintenue, préférez l'usage de la commande ip_|
 |**ip**|Afficher le routage et les interfaces réseau|
 |**iptables**|Filtrer les paquets IP et NAT (pare-feu)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
@@ -64,7 +62,6 @@
 |**mount**|Monter un système de fichiers|
 |**mv**|Déplacer ou renommer un fichier|
 |**nano**|Lancer l'éditeur en ligne de commande **Nano**|
-|**netstat**|Afficher les connexions réseau, tables de routage, statistiques des interfaces, connexions masquées et membres multicast|
 |**nohup**|Exécuter un programme en le rendant insensible aux déconnexions|
 |**passwd**|Modifier le mot de passe d'un utilisateur|
 |**ping**|Envoyer des datagrammes à un hôte sur le réseau|
@@ -72,7 +69,6 @@
 |**pwd**|Récupérer le nom du répertoire courant|
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
-|**rcp**|⛔ _non sécurisée, préférez l'usage de la commande scp_|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
@@ -85,7 +81,6 @@
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**sudo**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|
-|**telnet**|⛔ _non sécurisée, préférez l'usage de la commande ssh_|
 |**tload**|Afficher graphiquement la charge du système|
 |**top**|Lister les processus (avec mise à jour toutes les X secondes)|
 |**touch**|Modifier l'horodatage d'un fichier (peut aussi en créer)|
@@ -104,3 +99,14 @@
 |**who**|Afficher les informations d'un utilisateur|
 |**whois**|Afficher les informations d'un domaine|
 |**zip**|Créer et compresser des archives ZIP|
+
+## Commandes à éviter
+
+Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolètes pour un usage actuel.
+
++ arp
++ ftp
++ ifconfig
++ netstat
++ rcp
++ telnet

@@ -6,7 +6,7 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 + Menu **File** > **Save with encoding** > **UTF-8**
 
-![](https://nsa40.casimages.com/img/2020/04/12/200412123909738020.png)
+![](https://nsa40.casimages.com/img/2020/04/12/200412124150554242.png)
 
 ---
 

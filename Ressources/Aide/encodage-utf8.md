@@ -11,6 +11,14 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ## [Notepad++](https://notepad-plus-plus.org/)
 
++ Menu **Encodage** > **Convertir en UTF-8**
+
+![](https://nsa40.casimages.com/img/2020/04/12/200412124716700527.png)
+
++ Vérifiez en bas à droite de l'éditeur que **UTF-8** est bien affiché
+
+![](https://nsa40.casimages.com/img/2020/04/12/200412124806941409.png)
+
 ---
 
 ## [Sublime Text](https://www.sublimetext.com/)

@@ -11,6 +11,14 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ---
 
+## [Atom](https://atom.io/)
+
+---
+
+## [Brackets](http://brackets.io/)
+
+---
+
 ## [Notepad++](https://notepad-plus-plus.org/)
 
 + Menu **Encodage** > **Convertir en UTF-8**

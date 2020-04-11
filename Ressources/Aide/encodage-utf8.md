@@ -13,6 +13,14 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ## [Atom](https://atom.io/)
 
++ Cliquez en bas à droite sur l'encodage actuellement spécifié
+
+![](https://nsa40.casimages.com/img/2020/04/12/200412010307424368.png)
+
++ Cliquez sur **UTF-8**
+
+![](https://nsa40.casimages.com/img/2020/04/12/200412010319962050.png)
+
 ---
 
 ## [Brackets](http://brackets.io/)

@@ -4,6 +4,7 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 **SOMMAIRE**
 + [Atom](#atom)
++ [Brackets](#brackets)
 + [Notepad++](#notepad)
 + [Sublime Text](#sublime-text)
 + [Visual Studio Code](#visual-studio-code)

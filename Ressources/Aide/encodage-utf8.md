@@ -4,7 +4,9 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ## [Sublime Text](https://www.sublimetext.com/)
 
-+ Menu **File** > **Save with encoding** > UTF-8
++ Menu **File** > **Save with encoding** > **UTF-8**
+
+![](https://nsa40.casimages.com/img/2020/04/12/200412123909738020.png)
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
 

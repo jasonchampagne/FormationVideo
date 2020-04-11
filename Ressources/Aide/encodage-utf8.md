@@ -25,6 +25,10 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ## [Brackets](http://brackets.io/)
 
++ Cliquez en bas à droite sur l'encodage actuellement spécifié et sélectionnez **UTF-8**
+
+![](https://nsa40.casimages.com/img/2020/04/12/200412010842977345.png)
+
 ---
 
 ## [Notepad++](https://notepad-plus-plus.org/)

@@ -43,3 +43,7 @@ Comme je le répète très souvent sur les formations, il est important de trava
 + Cliquez sur **UTF-8**
 
 ![Encodage UTF-8](https://nsa40.casimages.com/img/2020/04/12/200412123720335304.png)
+
+---
+
+Et pour les autres éditeurs, débrouillez-vous 🙃

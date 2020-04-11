@@ -9,6 +9,10 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ---
 
+## [Notepad++](https://notepad-plus-plus.org/)
+
+---
+
 ## [Sublime Text](https://www.sublimetext.com/)
 
 + Menu **File** > **Save with encoding** > **UTF-8**

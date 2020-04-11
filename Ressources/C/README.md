@@ -6,8 +6,8 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|FlushInputBuffer|Fonction de vidage du tampon d'entrée (stdin)|
 |dlist|Code source d'une Liste doublement chaînée (entiers)|
+|flush-stdin-buffer|Fonction de vidage du tampon de lecture|
 |list|Code source d'une Liste (entiers)|
 |mots-reserves|Mots-clés réservés et utilisés par le langage|
 |schema-file|Schéma d'une File (structure de données)|

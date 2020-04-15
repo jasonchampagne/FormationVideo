@@ -22,3 +22,4 @@
 + [AIDE - programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
 + [AIDE - programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)
 + [AIDE - sécuriser ses mots de passe (KeePass)](https://www.youtube.com/watch?v=oG3QSXRCuvE)
++ [AIDE - Visual Studio Code](https://www.youtube.com/watch?v=eQUsUq_2AQU)

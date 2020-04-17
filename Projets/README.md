@@ -1,6 +1,6 @@
 # Projets communautaires
 
-Afin de vous aider à mettre en application tout ce que vous avez appris et pour vous exercer, des projets vous sont proposés régulièrement sur cette page, communiqués sur [Discord](https://discord.me/jasonchampagne) et les [réseaux sociaux](https://jasonchampagne.fr/liens).
+Afin de vous aider à mettre en application tout ce que vous avez appris et pour vous exercer, des projets vous sont proposés régulièrement sur cette page, mais aussi communiqués sur [Discord](https://discord.me/jasonchampagne) et les [réseaux sociaux](https://jasonchampagne.fr/liens).
 
 > **NOTE** : Rien n'est imposé et chacun est libre de participer aux projets qu'il souhaite
 

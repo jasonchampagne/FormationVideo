@@ -17,7 +17,7 @@ Le déroulement de ce type de projet est le suivant :
 
 Vous pouvez participer activement à la réalisation de ces projets, ou assister simplement aux lives en tant que spectateur pour regarder ce qui se fait, nul doute que cela peut vous être profitable.
 
-N'hésitez pas à suivre la chaîne pour l'aider à se développer ! 🙂
+N'hésitez pas à suivre la chaîne et en parler autour de vous pour qu'elle se développe comme la chaîne YouTube ! 🙂
 
 ## Projets autonomes
 

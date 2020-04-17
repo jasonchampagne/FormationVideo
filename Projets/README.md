@@ -6,7 +6,7 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 > **NOTE** : Rien n'est imposé et chacun est libre de participer aux projets de son choix
 
-**SOMMAIER**
+**SOMMAIRE**
 + [**Types de projets**](#types-de-projets)
   + [Interactifs](#interactifs)
   + [Autonomes](#autonomes)

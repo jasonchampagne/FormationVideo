@@ -11,6 +11,9 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
   + [Interactifs](#interactifs)
   + [Autonomes](#autonomes)
 + [**Pour vous aider**](#pour-vous-aider)
+  + [Discord](#discord)
+  + [Lives](#lives)
+  + [Réseaux sociaux](#réseaux-sociaux)
 
 ---
 
@@ -42,3 +45,11 @@ Ici, le but est de vous donner des idées et d'apprendre à travailler de maniè
 ---
 
 ## Pour vous aider
+
+### Discord
+
+Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projets-commu** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce cnal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
+
+### Lives
+
+### Réseaux sociaux

@@ -32,7 +32,7 @@ Le déroulement de ce type de projet est le suivant :
 
 Vous pouvez participer activement à la réalisation de ces projets, ou assister simplement aux lives en tant que spectateur pour regarder ce qui se fait, nul doute que cela peut vous être profitable.
 
-N'hésitez pas à suivre la chaîne et en parler autour de vous pour qu'elle se développe (comme la chaîne YouTube) ! 🙂
+N'hésitez pas à suivre la chaîne et en parler autour de vous pour qu'elle se développe (comme la chaîne YouTube) ! 💙
 
 ### Autonomes
 
@@ -56,4 +56,4 @@ Que ce soit sur les lives où se déroulent les projets interactifs ou les lives
 
 ### Réseaux sociaux
 
-Et bien évidemment, je reste encore et toujours disponible sur les réseaux sociaux. Pensez à m'ajouter et/ou me suivre sur Twitter, Facebook, Instagram ou encore Snapchat.
+Et bien évidemment, je reste encore et toujours disponible sur les réseaux sociaux, si vous avez des questions sur le déroulement de ces **projets communautaires**. Pensez à m'ajouter et/ou me suivre sur Twitter, Facebook, Instagram ou encore Snapchat - je ne mords pas 😉

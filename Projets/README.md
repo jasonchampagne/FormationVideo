@@ -8,15 +8,15 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne), généralement de 21h30 à minuit (voir [planning](https://jasonchampagne.fr/planning) mis à jour chaque semaine).
 
-N'hésitez pas à suivre la chaîne pour l'aider à se développer et en faire profiter d'autres internautes. Que ce soit pour participer activement ou venir en tant que spectateur regarder les lives, vous êtes les bienvenu(e)s !
-
 Le déroulement de ce type de projet est le suivant :
 
 + Un sujet vous est proposé.
 + Depuis le tchat de discussion, vous jouez le rôle d'enseignants pour expliquer les notions, donner les directives, vous concerter entre vous, réfléchir sur la démarche à adopter.
 + De mon côté, je joue le rôle d'un débutant qui suit vos indications de manière interactive pour réaliser le projet.
 
-...
+Vous pouvez participer activement à la réalisation de ces projets, ou assister simplement aux lives en tant que spectateur pour regarder ce qui se fait, nul doute que cela pourra vous être profitable.
+
+N'hésitez pas à suivre la chaîne pour l'aider à se développer et en faire profiter d'autres internautes ! 🙂
 
 ## Projets autonomes
 

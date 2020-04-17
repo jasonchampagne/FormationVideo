@@ -52,7 +52,7 @@ Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projet
 
 ### Lives
 
-Que ce soit sur les lives où se déroulent les projets interactifs ou d'autres lives où je fais d'autres activités (gaming, musique, discussions, ...), vous pouvez à tout moment venir discuter et demander des indications si vous êtes en train de travailler sur un projet autonome.
+Que ce soit sur les lives où se déroulent les projets interactifs ou les lives où je fais d'autres activités (gaming, musique, discussions, ...), vous pouvez à tout moment venir discuter et demander des indications si vous êtes en train de travailler sur un projet autonome.
 
 ### Réseaux sociaux
 

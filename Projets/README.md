@@ -8,7 +8,7 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne), n'hésitez pas à suivre la chaîne pour l'aider à se développer !
 
-!(https://nsa40.casimages.com/img/2020/04/17/200417041450575688.png)
+![](https://nsa40.casimages.com/img/2020/04/17/200417041450575688.png)
 
 ## Projets autonomes
 

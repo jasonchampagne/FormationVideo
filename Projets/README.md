@@ -11,8 +11,8 @@ Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.tw
 Le déroulement de ce type de projet est le suivant :
 
 + Un sujet vous est proposé.
-+ Depuis le tchat de discussion, vous jouez le rôle d'enseignants pour expliquer les notions, donner les directives
-+ De mon côté, je joue le rôle d'un débutant qui suit vos indications de manière interactive pour réaliser le projet
++ Depuis le tchat de discussion, vous jouez le rôle d'enseignants pour expliquer les notions, donner les directives, vous concerter entre vous, réfléchir sur la démarche à adopter.
++ De mon côté, je joue le rôle d'un débutant qui suit vos indications de manière interactive pour réaliser le projet.
 
 ...
 

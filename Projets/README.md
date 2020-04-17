@@ -4,7 +4,9 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 > **NOTE** : Rien n'est imposé et chacun est libre de participer aux projets de son choix
 
-## Projets interfactifs
+## Types de projets
+
+### Interactifs
 
 Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne), généralement de 21h30 à minuit (voir [planning](https://jasonchampagne.fr/planning) mis à jour chaque semaine).
 
@@ -17,8 +19,14 @@ Le déroulement de ce type de projet est le suivant :
 
 Vous pouvez participer activement à la réalisation de ces projets, ou assister simplement aux lives en tant que spectateur pour regarder ce qui se fait, nul doute que cela peut vous être profitable.
 
-N'hésitez pas à suivre la chaîne et en parler autour de vous pour qu'elle se développe comme la chaîne YouTube ! 🙂
+N'hésitez pas à suivre la chaîne et en parler autour de vous pour qu'elle se développe (comme la chaîne YouTube) ! 🙂
 
-## Projets autonomes
+### Autonomes
 
-En cours...
+Ces projets vous sont proposé avec un sujet (de présentation), un guide de démarrage et d'éventuelles ressources si cela s'avère nécessaire.
+
+Il s'agit pour commencer de projets en programmation, sur divers thèmes et différents langages. Mais plus tard, d'autres sujets sur d'autres domaines seront également proposés (dessin, montage audio, ...)
+
+Ici, le but est de vous donner des idées et d'apprendre à travailler de manière autonome. Soit en étant seul dans votre coin, soit en constituant une petite équipe auprès d'autres personnes de la communauté.
+
+## Pour vous aider

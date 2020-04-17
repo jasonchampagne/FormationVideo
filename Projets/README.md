@@ -15,7 +15,7 @@ Le déroulement de ce type de projet est le suivant :
 + De mon côté, je joue le rôle d'un débutant qui suit vos indications de manière interactive pour réaliser le projet.
 + Une fois celui-ci terminé, il est distribué à l'ensemble de la communauté et vous appartient.
 
-Vous pouvez participer activement à la réalisation de ces projets, ou assister simplement aux lives en tant que spectateur pour regarder ce qui se fait, nul doute que cela pourra vous être profitable.
+Vous pouvez participer activement à la réalisation de ces projets, ou assister simplement aux lives en tant que spectateur pour regarder ce qui se fait, nul doute que cela peut vous être profitable.
 
 N'hésitez pas à suivre la chaîne pour l'aider à se développer et en faire profiter d'autres internautes ! 🙂
 

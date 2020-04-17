@@ -6,7 +6,7 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 ## Projets interfactifs
 
-Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne), n'hésitez pas à suivre la chaîne pour l'aider à se développer et en faire profiter d'autres internautes. Que ce soit pour participer activement ou venir en tant que spectateur regarder les lives, vous êtes les bienvenu(e)s !
+Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne) (généralement de 21h30 à minuit - voir [planning](https://jasonchampagne.fr/planning) mis à jour chaque semaine), n'hésitez pas à suivre la chaîne pour l'aider à se développer et en faire profiter d'autres internautes. Que ce soit pour participer activement ou venir en tant que spectateur regarder les lives, vous êtes les bienvenu(e)s !
 
 Le déroulement de ce type de projet est le suivant :
 

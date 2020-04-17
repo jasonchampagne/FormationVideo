@@ -4,6 +4,8 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 > **NOTE** : Rien n'est imposé et chacun est libre de participer aux projets de son choix
 
+---
+
 ## Types de projets
 
 ### Interactifs
@@ -28,5 +30,7 @@ Ces projets vous sont proposé avec un sujet (de présentation), un guide de dé
 Il s'agit pour commencer de projets en programmation, sur divers thèmes et différents langages. Mais plus tard, d'autres sujets sur d'autres domaines seront également proposés (dessin, montage audio, ...)
 
 Ici, le but est de vous donner des idées et d'apprendre à travailler de manière autonome. Soit en étant seul dans votre coin, soit en constituant une petite équipe auprès d'autres personnes de la communauté.
+
+---
 
 ## Pour vous aider

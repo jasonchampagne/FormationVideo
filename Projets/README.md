@@ -48,8 +48,12 @@ Ici, le but est de vous donner des idées et d'apprendre à travailler de maniè
 
 ### Discord
 
-Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projets-commu** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce cnal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
+Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projets-commu** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce canal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
 
 ### Lives
 
+Que ce soit sur les lives où se déroulent les projets interactifs ou d'autres lives où je fais d'autres activités (gaming, musique, discussions, ...), vous pouvez à tout moment venir discuter et demander des indications si vous êtes en train de travailler sur un projet autonome.
+
 ### Réseaux sociaux
+
+Et bien évidemment, je reste encore et toujours disponible sur les réseaux sociaux. Pensez à m'ajouter et/ou me suivre sur Twitter, Facebook, Instagram ou encore Snapchat.

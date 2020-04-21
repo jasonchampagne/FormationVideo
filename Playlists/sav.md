@@ -4,6 +4,7 @@
 
 ---
 
++ [CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80)
 + [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE)
 + [No such file or directory](https://www.youtube.com/watch?v=ymzo7cGvxlo)
 + [Pourquoi utiliser la ligne de commande](https://www.youtube.com/watch?v=hre1w-mZF6k)

@@ -1,6 +1,8 @@
 # Projets interactifs
 
-> Retrouvez ici la rediffusion des lives (par sessions) sur les différents projets réalisés par la communauté
+Retrouvez ici la rediffusion des lives (par sessions) sur les différents projets réalisés par la communauté.
+
+> Un clic sur le nom du projet redirige vers le PDF de présentation de celui-ci)
 
 # [Tomo](https://github.com/jasonchampagne/FormationVideo/blob/master/Projets/Interactifs/01-tomo.pdf)
 

@@ -1,6 +1,6 @@
 # Projets interactifs
 
-Retrouvez ici la rediffusion des lives (par sessions) sur les différents projets réalisés par la communauté.
+Retrouvez ici la rediffusion des lives (sessions) sur les différents projets réalisés par la communauté.
 
 > _Un clic sur le nom du projet redirige vers le PDF de présentation de celui-ci_
 

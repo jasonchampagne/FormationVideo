@@ -36,7 +36,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-| Algorithmie | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md) | - | - |
-|-|ASM (fin avril)|-|-|-|
+|-|ASM|bientôt ! 😉|-|-|
 |✔️| C | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md) |
 |-| C++ | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md) | - |
 |-| C# | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md) | - | - |

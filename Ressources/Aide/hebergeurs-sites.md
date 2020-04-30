@@ -7,6 +7,7 @@
 |[**000webhost**](https://fr.000webhost.com/)|Brésil, Indonésie, Lithuanie|✔/❌|
 |[**AlwaysData**](https://www.alwaysdata.com/fr/)|France|✔/❌|
 |[**Ex2**](https://www.ex2.com/)|Canada|❌|
+|[**Free**](https://subscribe.free.fr/accesgratuit/)|France|✔|
 |[**GitHub Pages**](https://pages.github.com/)|États-Unis|✔|
 |[**Hostinger**](https://www.hostinger.fr/)|Brésil, Indonésie, Lithuanie|❌|
 |[**Ikoula**](https://www.ikoula.com/fr)|France|❌|

@@ -4,8 +4,10 @@
 
 |NOM|SIÈGE SOCIAL|GRATUIT ?|
 |:--:|:--:|:--:|
+|[**000webhost**](https://fr.000webhost.com/)|Brésil, Indonésie, Lithuanie|✔/❌|
 |[**Ex2**](https://www.ex2.com/)|Canada|❌|
 |[**GitHub Pages**](https://pages.github.com/)|États-Unis|✔|
+|[**Hostinger**](https://www.hostinger.fr/)|Brésil, Indonésie, Lithuanie|❌|
 |[**Ikoula**](https://www.ikoula.com/fr)|France|❌|
 |[**Infomaniak**](https://www.infomaniak.com/fr)|Suisse|❌|
 |[**Netlify**](https://www.netlify.com/)|États-Unis|✔/❌|

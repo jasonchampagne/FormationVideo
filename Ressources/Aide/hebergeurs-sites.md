@@ -5,6 +5,7 @@
 |NOM|SIÈGE SOCIAL|GRATUIT ?|
 |:--:|:--:|:--:|
 |[**Ex2**](https://www.ex2.com/)|Canada|❌|
+|[**GitHub Pages**](https://pages.github.com/)|États-Unis|✔|
 |[**Ikoula**](https://www.ikoula.com/fr)|France|❌|
 |[**Infomaniak**](https://www.infomaniak.com/fr)|Suisse|❌|
 |[**Netlify**](https://www.netlify.com/)|États-Unis|✔/❌|

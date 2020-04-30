@@ -8,4 +8,5 @@
 |:--|:--|
 |caracteres-speciaux|Caractères spéciaux utiles en informatique|
 |encodage-utf8|Encoder vos fichiers en UTF-8 depuis votre éditeur|
+|hebergeurs-sites|Liste d'hébergeurs pour vos sites internet|
 |liste-langages|Liste de langages de programmation ou de requête|

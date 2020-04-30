@@ -12,6 +12,7 @@
 |[**Hostinger**](https://www.hostinger.fr/)|Brésil, Indonésie, Lithuanie|❌|
 |[**Ikoula**](https://www.ikoula.com/fr)|France|❌|
 |[**Infomaniak**](https://www.infomaniak.com/fr)|Suisse|❌|
+|[**IONOS (1&1)**](https://www.ionos.fr/)|Allemagne|❌|
 |[**LesCigales**](http://www.lescigales.org/)|France|✔/❌|
 |[**Netlify**](https://www.netlify.com/)|États-Unis|✔/❌|
 |[**Nuxit**](https://www.nuxit.com/)|France|❌|

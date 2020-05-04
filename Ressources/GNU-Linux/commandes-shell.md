@@ -46,7 +46,7 @@
 |**host**|Chercher des noms de machine à l'aide d'un serveur de domaine|
 |**hostname**|Afficher le nom d'hôte du système|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|
-|**ip**|Afficher le routage et les interfaces réseau|
+|**ip**|Afficher et configurer les interface réseau ou le routage|
 |**iptables**|Filtrer les paquets IP et NAT (pare-feu)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
 |**kill**|Envoyer un signal à un processus|

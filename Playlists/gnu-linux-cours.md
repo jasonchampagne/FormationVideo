@@ -30,4 +30,5 @@
 + [24. Planification de tâches](https://www.youtube.com/watch?v=kdGaurPWL10)
 + [25. Environnement multi-utilisateurs](https://www.youtube.com/watch?v=I78LksopViE)
 + [26. Informations réseau](https://www.youtube.com/watch?v=W25iWpDLt6Q)
-+ [27. Configuration interfaces](https://www.youtube.com/watch?v=KGPNP9WggK0)
++ [27. Configuration netplan](https://www.youtube.com/watch?v=KGPNP9WggK0)
++ [28. Réseau et routage](---)

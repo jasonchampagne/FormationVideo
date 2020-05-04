@@ -47,6 +47,7 @@
 |**hostname**|Afficher le nom d'hôte du système|
 |**id**|Afficher les UIDs et GIDs d'un utilisateur|
 |**ip**|Afficher/manipuler le routage, les périphériques réseau, les interfaces et les tunnels|
+|**iw**|Afficher/manipuler les appareils sans fil et leur configuration|
 |**iptables**|Filtrer les paquets IP et NAT (pare-feu)|
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
 |**kill**|Envoyer un signal à un processus|

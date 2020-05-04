@@ -40,39 +40,39 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ### Programmation / Web / bases de données
 
-| / | NOM | COURS | TUTORIELS | EXERCICES |
+|/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-| Algorithmie | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md) | - | - |
+|-|Algorithmie|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-|-|
 |-|Assembleur|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|-|-|
-|✔️| C | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md) |
-|-| C++ | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md) | - |
-|-| C# | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md) | - | - |
-|✔️| HTML/CSS | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md) |
-|-| Hacking | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/hacking-cours.md) ([suite plus tard](https://jasonchampagne.fr/issou.html)) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/hacking-tutoriels.md) | - |
-|-| Java | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md) | - |
-|-| JavaScript | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md) | - | - |
-|✔️| PHP | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md) | - |
-|✔️| Python | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md) |
-|✔️| SQL | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md) | - | - |
+|✔️|C|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
+|-|C++|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)|-|
+|-|C#|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|-|-|
+|✔️|HTML/CSS|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
+|-|Hacking|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/hacking-cours.md) ([suite plus tard](https://jasonchampagne.fr/issou.html))|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/hacking-tutoriels.md)|-|
+|-|Java|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)|-|
+|-|JavaScript|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|-|-|
+|✔️|PHP|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)|-|
+|✔️|Python|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
+|✔️|SQL|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|-|-|
 
 ### Systèmes et réseaux
 
-| / | NOM | COURS | TUTORIELS | EXERCICES |
+|/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-| GNU/Linux | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md) | - | - |
-|-| Windows | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md) | - |
+|-|GNU/Linux|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|-|-|
+|-|Windows|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)|-|
 
 > Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell.
 
 ### Image, audio et vidéo
 
-| / | NOM | COURS | TUTORIELS | EXERCICES |
+|/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-| Piano | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md) | - | - |
+|-|Piano|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)|-|-|
 
 ### Langues
 
-| / | NOM | COURS | TUTORIELS | EXERCICES |
+|/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |-|Japonais|en préparation|-|-|
 

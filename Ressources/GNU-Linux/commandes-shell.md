@@ -1,7 +1,7 @@
 # Commandes Shell
 
 |NOM|DESCRIPTION|
-|:--|:--|
+|:--:|:--|
 |**addgroup**|Ajouter un nouveau groupe|
 |**adduser**|Ajouter un nouvel utilisateur|
 |**apropos**|Chercher le nom et la description des pages de manuel|

@@ -31,4 +31,4 @@
 + [25. Environnement multi-utilisateurs](https://www.youtube.com/watch?v=I78LksopViE)
 + [26. Informations réseau](https://www.youtube.com/watch?v=W25iWpDLt6Q)
 + [27. Configuration netplan](https://www.youtube.com/watch?v=KGPNP9WggK0)
-+ [28. Réseau et routage](---)
++ [28. Réseau et routage](https://www.youtube.com/watch?v=v4MS4g03vsY)

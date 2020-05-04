@@ -31,6 +31,13 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 > **LES COURS TERMINÉS SONT INDIQUÉS AVEC UNE ✔️**
 
+### Général
+
+| NOM | CONTENU |
+|:--:|:--:|
+|AIDE|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
+|SAV|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
+
 ### Programmation / Web / bases de données
 
 | / | NOM | COURS | TUTORIELS | EXERCICES |
@@ -68,13 +75,6 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 | / | NOM | COURS | TUTORIELS | EXERCICES |
 |:--:|:--:|:--:|:--:|:--:|
 |-|Japonais|en préparation|-|-|
-
-### Divers
-
-| NOM | CONTENU |
-|:--:|:--:|
-| AIDE | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md) |
-| SAV | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md) |
 
 ---
 

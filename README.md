@@ -33,10 +33,10 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ### Général
 
-| NOM | CONTENU |
-|:--:|:--:|
-|AIDE|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
-|SAV|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
+|NOM|DESCRIPTION|CONTENU|
+|:--:|:--:|:--:|
+|AIDE|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
+|SAV|Dépannage sur des problèmes récurrents (Service Après Visionnage)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
 
 ### Programmation / Web / bases de données
 

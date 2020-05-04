@@ -74,7 +74,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-|Japonais|en préparation|-|-|
+|-|Japonais|(en préparation)|-|-|
 
 ---
 

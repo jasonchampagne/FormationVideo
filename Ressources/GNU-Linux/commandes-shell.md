@@ -102,7 +102,7 @@
 
 ## Commandes à éviter
 
-Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolètes pour un usage actuel.
+Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolètes :
 
 + arp
 + ftp

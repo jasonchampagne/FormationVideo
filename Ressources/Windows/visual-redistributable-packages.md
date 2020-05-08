@@ -2,7 +2,7 @@
 
 Pour fonctionner correctement, certains logiciels et jeux vidéo sur Windows demandent l'installation de _Visual C++ Redistribuable Packages_. Selon la version demandée, et l'architecture de votre machine, voici quelques liens (officiels) vers ces derniers.
 
-Si vous ne connaissez pas l'architecture de votre système Windows, ouvrez un terminal (_cmd.exe ou Powershell depuis le menu Démarrer_), tapez la commande suivante et faîtes [Entrée] :
+Si vous ne connaissez pas l'architecture de votre système Windows, ouvrez un terminal (_cmd.exe ou Powershell depuis le menu Démarrer_), tapez la commande suivante et faîtes `Entrée` :
 
 ```bat
 systeminfo

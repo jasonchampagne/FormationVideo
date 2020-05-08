@@ -10,8 +10,8 @@ systeminfo
 
 Cherchez la ligne **Type du système** :
 
-+ Si elle indique x86-based, votre système est en 32-bits
-+ Si elle indique x64-based, votre système est en 64-bits
++ Si elle indique **x86-based**, votre système est en 32-bits
++ Si elle indique **x64-based**, votre système est en 64-bits
 
 ---
 

@@ -12,3 +12,4 @@
 + [6. Boucles](https://www.youtube.com/watch?v=mYXaFHKXku0)
 + [7. Fonctions](https://www.youtube.com/watch?v=RUT2fr28YYg)
 + [8. Programmation objet](https://www.youtube.com/watch?v=cnnhogixcI0)
++ [9. Prototypes et classes](https://www.youtube.com/watch?v=_Ilj_unoqvA)

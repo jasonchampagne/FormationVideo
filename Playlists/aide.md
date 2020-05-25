@@ -18,6 +18,7 @@
 + [AIDE - mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
 + [AIDE - paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q)
 + [AIDE - partager du code (Pastebin)](https://www.youtube.com/watch?v=brvwCwfF0U0)
++ [AIDE - programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I)
 + [AIDE - programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
 + [AIDE - programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
 + [AIDE - programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)

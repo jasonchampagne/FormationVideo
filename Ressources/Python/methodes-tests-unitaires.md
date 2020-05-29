@@ -2,6 +2,14 @@
 
 Quelques méthodes disponibles avec le [module unittest](https://docs.python.org/3/library/unittest.html#unittest.TestCase) de Python pour effectuer vos tests unitaires.
 
+---
+
+Vérifie que a soit égal à b :
+
+```python
+assertEqual(a, b)
+```
+
 |Méthode|Vérification effectuée|
 |:--|:--|
 |assertEqual(a, b)|a est égal à b|

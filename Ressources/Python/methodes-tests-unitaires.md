@@ -23,26 +23,9 @@ assertNotIsInstance(a, ClassName) # not isinstance(a, ClassName)
 ```
 ---
 
-Vérifie que l'appel à la fonction génère une exception :
-
 ```python
 assertRaises(exception, function, *args, **kwargs)
-```
-
-Vérifie que l'appel à la fonction génère une exception + valide l'expression rationnelle :
-
-```python
 assertRaisesRegex(exception, regex, function, *args, **kwargs)
-```
-
-Vérifie que l'appel à la fonction génère un avertissement :
-
-```python
 assertWarns(warning, function, *args, **kwargs)
-```
-
-Vérifie que l'appel à la fonction génère un avertissement + valide l'expression rationnelle :
-
-```python
 assertWarnsRegex(exception, regex, function, *args, **kwargs)
 ```

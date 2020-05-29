@@ -7,78 +7,25 @@ Quelques méthodes disponibles avec le [module unittest](https://docs.python.org
 Vérifie `a is True` :
 
 ```python
-assertTrue(a)
+assertTrue(a) # a is True
+assertFalse(a) # a is False
+
+assertEqual(a, b) # a == b
+assertNotEqual(a, b) # a != b
+
+assertIs(a, b) # a is b
+assertIsNot(a, b) # a is not b
+
+assertIsNone(a) # a is None
+assertIsNotNone(a) # a is not None
+
+assertIn(a, b) # a in b
+assertNotIn(a, b) # a not in b
+
+assertIsInstance(a, ClassName) # isinstance(a, ClassName)
+assertNotIsInstance(a, ClassName) # not isinstance(a, ClassName)
 ```
-
-Vérifie `a is False` :
-
-```python
-assertFalse(a)
-```
-
-Vérifie `a == b` :
-
-```python
-assertEqual(a, b)
-```
-
-Vérifie `a != b` :
-
-```python
-assertNotEqual(a, b)
-```
-
-Vérifie `a is b` :
-
-```python
-assertIs(a, b)
-```
-
-Vérifie `a is not b` :
-
-```python
-assertIsNot(a, b)
-```
-
-Vérifie `a is None` :
-
-```python
-assertIsNone(a, b)
-```
-
-Vérifie `a is not None` :
-
-```python
-assertIsNotNone(a, b)
-```
-
-Vérifie `a in b` :
-
-```python
-assertIn(a, b)
-```
-
-Vérifie `a not in b` :
-
-```python
-assertNotIn(a, b)
-```
-
-Vérifie `isinstance(a, ClassName)` :
-
-```python
-assertIsInstance(a, ClassName)
-```
-
-Vérifie `not isinstance(a, ClassName)` :
-
-```python
-assertNotIsInstance(a, ClassName)
-```
-
 ---
-
-## Exceptions et avertissements
 
 Vérifie que l'appel à la fonction génère une exception :
 

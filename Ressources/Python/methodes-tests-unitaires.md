@@ -52,6 +52,30 @@ Vérifie `a is not None` :
 assertIsNotNone(a, b)
 ```
 
+Vérifie `a in b` :
+
+```python
+assertIn(a, b)
+```
+
+Vérifie `a not in b` :
+
+```python
+assertNotIn(a, b)
+```
+
+Vérifie `isinstance(a, ClassName)` :
+
+```python
+assertIsInstance(a, ClassName)
+```
+
+Vérifie `not isinstance(a, ClassName)` :
+
+```python
+assertNotIsInstance(a, ClassName)
+```
+
 ---
 
 ## Exceptions et avertissements
@@ -73,10 +97,3 @@ Vérifie que l'appel à la fonction génère un avertissement :
 ```python
 assertWarns(warning, function, *args, **kwargs)
 ```
-
-|Méthode|Vérification effectuée|
-|:--|:--|
-|assertIn(a, b)|a in b|
-|assertIsInstance(a, b)|isinstance(a, b)|
-|assertNotIn(a, b)|a not in b|
-|assertNotIsInstance(a, b)|no isinstance(a, b)|

@@ -7,3 +7,4 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |methodes-speciales|Méthodes spéciales|
+|methodes-tests-unitaires|Méthodes usuelles pour les tests unitaires (module unittest)|

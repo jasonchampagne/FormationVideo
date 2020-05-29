@@ -97,3 +97,9 @@ Vérifie que l'appel à la fonction génère un avertissement :
 ```python
 assertWarns(warning, function, *args, **kwargs)
 ```
+
+Vérifie que l'appel à la fonction génère un avertissement + valide l'expression rationnelle :
+
+```python
+assertWarnsRegex(exception, regex, function, *args, **kwargs)
+```

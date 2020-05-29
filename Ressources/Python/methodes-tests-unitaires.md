@@ -2,10 +2,6 @@
 
 Quelques méthodes disponibles avec le [module unittest](https://docs.python.org/3/library/unittest.html#unittest.TestCase) de Python pour effectuer vos tests unitaires.
 
-## Comparaisons
-
-Vérifie `a is True` :
-
 ```python
 assertTrue(a) # a is True
 assertFalse(a) # a is False

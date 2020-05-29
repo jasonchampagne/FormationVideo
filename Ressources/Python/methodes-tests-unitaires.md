@@ -15,5 +15,5 @@ Quelques méthodes disponibles avec le [module unittest](https://docs.python.org
 |assertNotEqual(a, b)|a != b|
 |assertNotIn(a, b)|a not in b|
 |assertNotIsInstance(a, b)|no isinstance(a, b)|
-|assertRaises(exception_type, some_function, \*args, \*\*kwargs)|some_function(\*args, \*\*kwargs) lève une _exception_type_ exception|
+|assertRaises(exception_type, some_function, \*args, \*\*kwargs)|some_function(\*args, \*\*kwargs) lève une _exception_type_|
 |assertTrue(a)|bool(a) is True|

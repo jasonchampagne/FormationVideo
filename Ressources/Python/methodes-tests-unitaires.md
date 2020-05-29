@@ -4,7 +4,7 @@ Quelques méthodes disponibles avec le [module unittest](https://docs.python.org
 
 |Méthode|Vérification effectuée|
 |:--|:--|
-|assertEqual(a, b)|a == b|
+|assertEqual(a, b)|a est égal à b|
 |assertFalse(a)|bool(a) is False|
 |assertIn(a, b)|a in b|
 |assertIs(a, b)|a is b|
@@ -16,6 +16,6 @@ Quelques méthodes disponibles avec le [module unittest](https://docs.python.org
 |assertNotIn(a, b)|a not in b|
 |assertNotIsInstance(a, b)|no isinstance(a, b)|
 |assertRaises(exc, func, \*args, \*\*kwargs)|func(\*args, \*\*kwargs) génère une exception|
-|assertRaisesRegex(exc, reg, func, \*args, \*\*kwargs)|func(\*args, \*\*kwargs) génère une exception et valide l'expression rationnelle _reg_|
+|assertRaisesRegex(exc, reg, func, \*args, \*\*kwargs)|func(\*args, \*\*kwargs) génère une exception et valide l'expression rationnelle|
 |assertTrue(a)|bool(a) is True|
 |assertWarns(war, func, \*args, \*\*kwargs)|func(\*args, \*\*kwargs) génère un avertissement|

@@ -4,7 +4,7 @@ Quelques méthodes disponibles avec le [module unittest](https://docs.python.org
 
 ## Comparaisons
 
-Vérifie que a soit égal à b :
+Vérifie `a == b` :
 
 ```python
 assertEqual(a, b)

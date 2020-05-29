@@ -28,6 +28,30 @@ Vérifie `a != b` :
 assertNotEqual(a, b)
 ```
 
+Vérifie `a is b` :
+
+```python
+assertIs(a, b)
+```
+
+Vérifie `a is not b` :
+
+```python
+assertIsNot(a, b)
+```
+
+Vérifie `a is None` :
+
+```python
+assertIsNone(a, b)
+```
+
+Vérifie `a is not None` :
+
+```python
+assertIsNotNone(a, b)
+```
+
 ---
 
 ## Exceptions et avertissements
@@ -53,10 +77,6 @@ assertWarns(warning, function, *args, **kwargs)
 |Méthode|Vérification effectuée|
 |:--|:--|
 |assertIn(a, b)|a in b|
-|assertIs(a, b)|a is b|
 |assertIsInstance(a, b)|isinstance(a, b)|
-|assertIsNone(a)|a is None|
-|assertIsNot(a, b)|a is not b|
-|assertIsNotNone(a)|a is not None|
 |assertNotIn(a, b)|a not in b|
 |assertNotIsInstance(a, b)|no isinstance(a, b)|

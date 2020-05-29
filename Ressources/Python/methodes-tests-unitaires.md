@@ -28,7 +28,27 @@ Vérifie `a != b` :
 assertNotEqual(a, b)
 ```
 
+---
+
 ## Exceptions et avertissements
+
+Vérifie que l'appel à la fonction génère une exception :
+
+```python
+assertRaises(exception, function, *args, **kwargs)
+```
+
+Vérifie que l'appel à la fonction génère une exception + valide l'expression rationnelle :
+
+```python
+assertRaisesRegex(exception, regex, function, *args, **kwargs)
+```
+
+Vérifie que l'appel à la fonction génère un avertissement :
+
+```python
+assertWarns(warning, function, *args, **kwargs)
+```
 
 |Méthode|Vérification effectuée|
 |:--|:--|
@@ -40,6 +60,3 @@ assertNotEqual(a, b)
 |assertIsNotNone(a)|a is not None|
 |assertNotIn(a, b)|a not in b|
 |assertNotIsInstance(a, b)|no isinstance(a, b)|
-|assertRaises(exc, func, \*args, \*\*kwargs)|la fonction génère exception|
-|assertRaisesRegex(exc, reg, func, \*args, \*\*kwargs)|la fonction génère une exception + valide l'expression rationnelle|
-|assertWarns(war, func, \*args, \*\*kwargs)|la fonction génère un avertissement|

@@ -1,5 +1,7 @@
 # Types de données
 
+> [CSharp #3 - types de données](https://www.youtube.com/watch?v=T4D2a2gbxYc)
+
 > Tous les types en C# (référence, valeur, ...) héritent de la classe **Object**
 
 |Type|Alias .NET|Place en mémoire|Fourchette de valeurs|

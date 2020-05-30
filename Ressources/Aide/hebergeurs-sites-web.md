@@ -1,6 +1,6 @@
 # Hébergeurs de sites web
 
-> [**AIDE - héberger son site en ligne**](https://www.youtube.com/watch?v=mXVacXSTns8)
+> [AIDE - héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 
 |NOM|SIÈGE SOCIAL|GRATUIT ?|
 |:--:|:--:|:--:|

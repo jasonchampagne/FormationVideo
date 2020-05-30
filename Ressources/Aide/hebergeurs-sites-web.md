@@ -1,6 +1,6 @@
 # Hébergeurs de sites web
 
-> ⛔ N'hésitez pas à signaler tout lien qui ne serait plus valide
+> [AIDE - Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 
 |NOM|SIÈGE SOCIAL|GRATUIT ?|
 |:--:|:--:|:--:|

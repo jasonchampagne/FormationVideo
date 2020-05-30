@@ -6,7 +6,7 @@
 |:--|:--|:--:|:--|
 |**Ada**|Jean Ichbiah (CII Honeywell Bull)|1980|orienté-objet|
 |**ASM**|FASM : Tomasz Grysztar<br>GAS : GNU<br>MASM : Microsoft<br>NASM : Hans Peter Anvin|1999<br>N/A<br>1981<br>1996|impératif|
-|**Bash**|Brian Fox, Chet Ramey, Stephen Bourne|1989|-|
+|**Bash**|Brian Fox, Chet Ramey, Stephen Bourne|1989|procédural|
 |**C**|Dennis Ritchie, Ken Thompson|1972|impératif, procédural, structuré|
 |**C++**|Bjarne Stroustrup|1983|générique, orienté-objet, procédural|
 |**C#**|Microsoft|2001|structuré, impératif, orienté-objet|
@@ -33,7 +33,7 @@
 |**Pascal**|Niklaus Wirth|1970|générique, impératif, orienté-objet, procédural|
 |**Raku (Perl)**|Larry Wall|1987|événementiel, fonctionnel, générique, impératif, procédural, réflexif|
 |**PHP**|Rasmus Lerdorf|1994|fonctionnel, impératif, orienté-objet, procédural, réflexif|
-|**PowerShell**|Microsoft|2006|-|
+|**PowerShell**|Microsoft|2006|procédural|
 |**Prolog**|Alain Colmerauer, Philippe Roussel|1972|logique|
 |**Python**|Guido van Rossum|1991|impératif, orienté-objet|
 |**R**|Robert Gentleman, Ross Ihaka|1993|fonctionnel, impératif, orienté-objet, procédural, réflexif|

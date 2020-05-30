@@ -1,5 +1,7 @@
 # Types de données
 
+> [SQL #6 - tables et données](https://www.youtube.com/watch?v=Y_y-RNZApmk)
+
 ## Types numériques
 
 |TYPE|TAILLE|LIMITE (signé)|LIMITE (non signé)|

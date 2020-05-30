@@ -24,9 +24,11 @@ assertNotIsInstance(a, ClassName) # not isinstance(a, ClassName)
 ---
 
 ```python
-assertRaises(exception, function, *args, **kwargs) # fonction génère exception
-assertRaisesRegex(exception, regex, function, *args, **kwargs) # fonction génère exception + valide regex
+assertRaises(exception, function, *args, **kwds) # fonction génère exception
+assertRaisesRegex(exception, regex, function, *args, **kwds) # fonction génère exception + valide regex
 
-assertWarns(warning, function, *args, **kwargs) # fonction génère avertissement
-assertWarnsRegex(exception, regex, function, *args, **kwargs) # fonction génère avertissement + valide regex
+assertWarns(warning, function, *args, **kwds) # fonction génère avertissement
+assertWarnsRegex(exception, regex, function, *args, **kwds) # fonction génère avertissement + valide regex
+
+assertLogs(logger, level) # écriture dans le logger avec un niveau minimal (level)
 ```

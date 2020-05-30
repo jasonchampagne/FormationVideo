@@ -34,8 +34,8 @@ assertNotAlmostEqual(a, b) # round(a-b, 7) != 0
 
 assertCountEqual(a, b) # mêmes éléments dans le même nombre + même ordre
 
-assertRegex(s, r)
-assertNotRegex(s, r)
+assertRegex(s, r) # l'expression rationnelle valide la chaîne
+assertNotRegex(s, r) # l'expression rationnelle ne valide pas la chaîne
 ```
 
 ---

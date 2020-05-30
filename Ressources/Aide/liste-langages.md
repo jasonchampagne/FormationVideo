@@ -2,8 +2,6 @@
 
 > [AIDE - choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 
-D'abord, une liste non-exhaustive de langages de programmation ou requête :
-
 |APPELLATION|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|PARADIGME(S)|
 |:--|:--|:--:|:--|
 |**Ada**|Jean Ichbiah (CII Honeywell Bull)|1980|orienté-objet|
@@ -54,8 +52,6 @@ D'abord, une liste non-exhaustive de langages de programmation ou requête :
 > **NOTE** : Quelques extensions à JavaScript existent comme CoffeeScript ou TypeScript.
 
 ---
-
-Ensuite, quelques langages de balisage et formats pour la représentation des données :
 
 |NOM|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|
 |:--|:--|:--:|

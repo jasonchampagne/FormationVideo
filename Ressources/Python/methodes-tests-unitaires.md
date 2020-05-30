@@ -29,6 +29,17 @@ assertNotIsInstance(a, ClassName) # not isinstance(a, ClassName)
 ---
 
 ```python
+assertMultiLineEqual(s1, s2) # compare deux chaînes
+assertSequenceEqual(s1, s2) # compare deux séquences
+assertListEqual(l1, l2) # compare deux listes
+assertTupleEqual(t1, t2) # compare deux tuples
+assertSetEqual(s1, s2) # compare deux ensembles
+assertDictEqual(d1, d2) # compare deux dictionnaires
+```
+
+---
+
+```python
 assertAlmostEqual(a, b) # round(a-b, 7) == 0
 assertNotAlmostEqual(a, b) # round(a-b, 7) != 0
 

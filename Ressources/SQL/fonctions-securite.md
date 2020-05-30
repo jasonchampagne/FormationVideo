@@ -1,5 +1,7 @@
 # Fonctions : sécurité
 
+> [SQL #21 - fonctions de sécurité](https://www.youtube.com/watch?v=VTkhWoQ4QPA)
+
 ## [MySQL](https://dev.mysql.com/doc/)
 
 > Algorithmes de hash disponibles : MD5, SHA-2 (224, 256, 384, 512)

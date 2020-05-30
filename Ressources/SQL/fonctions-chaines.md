@@ -1,6 +1,8 @@
 # Fonctions : chaînes de caractères
 
-> **NOTE** : Certains systèmes de gestion de base de données proposent à la place d'une fonction des opérateurs pour effectuer certains traitement sur les chaînes
+> [SQL #18 - fonctions chaînes de caractères](https://www.youtube.com/watch?v=oEaLoI3Io90)
+
+_**NOTE** : Certains systèmes de gestion de base de données proposent à la place d'une fonction des opérateurs pour effectuer certains traitement sur les chaînes._
 
 ## [MySQL](https://dev.mysql.com/doc/)
 

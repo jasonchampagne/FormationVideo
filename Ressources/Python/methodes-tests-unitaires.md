@@ -1,6 +1,6 @@
 # Méthodes pour les tests unitaires
 
-Quelques méthodes disponibles avec le [module unittest](https://docs.python.org/3/library/unittest.html#unittest.TestCase) de Python pour effectuer vos tests unitaires.
+Quelques méthodes disponibles avec le [module unittest](https://docs.python.org/3/library/unittest.html#unittest.TestCase) de Python pour effectuer vos tests unitaires. Apprenez à faire vos tests à l'aide de [ce tutoriel](https://www.youtube.com/watch?v=apgReCCAQr4).
 
 ```python
 assertTrue(a) # a is True

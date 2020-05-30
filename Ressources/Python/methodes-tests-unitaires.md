@@ -9,6 +9,11 @@ assertFalse(a) # a is False
 assertEqual(a, b) # a == b
 assertNotEqual(a, b) # a != b
 
+assertGreater(a, b) # a > b
+assertGreaterEqual(a, b) # a >= b
+assertLess(a, b) # a < b
+assertLessEqual(a, b) # a <= b
+
 assertIs(a, b) # a is b
 assertIsNot(a, b) # a is not b
 
@@ -21,6 +26,18 @@ assertNotIn(a, b) # a not in b
 assertIsInstance(a, ClassName) # isinstance(a, ClassName)
 assertNotIsInstance(a, ClassName) # not isinstance(a, ClassName)
 ```
+---
+
+```python
+assertAlmostEqual(a, b) # round(a-b, 7) == 0
+assertNotAlmostEqual(a, b) # round(a-b, 7) != 0
+
+assertCountEqual(a, b) # mêmes éléments dans le même nombre + même ordre
+
+assertRegex(s, r)
+assertNotRegex(s, r)
+```
+
 ---
 
 ```python

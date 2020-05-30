@@ -1,6 +1,6 @@
 # Balises HTML
 
-Voici un mémento des balises que vous pouvez utiliser en HTML ([valides W3C](https://www.w3.org/TR/html52/)) et qui sont correctement prises en charge par les navigateurs standards (Chrome, Edge, Firefox, Opera, Safari).
+Voici un mémento des [balises HTML](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO) que vous pouvez utiliser ([valides W3C](https://www.w3.org/TR/html52/)) et qui sont correctement prises en charge par les navigateurs standards (Chrome, Edge, Firefox, Opera, Safari).
 
 ## Balises valides W3C
 

@@ -1,5 +1,7 @@
 # Liste de langages
 
+> [AIDE - choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
+
 D'abord, une liste non-exhaustive de langages de programmation ou requête :
 
 |APPELLATION|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|PARADIGME(S)|

@@ -1,5 +1,7 @@
 # Fonctions : mathématiques
 
+> [SQL #20 - fonctions mathématiques](https://www.youtube.com/watch?v=9Y20_0MQzEE)
+
 ## [MySQL](https://dev.mysql.com/doc/)
 
 |NOM|DESCRIPTION|USAGE|

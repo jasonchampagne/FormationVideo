@@ -1,5 +1,7 @@
 # Fonctions : dates et heures
 
+> [SQL #19 - fonctions dates et heures](https://www.youtube.com/watch?v=hLY7cBnFoPQ)
+
 ## [MySQL](https://dev.mysql.com/doc/)
 
 |NOM|DESCRIPTION|

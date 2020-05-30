@@ -1,6 +1,8 @@
 # Installation des addons invité pour VirtualBox
 
-> Les additions invité VirtualBox (_vbox guest additions_) proposent des pilotes et applications pour optimiser le système virtualisé et offrir de meilleures performances. Cela inclut également la prise en charge du changement de résolution de l'interface.
+> [GNU/Linux #2 - installer système](https://www.youtube.com/watch?v=0i2WTmKktbE)
+
+_Les additions invité VirtualBox (_vbox guest additions_) proposent des pilotes et applications pour optimiser le système virtualisé et offrir de meilleures performances. Cela inclut également la prise en charge du changement de résolution de l'interface._
 
 ---
 

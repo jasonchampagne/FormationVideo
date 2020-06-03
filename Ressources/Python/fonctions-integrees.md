@@ -47,6 +47,7 @@ max(iterable, *, [key, default]) # ou -> max(arg1, arg2, *args, [key])
 memoryview(object)
 min(iterable, *, [key, default]) # ou -> min(arg1, arg2, *args, [key])
 next(iterator, [default])
+object()
 oct(x)
 open(file, mode='r', buffering=-1, encoding=None, errors=None, newline=None, closefd=True, opener=None)
 ord(c)
@@ -71,6 +72,5 @@ zip(*iterables)
 
 @classmethod
 @staticmethod
-object
 ```
 ➡ _[Documentation Python : built-in functions](https://docs.python.org/3/library/functions.html)_

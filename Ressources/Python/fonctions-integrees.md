@@ -43,12 +43,34 @@ len(s)
 list([iterable])
 locals()
 map(function, iterable, ...)
-max(iterable, *[, key, default]) # ou -> max(arg1, arg2, *args, [key])
-
+max(iterable, *, [key, default]) # ou -> max(arg1, arg2, *args, [key])
+memoryview(object)
+min(iterable, *, [key, default]) # ou -> min(arg1, arg2, *args, [key])
+next(iterator, [default])
+oct(x)
+open(file, mode = 'r', buffering = -1, encoding = None, errors = None, newline = None, closefd = True, opener = None)
+ord(c)
+pow(base, exp, [mod])
+print(*objects, sep=' ', end = '\n', file = sys.stdout, flush = False)
+property(fget = None, fset = None, fdel = None, doc = None)
+range(stop) # ou -> range(start, stop, [step])
+repr(object)
+reversed(seq)
+round(number, [ndigits])
+set([iterable])
+setattr(object, name, value)
+slice(stop) # ou -> slice(start, stop, [step])
+sorted(iterable, *, key = None, reverse = False)
+str(object = '') # ou -> str(object = b'', encoding = 'utf-8', errors = 'strict')
+sum(iterable, /, start = 0)
+super([type], [object-or-type])
+tuple([iterable])
+type(object) # ou -> type(name, bases, dict)
 vars([object])
 zip(*iterables)
 
 @classmethod
 @staticmethod
+object
 ```
 ➡ _[Documentation Python : built-in functions](https://docs.python.org/3/library/functions.html)_

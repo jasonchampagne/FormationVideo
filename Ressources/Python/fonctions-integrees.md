@@ -7,4 +7,4 @@ abs(x)
 all(iterable) 
 any(iterable)
 ```
-➡ _[Documentation Python - builtin functions](https://docs.python.org/3/library/functions.html)_
+➡ _[Documentation Python : built-in functions](https://docs.python.org/3/library/functions.html)_

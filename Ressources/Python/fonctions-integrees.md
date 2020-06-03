@@ -3,6 +3,9 @@
 > Tutoriel à venir...
 
 ```python
+@classmethod
+@staticmethod
+
 abs(x)
 all(iterable) 
 any(iterable)
@@ -69,8 +72,5 @@ tuple([iterable])
 type(object) # ou -> type(name, bases, dict)
 vars([object])
 zip(*iterables)
-
-@classmethod
-@staticmethod
 ```
 ➡ _[Documentation Python : built-in functions](https://docs.python.org/3/library/functions.html)_

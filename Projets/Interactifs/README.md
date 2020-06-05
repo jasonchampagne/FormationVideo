@@ -6,7 +6,7 @@ Retrouvez ici la rediffusion des lives (sessions) sur les différents projets r�
 
 # [Tomo](https://github.com/jasonchampagne/FormationVideo/blob/master/Projets/Interactifs/01-tomo.pdf)
 
-> Prochaine session : jeudi 4 juin à 21h20 (heure française)
+> Prochaine session : N/A
 
 + [\#1 Session du 23/04/2020](https://www.twitch.tv/videos/600654452)
 + [\#2 Session du 24/04/2020](https://www.twitch.tv/videos/601654372)
@@ -18,3 +18,4 @@ Retrouvez ici la rediffusion des lives (sessions) sur les différents projets r�
 + [\#8 Session du 15/05/2020](https://www.twitch.tv/videos/622195438)
 + [\#9 Session du 19/05/2020](https://www.twitch.tv/videos/626073049)
 + [\#10 Session du 29/05/2020](https://www.twitch.tv/videos/635794149)
++ |\#11 Session du 04/06/2020](https://www.twitch.tv/videos/641479186)

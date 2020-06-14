@@ -19,7 +19,7 @@
 |**cd**|Changer de répertoire|
 |**chgrp**|Changer le groupe propriétaire d'un fichier|
 |**chmod**|Modifier les autorisations d'accès à un fichier|
-|**chmown**|Modifier le propriétaire et le groupe d'un fichier|
+|**chown**|Modifier le propriétaire et le groupe d'un fichier|
 |**clear**|Effacer le terminal|
 |**cp**|Copier des fichiers et des répertoires|
 |**crontab**|Gérer des tâches CRON|

@@ -6,7 +6,7 @@ Retrouvez ici la rediffusion des lives (sessions) sur les différents projets r�
 
 # [Tomo](https://github.com/jasonchampagne/FormationVideo/blob/master/Projets/Interactifs/01-tomo.pdf)
 
-> [Collection complète](https://www.twitch.tv/collections/FP1lvVzEGBb9JQ)
+> **Durée actuelle** : x
 
 + [\#1 Session du 23/04/2020](https://www.twitch.tv/videos/600654452)
 + [\#2 Session du 24/04/2020](https://www.twitch.tv/videos/601654372)

@@ -7,6 +7,7 @@
 + [AIDE - bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [AIDE - chiffrer un support de stockage (VeraCrypt)](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [AIDE - choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
++ [AIDE - comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [AIDE - consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
 + [AIDE - convertir des fichiers média (FFmpeg)](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [AIDE - créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)

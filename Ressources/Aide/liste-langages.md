@@ -14,6 +14,7 @@
 |**Clojure**|Rich Hickey|2007|déclaratif|
 |**COBOL**|Short Range Committee|1959|impératif|
 |**CoffeeScript**|Jeremy Ashkenas|2009|déclaratif, impératif, orienté-objet|
+|**Crystal**|Ary Borenszweig, Juan Wajnerman|2011|orienté-objet|
 |**D**|Walter Bright|2001|impératif, orienté-objet|
 |**Dart**|Lars Bak, Kasper Lund|2011|impératif, orienté-objet|
 |**Eiffel**|Bertrand Meyer|1986|orienté-objet|

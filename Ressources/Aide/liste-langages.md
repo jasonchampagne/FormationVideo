@@ -17,6 +17,7 @@
 |**Crystal**|Ary Borenszweig, Juan Wajnerman|2011|orienté-objet|
 |**D**|Walter Bright|2001|impératif, orienté-objet|
 |**Dart**|Lars Bak, Kasper Lund|2011|impératif, orienté-objet|
+|**Delphi**|Embarcadero Technologies|1995|orienté-objet|
 |**Eiffel**|Bertrand Meyer|1986|orienté-objet|
 |**Erlang**|Ericsson|1987|déclaratif|
 |**F#**|Don Syme, Microsoft|2002|déclaratif, impératif, orienté-objet|

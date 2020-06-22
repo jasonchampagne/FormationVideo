@@ -2,7 +2,7 @@
 
 > [AIDE - choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 
-|APPELLATION|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|FAMILLE DE PARADIGME(S)|
+|APPELLATION|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|FAMILLE PARADIGME(S)|
 |:--|:--|:--:|:--|
 |**Ada**|Jean Ichbiah (CII Honeywell Bull)|1980|orienté-objet|
 |**Assembleur**|FASM : Tomasz Grysztar<br>GAS : GNU<br>MASM : Microsoft<br>NASM : Hans Peter Anvin|1999<br>N/A<br>1981<br>1996|impératif|

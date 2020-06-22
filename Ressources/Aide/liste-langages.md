@@ -6,6 +6,7 @@
 |:--|:--|:--:|:--|
 |**Ada**|Jean Ichbiah (CII Honeywell Bull)|1980|orienté-objet|
 |**Assembleur**|FASM : Tomasz Grysztar<br>GAS : GNU<br>MASM : Microsoft<br>NASM : Hans Peter Anvin|1999<br>N/A<br>1981<br>1996|impératif|
+|**AutoIT**|Jonathan Bennett|1999|impératif, orienté-objet|
 |**Bash**|Brian Fox, Chet Ramey, Stephen Bourne|1989|impératif|
 |**C**|Dennis Ritchie, Ken Thompson|1972|impératif|
 |**C++**|Bjarne Stroustrup|1983|impératif, orienté-objet|

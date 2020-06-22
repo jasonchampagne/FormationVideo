@@ -35,6 +35,7 @@
 |**Linotte**|Ronan Mounès|2005|impératif, orienté-objet|
 |**Lisp**|John McCarthy|1958|déclaratif, impératif|
 |**Lua**|Luiz Henrique de Figueiredo, Roberto Ierusalimschy, Waldemar Celes|1993|déclaratif, impératif, orienté-objet|
+|**MATLAB**|Alexandre Edoh (MathWorks)|1984|impératif|
 |**Objective-C**|Brad Cox, Tom Love|1983|orienté-objet|
 |**OCaml**|Inria|1996|déclaratif, impératif, orienté-objet|
 |**Pascal**|Niklaus Wirth|1970|impératif, orienté-objet|

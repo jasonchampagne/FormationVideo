@@ -11,6 +11,7 @@
 |**C++**|Bjarne Stroustrup|1983|impératif, orienté-objet|
 |**C#**|Microsoft|2001|impératif, orienté-objet|
 |**COBOL**|Short Range Committee|1959|impératif|
+|**CoffeeScript**|Jeremy Ashkenas|2009|déclaratif, impératif, orienté-objet|
 |**D**|Walter Bright|2001|impératif, orienté-objet|
 |**Dart**|Lars Bak, Kasper Lund|2011|impératif, orienté-objet|
 |**Eiffel**|Bertrand Meyer|1986|orienté-objet|
@@ -44,12 +45,11 @@
 |**Smalltalk**|Adele Goldberg, Alan Kay, Dan Ingals, Ted Kaehler|1980|orienté-objet|
 |**SQL**|Donald D. Chamberlin, Raymond F. Boyce|1974|déclaratif, impératif, orienté-objet|
 |**Swift**|Apple|2014|déclaratif, impératif, orienté-objet|
+|**TypeScript**|Microsoft|2012|déclaratif, impératif, orienté-objet|
 |**V**|Alexander Medvednikov|2015|impératif|
 |**Vala**|Jürg Billeter, Raffaele Sandrini|2006|impératif, orienté-objet|
 |**Visual Basic**|Microsoft|2001|impératif, orienté-objet|
 |**WLangage**|PC SOFT|1992|impératif, orienté-objet|
-
-> **NOTE** : Quelques extensions à JavaScript existent comme CoffeeScript ou TypeScript.
 
 ---
 

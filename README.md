@@ -48,7 +48,6 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |-|C++|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)|-|
 |-|C#|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|-|-|
 |✔️|HTML/CSS|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
-|-|Hacking|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/hacking-cours.md) ([suite plus tard](https://jasonchampagne.fr/issou.html))|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/hacking-tutoriels.md)|-|
 |-|Java|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)|-|
 |-|JavaScript|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|-|-|
 |✔️|PHP|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) | [lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)|-|

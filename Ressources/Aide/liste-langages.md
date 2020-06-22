@@ -46,6 +46,7 @@
 |**Prolog**|Alain Colmerauer, Philippe Roussel|1972|logique|
 |**Python**|Guido van Rossum|1991|impératif, orienté-objet|
 |**R**|Robert Gentleman, Ross Ihaka|1993|déclaratif, impératif, orienté-objet|
+|**Raku**|Larry Wall, The Perl Foundation|2015|déclaratif, impératif, orienté-objet|
 |**Ruby**|Yukihiro Matsumoto|1995|déclaratif, impératif, orienté-objet|
 |**Rust**|Graydon Hoare, Mozilla|2010|déclaratif, impératif|
 |**Scala**|Martin Odersky, EPFL|2003|déclaratif, impératif, orienté-objet|

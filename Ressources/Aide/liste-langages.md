@@ -22,6 +22,7 @@
 |**Erlang**|Ericsson|1987|déclaratif|
 |**F#**|Don Syme, Microsoft|2002|déclaratif, impératif, orienté-objet|
 |**Fortran**|John Backus, IBM|1954|impératif, orienté-objet|
+|**Gambas**|Benoît Minisini|1999|impératif, orienté-objet|
 |**Go**|Ken Thompson, Rob Pike, Robert Griesemer|2009|impératif|
 |**Hack**|Facebook|2014|déclaratif, impératif, orienté-objet|
 |**Haskell**|Comité Haskell|1990|déclaratif|

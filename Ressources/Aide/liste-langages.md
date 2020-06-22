@@ -53,6 +53,7 @@
 |**Scala**|Martin Odersky, EPFL|2003|déclaratif, impératif, orienté-objet|
 |**Scheme**|Gerald Jay Sussman, Guy L. Steele|1975|déclaratif|
 |**Smalltalk**|Adele Goldberg, Alan Kay, Dan Ingals, Ted Kaehler|1980|orienté-objet|
+|**Squeak**|Alan Kay, Dan Ingals|1996|orienté-objet|
 |**SQL**|Donald D. Chamberlin, Raymond F. Boyce|1974|déclaratif, impératif, orienté-objet|
 |**Swift**|Apple|2014|déclaratif, impératif, orienté-objet|
 |**TypeScript**|Microsoft|2012|déclaratif, impératif, orienté-objet|
@@ -61,7 +62,8 @@
 |**Visual Basic**|Microsoft|2001|impératif, orienté-objet|
 |**WLangage**|PC SOFT|1992|impératif, orienté-objet|
 
-> **NOTE** : Raku est le nouveau nom pour le langage Perl à partir de sa version 6
+> **NOTE 1** : Raku est le nouveau nom pour le langage Perl à partir de sa version 6
+> **NOTE 2** : Squeak est une implémentation libre de Smalltalk
 ---
 
 |NOM|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|

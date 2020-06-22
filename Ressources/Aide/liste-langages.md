@@ -27,6 +27,7 @@
 |**Hack**|Facebook|2014|déclaratif, impératif, orienté-objet|
 |**Haskell**|Comité Haskell|1990|déclaratif|
 |**Haxe**|Nicolas Cannasse|2006|-|
+|**J**|Kenneth E. Iverson, Roger Hui|1990|déclaratif, orienté-objet|
 |**Java**|Oracle (Sun Microsystems)|1995|déclaratif, impératif, orienté-objet|
 |**JavaScript**|Brendan Eich|1995|déclaratif, impératif, orienté-objet|
 |**Julia**|Alan Edelman, Jeff Bezanson, Stefan Karpinski, Viral B. Shah|2009|impératif, orienté-objet|

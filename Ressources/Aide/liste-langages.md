@@ -64,6 +64,7 @@
 
 > **NOTE 1** : Raku est le nouveau nom pour le langage Perl à partir de sa version 6
 > **NOTE 2** : Squeak est une implémentation libre de Smalltalk
+
 ---
 
 |NOM|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|

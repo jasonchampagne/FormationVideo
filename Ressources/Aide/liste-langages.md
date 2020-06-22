@@ -38,7 +38,8 @@
 |**MATLAB**|Alexandre Edoh (MathWorks)|1984|déclaratif, impératif|
 |**Objective-C**|Brad Cox, Tom Love|1983|orienté-objet|
 |**OCaml**|Inria|1996|déclaratif, impératif, orienté-objet|
-|**Pascal**|Niklaus Wirth|1970|impératif, orienté-objet|
+|**Pascal**|Niklaus Wirth|1970|impératif|
+|**Pascal Objet**|Borland|1990|orienté-objet|
 |**Raku (Perl)**|Larry Wall|1987|déclaratif, impératif|
 |**PHP**|Rasmus Lerdorf|1994|déclaratif, impératif, orienté-objet|
 |**PowerShell**|Microsoft|2006|impératif|

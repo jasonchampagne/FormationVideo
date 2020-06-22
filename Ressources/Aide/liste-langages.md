@@ -11,6 +11,7 @@
 |**C**|Dennis Ritchie, Ken Thompson|1972|impératif|
 |**C++**|Bjarne Stroustrup|1983|impératif, orienté-objet|
 |**C#**|Microsoft|2001|impératif, orienté-objet|
+|**Clojure**|Rich Hickey|2007|déclaratif|
 |**COBOL**|Short Range Committee|1959|impératif|
 |**CoffeeScript**|Jeremy Ashkenas|2009|déclaratif, impératif, orienté-objet|
 |**D**|Walter Bright|2001|impératif, orienté-objet|

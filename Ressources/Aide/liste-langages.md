@@ -41,6 +41,7 @@
 |**Pascal**|Niklaus Wirth|1970|impératif|
 |**Pascal Objet**|Borland|1990|orienté-objet|
 |**Raku (Perl)**|Larry Wall|1987|déclaratif, impératif|
+|**Perl**|Larry Wall|1987|déclaratif, impératif, orienté-objet|
 |**PHP**|Rasmus Lerdorf|1994|déclaratif, impératif, orienté-objet|
 |**PowerShell**|Microsoft|2006|impératif|
 |**Prolog**|Alain Colmerauer, Philippe Roussel|1972|logique|
@@ -60,6 +61,7 @@
 |**Visual Basic**|Microsoft|2001|impératif, orienté-objet|
 |**WLangage**|PC SOFT|1992|impératif, orienté-objet|
 
+> **NOTE** : Raku est le nouveau nom pour le langage Perl à partir de sa version 6
 ---
 
 |NOM|AUTEUR(S) / DÉVELOPPEUR(S)|CRÉATION|

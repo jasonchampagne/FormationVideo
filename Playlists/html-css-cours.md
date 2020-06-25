@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=u5W2NWItytc)
 + [2. Première page web](https://www.youtube.com/watch?v=Fi8fj_JY91o)
 + [3. Fonctionnement balises](https://www.youtube.com/watch?v=1sPjNkKGMsY)

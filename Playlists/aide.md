@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [AIDE - bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [AIDE - chiffrer un support de stockage (VeraCrypt)](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [AIDE - choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)

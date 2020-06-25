@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=o9sIrvpH_ic)
 + [2. Premier code](https://www.youtube.com/watch?v=hwZTgl7puU0)
 + [3. Affichage en console](https://www.youtube.com/watch?v=CMx1WOVXkW0)

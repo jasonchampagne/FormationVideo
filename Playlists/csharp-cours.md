@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=uHUkndqnHAg)
 + [2. Afficher du texte](https://www.youtube.com/watch?v=T1ghHTJtdGQ)
 + [3. Types de données](https://www.youtube.com/watch?v=T4D2a2gbxYc)

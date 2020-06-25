@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs)
 + [2. Hello world !](https://www.youtube.com/watch?v=PsosD3WyFfI)
 + [3. Variables](https://www.youtube.com/watch?v=r_ylc4StEeo)

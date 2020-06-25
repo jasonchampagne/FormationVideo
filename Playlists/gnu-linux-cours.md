@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=py1E14pXfAM)
 + [2. Installer système](https://www.youtube.com/watch?v=0i2WTmKktbE)
 + [3. Environnement de bureau](https://www.youtube.com/watch?v=rWh0Y6hWIoA)

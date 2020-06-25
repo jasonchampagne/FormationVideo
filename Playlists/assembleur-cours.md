@@ -4,4 +4,6 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=fvtd2Ut3MHw)

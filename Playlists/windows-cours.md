@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM)
 + [2. Installer le système](https://www.youtube.com/watch?v=kKoOjrNzhtQ)
 + [3. Mise à jour des pilotes](https://www.youtube.com/watch?v=1svnME_vEao)

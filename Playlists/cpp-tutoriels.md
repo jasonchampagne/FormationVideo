@@ -4,4 +4,6 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [Énumérations fortement typées](https://www.youtube.com/watch?v=Ht3AuVr82zQ)

@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=_l4pJ7HCrl4)
 + [2. Premier programme](https://www.youtube.com/watch?v=cvpkw2ZN4Ps)
 + [3. Types de données](https://www.youtube.com/watch?v=7Buk7i_RGok)

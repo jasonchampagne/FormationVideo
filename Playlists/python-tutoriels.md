@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [Base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)
 + [Calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA)
 + [Créer exécutable (cx_Freeze)](https://www.youtube.com/watch?v=essSa78iv-A)

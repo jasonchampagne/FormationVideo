@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=3KwmNNucIjA)
 + [2. Installation mysql](https://www.youtube.com/watch?v=9azCzs322NU)
 + [3. Configuration encodage](https://www.youtube.com/watch?v=bkrNOyo1gYk)

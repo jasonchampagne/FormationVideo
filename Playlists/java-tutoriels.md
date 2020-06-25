@@ -4,4 +4,6 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [Créer exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)

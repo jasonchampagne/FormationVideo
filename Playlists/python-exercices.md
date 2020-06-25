@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Affichage simple](https://www.youtube.com/watch?v=HVN4qv6Dxdk)
 + [2. Variables (QCM)](https://www.youtube.com/watch?v=7o3y47LYFvE)
 + [3. L'attaque des titans](https://www.youtube.com/watch?v=2VhWLJ_TQ0U)

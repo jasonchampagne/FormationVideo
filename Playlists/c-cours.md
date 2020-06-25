@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=90hGCMC3Chc)
 + [2. Compiler programme](https://www.youtube.com/watch?v=6E-zrVV2tSg)
 + [3. Variables](https://www.youtube.com/watch?v=kKeGTDyvi1o)

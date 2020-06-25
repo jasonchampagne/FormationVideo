@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=f_gEWxusGE8)
 + [2. Acquisition du matériel](https://www.youtube.com/watch?v=HOeuSei3co4)
 + [3. Prise en main de l'instrument](https://www.youtube.com/watch?v=mq-qg1SZwl4)

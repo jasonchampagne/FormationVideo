@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=Hc42s8XP34M)
 + [2. Pseudo-code](https://www.youtube.com/watch?v=HwIkkngfjpU)
 + [3. Complexité](https://www.youtube.com/watch?v=c2HzJEEpWmU)

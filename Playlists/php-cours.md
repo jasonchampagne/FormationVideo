@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=7lMXMLeawug)
 + [2. Installer serveur HTTP](https://www.youtube.com/watch?v=79XwZrJdzho)
 + [3. Installer l'interpréteur](https://www.youtube.com/watch?v=0vS3fOkAbPs)

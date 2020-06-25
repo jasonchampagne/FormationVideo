@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Affichage formaté](https://www.youtube.com/watch?v=JpKaxVCjAMw)
 + [2. Rendez l'argent !](https://www.youtube.com/watch?v=OQP3kgexXtU)
 + [3. Somme de nombres](https://www.youtube.com/watch?v=aXHroKdj_mI)

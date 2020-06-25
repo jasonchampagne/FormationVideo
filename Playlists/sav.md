@@ -4,7 +4,7 @@
 
 ---
 
-🌐 : _indicates that the video is subtitled in English_
+**🌐 indicates that the video is subtitled in English**
 
 + [CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80)
 + [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE)

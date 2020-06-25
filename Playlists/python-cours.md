@@ -4,6 +4,8 @@
 
 ---
 
+**🌐 indicates that the video is subtitled in English**
+
 + [1. Introduction](https://www.youtube.com/watch?v=HWxBtxPBCAc)
 + [2. Coder premier programme](https://www.youtube.com/watch?v=S1SDhbJwfdk)
 + [3. Variables](https://www.youtube.com/watch?v=nbecRjzVzNg)

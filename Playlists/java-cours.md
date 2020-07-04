@@ -27,3 +27,4 @@
 + [19. Classes abstraites](https://www.youtube.com/watch?v=dd0_nYhtaKQ)
 + [20. Interfaces](https://www.youtube.com/watch?v=M0hkhOoOIHg)
 + [21. Polymorphisme](https://www.youtube.com/watch?v=CPxrEntMxsQ)
++ [22. Introduction collections](https://www.youtube.com/watch?v=ov3d4s5w_m0)

@@ -1,6 +1,6 @@
-# Liste de collections
+# Collections - classes
 
-Retrouvez les spécificités des classes de collections en Java
+Quelques spécificités des classes de collections pour manipuler vos données.
 
 |NOM|ORDONNÉE|DOUBLONS|ACCÈS DIRECT|VALEURS NULLES|THREAD-SAFE|
 |:--:|:--:|:--:|:--:|:--:|:--:|

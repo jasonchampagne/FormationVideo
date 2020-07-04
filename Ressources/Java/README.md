@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|interfaces-collections|Schéma de quelques interfaces de collections|
+|collections-classes|Quelques classes de collections|
+|collections-interfaces|Quelques interfaces de collections|

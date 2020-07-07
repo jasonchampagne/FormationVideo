@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|commandes-batch|Liste des commandes Batch|
 |introduction-formation|Diaporama d'introduction au cours Windows|
 |path-variable|Variable Path (valeur par défaut)|
 |visual-redistributable-packages|Paquets redistribuables Visual C++|

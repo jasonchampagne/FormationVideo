@@ -5,6 +5,7 @@ Comme je le répète très souvent sur les formations, il est important de trava
 **SOMMAIRE**
 + [Atom](#atom)
 + [Brackets](#brackets)
++ [Code::Blocks](#code-blocks)
 + [Notepad++](#notepad)
 + [Sublime Text](#sublime-text)
 + [Visual Studio Code](#visual-studio-code)
@@ -28,6 +29,12 @@ Comme je le répète très souvent sur les formations, il est important de trava
 + Cliquez en bas à droite sur l'encodage actuellement spécifié et sélectionnez **UTF-8**
 
 ![](https://nsa40.casimages.com/img/2020/04/12/200412010842977345.png)
+
+---
+
+## [Code::Blocks](http://www.codeblocks.org/)
+
+À venir...
 
 ---
 

@@ -34,7 +34,13 @@ Comme je le répète très souvent sur les formations, il est important de trava
 
 ## [Code::Blocks](http://www.codeblocks.org/)
 
-À venir...
++ Menu **Settings** > **Editor...** 
+
+![](https://nsa40.casimages.com/img/2020/07/07/200707093610827115.png)
+
++ Rendez-vous dans l'onglet **Encoding settings**, puis la ligne **Use encoding when opening files** et sélectionnez l'encodage **UTF-8** depuis le menu déroulant
+
+![](https://nsa40.casimages.com/img/2020/07/07/200707093622924848.png)
 
 ---
 

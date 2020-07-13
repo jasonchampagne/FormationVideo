@@ -7,10 +7,10 @@ Quelques spécificités des classes de collections pour manipuler vos données.
 |NOM|ORDONNÉE|DOUBLONS|ACCÈS DIRECT|VALEURS NULLES|THREAD-SAFE|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |\<\< List \>\><br>**ArrayList**|✔|✔|✔|✔|❌|
-|**HashMap**|❌|❌|✔|✔|❌|
-|**HashSet**|❌|❌|❌|✔|❌|
-|**LinkedList**|✔|✔|❌|✔|❌|
-|**Stack**|✔|✔|❌|✔|✔|
-|**TreeMap**|✔|❌|✔|❌|❌|
-|**TreeSet**|✔|❌|❌|❌|❌|
-|**Vector**|✔|✔|✔|✔|✔|
+|\<\< Map \>\><br>**HashMap**|❌|❌|✔|✔|❌|
+|\<\< Set \>\><br>**HashSet**|❌|❌|❌|✔|❌|
+|\<\< List \>\><br>**LinkedList**|✔|✔|❌|✔|❌|
+|\<\< List \>\><br>**Stack**|✔|✔|❌|✔|✔|
+|\<\< Map \>\><br>**TreeMap**|✔|❌|✔|❌|❌|
+|\<\< Set \>\><br>**TreeSet**|✔|❌|❌|❌|❌|
+|\<\< List \>\><br>**Vector**|✔|✔|✔|✔|✔|

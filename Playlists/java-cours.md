@@ -28,3 +28,4 @@
 + [20. Interfaces](https://www.youtube.com/watch?v=M0hkhOoOIHg)
 + [21. Polymorphisme](https://www.youtube.com/watch?v=CPxrEntMxsQ)
 + [22. Introduction collections](https://www.youtube.com/watch?v=ov3d4s5w_m0)
++ [23. Collections en liste](https://www.youtube.com/watch?v=eXYLsxQvIF4)

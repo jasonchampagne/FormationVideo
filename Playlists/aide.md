@@ -25,5 +25,6 @@
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
 + [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
 + [Programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)
++ [Se connecter à distance (SSH)](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
 + [Sécuriser ses mots de passe (KeePass)](https://www.youtube.com/watch?v=oG3QSXRCuvE)
 + [Visual Studio Code](https://www.youtube.com/watch?v=eQUsUq_2AQU)

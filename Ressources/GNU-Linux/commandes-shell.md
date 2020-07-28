@@ -26,7 +26,7 @@
 |**cut**|Supprimer une partie de chaque ligne d'un fichier|
 |**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|
 |**date**|Afficher ou configurer la date et l'heure du système|
-|**deluser**|Supprimer un utilisateur|
+|**deluser**|Supprimer un utilisateur (d'un groupe)|
 |**df**|Afficher la quantité d'espace occupé par les systèmes de fichiers|
 |**diff**|Trouver les différences entre des fichiers|
 |**dpkg**|Gérer des paquets DEB|

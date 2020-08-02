@@ -173,3 +173,30 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service de partage de données|Manuel (déclenché)|
 |Service de passerelle audio Bluetooth|Manuel (déclenché)|
 |Service de perception Windows|Manuel (déclenché)|
+|Service de plateforme des appareils connectés|Automatique (différé, déclenché)|
+|Service de prise en charge Bluetooth|Manuel (déclenché)|
+|Service de profil utilisateur|Automatique|
+|Service de publication des noms d'ordinateur PNRP|Manuel|
+|Service de rapport d'erreurs Windows|Manuel (déclenché)|
+|Service des résolution des problèmes recommandé|Manuel|
+|Service de routage de messages Push du protocole WAP de gestion des appareils|Manuel (déclenché)|
+|Service de routeur AllJoyn|Manuel (déclenché)|
+|Service de simulation de perception Windows|Manuel|
+|Service de stockage|Manuel (déclenché)|
+|Service de stratégie d'affichage|Automatique (différé)|
+|Service de stratégie de diagnostic|Automatique|
+|Service de support des utilisateurs du Bluetooth|Manuel (déclenché)|
+|Service de surveillance des capteurs|Manuel (déclenché)|
+|Service de transfert intelligent en arrière-plan|Automatique (différé)|
+|Service de virtualisation Bureau à distance Hyper-V|Manuel (déclenché)|
+|Service d'expérience linguistique|Manuel|
+|Service d'hôte HV|Manuel (déclenché)|
+|Service d'inscription de la gestion des périphériques|Manuel|
+|Service Données de capteur|Manuel (déclenché)|
+|Service du clavier tactile et du volet d'écriture manuscrite|Manuel (déclenché)|
+|Service du périphérique d'interface utilisateur|Manuel (déclenché)|
+|Service du système de notifications Push Windows|Automatique|
+|Service Échange de données Microsoft Hyper-V|Manuel (déclenché)|
+|Service Énumérateur d'appareil mobile|Manuel (déclenché)|
+|Service Gestionnaire d'accès aux fonctionnalités|Manuel|
+|Service hôte du fournisseur de chiffrement Windows|Manuel (déclenché)|

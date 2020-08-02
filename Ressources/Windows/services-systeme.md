@@ -40,3 +40,15 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Coordinateur de transactions distribuées|Manuel|
 |CoreMessaging|Automatique|
 |CredentialEnrollmentManagerUserSvc|Manuel|
+|Découverte SSDP|Manuel|
+|Détection matériel noyau|Automatique|
+|DeviceAssociationBroker|Manuel|
+|DevicePicker|Manuel|
+|Diagnostic Execution Service|Manuel (déclenché)|
+|Disque virtuel|Manuel|
+|Données de contacts|Manuel|
+|Dossiers de travail|Manuel|
+|Événements d'acquisition d'images fixes|Manuel|
+|Expérience audio-vidéo haute qualité Windows|Manuel|
+|Expérience des utilisateurs connectés et télémétrie|Automatique|
+|Extensions et notifications des imprimantes|Manuel|

@@ -9,4 +9,5 @@
 |commandes-batch|Liste des commandes Batch|
 |introduction-formation|Diaporama d'introduction au cours Windows|
 |path-variable|Variable Path (valeur par défaut)|
+|services-systeme|Liste des services système|
 |visual-redistributable-packages|Paquets redistribuables Visual C++|

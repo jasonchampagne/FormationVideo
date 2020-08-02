@@ -10,7 +10,7 @@
 
 ## Universels
 
-> Sur Windows et GNU/Linux, utilisez la touche `Ctrl` (control) ainsi que l'une du tableau pour réaliser l'action désirée. Sur MacOS, il faut utiliser la touche `Cmd` (command).
+Les raccourcis s'effectuent avec la combinaison de la touche `Ctrl` (Windows & GNU/Linux) ou `Cmd` (MacOS) suivie d'une des touches indiquées dans le tableau ci-dessous :
 
 |Touche|Description|
 |:--:|:--|

@@ -4,7 +4,7 @@
 > + [Universels](#universels)
 > + [Windows](#windows)
 > + [GNU/Linux](#gnu-linux)
-> + [MacOS](#macos)
+> + [MacOS](#mac-os)
 
 ---
 

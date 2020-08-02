@@ -13,7 +13,7 @@
 |Action|Widnows & GNU/Linux|MacOS|
 |:--|:--:|:--:|
 |Enregistrer le document|`Ctrl` + `S`|`Cmd` + `S`|
-|Rechercher dans un document|`Ctrl` + `F`|`Cmd` + `F`|
+|Faire une recherche|`Ctrl` + `F`|`Cmd` + `F`|
 |Sélectionner tous les éléments|`Ctrl` + `A`|`Cmd` + `A`|
 |Copier l'élement sélectionné (dans le presse-papiers)|`Ctrl` + `C`|`Cmd` + `C`|
 |Couper l'élément sélectionner (et le copier dans le presse-papiers)|`Ctrl` + `X`|`Cmd` + `X`|

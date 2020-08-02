@@ -144,3 +144,32 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service d'énumération de périphérique de carte à puce|Manuel (déclenché)|
 |Service d'historique des fichiers|Manuel (déclenché)|
 |Service d'infrastructure des tâches en arrière-plan|Automatique|
+|Service d'installation de périphérique|Manuel (déclenché)|
+|Service d'amélioration de l'affichage|Manuel (déclenché)|
+|Service de biométrie Windows|Manuel (déclenché)|
+|Service de cache de police Windows|Automatique|
+|Service de capteur|Manuel (déclenché)|
+|Service de chiffrement de lecteur BitLocker|Manuel (déclenché)|
+|Service de composition audio volumétrique|Manuel|
+|Service de configuration automatique WLAN|Manuel|
+|Service de configuration automatique WWAN|Manuel|
+|Service de configuration de conversion IP|Manuel (déclenché)|
+|Service de découverte automatique de Proxy Web pour les service HTTP Windows|Manuel|
+|Service de démo du magasin|Manuel|
+|Service de déploiement AppX|Manuel|
+|Service de données spatiales|Manuel|
+|Service de géolocalisation|Manuel (déclenché)|
+|Service de gestion de Windows|Manuel|
+|Service de gestion des applications d'entreprise|Manuel|
+|Service de gestion radio|Manuel|
+|Service de l'Assistant compatibilité des programmes|Manuel|
+|Service de l'Assistant de profil local|Manuel (déclenché)|
+|Service de la passerelle de la couche Application|Manuel|
+|Service de licences de client|Manuel (déclenché)|
+|Service de mise en réseau Xbox Live|Manuel|
+|Service de moteur de sauvegarde en mode bloc|Manuel|
+|Service de notification d'évenements système|Automatique|
+|Service de partage de ports Net.Tcp|Désactivé|
+|Service de partage de données|Manuel (déclenché)|
+|Service de passerelle audio Bluetooth|Manuel (déclenché)|
+|Service de perception Windows|Manuel (déclenché)|

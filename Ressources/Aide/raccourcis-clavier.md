@@ -17,7 +17,7 @@
 
 ## Windows
 
-+ [Tous les raccourcis clavier Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)
++ [Raccourcis clavier Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)
 
 ## GNU/Linux
 
@@ -30,4 +30,4 @@
 
 ## Mac OS
 
-+ [Tous les raccourcis clavier MacOS](https://support.apple.com/fr-fr/HT201236)
++ [Raccourcis clavier MacOS](https://support.apple.com/fr-fr/HT201236)

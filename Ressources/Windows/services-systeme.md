@@ -217,6 +217,7 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service Routeur SMS Microsoft Windows|Manuel (déclenché)|
 |Service Sécurité Windows|Manuel|
 |Service State Repository|Manuel (déclenché)|
+|Service Synchronisation date/heure Microsoft Hyper-V|Désactivé|
 |Service téléphonique|Manuel (déclenché)|
 |Service User Experience Virtualization|Désactivé|
 |Service utilisateur de diffusion GameDVR|Manuel|

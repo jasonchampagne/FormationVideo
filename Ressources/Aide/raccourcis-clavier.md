@@ -1,13 +1,5 @@
 # Raccourcis au clavier
 
-> **SOMMAIRE**
-> + [Universels](#universels)
-> + [Windows](#windows)
-> + [GNU/Linux](#gnulinux)
-> + [MacOS](#mac-os)
-
----
-
 ## Universels
 
 |Action|Widnows & GNU/Linux|MacOS|
@@ -20,6 +12,8 @@
 |Couper l'élément sélectionner (et le copier dans le presse-papiers)|`Ctrl` + `X`|`Cmd` + `X`|
 |Revenir en avant|`Ctrl` + `Y`|`Maj` + `Cmd` + `Z`|
 |Revenir en arrière|`Ctrl` + `Z`|`Cmd` + `Z`|
+
+---
 
 ## Windows
 

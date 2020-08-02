@@ -17,17 +17,17 @@
 
 ## Windows
 
-+ _[Tous les raccourcis clavier Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)_
++ [Tous les raccourcis clavier Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)
 
 ## GNU/Linux
 
-+ _[Raccourcis clavier i3](https://defkey.com/fr/i3-window-manager-raccourcis-clavier)_
-+ _[Raccourcis clavier Cinnamon](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)_
-+ _[Raccourcis clavier Gnome](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.fr)_
-+ _[Raccourcis clavier KDE Plasma](https://defkey.com/fr/kde-plasma-raccourcis-clavier)_
-+ _[Raccourcis clavier LXDE](https://defkey.com/fr/linux-lxde-raccourcis-clavier)_
-+ _[Raccourcis clavier Xfce](https://defkey.com/fr/xfce-raccourcis-clavier)_
++ [Raccourcis clavier i3](https://defkey.com/fr/i3-window-manager-raccourcis-clavier)
++ [Raccourcis clavier Cinnamon](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)
++ [Raccourcis clavier Gnome](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.fr)
++ [Raccourcis clavier KDE Plasma](https://defkey.com/fr/kde-plasma-raccourcis-clavier)
++ [Raccourcis clavier LXDE](https://defkey.com/fr/linux-lxde-raccourcis-clavier)
++ [Raccourcis clavier Xfce](https://defkey.com/fr/xfce-raccourcis-clavier)
 
 ## Mac OS
 
-+ _[Tous les raccourcis clavier MacOS](https://support.apple.com/fr-fr/HT201236)_
++ [Tous les raccourcis clavier MacOS](https://support.apple.com/fr-fr/HT201236)

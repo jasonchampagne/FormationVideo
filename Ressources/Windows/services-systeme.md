@@ -123,3 +123,24 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Publication des ressources de découverte de fonctions|Manuel (déclenché)|
 |Redirecteur de port du mode utilisateur des services Bureau à distance|Manuel|
 |Registre à distance|Désactivé|
+|Requête du service VSS Microsoft Hyper-V|Manuel (déclenché)|
+|Routage et accès distant|Désactivé|
+|Sauvegarde Windows|Manuel|
+|Serveur|Automatique (déclenché)|
+|Serveur de trame de la Caméra Windows|Manuel (déclenché)|
+|Serveur gestionnaire de licences Windows|Manuel (déclenché)|
+|Service antivirus Windows Defender|Automatique|
+|Service Arrêt de l'invité|Manuel (déclenché)|
+|Service AssignedAccessManager|Manuel (déclenché)|
+|Service AVCTP|Manuel (déclenché)|
+|Service Broker de découverte en arrière-plan Dev-Query|Manuel (déclenché)|
+|Service Broker des événements système|Automatique (déclenché)|
+|Service Broker du moniteur d'exécution System Guard|Automatique (différé, déclenché)|
+|Service Broker pour les connexions réseau|Manuel (déclenché)|
+|Service Broker pour les événements horaires|Manuel (déclenché)|
+|Service Collecteur standard du concentrateur de diagnostic Microsoft|Manuel|
+|Service Configuration du réseau|Manuel (déclenché)|
+|Service d'association de périphérique|Manuel (déclenché)|
+|Service d'énumération de périphérique de carte à puce|Manuel (déclenché)|
+|Service d'historique des fichiers|Manuel (déclenché)|
+|Service d'infrastructure des tâches en arrière-plan|Automatique|

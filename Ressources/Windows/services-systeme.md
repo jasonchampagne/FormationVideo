@@ -207,6 +207,7 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service Interface du magasin réseau|Automatique|
 |Service KtmRm pour Distributed Transaction Coordinator|Manuel (déclenché)|
 |Service Liste des réseaux|Manuel|
+|Service Medic de Windows Update|Manuel|
 |Service Partage réseau du lecteur Windows Media|Manuel|
 |Service Point d'accès sans fil mobile Windows|Manuel (déclenché)|
 |Service pour utilisateur de plateforme d'appareils connectés|Automatique|
@@ -248,5 +249,4 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Windows Mixed Reality OpenXR Service|Manuel|
 |Windows Search|Automatique|
 |Windows Update|Manuel (déclenché)|
-|Windows Update Medic Service|Manuel|
 |Xbox Accessory Management Service|Manuel (déclenché)|

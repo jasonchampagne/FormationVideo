@@ -52,3 +52,19 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Expérience audio-vidéo haute qualité Windows|Manuel|
 |Expérience des utilisateurs connectés et télémétrie|Automatique|
 |Extensions et notifications des imprimantes|Manuel|
+|Fichiers hors connexion|Manuel (déclenché)|
+|Flux d'appareils|Manuel|
+|Fournisseur de cliché instantané de logiciel Microsoft|Manuel|
+|Générateur de points de terminaison du service Audio Windows|Automatique|
+|Gestion à distance de Windows (Gestion WSM)|Manuel|
+|Gestion d'applications|Manuel|
+|Gestion des niveaux de stockage|Manuel|
+|Gestionnaire d'identité réseau homologue|Manuel|
+|Gestionnaire d'informations d'identification|Manuel|
+|Gestionnaire d'installation de périphérique|Manuel (déclenché)|
+|Gestionnaire d'authentification Xbox Live|Manuel|
+|Gestionnaire de comptes de sécurité|Automatique|
+|Gestionnaire de comptes web|Manuel|
+|Gestionnaire de session locale|Automatique|
+|Gestionnaire des cartes téléchargées|Automatique (différé)|
+|Gestionnaire des connexions automatiques d'accès à distance|Manuel|

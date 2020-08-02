@@ -18,3 +18,25 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Audio Windows|Automatique|
 |Authentification naturelle|Manuel (déclenchement)|
 |BranchCache|Manuel|
+|CaptureService|Manuel|
+|Carte à puce|Manuel (déclenchement)|
+|Carte de performance WMI|Manuel|
+|Centre de sécurité|Automatique (différé)|
+|Cliché instantané des volumes|Manuel|
+|Client de stratégie de groupe|Automatique (différé)|
+|Client de suivi de lien distribué|Automatique|
+|Client DHCP|Automatique|
+|Client DNS|Automatique|
+|Collecteur d'événements de Windows|Manuel|
+|Configuration automatique du réseau câblé|Manuel|
+|Configuration automatique des périphériques connectés au réseau|Manuel (déclenchement)|
+|Configuration des services Bureau à distance|Manuel|
+|Connaissance des emplacements réseau|Automatique|
+|Connexions réseau|Manuel|
+|ConsentUX|Manuel|
+|Consommation des données|Automatique|
+|Conteneur Microsoft Passport|Manuel (déclenchement)|
+|Contrôle parental|Manuel|
+|Coordinateur de transactions distribuées|Manuel|
+|CoreMessaging|Automatique|
+|CredentialEnrollmentManagerUserSvc|Manuel|

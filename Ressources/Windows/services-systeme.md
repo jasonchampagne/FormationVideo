@@ -200,3 +200,53 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service Énumérateur d'appareil mobile|Manuel (déclenché)|
 |Service Gestionnaire d'accès aux fonctionnalités|Manuel|
 |Service hôte du fournisseur de chiffrement Windows|Manuel (déclenché)|
+|Service hôte WDIServiceHost|Manuel (déclenché)|
+|Service Hyper-V PowerShell Direct|Manuel (déclenché)|
+|Service Initiateur iSCSI de Microsoft|Manuel|
+|Service Inspection du réseau de l'antivirus Windows Defender|Manuel|
+|Service Interface du magasin réseau|Automatique|
+|Service KtmRm pour Distributed Transaction Coordinator|Manuel (déclenché)|
+|Service Liste des réseaux|Manuel|
+|Service Partage réseau du lecteur Windows Media|Manuel|
+|Service Point d'accès sans fil mobile Windows|Manuel (déclenché)|
+|Service pour utilisateur de plateforme d'appareils connectés|Automatique|
+|Service Protection avancée contre les menaces Windows Defender|Manuel|
+|Service Pulsation Microsoft Hyper-V|Manuel (déclenché)|
+|Service PushToInstall de Windows|Manuel (déclenché)|
+|Service Routeur SMS Microsoft Windows|Manuel (déclenché)|
+|Service Sécurité Windows|Manuel|
+|Service State Repository|Manuel (déclenché)|
+|Service téléphonique|Manuel (déclenché)|
+|Service User Experience Virtualization|Désactivé|
+|Service utilisateur de diffusion GameDVR|Manuel|
+|Service utilisateur de notifications Push Windows|Automatique|
+|Service utilisateur du Presse-papiers|Manuel|
+|Service Wi-Fi Direct Service de gestionnaire de connexions|Manuel (déclenché)|
+|Service Windows Insider|Manuel (déclenché)|
+|Service SSTP|Manuel|
+|Services Bureau à distance|Manuel|
+|Services de chiffrement|Automatique|
+|Shared PC Account Manager|Désactivé|
+|SMP de l'Espace de stockages Microsoft|Manuel|
+|Spouleur d'impression|Automatique|
+|Station de travail|Automatique|
+|Stockage des données utilisateur|Manuel|
+|Stratégie de retrait de la carte à puce|Manuel|
+|SysMain|Automatique|
+|Système d'événement COM+|Automatique|
+|Système de fichiers EFS|Manuel (déclenché)|
+|Télécopie|Manuel|
+|Téléphonie|Manuel|
+|Temps Windows|Manuel (déclenché)|
+|Thèmes|Automatique|
+|Vérificateur de points|Manuel (déclenché)|
+|WalletService|Manuel|
+|WarpJITSvc|Manuel (déclenché)|
+|WebClient|Manuel (déclenché)|
+|Windows Connect Now - Registre de configuration|Manuel|
+|Windows Installer|Manuel|
+|Windows Mixed Reality OpenXR Service|Manuel|
+|Windows Search|Automatique|
+|Windows Update|Manuel (déclenché)|
+|Windows Update Medic Service|Manuel|
+|Xbox Accessory Management Service|Manuel (déclenché)|

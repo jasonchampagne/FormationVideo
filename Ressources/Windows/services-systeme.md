@@ -222,6 +222,7 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service User Experience Virtualization|Désactivé|
 |Service utilisateur de diffusion GameDVR|Manuel|
 |Service utilisateur de notifications Push Windows|Automatique|
+|Service utilisateur du Kit de développement sans station d'accueil|Manuel|
 |Service utilisateur du Presse-papiers|Manuel|
 |Service Wi-Fi Direct Service de gestionnaire de connexions|Manuel (déclenché)|
 |Service Windows Insider|Manuel (déclenché)|

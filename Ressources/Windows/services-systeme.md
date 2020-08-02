@@ -102,3 +102,24 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Modules de génération des clés IKE et AuthIP|Manuel (déclenché)|
 |Moteur de filtrage de base|Automatique|
 |Netlogon|Manuel|
+|OpenSSH Authentification Agent|Désactivé|
+|Optimisation de livraison|Automatique (différé, déclenché)|
+|Optimiser les lecteurs|Manuel|
+|Ouverture de session secondaire|Manuel|
+|Pare-feu Windows Defender|Automatique|
+|Partage de connexion internet (ICS)|Manuel (déclenché)|
+|Planificateur de tâches|Automatique|
+|Plug-and-Play|Manuel|
+|Préparation des applications|Manuel|
+|PrintWorkFlow|Manuel|
+|Prise en charge de l'application Rapports et solutions aux problèmes du Panneau de configuration|Manuel|
+|Programme d'installation ActiveX (AxInstSV)|Manuel|
+|Programme d'installation pour les modules Windows|Manuel|
+|Programme de mise à jour automatique de fuseau horaire|Manuel (déclenché)|
+|Propagation du certificat|Manuel (déclenché)|
+|Protection logicielle|Automatique (différé, déclenché)|
+|Protocole EAP|Manuel|
+|Protocole PNRP|Manuel|
+|Publication des ressources de découverte de fonctions|Manuel (déclenché)|
+|Redirecteur de port du mode utilisateur des services Bureau à distance|Manuel|
+|Registre à distance|Désactivé|

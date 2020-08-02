@@ -21,9 +21,21 @@
 
 ## GNU/Linux
 
+### Distributions
+
++ [Raccourcis clavier ArchLinux](https://defkey.com/fr/arch-linux-raccourcis-clavier)
++ [Raccourcis clavier Deepin](https://defkey.com/fr/deepin-linux-raccourcis-clavier)
++ [Raccourcis clavier elementaryOS](https://defkey.com/fr/elementary-os-raccourcis-clavier)
++ [Raccourcis Linux Mint](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)
++ [Raccourcis clavier Raspbian](https://defkey.com/fr/raspbian-raspberry-pi-raccourcis-clavier)
++ [Raccourcis clavier RHEL](https://defkey.com/fr/red-hat-enterprise-linux-rhel-raccourcis-clavier)
++ [Raccourcis clavier Ubuntu](https://defkey.com/fr/ubuntu-raccourcis-clavier)
+
+### Environnements de bureau
+
 + [Raccourcis clavier i3](https://defkey.com/fr/i3-window-manager-raccourcis-clavier)
 + [Raccourcis clavier Cinnamon](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)
-+ [Raccourcis clavier Gnome](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.fr)
++ [Raccourcis clavier Gnome](https://defkey.com/fr/gnome-raccourcis-clavier)
 + [Raccourcis clavier KDE Plasma](https://defkey.com/fr/kde-plasma-raccourcis-clavier)
 + [Raccourcis clavier LXDE](https://defkey.com/fr/linux-lxde-raccourcis-clavier)
 + [Raccourcis clavier Xfce](https://defkey.com/fr/xfce-raccourcis-clavier)

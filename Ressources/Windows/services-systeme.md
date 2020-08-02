@@ -68,3 +68,9 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Gestionnaire de session locale|Automatique|
 |Gestionnaire des cartes téléchargées|Automatique (différé)|
 |Gestionnaire des connexions automatiques d'accès à distance|Manuel|
+|Gestionnaire des connexions d'accès à distance|Automatique|
+|Gestionnaire des connexions Windows|Automatique (déclenché)|
+|Gestionnaire des utilisateurs|Automatique (déclenché)|
+|Gestionnaire des paiements et des éléments sécurisés NFC|Manuel (déclenché)|
+|GraphicsPerfSvc|Manuel (déclenché)|
+|Groupement de mise en réseau de pairs|Manuel|

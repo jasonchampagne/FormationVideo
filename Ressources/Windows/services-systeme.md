@@ -19,7 +19,7 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Authentification naturelle|Manuel (déclenché)|
 |BranchCache|Manuel|
 |CaptureService|Manuel|
-|Carte à puce|Manuel (déclenchement)|
+|Carte à puce|Manuel (déclenché)|
 |Carte de performance WMI|Manuel|
 |Centre de sécurité|Automatique (différé)|
 |Cliché instantané des volumes|Manuel|

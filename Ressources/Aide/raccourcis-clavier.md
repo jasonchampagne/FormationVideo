@@ -12,14 +12,14 @@
 
 |Action|Widnows & GNU/Linux|MacOS|
 |:--|:--:|:--:|
-|Enregistrer le document|`Ctrl` + `S`|`Cmd` + `S`|
-|Faire une recherche|`Ctrl` + `F`|`Cmd` + `F`|
 |Sélectionner tous les éléments|`Ctrl` + `A`|`Cmd` + `A`|
 |Copier l'élement sélectionné (dans le presse-papiers)|`Ctrl` + `C`|`Cmd` + `C`|
-|Couper l'élément sélectionner (et le copier dans le presse-papiers)|`Ctrl` + `X`|`Cmd` + `X`|
+|Faire une recherche|`Ctrl` + `F`|`Cmd` + `F`|
+|Enregistrer le document|`Ctrl` + `S`|`Cmd` + `S`|
 |Coller le contenu du presse-papiers|`Ctrl` + `V`|`Cmd` + `V`|
-|Revenir en arrière|`Ctrl` + `Z`|`Cmd` + `Z`|
+|Couper l'élément sélectionner (et le copier dans le presse-papiers)|`Ctrl` + `X`|`Cmd` + `X`|
 |Revenir en avant|`Ctrl` + `Y`|`Maj` + `Cmd` + `Z`|
+|Revenir en arrière|`Ctrl` + `Z`|`Cmd` + `Z`|
 
 ## Windows
 

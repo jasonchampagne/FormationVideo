@@ -10,17 +10,13 @@
 
 ## Universels
 
-Les raccourcis s'effectuent avec la combinaison de la touche `Ctrl` (Windows & GNU/Linux) ou `Cmd` (MacOS) suivie d'une des touches indiquées dans le tableau ci-dessous.
-
-> _Exemple : sur Windows ou GNU/Linux, le raccourci `Ctrl` + `S` enregistre le document (ou `Cmd` + `S` sur MacOS)_
-
-|Touche|Description|
-|:--:|:--|
-|`A`|Sélectionner tous les éléments|
-|`C`|Copier l'élement sélectionné (dans le presse-papiers)|
-|`S`|Enregistrer le document|
-|`V`|Coller le contenu du presse-papiers|
-|`X`|Couper l'élément sélectionner (et le copier dans le presse-papiers)|
+|Action|Widnows & GNU/Linux|MacOS|
+|:--|:--:|:--:|
+|Enregistrer le document|`Ctrl` + `S`|`Cmd` + `S`|
+|Sélectionner tous les éléments|`Ctrl` + `A`|`Cmd` + `A`|
+|Copier l'élement sélectionné (dans le presse-papiers)|`Ctrl` + `C`|`Cmd` + `C`|
+|Couper l'élément sélectionner (et le copier dans le presse-papiers)|`Ctrl` + `X`|`Cmd` + `X`|
+|Coller le contenu du presse-papiers|`Ctrl` + `V`|`Cmd` + `V`|
 
 ## Windows
 

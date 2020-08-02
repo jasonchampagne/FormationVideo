@@ -10,4 +10,4 @@
 |encodage-utf8|Encoder vos fichiers en UTF-8 depuis votre éditeur|
 |hebergeurs-sites-web|Liste d'hébergeurs (payants et gratuits) pour vos sites internet|
 |liste-langages|Liste de langages de programmation ou de requête|
-|raccourcis-clavier|Raccourcis au clavier utilisables sur l'ensemble des systèmes d'exploitation|
+|raccourcis-clavier|Raccourcis au clavier des systèmes Windows, GNU/Linux et MacOS|

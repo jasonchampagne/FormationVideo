@@ -9,7 +9,7 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Agent Activation Runtime|Manuel|
 |Agent de stratégie IPsec|Manuel (déclenché)|
 |Alimentation|Automatique|
-|Appel de procédure distante (RPC|Automatique|
+|Appel de procédure distante (RPC)|Automatique|
 |Application système COM+|Manuel|
 |Assistance IP|Automatique|
 |Assistance NetBIOS sur TCP/IP|Manuel (déclenché)|

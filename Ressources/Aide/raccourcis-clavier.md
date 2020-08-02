@@ -21,8 +21,12 @@
 
 ## GNU/Linux
 
-+ _[Tous les raccourcis clavier Linux Mint](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)_
-+ _[Tous les raccourcis clavier Ubuntu](https://doc.ubuntu-fr.org/raccourcis_clavier)_
++ _[Raccourcis clavier i3](https://defkey.com/fr/i3-window-manager-raccourcis-clavier)_
++ _[Raccourcis clavier Cinnamon](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)_
++ _[Raccourcis clavier Gnome](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.fr)_
++ _[Raccourcis clavier KDE Plasma](https://defkey.com/fr/kde-plasma-raccourcis-clavier)_
++ _[Raccourcis clavier LXDE](https://defkey.com/fr/linux-lxde-raccourcis-clavier)_
++ _[Raccourcis clavier Xfce](https://defkey.com/fr/xfce-raccourcis-clavier)_
 
 ## Mac OS
 

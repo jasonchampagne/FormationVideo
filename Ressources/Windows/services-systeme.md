@@ -144,6 +144,7 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service d'énumération de périphérique de carte à puce|Manuel (déclenché)|
 |Service d'historique des fichiers|Manuel (déclenché)|
 |Service d'infrastructure des tâches en arrière-plan|Automatique|
+|Service d'nspection du réseau de l'antivirus Windows Defender|Manuel|
 |Service d'installation de périphérique|Manuel (déclenché)|
 |Service d'amélioration de l'affichage|Manuel (déclenché)|
 |Service de biométrie Windows|Manuel (déclenché)|
@@ -203,7 +204,6 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Service hôte WDIServiceHost|Manuel (déclenché)|
 |Service Hyper-V PowerShell Direct|Manuel (déclenché)|
 |Service Initiateur iSCSI de Microsoft|Manuel|
-|Service Inspection du réseau de l'antivirus Windows Defender|Manuel|
 |Service Interface du magasin réseau|Automatique|
 |Service KtmRm pour Distributed Transaction Coordinator|Manuel (déclenché)|
 |Service Liste des réseaux|Manuel|

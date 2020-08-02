@@ -3,7 +3,7 @@
 > **SOMMAIRE**
 > + [Universels](#universels)
 > + [Windows](#windows)
-> + [GNU/Linux](#gnu-linux)
+> + [GNU/Linux](#gnulinux)
 > + [MacOS](#mac-os)
 
 ---

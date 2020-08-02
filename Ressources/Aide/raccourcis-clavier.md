@@ -10,7 +10,9 @@
 
 ## Universels
 
-Les raccourcis s'effectuent avec la combinaison de la touche `Ctrl` (Windows & GNU/Linux) ou `Cmd` (MacOS) suivie d'une des touches indiquées dans le tableau ci-dessous :
+Les raccourcis s'effectuent avec la combinaison de la touche `Ctrl` (Windows & GNU/Linux) ou `Cmd` (MacOS) suivie d'une des touches indiquées dans le tableau ci-dessous.
+
+> _Exemple : Sur Windows ou GNU/Linux, le raccourci `Ctrl` + `S` enregistre le document._
 
 |Touche|Description|
 |:--:|:--|

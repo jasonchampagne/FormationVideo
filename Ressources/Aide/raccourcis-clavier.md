@@ -17,12 +17,13 @@
 
 ## Windows
 
-_[Tous les raccourcis Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)_
+_[Tous les raccourcis clavier Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)_
 
 ## GNU/Linux
 
-À venir...
+_[Tous les raccourcis clavier Linux Mint](https://defkey.com/fr/linux-mint-cinnamon-raccourcis-clavier)_
+_[Tous les raccourcis clavier Ubuntu](https://doc.ubuntu-fr.org/raccourcis_clavier)_
 
 ## Mac OS
 
-_[Tous les raccourcis MacOS](https://support.apple.com/fr-fr/HT201236)_
+_[Tous les raccourcis clavier MacOS](https://support.apple.com/fr-fr/HT201236)_

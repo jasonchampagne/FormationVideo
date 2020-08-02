@@ -10,7 +10,9 @@
 
 ## Universels
 
-À venir...
+|Action du raccourci|Windows & GNU/Linux|MacOS|
+|:--|:--:|:--:|
+|Sélectionner tout|`Ctrl + A`|`Cmd + A`|
 
 ## Windows
 

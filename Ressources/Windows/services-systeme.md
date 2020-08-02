@@ -74,3 +74,31 @@ Voici la liste des services présents sur le système Windows 10 avec leur valeu
 |Gestionnaire des paiements et des éléments sécurisés NFC|Manuel (déclenché)|
 |GraphicsPerfSvc|Manuel (déclenché)|
 |Groupement de mise en réseau de pairs|Manuel|
+|Heure cellulaire|Manuel (déclenché)|
+|Hôte de DLL de compteur de performances|Manuel|
+|Hôte de périphérique UPnP|Manuel|
+|Hôte de synchronisation|Automatique (différé)|
+|Hôte du fournisseur de découverte de fonctions|Manuel|
+|Hôte système de diagnostics|Manuel|
+|Identité de l'application|Manuel (déclenché)|
+|Informations d'application|Manuel (déclenché)|
+|Infrastructure de gestion Windows|Automatique|
+|Installation du service Microsoft Store|Manuel|
+|Interface de services d'invité Hyper-V|Manuel (déclenché)|
+|Interruption SNMP|Manuel|
+|Isolation de clé CNG|Manuel (déclenché)|
+|Jeu sauvegardé sur Xbox Live|Manuel (déclenché)|
+|Journal d'événements Windows|Automatique|
+|Journaux et alertes de performance|Manuel|
+|Lanceur de processus serveur DCOM|Automatique|
+|Localisateur d'appels de procédure distance (RPC)|Manuel|
+|Mappage de découverte de topologie de la couche de liaison|Manuel|
+|Mappeur de point de terminaison RPC|Automatique|
+|MessagingService|Manuel|
+|Mettre à jour le service Orchestrator|Automatique (différé)|
+|Microsoft App-V Client|Désactivé|
+|Microsoft Passport|Manuel (déclenché)|
+|Mode incorporé|Manuel (déclenché)|
+|Modules de génération des clés IKE et AuthIP|Manuel (déclenché)|
+|Moteur de filtrage de base|Automatique|
+|Netlogon|Manuel|

@@ -23,8 +23,6 @@
 
 ## Windows
 
-À venir...
-
 _[Tous les raccourcis Windows](https://support.microsoft.com/fr-fr/help/12445/windows-keyboard-shortcuts)_
 
 ## GNU/Linux

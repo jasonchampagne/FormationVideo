@@ -17,6 +17,8 @@
 |Copier l'élement sélectionné (dans le presse-papiers)|`Ctrl` + `C`|`Cmd` + `C`|
 |Couper l'élément sélectionner (et le copier dans le presse-papiers)|`Ctrl` + `X`|`Cmd` + `X`|
 |Coller le contenu du presse-papiers|`Ctrl` + `V`|`Cmd` + `V`|
+|Revenir en arrière|`Ctrl` + `Z`|`Cmd` + `Z`|
+|Revenir en avant|`Ctrl` + `Y`|`Maj` + `Cmd` + `Z`|
 
 ## Windows
 

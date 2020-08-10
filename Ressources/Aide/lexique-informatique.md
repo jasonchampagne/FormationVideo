@@ -1,6 +1,6 @@
 # Lexique informatique
 
-> [A](#termes-en-a) [B](#termes-en-b) [C](#termes-en-c)
+> [B](#termes-en-b) [C](#termes-en-c)
 
 ---
 

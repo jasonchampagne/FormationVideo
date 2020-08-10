@@ -14,4 +14,4 @@
 
 ## Termes en C
 
-+ **Cadriciel** / Framework : xxx
++ **Cadriciel (framework)** : xxx

@@ -20,7 +20,7 @@
 
 + ### Greffon
   + **Terme anglais** : _plugin_
-  + **Définition** : [paquet](#paquet) visant à ajouter des fonctionnalités à un [logiciel](#logiciel) existant
+  + **Définition** : [paquet](#paquet) visant à ajouter des fonctionnalités à un [logiciel](#logiciel) existant.
   
 ## Termes en I
 

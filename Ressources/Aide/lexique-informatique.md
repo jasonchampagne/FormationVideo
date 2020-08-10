@@ -8,10 +8,10 @@
 
 + ### Bibliothèque
   + **Terme anglais** : _library_
-  + **Définition** : la plancha
+  + **Définition** : xxx
 
 ## Termes en C
 
 + ### Cadriciel
   + **Terme anglais** : _framework_
-  + **Définition** : n'est pas une [bibliothèque](#bibliothèque)
+  + **Définition** : xxx

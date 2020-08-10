@@ -11,11 +11,13 @@
 ## Termes en B
 
 + ### Bibliothèque
-  + **Terme anglais** : framework
+  + **Terme anglais** : library
   + **Définition** : la plancha
 
 ---
 
 ## Termes en C
 
-+ **Cadriciel (framework)** : xxx
++ ### Cadriciel
+  + **Terme anglais** : framework
+  + **Définition** : n'est pas une [bibliothèque](#bibliothèque)

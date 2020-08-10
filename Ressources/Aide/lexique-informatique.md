@@ -7,7 +7,7 @@
 ## Termes en B
 
 + ### Bibliothèque
-  + **Terme anglais** : library
+  + **Terme anglais** : _library_
   + **Définition** : la plancha
 
 ---
@@ -15,5 +15,5 @@
 ## Termes en C
 
 + ### Cadriciel
-  + **Terme anglais** : framework
+  + **Terme anglais** : _framework_
   + **Définition** : n'est pas une [bibliothèque](#bibliothèque)

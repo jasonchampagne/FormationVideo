@@ -14,7 +14,6 @@
 
 + **Terme anglais** : framework
 + **Définition** : la plancha
-+ **Autre(s) appellation(s)** : infrastructure ou cadre d'application, de développement
 
 ---
 

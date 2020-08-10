@@ -1,6 +1,6 @@
 # Lexique informatique
 
-> [B](#termes-en-b) [C](#termes-en-c)
+> [B](#termes-en-b) [C](#termes-en-c) [O](#termes-en-o)
 
 ---
 
@@ -14,4 +14,10 @@
 
 + ### Cadriciel
   + **Terme anglais** : _framework_
+  + **Définition** : xxx
+
+## Termes en O
+
++ ### Octet
+  + **Terme anglais** : _byte_
   + **Définition** : xxx

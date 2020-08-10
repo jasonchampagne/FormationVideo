@@ -1,6 +1,6 @@
 # Lexique informatique
 
-> [B](#termes-en-b) [C](#termes-en-c) [O](#termes-en-o)
+> [B](#termes-en-b) [C](#termes-en-c) [I](#termes-en-i) [O](#termes-en-o)
 
 ---
 
@@ -14,6 +14,12 @@
 
 + ### Cadriciel
   + **Terme anglais** : _framework_
+  + **Définition** : xxx
+  
+## Termes en I
+
++ ### IPA (Interface de Programmation Applicative)
+  + **Terme anglais** : _API (Application Programming Interface)_
   + **Définition** : xxx
 
 ## Termes en O

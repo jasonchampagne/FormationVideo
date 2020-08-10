@@ -1,6 +1,6 @@
 # Lexique informatique
 
-[A](#termes-en-a]
+[A](#termes-en-a)
 
 ---
 

@@ -4,10 +4,6 @@
 
 ---
 
-## Termes en A
-
----
-
 ## Termes en B
 
 + ### Bibliothèque

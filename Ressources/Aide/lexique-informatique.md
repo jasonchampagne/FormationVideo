@@ -10,6 +10,8 @@
 
 ## Termes en B
 
++ **Bibliothèque (library)** : xxx
+
 ---
 
 ## Termes en C

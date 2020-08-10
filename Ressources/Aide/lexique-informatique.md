@@ -10,8 +10,6 @@
   + **Terme anglais** : _library_
   + **Définition** : la plancha
 
----
-
 ## Termes en C
 
 + ### Cadriciel

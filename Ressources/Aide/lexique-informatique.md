@@ -1,6 +1,6 @@
 # Lexique informatique
 
-> [B](#termes-en-b) [C](#termes-en-c) [I](#termes-en-i) [O](#termes-en-o)
+> [B](#termes-en-b) [C](#termes-en-c) [G](#termes-en-g) [I](#termes-en-i) [O](#termes-en-o)
 
 ---
 
@@ -14,6 +14,12 @@
 
 + ### Cadriciel
   + **Terme anglais** : _framework_
+  + **Définition** : xxx
+  
+## Termes en G
+
++ ### Greffon
+  + **Terme anglais** : _plugin_
   + **Définition** : xxx
   
 ## Termes en I

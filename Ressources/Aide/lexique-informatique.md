@@ -10,7 +10,7 @@
 
 ## Termes en B
 
-### ➡ Bibliothèque
+### + Bibliothèque
 
 + **Terme anglais** : framework
 + **Définition** : la plancha

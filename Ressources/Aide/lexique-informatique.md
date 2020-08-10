@@ -1,6 +1,6 @@
 # Lexique informatique
 
-> [B](#termes-en-b) [C](#termes-en-c) [G](#termes-en-g) [I](#termes-en-i) [O](#termes-en-o)
+> [B](#termes-en-b) [C](#termes-en-c) [G](#termes-en-g) [I](#termes-en-i) [L](#logiciel) [O](#termes-en-o) [P](#paquet)
 
 ---
 
@@ -20,16 +20,28 @@
 
 + ### Greffon
   + **Terme anglais** : _plugin_
-  + **Définition** : xxx
+  + **Définition** : [paquet](#paquet) visant à ajouter des fonctionnalités à un [logiciel](#logiciel) existant
   
 ## Termes en I
 
 + ### IPA (Interface de Programmation Applicative)
   + **Terme anglais** : _API (Application Programming Interface)_
   + **Définition** : xxx
+  
+## Termes en L
+
++ ### Logiciel
+  + **Terme anglais** : _software_
+  + **Définition** : xxx
 
 ## Termes en O
 
 + ### Octet
   + **Terme anglais** : _byte_
+  + **Définition** : xxx
+
+## Termes en P
+
++ ### Paquet
+  + **Terme anglais** : _package_
   + **Définition** : xxx

@@ -24,3 +24,4 @@ Retrouvez ici la rediffusion des lives (sessions) sur les diff√©rents projets r√
 + [\#16. Session du 14/07/2020](https://www.twitch.tv/videos/679809171)
 + [\#17. Session du 21/07/2020](https://www.twitch.tv/videos/686713403)
 + [\#18. Session du 28/07/2020](https://www.twitch.tv/videos/693650830)
++ [\#19. Session du 18/08/2020](https://www.twitch.tv/videos/714414540)

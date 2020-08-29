@@ -15,3 +15,4 @@
 + [7. Dossier personnel](https://www.youtube.com/watch?v=z_AMq3vB--M)
 + [8. Gestion fichiers](https://www.youtube.com/watch?v=crdv_xEBnAI)
 + [9. Lecture médias](https://www.youtube.com/watch?v=-q2eSc_mtx8)
++ [10. Navigation internet](https://www.youtube.com/watch?v=qGEfu-gokrM)

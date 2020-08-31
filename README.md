@@ -42,14 +42,14 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-|Algorithmie|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-|à venir|
-|-|Assembleur|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|à venir|à venir|
+||Algorithmie|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-|à venir|
+||Assembleur|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|à venir|à venir|
 |✔️|C|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
-|-|C++|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)|à venir|
-|-|C#|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|à venir|à venir|
+||C++|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)|à venir|
+||C#|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|à venir|à venir|
 |✔️|HTML/CSS|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
-|-|Java|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)|à venir|
-|-|JavaScript|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|à venir|à venir|
+||Java|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)|à venir|
+||JavaScript|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|à venir|à venir|
 |✔️|PHP|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md) |[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)|à venir|
 |✔️|Python|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✔️|SQL|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|à venir|à venir|
@@ -58,8 +58,8 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
-|-|GNU/Linux|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|à venir|
-|-|Windows|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)|
+||GNU/Linux|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|à venir|
+||Windows|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)|
 
 > Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell.
 
@@ -67,15 +67,15 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-|Piano|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)|à venir|-|
+||Piano|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)|à venir|-|
 
 ### Langues
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|-|Anglais|(en préparation)|-|-|
-|-|Français|(en préparation)|-|-|
-|-|Japonais|(en préparation)|-|-|
+||Anglais|(en préparation)|-|-|
+||Français|(en préparation)|-|-|
+||Japonais|(en préparation)|-|-|
 
 ---
 
@@ -92,7 +92,7 @@ Ici, une liste (non complète et qui peut changer à tout moment) des contenus q
 |Langages|Dart, Go, Kotlin, LaTeX, Lua, Ruby, Rust, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|
 |Moteurs|CryENGINE, Godot Engine, Unity, Unreal Engine|
-|Plateformes|Nginx, NodeJS, Twitch, YouTube|
+|Plateformes|Apache, Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD|
 |Techniques|analyse (UML), infographie (3D, calligraphie, dessin, imagerie, pixel-art), son (montage, mix, mastering), vidéo (montage, effets spéciaux), écriture, chant|
 

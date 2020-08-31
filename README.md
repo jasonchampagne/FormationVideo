@@ -62,7 +62,13 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ||GNU/Linux|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|à venir|
 ||Windows|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)|
 
-> Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell.
+> _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
+
+### Plateformes
+
+|/|NOM|COURS|TUTORIELS|
+|:--:|:--:|:--:|:--:|
+||Apache|à venir|à venir|
 
 ### Image, audio et vidéo
 

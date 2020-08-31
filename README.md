@@ -94,7 +94,7 @@ Ici, une liste (non complète et qui peut changer à tout moment) des contenus q
 |:--|:--|
 |Applications|Audacity, Blender, DaVinci Resolve, Docker, Doxygen, GIMP, Inkscape, Krita, LibreOffice, LMMS, MS Office, Mypaint, OBS Studio, Photoshop, REAPER, Ren'Py, Tiled, Wireshark|
 |Bibliothèques|DirectX, GTK+, JQuery, Kivy, OpenGL, Qt, React, SFML, wxWidgets|
-|CMS|phpBB, PrestaShop, WordPress|
+|CMS|Joomla, phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Django, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
 |Langages|Dart, Go, Kotlin, LaTeX, Lua, Ruby, Rust, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|

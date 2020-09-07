@@ -1,6 +1,6 @@
 # SAV
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr)
 
 ---
 

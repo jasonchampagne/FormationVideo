@@ -1,6 +1,6 @@
 # Windows - tutoriels
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd)
 
 ---
 

@@ -1,6 +1,6 @@
 # Python - tutoriels
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFMB2Qeuej6efzZRvjRdXo8)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFMB2Qeuej6efzZRvjRdXo8)
 
 ---
 

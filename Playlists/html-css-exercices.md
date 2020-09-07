@@ -1,6 +1,6 @@
 # HTML/CSS - exercices
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb)
 
 ---
 

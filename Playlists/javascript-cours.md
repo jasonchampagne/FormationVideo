@@ -1,6 +1,6 @@
 # JavaScript - cours
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_)
 
 ---
 

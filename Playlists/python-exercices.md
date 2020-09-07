@@ -1,6 +1,6 @@
 # Python - exercices
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1)
 
 ---
 

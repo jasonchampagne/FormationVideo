@@ -1,6 +1,6 @@
 # PHP - tutoriels
 
-> [LIEN VERS LA PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2)
 
 ---
 

@@ -12,3 +12,5 @@
 + [4. Variables](https://www.youtube.com/watch?v=Ssu2rZUZY64)
 + [5. Opérateurs](https://www.youtube.com/watch?v=9zUUp3HOtxo)
 + [6. Conditions](https://www.youtube.com/watch?v=QkOUHfTVXEI)
++ [7. Boucles](https://www.youtube.com/watch?v=1-Gnxzr5Neo)
++ [8. Lecture au clavier](https://www.youtube.com/watch?v=qqx6uARSewY)

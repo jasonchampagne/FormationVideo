@@ -7,6 +7,7 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
++ [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Chiffrer un support de stockage (VeraCrypt)](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [Choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)

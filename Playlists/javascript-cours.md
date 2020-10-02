@@ -15,3 +15,4 @@
 + [7. Fonctions](https://www.youtube.com/watch?v=RUT2fr28YYg)
 + [8. Programmation objet](https://www.youtube.com/watch?v=cnnhogixcI0)
 + [9. Prototypes et classes](https://www.youtube.com/watch?v=_Ilj_unoqvA)
++ [10. Héritage](https://www.youtube.com/watch?v=2BoeW9J-Hso)

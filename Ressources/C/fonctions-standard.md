@@ -1,8 +1,6 @@
 # Fonctions de la bibiliothèque standard
 
-```
-La bibliothèque standard du C est une collection maintenant normalisée d'en-têtes et de routines utilisées pour implémenter des opérations courantes, telles que les entrées/sorties et la gestion des chaînes de caractères.
-```
+> La bibliothèque standard du C est une collection maintenant normalisée d'en-têtes et de routines utilisées pour implémenter des opérations courantes, telles que les entrées/sorties et la gestion des chaînes de caractères.
 
 ## <assert.h>
 ## <complex.h>

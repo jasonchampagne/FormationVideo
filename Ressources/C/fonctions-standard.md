@@ -4,6 +4,11 @@
 > + [**C Reference**](https://en.cppreference.com/w/c)
 
 ## <assert.h>
+
+```c
+assert(condition) // N'est pas une fonction, mais une macro
+```
+
 ## <complex.h>
 ## <ctype.h>
 ## <errno.h>

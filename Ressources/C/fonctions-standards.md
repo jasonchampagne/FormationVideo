@@ -1,0 +1,3 @@
+# Fonctions standards
+
+À venir...

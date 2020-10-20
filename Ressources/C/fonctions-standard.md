@@ -25,7 +25,8 @@
 ## <stdio.h>
 
 ```c
-int printf( const char *format, ... );
+int printf(const char *format, ...);
+int printf(const char *restrict format, ...);
 ```
 
 ## <stdlib.h>

@@ -1,0 +1,3 @@
+# Fonctions de la bibiliothèque standard
+
+À venir...

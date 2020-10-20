@@ -1,3 +1,0 @@
-# Fonctions standards
-
-À venir...

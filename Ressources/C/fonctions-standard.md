@@ -25,8 +25,9 @@
 ## <stdio.h>
 
 ```c
+int fprintf(FILE *stream, const char *format, ...);
 int printf(const char *format, ...);
-int printf(const char *restrict format, ...);
+int sprintf(char *buffer, const char *format, ...);
 ```
 
 ## <stdlib.h>

@@ -23,6 +23,11 @@
 ## <stddef.h>
 ## <stdint.h>
 ## <stdio.h>
+
+```c
+int printf( const char *format, ... );
+```
+
 ## <stdlib.h>
 ## <stdnoreturn.h>
 ## <string.h>

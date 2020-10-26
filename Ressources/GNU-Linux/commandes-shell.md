@@ -87,6 +87,7 @@
 |**top**|Lister les processus (avec mise à jour toutes les X secondes)|
 |**touch**|Modifier l'horodatage d'un fichier (peut aussi en créer)|
 |**traceroute**|Afficher la trace des paquets routés vers l'hôte réseau|
+|**ufw**|Gérer un pare-feu Netfilter (surchouche d'iptables)|
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|
 |**umount**|Démonter des systèmes de fichiers|
 |**unrar**|Extraire des fichiers compressés dans une archive RAR|

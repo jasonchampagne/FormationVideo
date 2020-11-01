@@ -11,5 +11,4 @@
 |hebergeurs-sites-web|Liste d'hébergeurs (payants et gratuits) pour vos sites internet|
 |lexique-informatique|Ensemble de termes utilisés en informatique et leur définition|
 |liste-langages|Liste de langages de programmation ou de requête|
-|outils-programmation|Compilateurs et interpréteurs|
 |raccourcis-clavier|Raccourcis au clavier des systèmes Windows, GNU/Linux et MacOS|

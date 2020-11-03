@@ -13,7 +13,7 @@ Cherchez la ligne **Type du système** :
 + Si elle indique **x86-based**, votre système est en 32-bits
 + Si elle indique **x64-based**, votre système est en 64-bits
 
----
+## Visual C++
 
 |NOM DU PACKAGE|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
 |:--:|:--:|:--:|:--:|:--:|

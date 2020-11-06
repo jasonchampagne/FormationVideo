@@ -35,3 +35,4 @@
 + [27. Configuration netplan](https://www.youtube.com/watch?v=KGPNP9WggK0)
 + [28. Réseau et routage](https://www.youtube.com/watch?v=v4MS4g03vsY)
 + [29. Pare-feu](https://www.youtube.com/watch?v=nZrPOsqXF8U)
++ [30. Introduction bash](https://www.youtube.com/watch?v=XGxtbcAzk-g)

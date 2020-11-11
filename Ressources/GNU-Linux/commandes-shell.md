@@ -72,6 +72,7 @@
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
 |**read**|Lit une ligne de l'entrée standard et la divise en champs|
+|**readonly**|Marque une ou plusieurs variables ou fonctions en lecture seule|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|

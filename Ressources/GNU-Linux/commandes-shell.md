@@ -26,6 +26,7 @@
 |**cut**|Supprimer une partie de chaque ligne d'un fichier|
 |**dash**|Lancer un shell **Dash** (BSD) ; alias : sh|
 |**date**|Afficher ou configurer la date et l'heure du système|
+|**declare**|Déclare des variables et leur assigne des attributs|
 |**deluser**|Supprimer un utilisateur (d'un groupe)|
 |**df**|Afficher la quantité d'espace occupé par les systèmes de fichiers|
 |**diff**|Trouver les différences entre des fichiers|
@@ -93,6 +94,7 @@
 |**uniq**|Éliminer les lignes dupliquées dans un fichier trié|
 |**umount**|Démonter des systèmes de fichiers|
 |**unrar**|Extraire des fichiers compressés dans une archive RAR|
+|**unset**|Annule les valeurs et les attributs des variables et des fonctions|
 |**unzip**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|
 |**uptime**|Afficher le temps depuis lequel la machine est démarrée|
 |**usermod**|Modifier les informations d'un utilisateur|

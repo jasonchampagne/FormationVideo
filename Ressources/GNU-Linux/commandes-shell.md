@@ -76,6 +76,7 @@
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
 |**sed**|Filtrer et transformer du texte|
+|**set**|Modifie la valeur d'une option de shell et définit les paramètres de position, ou affiche les noms et les valeurs des variables de shell|
 |**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
 |**sh**|_voir commande “dash”_|
 |**shift**|Décale les paramètres de position vers la gauche|

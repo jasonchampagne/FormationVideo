@@ -70,12 +70,14 @@
 |**pwd**|Récupérer le nom du répertoire courant|
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
+|**read**|Lit une ligne de l'entrée standard et la divise en champs|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
 |**sed**|Filtrer et transformer du texte|
 |**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
 |**sh**|_voir commande “dash”_|
+|**shift**|Décale les paramètres de position vers la gauche|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|
 |**ss**|Analyser les sockets|

@@ -21,7 +21,7 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 
 ### Interactifs
 
-Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne), généralement de 21h30 à minuit (voir [planning](https://jasonchampagne.fr/planning) mis à jour chaque semaine).
+Ces projets sont réalisés intégralement [en direct sur Twitch](https://www.twitch.tv/jachampagne) (voir [planning](https://jasonchampagne.fr/planning) mis à jour chaque semaine).
 
 Le déroulement de ce type de projet est le suivant :
 

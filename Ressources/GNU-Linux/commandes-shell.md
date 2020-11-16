@@ -54,6 +54,7 @@
 |**kill**|Envoyer un signal à un processus|
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|
 |**less**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|
+|**let**|Effectue de l'arithmétique sur des variables shell|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**ln**|Créer des liens entre fichiers|
 |**ls**|Lister (afficher) le contenu d'un répertoire|

@@ -37,3 +37,4 @@
 + [29. Pare-feu](https://www.youtube.com/watch?v=nZrPOsqXF8U)
 + [30. Introduction bash](https://www.youtube.com/watch?v=XGxtbcAzk-g)
 + [31. Variables](https://www.youtube.com/watch?v=2Nr5RfsiRrQ)
++ [32. Opérations](https://www.youtube.com/watch?v=zTSv0lhRKBw)

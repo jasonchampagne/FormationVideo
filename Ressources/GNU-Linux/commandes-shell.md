@@ -54,7 +54,7 @@
 |**kill**|Envoyer un signal à un processus|
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|
 |**less**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|
-|**let**|Effectue de l'arithmétique sur des variables shell|
+|**let**|Effectuer de l'arithmétique sur des variables shell|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**ln**|Créer des liens entre fichiers|
 |**ls**|Lister (afficher) le contenu d'un répertoire|
@@ -72,16 +72,16 @@
 |**pwd**|Récupérer le nom du répertoire courant|
 |**quota**|Afficher l'utilisation du disque et les quotas|
 |**rar**|Créer et compresser des archives RAR|
-|**read**|Lit une ligne de l'entrée standard et la divise en champs|
-|**readonly**|Marque une ou plusieurs variables ou fonctions en lecture seule|
+|**read**|Lire une ligne de l'entrée standard et la diviser en champs|
+|**readonly**|Marquer une ou plusieurs variables ou fonctions en lecture seule|
 |**rm**|Effacer des fichiers (ou répertoires contenant des fichiers)|
 |**rmdir**|Effacer des répertoires vides|
 |**scp**|Copier des fichiers vers une machine distante|
 |**sed**|Filtrer et transformer du texte|
-|**set**|Modifie valeur d'une option de shell, définit paramètres de position, ou affiche noms et valeurs des variables de shell|
+|**set**|Modifier valeur d'une option de shell, définit paramètres de position, ou afficher noms et valeurs des variables de shell|
 |**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
 |**sh**|_voir commande “dash”_|
-|**shift**|Décale les paramètres de position vers la gauche|
+|**shift**|Décaler les paramètres de position vers la gauche|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|
 |**ss**|Analyser les sockets|
@@ -89,6 +89,7 @@
 |**su**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**sudo**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**tar**|Utilitaire GNU de gestion d'archives TAR|
+|**tee**|Copier l'entrée standard sur la sortie standard et dans un fichier|
 |**tload**|Afficher graphiquement la charge du système|
 |**top**|Lister les processus (avec mise à jour toutes les X secondes)|
 |**touch**|Modifier l'horodatage d'un fichier (peut aussi en créer)|

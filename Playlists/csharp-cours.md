@@ -14,3 +14,4 @@
 + [6. Conditions](https://www.youtube.com/watch?v=QkOUHfTVXEI)
 + [7. Boucles](https://www.youtube.com/watch?v=1-Gnxzr5Neo)
 + [8. Lecture au clavier](https://www.youtube.com/watch?v=qqx6uARSewY)
++ [9. méthodes](https://www.youtube.com/watch?v=nKmPXDdfA3s)

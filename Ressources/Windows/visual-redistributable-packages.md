@@ -16,7 +16,7 @@ Cherchez la ligne **Type du système** :
 ---
 
 |NOM DU PACKAGE|USAGE|
-|:--:||:--|
+|:--:|:--|
 |[Visual C++ Build Tools](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)|Compilateur MSVC autonome, bibliothèques et scripts|
 
 |NOM DU PACKAGE|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|

@@ -30,6 +30,7 @@
 
 > + [C](#c)
 > + [C++](#c-1)
+> + [CSharp](#csharp)
 > + [Dart](#dart)
 > + [Go](#go)
 > + [Java](#java)
@@ -98,6 +99,25 @@ int main()
 		std::cout << "OK" << std::endl;
 
 	return 0;
+}
+```
+
+### CSharp
+
+```cs
+using System;
+using System.Text.RegularExpressions;
+
+public class Program
+{
+	static void Main(string[] args)
+	{
+		string data = "tester-une-expression-rationnelle-avec-CSharp";
+		Regex regex = new Regex("^[a-zA-Z-]+$");
+
+		if(regex.IsMatch(data))
+			Console.WriteLine("OK");
+	}
 }
 ```
 

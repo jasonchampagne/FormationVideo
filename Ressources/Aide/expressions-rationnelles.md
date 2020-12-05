@@ -20,6 +20,12 @@
 
 ---
 
+## Exemples de motifs
+
+À venir...
+
+---
+
 ## Exemples de code
 
 > + [C](#c)

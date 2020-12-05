@@ -5,10 +5,8 @@
 ## PHP
 
 ```php
-<?php
-
 $str = 'tester-une-expression-rationnelle-avec-PHP';
-$pattern = '#([a-zA-Z0-9\-]+)#';
+$pattern = '#^([a-zA-Z\-]+)$#';
 
 if(preg_match($pattern, $str))
   echo 'OK';

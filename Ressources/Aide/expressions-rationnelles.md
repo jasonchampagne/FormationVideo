@@ -22,11 +22,14 @@
 
 ## Exemples de code
 
-**SOMMAIRE**
 > + [C](#c)
 > + [C++](#c-1)
 > + [Java](#java)
 > + [JavaScript](#javascript)
+> + [PHP](#php)
+> + [Python](#python)
+> + [Ruby](#ruby)
+> + [SQL](#sql)
 
 ### C
 

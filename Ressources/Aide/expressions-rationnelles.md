@@ -2,6 +2,24 @@
 
 > AIDE - Expressions rationnelles (à venir)
 
+## Délimiteurs
+
+À venir...
+
+## Méta-caractères
+
+À venir...
+
+## Classes de caractères
+
+À venir...
+
+## Options de recherche
+
+À venir...
+
+---
+
 ## Exemples de code
 
 ### C

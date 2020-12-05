@@ -1,6 +1,6 @@
 # Expressions rationnelles
 
-> AIDE - Expressions rationnelles (à venir)
+> [AIDE - Expressions rationnelles](#)
 
 ## Délimiteurs
 

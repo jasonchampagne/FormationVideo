@@ -23,8 +23,10 @@
 ## Exemples de code
 
 **SOMMAIRE**
-> [C](#C)
-> [C++](#C-1)
+> + [C](#c)
+> + [C++](#c-1)
+> + [Java](#java)
+> + [JavaScript](#javascript)
 
 ### C
 

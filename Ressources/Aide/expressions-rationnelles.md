@@ -40,7 +40,7 @@ if(preg_match($pattern, $data))
 import re
 
 data = 'tester-une-expression-rationnelle-avec-Python'
-pattern = '^[a-zA-Z\-]+$'
+pattern = '^[a-zA-Z-]+$'
 
 if re.search(pattern, data):
 	print('OK')

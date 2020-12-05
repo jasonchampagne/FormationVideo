@@ -34,6 +34,7 @@
 > + [Ruby](#ruby)
 > + [Rust](#rust)
 > + [SQL](#sql)
+> + [V](#v)
 
 ### C
 
@@ -225,4 +226,26 @@ fn main()
 
 ```sql
 SELECT REGEXP_INSTR('tester-une-expression-rationnelle-avec-SQL', '^[a-zA-Z-]+$');
+```
+
+### V
+
+```v
+import regex
+
+fn main()
+{
+	data := "tester-une-expression-rationnelle-avec-V"
+	pattern := r"^[-a-zA-Z]+$"
+	
+	mut reg := regex.new()
+	reg.compile_opt(pattern) or { println(err) }
+
+	start_index, end_index := reg.match_string(data)
+    
+	if start_index >= 0 && end_index > start_index
+	{
+		println("OK")
+	}
+}
 ```

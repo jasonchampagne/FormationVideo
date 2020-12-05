@@ -75,3 +75,9 @@ pattern = '^[a-zA-Z-]+$'
 if re.search(pattern, data):
 	print('OK')
 ```
+
+### SQL
+
+```sql
+SELECT REGEXP_INSTR('tester-une-expression-rationnelle-avec-SQL', '^[a-zA-Z-]+$');
+```

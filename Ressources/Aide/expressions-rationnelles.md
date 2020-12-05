@@ -138,7 +138,7 @@ end
 <?php
 
 $data = 'tester-une-expression-rationnelle-avec-PHP';
-$pattern = '#^[a-zA-Z\-]+$#';
+$pattern = '#^[a-zA-Z-]+$#';
 
 if(preg_match($pattern, $data))
 	echo 'OK';
@@ -161,7 +161,7 @@ if re.search(pattern, data):
 
 ```ruby
 data = "tester-une-expression-rationnelle-avec-Ruby"
-pattern = "#^[a-zA-Z\-]+$#"
+pattern = "#^[a-zA-Z-]+$#"
 
 if data.scan(pattern)
     puts("OK")

@@ -24,6 +24,7 @@
 
 > + [C](#c)
 > + [C++](#c-1)
+> + [Go](#go)
 > + [Java](#java)
 > + [JavaScript](#javascript)
 > + [Lua](#lua)
@@ -89,6 +90,26 @@ int main()
 		std::cout << "OK" << std::endl;
 
 	return 0;
+}
+```
+
+### Go
+
+```go
+package main
+
+import (
+    "fmt"
+    "regexp"
+)
+
+func main() {
+    data := "tester-une-expression-rationnelle-avec-Go"
+    regex := regexp.MustCompile("^[a-zA-Z-]+$")
+    
+    if regex.FindString(data) != "" {
+        fmt.Println("OK")
+    }
 }
 ```
 

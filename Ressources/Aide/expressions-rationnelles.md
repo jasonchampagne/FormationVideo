@@ -42,6 +42,7 @@
 > + [Rust](#rust)
 > + [SQL](#sql)
 > + [V](#v)
+> + [Visual Basic](#visual-basic)
 
 ### C
 
@@ -274,4 +275,21 @@ fn main()
 		println("OK")
 	}
 }
+```
+
+### Visual Basic
+
+```vb
+Imports System.Text.RegularExpressions
+
+Module Program
+    Sub Main()
+		Dim data As String = "tester-une-expression-rationnelle-avec-Rust"
+        Dim regex As Regex = New Regex("^[a-zA-Z-]+$")
+
+        If regex.Match(data).Success Then
+            Console.WriteLine("OK")
+        End If
+    End Sub
+End Module
 ```

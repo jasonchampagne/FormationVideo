@@ -37,9 +37,8 @@
 
 ### C
 
-+ _**NOTE** : issu de la norme POSIX (n'est pas portable)_
-
 ```c
+// NOTE : issu de la norme POSIX (n'est pas portable)
 #include <stdio.h>
 #include <stdlib.h>
 #include <regex.h>
@@ -207,6 +206,7 @@ end
 ### Rust
 
 ```rust
+// Nécessite la bibliothèque regex
 use regex::Regex;
 
 fn main()

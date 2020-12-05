@@ -2,7 +2,9 @@
 
 > AIDE - Expressions rationnelles (à venir)
 
-## C++
+## Exemples de code
+
+### C++
 
 ```cpp
 #include <iostream>
@@ -21,7 +23,7 @@ int main()
 }
 ```
 
-## PHP
+### PHP
 
 ```php
 <?php
@@ -33,7 +35,7 @@ if(preg_match($pattern, $data))
 	echo 'OK';
 ```
 
-## Python
+### Python
 
 ```python
 #coding:utf-8

@@ -26,6 +26,7 @@
 > + [C++](#c-1)
 > + [Java](#java)
 > + [JavaScript](#javascript)
+> + [Lua](#lua)
 > + [PHP](#php)
 > + [Python](#python)
 > + [Ruby](#ruby)
@@ -117,6 +118,18 @@ let pattern = "^[a-zA-Z-]+$";
 
 if(data.match(pattern))
 	document.write("OK");
+```
+
+### Lua
+
+```lua
+data = "tester-une-expression-rationnelle-avec-Lua"
+pattern = "^[a-zA-Z\-]+$"
+
+if(data:match(pattern))
+then
+    print("OK")
+end
 ```
 
 ### PHP

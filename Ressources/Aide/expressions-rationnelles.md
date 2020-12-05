@@ -4,6 +4,47 @@
 
 ## Exemples de code
 
+### C
+
+> _**NOTE** : issu de la norme POSIX (n'est pas portable)_
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <regex.h>
+
+int main(void)
+{
+    char data[] = "tester-une-expression-rationnelle-avec-C";
+    char pattern[] = "^[a-zA-Z-]+$";
+    char buffer[128];
+    regex_t regex;
+    int exec_regex_code;
+    
+    if(regcomp(&regex, pattern, REG_EXTENDED))
+    {
+        fprintf(stderr, "ERREUR : Impossible de compiler le motif\n");
+        exit(EXIT_FAILURE);
+    }
+    
+    exec_regex_code = regexec(&regex, data, 0, NULL, 0);
+        
+    if(!exec_regex_code)
+        printf("OK\n");
+    else if(exec_regex_code == REG_NOMATCH)
+        printf("PAS OK\n");
+    else
+    {
+        regerror(exec_regex_code, &regex, buffer, sizeof(buffer));
+        fprintf(stderr, "ERREUR : Echec du test de motif (%s)", buffer);
+        exit(EXIT_FAILURE);
+    }
+    
+    regfree(&regex);
+    return 0;
+}
+```
+
 ### C++
 
 ```cpp

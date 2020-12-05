@@ -41,6 +41,16 @@ public class Main
 }
 ```
 
+### JavaScript
+
+```javascript
+let data = "tester-une-expression-rationnelle-avec-JavaScript";
+let pattern = "^[a-zA-Z-]+$";
+
+if(data.match(pattern))
+	document.write("OK");
+```
+
 ### PHP
 
 ```php

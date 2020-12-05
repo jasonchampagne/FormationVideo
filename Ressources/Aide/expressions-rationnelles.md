@@ -135,6 +135,17 @@ if re.search(pattern, data):
 	print('OK')
 ```
 
+### Ruby
+
+```ruby
+data = "tester-une-expression-rationnelle-avec-Ruby"
+pattern = "#^[a-zA-Z\-]+$#"
+
+if data.scan(pattern)
+    puts("OK")
+end
+```
+
 ### SQL
 
 ```sql

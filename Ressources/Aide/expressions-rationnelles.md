@@ -22,9 +22,13 @@
 
 ## Exemples de code
 
+**SOMMAIRE**
+> [C](#C)
+> [C++]()
+
 ### C
 
-> _**NOTE** : issu de la norme POSIX (n'est pas portable)_
++ _**NOTE** : issu de la norme POSIX (n'est pas portable)_
 
 ```c
 #include <stdio.h>

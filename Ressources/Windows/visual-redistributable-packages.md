@@ -15,6 +15,10 @@ Cherchez la ligne **Type du système** :
 
 ---
 
+|NOM DU PACKAGE|
+|:--:|
+|[Visual C++ Build Tools](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)|
+
 |NOM DU PACKAGE|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
 |:--:|:--:|:--:|:--:|:--:|
 |Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(tout-en-un)|[lien](https://aka.ms/vs/16/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/16/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/16/release/VC_redist.arm64.exe)|-|

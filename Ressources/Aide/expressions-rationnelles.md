@@ -23,6 +23,24 @@ int main()
 }
 ```
 
+### Java
+
+```java
+import java.util.regex.Matcher;
+
+public class Main
+{
+	public static void main(String[] args)
+	{
+		String data = "tester-une-expression-rationnelle-avec-Java";
+		String pattern = "^[a-zA-Z-]+$";
+
+		if(data.matches(pattern))
+			System.out.println("OK");
+	}
+}
+```
+
 ### PHP
 
 ```php

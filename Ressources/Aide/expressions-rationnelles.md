@@ -24,6 +24,7 @@
 
 > + [C](#c)
 > + [C++](#c-1)
+> + [Dart](#dart)
 > + [Go](#go)
 > + [Java](#java)
 > + [JavaScript](#javascript)
@@ -90,6 +91,19 @@ int main()
 		std::cout << "OK" << std::endl;
 
 	return 0;
+}
+```
+
+### Dart
+
+```dart
+main()
+{
+    var data = "tester-une-expression-rationnelle-avec-Dart";
+    RegExp regex = new RegExp(r"^[a-zA-Z-]+$");
+    
+    if(regex.hasMatch(data))
+        print("OK");
 }
 ```
 

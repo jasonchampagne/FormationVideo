@@ -32,6 +32,7 @@
 > + [PHP](#php)
 > + [Python](#python)
 > + [Ruby](#ruby)
+> + [Rust](#rust)
 > + [SQL](#sql)
 
 ### C
@@ -201,6 +202,23 @@ pattern = "#^[a-zA-Z-]+$#"
 if data.scan(pattern)
     puts("OK")
 end
+```
+
+### Rust
+
+```rust
+use regex::Regex;
+
+fn main()
+{
+	let data = "tester-une-expression-rationnelle-avec-Rust";
+	let regex = Regex::new(r"^[a-zA-Z-]+$").unwrap();
+
+	if regex.is_match(data)
+	{
+		println!("OK");
+	}
+}
 ```
 
 ### SQL

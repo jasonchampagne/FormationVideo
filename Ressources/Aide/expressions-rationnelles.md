@@ -124,7 +124,7 @@ if(data.match(pattern))
 
 ```lua
 data = "tester-une-expression-rationnelle-avec-Lua"
-pattern = "^[a-zA-Z\-]+$"
+pattern = "^[a-zA-Z-]+$"
 
 if(data:match(pattern))
 then

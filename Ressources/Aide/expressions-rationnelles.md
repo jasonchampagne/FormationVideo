@@ -13,9 +13,9 @@
 |.|Tout caractère (sauf le retour à la ligne : \n)|
 |^|Début de chaîne (ou ligne)|
 |$|Fin de chaîne (ou ligne)|
-|\[ et ]|Début et fin de classe|
-|( et )|Début et fin de sous-masque|
-|{ et }|Début et fin de quantificateur d'intervalle|
+|\[ ]|Début et fin de classe|
+|( )|Début et fin de sous-masque|
+|{ }|Début et fin de quantificateur d'intervalle|
 |\||Valeur alternative|
 |?|Quantificateur (0 ou 1)|
 |\*|Quantificateur (0 ou plusieurs)|

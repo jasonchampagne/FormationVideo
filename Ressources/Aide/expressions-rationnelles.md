@@ -307,13 +307,13 @@ fn main()
 Imports System.Text.RegularExpressions
 
 Module Program
-    Sub Main()
+	Sub Main()
 		Dim data As String = "tester-une-expression-rationnelle-avec-Rust"
-        Dim regex As Regex = New Regex("^[a-zA-Z-]+$")
+		Dim regex As Regex = New Regex("^[a-zA-Z-]+$")
 
-        If regex.Match(data).Success Then
-            Console.WriteLine("OK")
-        End If
-    End Sub
+		If regex.Match(data).Success Then
+			Console.WriteLine("OK")
+		End If
+	End Sub
 End Module
 ```

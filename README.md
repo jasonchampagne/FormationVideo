@@ -70,7 +70,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Piano|🔁[8 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)||-|
+||Piano|🔁[8 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)|à venir|-|
 
 ### Langues
 

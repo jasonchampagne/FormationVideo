@@ -47,14 +47,6 @@ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 
 ---
 
-## Exemples de motifs
-
-|RECHERCHE|MOTIF|
-|:--|:--|
-|Adresse e-mail|\b\[\w.!#$%&’*+\/=?^\`{|}~-]+@\[\w-]+(?:\.\[\w-]+)*\b|
-
----
-
 ## Exemples de code
 
 > + [C](#c)

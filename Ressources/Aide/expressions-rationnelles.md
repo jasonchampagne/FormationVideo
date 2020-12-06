@@ -51,7 +51,7 @@ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 
 |RECHERCHE|MOTIF|EXEMPLES VALIDES|
 |:--|:--|:--|
-|Identifiant|^\[a-zA-Z0-9-\_]{3,25}$|jachampagne<br>ChuckNorris55<br>Rene_la_taupe<br>05-ADN_xX|
+|Identifiant|^\[a-zA-Z0-9-\_]{3,25}$|jachampagne<br>ChuckNorris55<br>Rene_la_taupe_tout_mignon<br>05-ADN_xX|
 
 ---
 

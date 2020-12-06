@@ -26,14 +26,15 @@ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 
 |DESCRIPTION|PCRE|POSIX|
 |:--|:--:|:--:|
-|Lettres en minuscule||\[:lower:\]|
-|Lettres en majuscule||\[:upper:\]|
-|Lettres en minuscule et en majuscule||\[:alpha:\]|
-|Chiffres||\[:digit:\]|
-|Lettres et chiffres||\[:alnum:\]|
-|Espaces et tabulations||\[:blank:\]|
-|Caractères d'échappement||\[:space:\]|
-|Ponctuations||\[:punct:\]|
+|Lettres en minuscule||\[:lower:]|
+|Lettres en majuscule||\[:upper:]|
+|Lettres en minuscule et en majuscule||\[:alpha:]|
+|Chiffres||\[:digit:]|
+|Lettres et chiffres||\[:alnum:]|
+|Espaces et tabulations||\[:blank:]|
+|Caractères d'échappement||\[:space:]|
+|Ponctuations||\[:punct:]|
+|Valeurs hexadécimales||\[:xdigit:]|
 
 ## Options de recherche
 

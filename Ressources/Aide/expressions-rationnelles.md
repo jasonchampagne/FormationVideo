@@ -130,10 +130,10 @@ import std.stdio, std.regex;
 
 void main()
 {
-    string data = "tester-une-expression-rationnelle-avec-D";
+	string data = "tester-une-expression-rationnelle-avec-D";
 	string pattern = r"^[a-zA-Z-]+$";
-
-    if(matchFirst(data, pattern))
+	
+	if(matchFirst(data, pattern))
 		writeln("OK");
 }
 ```

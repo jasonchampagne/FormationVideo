@@ -13,6 +13,8 @@
 |.|Tout caractère (sauf le retour à la ligne : \n)|
 |^|Début de chaîne (ou ligne)|
 |$|Fin de chaîne (ou ligne)|
+|\[|Début de classe|
+|]|Fin de classe|
 
 ## Classes et séquences
 

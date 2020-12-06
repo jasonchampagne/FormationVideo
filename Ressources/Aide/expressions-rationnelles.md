@@ -230,6 +230,14 @@ if(preg_match($pattern, $data))
 import re
 
 data = 'tester-une-expression-rationnelle-avec-Python'
+
+# Possibilité
+regex = re.compile('^[a-zA-Z-]+$')
+
+if regex.match(data):
+	print('OK')
+
+# Autre possibilité
 pattern = '^[a-zA-Z-]+$'
 
 if re.search(pattern, data):

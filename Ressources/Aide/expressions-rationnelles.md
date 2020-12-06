@@ -13,8 +13,13 @@
 |.|Tout caractère (sauf le retour à la ligne : \n)|
 |^|Début de chaîne (ou ligne)|
 |$|Fin de chaîne (ou ligne)|
-|\[|Début de classe|
-|]|Fin de classe|
+|\[ et ]|Début et fin de classe|
+|( et )|Début et fin de sous-masque|
+|{ et }|Début et fin de quantificateur d'intervalle|
+|?|Quantificateur (0 ou 1)|
+|\*|Quantificateur (0 ou plusieurs)|
+|+|Quantificateur (1 ou plusieurs)|
+|\|Échappement de caractère d'une expression|
 
 ## Classes et séquences
 

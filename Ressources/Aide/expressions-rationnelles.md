@@ -49,7 +49,9 @@ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 
 ## Exemples de motifs
 
-À venir...
+|RECHERCHE|MOTIF|EXEMPLES VALIDES|
+|:--|:--|:--|
+|Identifiant|^\[a-zA-Z0-9-\_]{3,25}$|jachampagne<br>ChuckNorris55<br>Rene_la_taupe<br>05-ADN_xX|
 
 ---
 

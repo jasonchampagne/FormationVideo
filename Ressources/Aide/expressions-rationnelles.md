@@ -16,7 +16,13 @@
 
 ## Options de recherche
 
-À venir...
++ g : traitement global (ne s'arrête pas au premier schéma trouvé)
++ i : insensible à la casse
++ m : traitement multiligne
++ s : le point remplace aussi le caractère de nouvelle ligne (\n)
++ U : mode "non gourmand" (s'arrête dès la fin de chaque motif rencontré)
++ u : traitement en UTF-8
++ x : caractères d'espacement ignorés
 
 ---
 

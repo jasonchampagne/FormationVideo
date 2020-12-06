@@ -20,7 +20,7 @@
 |?|Quantificateur (0 ou 1)|
 |\*|Quantificateur (0 ou plusieurs)|
 |+|Quantificateur (1 ou plusieurs)|
-|\\|Échappement de caractère d'une expression|
+|\\\|Échappement de caractère d'une expression|
 
 ## Classes et séquences
 

@@ -29,6 +29,9 @@ Mais aussi quelques séquences :
 
 |⌨|DESCRIPTION|
 |:--:|:--|
+|\n|Retour à la ligne|
+|\t|Tabulation|
+|\r|Retour chariot|
 |\d|Tout ce qui est un chiffre|
 |\D|Tout ce qui n'est pas un chiffre|
 |\w|Tout ce qui est alphanumérique|

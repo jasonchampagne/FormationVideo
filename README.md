@@ -31,7 +31,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 > **REMARQUES**
 > + Les cours terminés sont marqués d'une ✔️
-> Les cours à refaire/mettre à jour sont marqués d'une 🔁
+> + Les cours à refaire/mettre à jour sont marqués d'une 🔁
 
 ### Général
 

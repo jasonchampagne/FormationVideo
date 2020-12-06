@@ -19,7 +19,7 @@
 |Lettres en minuscule et en majuscule|\[a-zA-Z\]||\[:alpha:\]|
 |Chiffres|\[0-9\]||\[:digit:\]|
 |Lettres et chiffres|\[A-Za-z0-9\]||\[:alnum:\]|
-|Espaces et tabulations|\\t ||\[:blank:\]|
+|Espaces et tabulations|<espace_blanc> et \\t||\[:blank:\]|
 |Tous caractères d'échappement|\\t\\r\\n\\v\\f||\[:space:\]|
 
 ## Options de recherche

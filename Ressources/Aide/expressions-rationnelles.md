@@ -16,6 +16,7 @@
 |:--|:--:|:--:|:--:|
 |Lettres en minuscule|\[a-z\]||\[:lower:\]|
 |Lettres en majuscule|\[A-Z\]||\[:upper:\]|
+|Lettres en minuscule et en majuscule|\[a-zA-Z\]||\[:alpha:\]|
 |Chiffres indo-arabes|\[0-9\]||\[:digit:\]|
 
 ## Options de recherche

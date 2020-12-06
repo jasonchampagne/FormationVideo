@@ -4,7 +4,7 @@
 
 ## Délimiteurs
 
-À venir...
+Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 
 ## Métacaractères
 

@@ -10,7 +10,7 @@
 
 À venir...
 
-## Classes de caractères
+## Classes et séquences
 
 |DESCRIPTION|PCRE|POSIX|
 |:--|:--:|:--:|

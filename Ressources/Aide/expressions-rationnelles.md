@@ -16,10 +16,11 @@
 |\[ et ]|Début et fin de classe|
 |( et )|Début et fin de sous-masque|
 |{ et }|Début et fin de quantificateur d'intervalle|
+|\||Valeur alternative|
 |?|Quantificateur (0 ou 1)|
 |\*|Quantificateur (0 ou plusieurs)|
 |+|Quantificateur (1 ou plusieurs)|
-|\\|Échappement de caractère d'une expression|
+|\|Échappement de caractère d'une expression|
 
 ## Classes et séquences
 

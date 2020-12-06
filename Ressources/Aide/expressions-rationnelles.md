@@ -21,7 +21,7 @@
 |Lettres et chiffres|\[A-Za-z0-9\]||\[:alnum:\]|
 |Espaces et tabulations|⌴\\t||\[:blank:\]|
 |Caractères d'échappement|\\t\\r\\n\\v\\f||\[:space:\]|
-|Ponctuations|.:,;-~\_=+*^<>@?!#$&%'"\`\|\\/()]\[{}||\[:punct:\]|
+|Ponctuations|`.:,;-~_=+*^<>@?!#$&%'"`|\/()][{}`||\[:punct:\]|
 
 ## Options de recherche
 

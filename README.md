@@ -29,8 +29,9 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
 
-> **LES COURS TERMINÉS SONT INDIQUÉS AVEC UNE ✔️**
-> **LES COURS MARQUÉS D'UN EMOJI 🔁 VONT ÊTRE RÉÉCRITS**
+> **REMARQUES**
+> + Les cours terminés sont marqués d'une ✔️
+> Les cours à refaire/mettre à jour sont marqués d'une 🔁
 
 ### Général
 

@@ -12,16 +12,16 @@
 
 ## Classes de caractères
 
-|DESCRIPTION|ASCII|PCRE|POSIX|
-|:--|:--:|:--:|:--:|
-|Lettres en minuscule|\[a-z\]||\[:lower:\]|
-|Lettres en majuscule|\[A-Z\]||\[:upper:\]|
-|Lettres en minuscule et en majuscule|\[a-zA-Z\]||\[:alpha:\]|
-|Chiffres|\[0-9\]||\[:digit:\]|
-|Lettres et chiffres|\[A-Za-z0-9\]||\[:alnum:\]|
-|Espaces et tabulations|⌴\\t||\[:blank:\]|
-|Caractères d'échappement|\\t\\r\\n\\v\\f||\[:space:\]|
-|Ponctuations|<code>.:,;-~_=+*^<>@?!#$&%'"`|\/()][{}<code>||\[:punct:\]|
+|DESCRIPTION|PCRE|POSIX|
+|:--|:--:|:--:|
+|Lettres en minuscule||\[:lower:\]|
+|Lettres en majuscule||\[:upper:\]|
+|Lettres en minuscule et en majuscule||\[:alpha:\]|
+|Chiffres||\[:digit:\]|
+|Lettres et chiffres||\[:alnum:\]|
+|Espaces et tabulations||\[:blank:\]|
+|Caractères d'échappement||\[:space:\]|
+|Ponctuations||\[:punct:\]|
 
 ## Options de recherche
 

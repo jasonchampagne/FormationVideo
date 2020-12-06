@@ -22,19 +22,21 @@ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 |+|Quantificateur (1 ou plusieurs)|
 |\\ |Échappement de caractère d'une expression|
 
-## Classes et séquences
+## Classes de caractères
 
-|DESCRIPTION|PCRE|POSIX|
-|:--|:--:|:--:|
-|Lettres en minuscule||\[:lower:]|
-|Lettres en majuscule||\[:upper:]|
-|Lettres en minuscule et en majuscule||\[:alpha:]|
-|Chiffres||\[:digit:]|
-|Lettres et chiffres||\[:alnum:]|
-|Espaces et tabulations||\[:blank:]|
-|Caractères d'échappement||\[:space:]|
-|Ponctuations||\[:punct:]|
-|Valeurs hexadécimales||\[:xdigit:]|
+> _**REMARQUE** : les classes de la norme POSIX sont également compatibles avec la bibliothèque PCRE. Pour les classes non portables, veuillez-vous référer à la norme respectée par le langage ou l'application que vous utilisez._
+
+|DESCRIPTION|NOTATION|
+|:--|:--:|
+|Lettres en minuscule|\[:lower:]|
+|Lettres en majuscule|\[:upper:]|
+|Lettres en minuscule et en majuscule|\[:alpha:]|
+|Chiffres|\[:digit:]|
+|Lettres et chiffres|\[:alnum:]|
+|Espaces et tabulations|\[:blank:]|
+|Caractères d'échappement|\[:space:]|
+|Ponctuations|\[:punct:]|
+|Valeurs hexadécimales|\[:xdigit:]|
 
 ## Options de recherche
 

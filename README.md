@@ -88,13 +88,12 @@ Ici, une liste (non complète et qui peut changer à tout moment) des contenus q
 
 |TYPE|CONTENUS|
 |:--|:--|
-|Applications|Audacity, Blender, DaVinci Resolve, Docker, Doxygen, GIMP, Inkscape, Krita, LibreOffice, LMMS, MS Office, Mypaint, OBS Studio, Photoshop, REAPER, Ren'Py, Wireshark|
+|Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Infographie : Krita, Photoshop, GIMP, Inkscape, Mypaint<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, Doxygen, OBS Studio,, Wireshark|
 |Bibliothèques|DirectX, GTK+, JQuery, Kivy, OpenGL, Qt, React, SFML, wxWidgets|
 |CMS|Joomla, phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Django, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
 |Langages|Dart, Go, Kotlin, LaTeX, Lua, Ruby, Rust, V, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|
-|Moteurs|CryENGINE, Godot Engine, Unity, Unreal Engine|
 |Plateformes|Apache, Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD|
 |Techniques|analyse (UML), infographie (3D, calligraphie, dessin, imagerie, pixel-art), son (montage, mix, mastering), vidéo (montage, effets spéciaux), écriture, chant|

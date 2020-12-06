@@ -6,9 +6,13 @@
 
 À venir...
 
-## Méta-caractères
+## Métacaractères
 
-À venir...
+||DESCRIPTION|
+|:--:|:--|
+|.|Tout caractère (sauf le retour à la ligne : \n)|
+|^|Début de chaîne (ou ligne)|
+|$|Fin de chaîne (ou ligne)|
 
 ## Classes et séquences
 

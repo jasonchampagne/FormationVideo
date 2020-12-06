@@ -4,7 +4,8 @@
 
 ## Délimiteurs
 
-Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
++ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
++ Utilisés dans des langages de programmation comme PHP ou Ruby
 
 ---
 

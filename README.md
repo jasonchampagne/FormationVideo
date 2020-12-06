@@ -76,9 +76,9 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Anglais|(en préparation)|||
-||Français|(en préparation)|||
-||Japonais|(en préparation)|||
+||Anglais|en préparation|||
+||Français|en préparation|||
+||Japonais|en préparation|||
 
 ---
 

@@ -14,7 +14,8 @@
 
 |DESCRIPTION|ASCII|PCRE|POSIX|
 |:--|:--:|:--:|:--:|
-|Toutes les lettres minuscules|\[a-z\]||\[:lower:\]|
+|Lettres en minuscule|\[a-z\]||\[:lower:\]|
+|Lettres en majuscule|\[A-Z\]||\[:upper:\]|
 
 ## Options de recherche
 

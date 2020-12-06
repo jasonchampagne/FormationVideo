@@ -6,6 +6,8 @@
 
 Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 
+---
+
 ## Métacaractères
 
 |⌨|DESCRIPTION|
@@ -33,6 +35,8 @@ Mais aussi quelques séquences :
 |\s|Tout ce qui est un caractère d'espacement|
 |\S|Tout ce qui n'est pas un caractère d'espacement|
 
+---
+
 ## Classes de caractères
 
 > _**REMARQUE** : les classes de la norme POSIX sont également compatibles avec la bibliothèque PCRE. Pour les classes non portables, veuillez-vous référer à la norme respectée par le langage ou l'application que vous utilisez._
@@ -48,6 +52,8 @@ Mais aussi quelques séquences :
 |Caractères d'échappement|\[:space:]|
 |Ponctuations|\[:punct:]|
 |Valeurs hexadécimales|\[:xdigit:]|
+
+---
 
 ## Options de recherche
 

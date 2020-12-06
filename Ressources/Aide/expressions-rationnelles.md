@@ -12,7 +12,9 @@
 
 ## Classes de caractères
 
-À venir...
+|DESCRIPTION|ASCII|PCRE|POSIX|
+|:--|:--:|:--:|:--:|
+|Toutes les lettres minuscules|\[a-z\]||\[:lower:\]|
 
 ## Options de recherche
 

@@ -22,6 +22,17 @@ Généralement, tout caractère qui n'est pas alphanumérique (%, #, <, etc.)
 |+|Quantificateur (1 ou plusieurs)|
 |\\ |Échappement de caractère d'une expression|
 
+Mais aussi quelques séquences :
+
+|⌨|DESCRIPTION|
+|:--:|:--|
+|\d|Tout ce qui est un chiffre|
+|\D|Tout ce qui n'est pas un chiffre|
+|\w|Tout ce qui est alphanumérique|
+|\W|Tout ce qui n'est pas alphanumérique|
+|\s|Tout ce qui est un caractère d'espacement|
+|\S|Tout ce qui n'est pas un caractère d'espacement|
+
 ## Classes de caractères
 
 > _**REMARQUE** : les classes de la norme POSIX sont également compatibles avec la bibliothèque PCRE. Pour les classes non portables, veuillez-vous référer à la norme respectée par le langage ou l'application que vous utilisez._

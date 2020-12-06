@@ -31,6 +31,7 @@
 > + [C](#c)
 > + [C++](#c-1)
 > + [CSharp](#csharp)
+> + [D](#d)
 > + [Dart](#dart)
 > + [Go](#go)
 > + [Java](#java)
@@ -119,6 +120,21 @@ public class Program
 		if(regex.IsMatch(data))
 			Console.WriteLine("OK");
 	}
+}
+```
+
+### D
+
+```d
+import std.stdio, std.regex;
+
+void main()
+{
+    string data = "tester-une-expression-rationnelle-avec-D";
+	string pattern = r"^[a-zA-Z-]+$";
+
+    if(matchFirst(data, pattern))
+		writeln("OK");
 }
 ```
 

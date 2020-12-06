@@ -8,7 +8,7 @@
 
 ## Métacaractères
 
-||DESCRIPTION|
+|⌨|DESCRIPTION|
 |:--:|:--|
 |.|Tout caractère (sauf le retour à la ligne : \n)|
 |^|Début de chaîne (ou ligne)|

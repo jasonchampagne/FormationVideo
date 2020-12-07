@@ -1,6 +1,6 @@
 # Expressions rationnelles
 
-> [AIDE - Expressions rationnelles](#)
+> [AIDE - Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 
 ## Délimiteurs
 

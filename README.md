@@ -92,7 +92,7 @@ Ici, une liste (non complète et qui peut changer à tout moment) des contenus q
 |Bibliothèques|DirectX, GTK+, JQuery, Kivy, OpenGL, Qt, React, SFML, wxWidgets|
 |CMS|Joomla, phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Django, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
-|Langages|Dart, Go, Kotlin, LaTeX, Lua, Ruby, Rust, V, Visual Basic, XML|
+|Langages|Dart, Go, Haskell, Kotlin, LaTeX, Lua, Ruby, Rust, V, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|
 |Plateformes|Apache, Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD|

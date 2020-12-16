@@ -73,6 +73,7 @@ Mais aussi quelques séquences :
 
 ## Exemples de code
 
+> + [Bash](#bash)
 > + [C](#c)
 > + [C++](#c-1)
 > + [CSharp](#csharp)
@@ -89,6 +90,18 @@ Mais aussi quelques séquences :
 > + [SQL](#sql)
 > + [V](#v)
 > + [Visual Basic](#visual-basic)
+
+### Bash
+
+```bash
+data='tester-une-expression-rationnelle-avec-Bash'
+pattern='^[a-zA-Z-]+$'
+
+if [[ $data =~ $pattern ]]
+then
+    echo 'OK'
+fi
+```
 
 ### C
 

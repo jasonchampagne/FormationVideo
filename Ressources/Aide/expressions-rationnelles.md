@@ -285,10 +285,10 @@ if(preg_match($pattern, $data))
 ### PowerShell
 
 ```powershell
-$data = 'tester-une-expression-rationnelle-avec-PowerShell'
-$pattern = '^[a-zA-Z-]+$'
+$Data = 'tester-une-expression-rationnelle-avec-PowerShell'
+$Pattern = '^[a-zA-Z-]+$'
 
-if($data -match $pattern)
+if($Data -match $Pattern)
 {
 	echo 'OK'
 }

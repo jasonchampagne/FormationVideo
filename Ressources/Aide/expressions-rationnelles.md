@@ -84,6 +84,7 @@ Mais aussi quelques séquences :
 > + [JavaScript](#javascript)
 > + [Lua](#lua)
 > + [PHP](#php)
+> + [PowerShell](#powershell)
 > + [Python](#python)
 > + [Ruby](#ruby)
 > + [Rust](#rust)
@@ -279,6 +280,18 @@ $pattern = '#^[a-zA-Z-]+$#';
 
 if(preg_match($pattern, $data))
 	echo 'OK';
+```
+
+### PowerShell
+
+```powershell
+$data = 'tester-une-expression-rationnelle-avec-PowerShell'
+$pattern = '^[a-zA-Z-]+$'
+
+if($data -match $pattern)
+{
+	echo 'OK'
+}
 ```
 
 ### Python

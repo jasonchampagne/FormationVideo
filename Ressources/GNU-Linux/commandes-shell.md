@@ -33,6 +33,7 @@
 |**dpkg**|Gérer des paquets DEB|
 |**du**|Afficher les statistiques sur l'utilisation du disque|
 |**echo**|Afficher du texte|
+|**exit**|Provoquer l'arrêt normal du processus|
 |**fdisk**|Manipuler des tables de partitions|
 |**fg**|Basculer une tâche au premier-plan (devient la tâche en cours)|
 |**file**|Déterminer le type d'un fichier|

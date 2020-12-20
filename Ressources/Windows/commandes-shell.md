@@ -5,4 +5,5 @@
 |**clear**|Effacer le terminal|
 |**cls**|_(voir commande "clear")_|
 |**exit**|Fermer le script, sous-programme ou terminal en cours|
-|**winver**|Afficher la version de Windows (build)|
+|**ver**|Afficher le numéro de version du système|
+|**winver**|Afficher la version du système (pop-up)|

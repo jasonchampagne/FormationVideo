@@ -15,4 +15,5 @@
 
 Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolètes :
 
++ bitsadmin
 + ftp

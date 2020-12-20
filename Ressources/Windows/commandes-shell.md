@@ -15,5 +15,7 @@
 
 Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolètes :
 
++ append
 + bitsadmin
++ debug
 + ftp

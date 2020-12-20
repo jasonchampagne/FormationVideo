@@ -80,7 +80,7 @@
 |**sed**|Filtrer et transformer du texte|
 |**set**|Modifier valeur d'une option de shell, définit paramètres de position, ou afficher noms et valeurs des variables de shell|
 |**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
-|**sh**|_voir commande “dash”_|
+|**sh**|_(voir commande "dash")_|
 |**shift**|Décaler les paramètres de position vers la gauche|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|

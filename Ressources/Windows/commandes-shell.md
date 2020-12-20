@@ -2,6 +2,7 @@
 
 |NOM|DESCRIPTION|BATCH|POWERSHELL|
 |:--:|:--|:--:|:--:|
+|**cd**|Changer de répertoire|🟢|🟢|
 |**clear**|Effacer le terminal||🟢|
 |**cls**|Effacer le terminal|🟢|🟢|
 |**exit**|Fermer le script, sous-programme ou terminal en cours|🟢|🟢|

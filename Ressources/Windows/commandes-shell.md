@@ -3,7 +3,7 @@
 |NOM|DESCRIPTION|BATCH|POWERSHELL|
 |:--:|:--|:--:|:--:|
 |**clear**|Effacer le terminal||🟢|
-|**cls**|_(voir commande "clear")_|🟢|🟢|
+|**cls**|Effacer le terminal|🟢|🟢|
 |**exit**|Fermer le script, sous-programme ou terminal en cours|🟢|🟢|
 |**ver**|Afficher le numéro de version du système|🟢||
 |**winver**|Afficher la version du système (pop-up)|🟢|🟢|

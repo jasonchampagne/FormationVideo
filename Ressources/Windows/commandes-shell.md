@@ -8,3 +8,9 @@
 |**exit**|Fermer le script, sous-programme ou terminal en cours|🟢|🟢|
 |**ver**|Afficher le numéro de version du système|🟢||
 |**winver**|Afficher la version du système (pop-up)|🟢|🟢|
+
+## Commandes à éviter
+
+Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolètes :
+
++ ftp

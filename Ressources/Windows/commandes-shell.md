@@ -1,3 +1,5 @@
 # Commandes Shell
 
-En cours...
+|NOM|DESCRIPTION|
+|:--|:--|
+|winver|Afficher la version de Windows (build)|

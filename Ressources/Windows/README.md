@@ -6,7 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|commandes-batch|Liste des commandes Batch|
+|commandes-shell|Liste des commandes Batch et PowerShell|
 |introduction-formation|Diaporama d'introduction au cours Windows|
 |path-variable|Variable Path (valeur par défaut)|
 |services-systeme|Liste des services système|

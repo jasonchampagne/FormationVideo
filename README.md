@@ -48,7 +48,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ||Assembleur|[1 séance](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|||
 |✔️|C|[29 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
 ||C++|🔁[12 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)|_à venir_|
-||C#|[9 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|_à venir_|_à venir_|
+||C#|[10 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|_à venir_|_à venir_|
 ||Hacking|🔁[plus tard](https://pastebin.com/C9ddUEi7)|||
 |✔️|HTML/CSS|[26 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
 ||Java|[23 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)|_à venir_|

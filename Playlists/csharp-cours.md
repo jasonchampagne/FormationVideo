@@ -15,3 +15,4 @@
 + [7. Boucles](https://www.youtube.com/watch?v=1-Gnxzr5Neo)
 + [8. Lecture au clavier](https://www.youtube.com/watch?v=qqx6uARSewY)
 + [9. Méthodes](https://www.youtube.com/watch?v=nKmPXDdfA3s)
++ [10. Structures et classes](https://www.youtube.com/watch?v=tCM63nMetaU)

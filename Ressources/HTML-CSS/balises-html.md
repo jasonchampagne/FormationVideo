@@ -270,7 +270,7 @@ Ce jour sort <ins>le nouveau Assassin's Creed sur PS4 !</ins>
 ### \<kbd\>
 
 ```html
-Utiliseé le raccourci-clavier <kbd>Ctrl + S</kbd> pour sauvegarder un fichier
+Utilisez le raccourci-clavier <kbd>Ctrl + S</kbd> pour sauvegarder un fichier
 ```
 
 ### \<main\>

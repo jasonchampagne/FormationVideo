@@ -6,8 +6,8 @@ Voici un mémento des propriétés CSS valides [W3C](https://www.w3.org/). Notez
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|align-content||
-|align-items||
-|align-self||
-|all||
-|animation||
+|align-content|Répartir l'espace entre/autour des élements le long de l'axe d'un bloc de contenu|
+|align-items|Aligner un élément dans son conteneur|
+|align-self|Aligner des éléments flexibles|
+|all|Réinitialiser toutes les propriétés d'une autre feuille CSS (sauf _unicode-bidi_ et _direction_)|
+|animation|Appliquer une animation entre des styles|

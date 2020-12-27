@@ -13,7 +13,6 @@ Afin de vous aider à mettre en application tout ce que vous avez appris et pour
 + [**Pour vous aider**](#pour-vous-aider)
   + [Discord](#discord)
   + [Lives](#lives)
-  + [Réseaux sociaux](#réseaux-sociaux)
 
 ---
 
@@ -52,8 +51,4 @@ Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projet
 
 ### Lives
 
-Que ce soit sur les lives où se déroulent les projets interactifs ou les lives où je fais d'autres activités (gaming, musique, discussions, ...), vous pouvez à tout moment venir discuter et demander des indications si vous êtes en train de travailler sur un projet autonome.
-
-### Réseaux sociaux
-
-Et bien évidemment, je reste encore et toujours disponible sur les réseaux sociaux, si vous avez des questions sur le déroulement de ces **projets communautaires**. Pensez à m'ajouter et/ou me suivre sur Twitter, Facebook, Instagram ou encore Snapchat - je ne mords pas 😉
+Que ce soit sur les lives où se déroulent les projets interactifs ou les lives où je fais d'autres activités (gaming, musique, discussions, ...), vous pouvez à tout moment venir discuter et demander des indications si vous êtes en train de travailler sur un projet autonome 😉.

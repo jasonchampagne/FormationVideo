@@ -47,7 +47,7 @@ Ici, le but est de vous donner des idées et d'apprendre à travailler de maniè
 
 ### Discord
 
-Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projets-staff** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce canal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
+Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projets** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce canal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
 
 ### Lives
 

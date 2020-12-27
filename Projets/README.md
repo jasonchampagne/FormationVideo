@@ -2,7 +2,7 @@
 
 ![Jason Champagne](https://nsa40.casimages.com/img/2020/04/17/200417043501429316.png)
 
-Afin de vous aider à mettre en application tout ce que vous avez appris et pour vous exercer, des projets vous sont proposés régulièrement sur cette page, mais aussi communiqués sur [Discord](https://discord.me/jasonchampagne) et les [réseaux sociaux](https://jasonchampagne.fr/liens). L'annonce a été publiée au préalable sur [cette vidéo YouTube](https://www.youtube.com/watch?v=3bgZgfI88gM)
+Afin de vous aider à mettre en application tout ce que vous avez appris et pour vous exercer, des projets vous sont proposés régulièrement sur cette page, mais aussi communiqués sur [Discord](https://discord.me/jasonchampagne) et les [réseaux sociaux](https://jasonchampagne.fr/liens).
 
 > **NOTE** : Rien n'est imposé et chacun est libre de participer aux projets de son choix
 

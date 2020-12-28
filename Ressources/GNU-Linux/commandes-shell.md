@@ -40,6 +40,8 @@
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**finger**|Rechercher des informations sur un utilisateur|
 |**free**|Afficher la quantité de mémoire libre et utilisée par le système|
+|**g++**|Alias de _gcc_ (C++ uniquement)|
+|**gcc**|Compilateur pour C/C++|
 |**grep**|Afficher les lignes correspondant à un motif donné|
 |**groups**|Afficher les groupes d'un utilisateur|
 |**gunzip**|Décompacter des fichiers|

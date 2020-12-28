@@ -54,6 +54,7 @@
 |**jobs**|Afficher les tâches en cours d'exécution et leur état|
 |**kill**|Envoyer un signal à un processus|
 |**killall**|Envoyer un signal à des processus indiqués par leurs noms|
+|**ld**|Interface de l'éditeur de liens système|
 |**less**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|
 |**let**|Effectuer de l'arithmétique sur des variables shell|
 |**locate**|Rechercher des fichiers dans une hiérarchie de répertoires|

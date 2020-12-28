@@ -40,7 +40,7 @@
 |**find**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**finger**|Rechercher des informations sur un utilisateur|
 |**free**|Afficher la quantité de mémoire libre et utilisée par le système|
-|**g++**|_Alias de gcc (C++ uniquement)_|
+|**g++**|_alias de gcc (C++ uniquement)_|
 |**gcc**|Compilateur pour C/C++|
 |**grep**|Afficher les lignes correspondant à un motif donné|
 |**groups**|Afficher les groupes d'un utilisateur|
@@ -84,7 +84,7 @@
 |**sed**|Filtrer et transformer du texte|
 |**set**|Modifier valeur d'une option de shell, définit paramètres de position, ou afficher noms et valeurs des variables de shell|
 |**sftp**|Transférer des fichiers de manière sécurisée (utilise SSH)|
-|**sh**|_(voir commande "dash")_|
+|**sh**|_voir commande dash_|
 |**shift**|Décaler les paramètres de position vers la gauche|
 |**sleep**|Endormir le processus pour une durée déterminée|
 |**sort**|Trier les lignes d'un fichier texte|

@@ -6,4 +6,4 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|registres|Liste des registres|
+|registres-processeur|Liste des registres|

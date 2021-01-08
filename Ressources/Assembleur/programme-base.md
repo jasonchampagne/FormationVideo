@@ -95,7 +95,7 @@ section .text
 		call ExitProcess
 ```
 ```powershell
-> nasm -f win64 <file>.asm -o <file>.obj
+> nasm.exe -f win64 <file>.asm -o <file>.obj
 > golink.exe <file>.obj /entry main /console kernel32.dll
 ```
 

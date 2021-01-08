@@ -25,6 +25,10 @@ section .text
 		mov rdi, 0
 		syscall
 ```
+```bash
+$ nasm -f elf64 <file>.asm -o <file>.o
+$ ld <file>.o -o <file>
+```
 
 ### 32 bits
 

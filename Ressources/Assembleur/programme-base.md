@@ -1,6 +1,6 @@
 # Programme de base
 
-> L'assembleur utilisé est [NASM]() et les lieurs sont [ld]() (pour GNU/Linux) et [golink]() (pour Windows)
+> L'assembleur utilisé est [NASM](https://nasm.us/) et les lieurs sont [ld](https://www.gnu.org/software/binutils/) (pour GNU/Linux) et [golink](http://godevtool.com/) (pour Windows)
 
 ## GNU/Linux
 

@@ -52,6 +52,8 @@ section .text
 		int 0x80
 ```
 
+---
+
 ## Windows
 
 ### 64 bits

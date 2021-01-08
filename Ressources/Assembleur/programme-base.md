@@ -51,8 +51,10 @@ section .text
 		mov ebx, 0
 		int 0x80
 ```
-
----
+```bash
+$ nasm -f elf32 <file>.asm -o <file>.o
+$ ld <file>.o -o <file>
+```
 
 ## Windows
 
@@ -92,6 +94,10 @@ section .text
 		xor ecx, ecx
 		call ExitProcess
 ```
+```powershell
+> nasm -f win64 <file>.asm -o <file>.obj
+> golink.exe <file>.obj /entry main /console kernel32.dll
+```
 
 ### 32 bits
 
@@ -123,4 +129,8 @@ section .text
 
 		push 0
 		call _ExitProcess@4
+```
+```powershell
+> nasm -f win32 <file>.asm -o <file>.obj
+> golink.exe <file>.obj /entry main /console kernel32.dll
 ```

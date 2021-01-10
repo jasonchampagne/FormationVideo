@@ -8,7 +8,7 @@ Récupère un gestionnaire vers le périphérique standard spécifié (entrée s
 HANDLE WINAPI GetStdHandle(_In_ DWORD nStdHandle);
 ```
 
-### Paramètre
+### Paramètre :
 
 |VALEUR|TAILLE|CODE|
 |:--:|:--:|:--:|

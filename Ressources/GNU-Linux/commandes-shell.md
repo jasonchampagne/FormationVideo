@@ -2,10 +2,10 @@
 
 |NOM|DESCRIPTION|
 |:--:|:--|
-|**addgroup**|Ajouter un nouveau groupe|
-|**adduser**|Ajouter un nouvel utilisateur|
-|**apropos**|Chercher le nom et la description des pages de manuel|
-|**apt**|Utilitaire d'APT pour la manipulation de paquets|
+|**[addgroup](https://man.cx/addgroup)**|Ajouter un nouveau groupe|
+|**[adduser](https://man.cx/adduser)**|Ajouter un nouvel utilisateur|
+|**[apropos](https://man.cx/apropos)**|Chercher le nom et la description des pages de manuel|
+|**[apt](https://man.cx/apt)**|Utilitaire d'APT pour la manipulation de paquets|
 |**apt-get**|Utilitaire d'APT pour la manipulation de paquets|
 |**aptitude**|Interface haut-niveau de gestion de paquets|
 |**at**|Mémoriser des tâches à exécuter ultérieurement|

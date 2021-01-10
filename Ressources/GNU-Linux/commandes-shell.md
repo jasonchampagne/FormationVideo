@@ -24,14 +24,15 @@
 |**[cp](https://man.cx/cp)**|Copier des fichiers et des répertoires|
 |**[crontab](https://man.cx/crontab)**|Gérer des tâches CRON|
 |**[cut](https://man.cx/cut)**|Supprimer une partie de chaque ligne d'un fichier|
-|**[dash]()**|Lancer un shell **Dash** (BSD) ; alias : sh|
-|**[date]()**|Afficher ou configurer la date et l'heure du système|
-|**[declare]()**|Déclare des variables et leur assigne des attributs|
-|**[deluser]()**|Supprimer un utilisateur (d'un groupe)|
-|**[df]()**|Afficher la quantité d'espace occupé par les systèmes de fichiers|
-|**[diff]()**|Trouver les différences entre des fichiers|
-|**[dpkg]()**|Gérer des paquets DEB|
-|**[du]()**|Afficher les statistiques sur l'utilisation du disque|
+|**[dash](https://man.cx/dash)**|Lancer un shell **Dash** (BSD) ; alias : sh|
+|**[date](https://man.cx/date)**|Afficher ou configurer la date et l'heure du système|
+|**[declare](https://man.cx/declare)**|Déclare des variables et leur assigne des attributs|
+|**[delgroup](https://man.cx/delgroup)**|Supprimer un groupe du système|
+|**[deluser](https://man.cx/deluser)**|Supprimer un utilisateur du système|
+|**[df](https://man.cx/df)**|Afficher la quantité d'espace occupé par les systèmes de fichiers|
+|**[diff](https://man.cx/diff)**|Trouver les différences entre des fichiers|
+|**[dpkg](https://man.cx/dpkg)**|Gérer des paquets DEB|
+|**[du](https://man.cx/du)**|Afficher les statistiques sur l'utilisation du disque|
 |**[echo]()**|Afficher du texte|
 |**[exit]()**|Provoquer l'arrêt normal du processus|
 |**[fdisk]()**|Manipuler des tables de partitions|
@@ -83,13 +84,13 @@
 |**[set]()**|Modifier valeur d'une option de shell, définit paramètres de position, ou afficher noms et valeurs des variables de shell|
 |**[sftp]()**|Transférer des fichiers de manière sécurisée (utilise SSH)|
 |**[sh]()**|_voir commande dash_|
-|**[shift]()**|Décaler les paramètres de position vers la gauche|
-|**[sleep]()**|Endormir le processus pour une durée déterminée|
-|**[sort]()**|Trier les lignes d'un fichier texte|
-|**[ss]()**|Analyser les sockets|
-|**[ssh]()**|Se connecter à une machine distante|
-|**[su]()**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
-|**[sudo]()**|Exécuter une commande via un autre utilisateur (généralement root)|
+|**[shift](https://man.cx/shift)**|Décaler les paramètres de position vers la gauche|
+|**[sleep](https://man.cx/sleep)**|Endormir le processus pour une durée déterminée|
+|**[sort](https://man.cx/sort)**|Trier les lignes d'un fichier texte|
+|**[ss](https://man.cx/ss)**|Analyser les sockets|
+|**[ssh](https://man.cx/ssh)**|Se connecter à une machine distante|
+|**[su](https://man.cx/su)**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
+|**[sudo](https://man.cx/sudo)**|Exécuter une commande via un autre utilisateur (généralement root)|
 |**[tar](https://man.cx/tar)**|Utilitaire GNU de gestion d'archives TAR|
 |**[tee](https://man.cx/tee)**|Copier l'entrée standard sur la sortie standard et dans un fichier|
 |**[tload](https://man.cx/tload)**|Afficher graphiquement la charge du système|

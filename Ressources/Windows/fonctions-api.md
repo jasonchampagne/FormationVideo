@@ -2,4 +2,4 @@
 
 |NOM|DESCRIPTION|
 |:--:|:--|
-|[WriteConsole](https://docs.microsoft.com/en-us/windows/console/writeconsole)|Écrit une chaîne de caractères dans une mémoire tampon d'écran de la console en commençant à l'emplacement actuel du curseur.|
+|[WriteConsole](https://docs.microsoft.com/en-us/windows/console/writeconsole)|Écrire chaîne de caractères dans mémoire tampon d'écran de la console à l'emplacement actuel du curseur.|

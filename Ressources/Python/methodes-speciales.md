@@ -6,8 +6,6 @@ Les méthodes spéciales sont implicitements exécutées lors de traitements sp�
 
 Si besoin, ces méthodes peuvent être redéfinies afin de les surcharger, pour permettre par exemple de faire la somme de deux objets d'un type personnalisé.
 
-> ⛔ Tableau non terminé
-
 |CATÉGORIE|MÉTHODES|UTILISATION|
 |:--:|:--|:--|
 |Opérations|`object.__add__(self, other)`<br>`object.__sub__(self, other)`|addition<br>soustraction|

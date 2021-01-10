@@ -21,5 +21,12 @@ HANDLE WINAPI GetStdHandle(_In_ DWORD nStdHandle);
 ## WriteConsole
 
 ```c
-BOOL WINAPI WriteConsole(_In_ HANDLE hConsoleOutput, _In_ const VOID *lpBuffer, _In_ DWORD nNumberOfCharsToWrite, _Out_opt_ LPDWORD lpNumberOfCharsWritten, _Reserved_ LPVOID lpReserved);
+BOOL WINAPI WriteConsole
+(
+  _In_ HANDLE hConsoleOutput, 
+  _In_ const VOID *lpBuffer, 
+  _In_ DWORD nNumberOfCharsToWrite, 
+  _Out_opt_ LPDWORD lpNumberOfCharsWritten, 
+  _Reserved_ LPVOID lpReserved
+);
 ```

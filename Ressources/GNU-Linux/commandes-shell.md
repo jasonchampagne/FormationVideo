@@ -33,21 +33,21 @@
 |**[diff](https://man.cx/diff)**|Trouver les différences entre des fichiers|
 |**[dpkg](https://man.cx/dpkg)**|Gérer des paquets DEB|
 |**[du](https://man.cx/du)**|Afficher les statistiques sur l'utilisation du disque|
-|**[echo]()**|Afficher du texte|
-|**[exit]()**|Provoquer l'arrêt normal du processus|
-|**[fdisk]()**|Manipuler des tables de partitions|
-|**[fg]()**|Basculer une tâche au premier-plan (devient la tâche en cours)|
-|**[file]()**|Déterminer le type d'un fichier|
-|**[find]()**|Rechercher des fichiers dans une hiérarchie de répertoires|
-|**[finger]()**|Rechercher des informations sur un utilisateur|
-|**[free]()**|Afficher la quantité de mémoire libre et utilisée par le système|
-|**[grep]()**|Afficher les lignes correspondant à un motif donné|
-|**[groups]()**|Afficher les groupes d'un utilisateur|
-|**[gunzip]()**|Décompacter des fichiers|
-|**[gzip]()**|Compacter ou décompacter des fichiers|
-|**[history]()**|Lister les commandes précédemment saisies dans le terminal|
-|**[host]()**|Chercher des noms de machine à l'aide d'un serveur de domaine|
-|**[hostname]()**|Afficher le nom d'hôte du système|
+|**[echo](https://man.cx/echo)**|Afficher du texte|
+|**[exit](https://man.cx/exit)**|Provoquer l'arrêt normal du processus|
+|**[fdisk](https://man.cx/fdisk)**|Manipuler des tables de partitions|
+|**[fg](https://man.cx/fg)**|Basculer une tâche au premier-plan (devient la tâche en cours)|
+|**[file](https://man.cx/file)**|Déterminer le type d'un fichier|
+|**[find](https://man.cx/find)**|Rechercher des fichiers dans une hiérarchie de répertoires|
+|**[finger](https://man.cx/finger)**|Rechercher des informations sur un utilisateur|
+|**[free](https://man.cx/free)**|Afficher la quantité de mémoire libre et utilisée par le système|
+|**[grep](https://man.cx/grep)**|Afficher les lignes correspondant à un motif donné|
+|**[groups](https://man.cx/groups)**|Afficher les groupes d'un utilisateur|
+|**[gunzip](https://man.cx/gunzip)**|Décompacter des fichiers|
+|**[gzip](https://man.cx/gzip)**|Compacter ou décompacter des fichiers|
+|**[history](https://man.cx/history(n))**|Lister les commandes précédemment saisies dans le terminal|
+|**[host](https://man.cx/host)**|Chercher des noms de machine à l'aide d'un serveur de domaine|
+|**[hostname](https://man.cx/hostname)**|Afficher le nom d'hôte du système|
 |**[id](https://man.cx/id)**|Afficher les UIDs et GIDs d'un utilisateur|
 |**[ip](https://man.cx/ip)**|Afficher/manipuler le routage, les périphériques réseau, les interfaces et les tunnels|
 |**[iw](https://man.cx/iw)**|Afficher/manipuler les appareils sans fil et leur configuration|

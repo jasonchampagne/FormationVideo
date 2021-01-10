@@ -1,8 +1,6 @@
 # Balises HTML
 
-> [Cours HTML/CSS](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
-
-Voici un mémento des balises HTML valides [W3C](https://www.w3.org/TR/html52/) et qui sont correctement prises en charge par les navigateurs standards (Chrome, Edge, Firefox, Opera, Safari).
+Mémento des balises HTML valides [W3C](https://www.w3.org/TR/html52/) et qui sont correctement prises en charge par les navigateurs standards (Chrome, Edge, Firefox, Opera, Safari).
 
 ## Balises valides W3C
 

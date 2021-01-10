@@ -90,29 +90,29 @@
 |**[ssh]()**|Se connecter à une machine distante|
 |**[su]()**|Executer un shell avec un User-ID et un Group-ID différents (ex : root)|
 |**[sudo]()**|Exécuter une commande via un autre utilisateur (généralement root)|
-|**[tar]()**|Utilitaire GNU de gestion d'archives TAR|
-|**[tee]()**|Copier l'entrée standard sur la sortie standard et dans un fichier|
-|**[tload]()**|Afficher graphiquement la charge du système|
-|**[top]()**|Lister les processus (avec mise à jour toutes les X secondes)|
-|**[touch]()**|Modifier l'horodatage d'un fichier (peut aussi en créer)|
-|**[traceroute]()**|Afficher la trace des paquets routés vers l'hôte réseau|
-|**[ufw]()**|Gérer un pare-feu Netfilter (surchouche d'iptables)|
-|**[uniq]()**|Éliminer les lignes dupliquées dans un fichier trié|
-|**[umount]()**|Démonter des systèmes de fichiers|
-|**[unrar]()**|Extraire des fichiers compressés dans une archive RAR|
-|**[unset]()**|Annule les valeurs et les attributs des variables et des fonctions|
-|**[unzip]()**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|
-|**[uptime]()**|Afficher le temps depuis lequel la machine est démarrée|
-|**[usermod]()**|Modifier les informations d'un utilisateur|
-|**[users]()**|Afficher les utilisateurs connectés|
-|**[vi]()**|Lancer l'éditeur en ligne de commande **Vi**|
-|**[w]()**|Afficher les utilisateurs connectés et leur activité|
-|**[wc]()**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|
-|**[wget]()**|Télécharger un fichier depuis le Web|
-|**[whereis]()**|Rechercher les fichiers exécutables, les sources et les pages de manuel d'une commande|
-|**[who]()**|Afficher les informations d'un utilisateur|
-|**[whois]()**|Afficher les informations d'un domaine|
-|**[zip]()**|Créer et compresser des archives ZIP|
+|**[tar](https://man.cx/tar)**|Utilitaire GNU de gestion d'archives TAR|
+|**[tee](https://man.cx/tee)**|Copier l'entrée standard sur la sortie standard et dans un fichier|
+|**[tload](https://man.cx/tload)**|Afficher graphiquement la charge du système|
+|**[top](https://man.cx/top)**|Lister les processus (avec mise à jour toutes les X secondes)|
+|**[touch](https://man.cx/touch)**|Modifier l'horodatage d'un fichier (peut aussi en créer)|
+|**[traceroute](https://man.cx/traceroute)**|Afficher la trace des paquets routés vers l'hôte réseau|
+|**[ufw](https://man.cx/ufw)**|Gérer un pare-feu Netfilter (surchouche d'iptables)|
+|**[uniq](https://man.cx/uniq)**|Éliminer les lignes dupliquées dans un fichier trié|
+|**[umount](https://man.cx/umount)**|Démonter des systèmes de fichiers|
+|**[unrar](https://man.cx/unrar)**|Extraire des fichiers compressés dans une archive RAR|
+|**[unset](https://man.cx/unset)**|Annule les valeurs et les attributs des variables et des fonctions|
+|**[unzip](https://man.cx/unzip)**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|
+|**[uptime](https://man.cx/uptime)**|Afficher le temps depuis lequel la machine est démarrée|
+|**[usermod](https://man.cx/usermod)**|Modifier les informations d'un utilisateur|
+|**[users](https://man.cx/users)**|Afficher les utilisateurs connectés|
+|**[vi](https://man.cx/vi)**|Lancer l'éditeur en ligne de commande **Vi**|
+|**[w](https://man.cx/w)**|Afficher les utilisateurs connectés et leur activité|
+|**[wc](https://man.cx/wc)**|Afficher le nombre d'octets, de mots et de lignes d'un fichier|
+|**[wget](https://man.cx/wget)**|Télécharger un fichier depuis le Web|
+|**[whereis](https://man.cx/whereis)**|Rechercher les fichiers exécutables, les sources et les pages de manuel d'une commande|
+|**[who](https://man.cx/who)**|Afficher les informations d'un utilisateur|
+|**[whois](https://man.cx/whois)**|Afficher les informations d'un domaine|
+|**[zip](https://man.cx/zip)**|Créer et compresser des archives ZIP|
 
 ## Commandes à éviter
 

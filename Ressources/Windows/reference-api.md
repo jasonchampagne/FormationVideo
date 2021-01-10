@@ -10,7 +10,7 @@ Récupère un gestionnaire vers le périphérique standard spécifié (entrée s
 HANDLE GetStdHandle(_In_ DWORD nStdHandle);
 ```
 
-### Valeurs pour _nStdHandle_ :
+Valeurs pour _nStdHandle_ :
 
 |VALEUR|TAILLE|CODE|
 |:--:|:--:|:--:|

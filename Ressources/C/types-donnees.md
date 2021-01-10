@@ -2,7 +2,9 @@
 
 ## Types simples
 
-> Attention au type **char**, dont son usage ne garantit pas une occupation mémoire de 1 octet !
+> [Langage C #3 - variables](https://www.youtube.com/watch?v=kKeGTDyvi1o)
+
+⚠ Attention au type **char**, dont son usage ne garantit pas une occupation mémoire de 1 octet !
 
 ### Signés
 

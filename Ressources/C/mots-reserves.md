@@ -1,5 +1,7 @@
 # Mots réservés
 
+> [C #3 - variables](https://www.youtube.com/watch?v=kKeGTDyvi1o)
+
 Ces mots sont utilisés par le langage C et ne sont pas à employer pour nommer vos variables, structures, fonctions, ...
 
 + auto

@@ -70,20 +70,20 @@
 |**[nano]()**|Lancer l'éditeur en ligne de commande **Nano**|
 |**[nohup]()**|Exécuter un programme en le rendant insensible aux déconnexions|
 |**[passwd]()**|Modifier le mot de passe d'un utilisateur|
-|**[ping]()**|Envoyer des datagrammes à un hôte sur le réseau|
-|**[ps]()**|Afficher l'état des processus en cours|
-|**[pwd]()**|Récupérer le nom du répertoire courant|
-|**[quota]()**|Afficher l'utilisation du disque et les quotas|
-|**[rar]()**|Créer et compresser des archives RAR|
-|**[read]()**|Lire une ligne de l'entrée standard et la diviser en champs|
-|**[readonly]()**|Marquer une ou plusieurs variables ou fonctions en lecture seule|
-|**[rm]()**|Effacer des fichiers (ou répertoires contenant des fichiers)|
-|**[rmdir]()**|Effacer des répertoires vides|
-|**[scp]()**|Copier des fichiers vers une machine distante|
-|**[sed]()**|Filtrer et transformer du texte|
-|**[set]()**|Modifier valeur d'une option de shell, définit paramètres de position, ou afficher noms et valeurs des variables de shell|
-|**[sftp]()**|Transférer des fichiers de manière sécurisée (utilise SSH)|
-|**[sh]()**|_voir commande dash_|
+|**[ping](https://man.cx/ping)**|Envoyer des datagrammes à un hôte sur le réseau|
+|**[ps](https://man.cx/ps)**|Afficher l'état des processus en cours|
+|**[pwd](https://man.cx/pwd)**|Récupérer le nom du répertoire courant|
+|**[quota](https://man.cx/quota)**|Afficher l'utilisation du disque et les quotas|
+|**[rar](https://man.cx/rar)**|Créer et compresser des archives RAR|
+|**[read](https://man.cx/read)**|Lire une ligne de l'entrée standard et la diviser en champs|
+|**[readonly](https://man.cx/readonly)**|Marquer une ou plusieurs variables ou fonctions en lecture seule|
+|**[rm](https://man.cx/rm)**|Effacer des fichiers (ou répertoires contenant des fichiers)|
+|**[rmdir](https://man.cx/rmdir)**|Effacer des répertoires vides|
+|**[scp](https://man.cx/scp)**|Copier des fichiers vers une machine distante|
+|**[sed](https://man.cx/sed)**|Filtrer et transformer du texte|
+|**[set](https://man.cx/set)**|Modifier valeur d'une option de shell, définit paramètres de position, ou afficher noms et valeurs des variables de shell|
+|**[sftp](https://man.cx/sftp)**|Transférer des fichiers de manière sécurisée (utilise SSH)|
+|**[sh](https://man.cx/sh)**|_voir commande dash_|
 |**[shift](https://man.cx/shift)**|Décaler les paramètres de position vers la gauche|
 |**[sleep](https://man.cx/sleep)**|Endormir le processus pour une durée déterminée|
 |**[sort](https://man.cx/sort)**|Trier les lignes d'un fichier texte|

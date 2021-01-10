@@ -1,4 +1,4 @@
-# Référence API
+# Fonctions API
 
 |NOM|DESCRIPTION|
 |:--:|:--|

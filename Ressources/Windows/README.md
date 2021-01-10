@@ -7,8 +7,8 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |commandes-shell|Liste des commandes Batch et PowerShell|
+|fonctions-api|Fonctions de l'API|
 |introduction-formation|Diaporama d'introduction au cours Windows|
 |path-variable|Variable Path (valeur par défaut)|
-|reference-api|Référence de l'API|
 |services-systeme|Liste des services système|
 |visual-redistributable-packages|Paquets redistribuables Visual C++|

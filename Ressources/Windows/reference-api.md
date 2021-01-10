@@ -20,6 +20,8 @@ Valeurs pour _nStdHandle_ :
 
 ## WriteConsole
 
+Écrit une chaîne de caractères dans une mémoire tampon d'écran de la console en commençant à l'emplacement actuel du curseur.
+
 ```c
 BOOL WriteConsole(HANDLE hConsoleOutput, const VOID *lpBuffer, DWORD nNumberOfCharsToWrite, LPDWORD lpNumberOfCharsWritten, LPVOID lpReserved);
 ```

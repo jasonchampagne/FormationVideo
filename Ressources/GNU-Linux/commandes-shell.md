@@ -48,28 +48,27 @@
 |**[history]()**|Lister les commandes précédemment saisies dans le terminal|
 |**[host]()**|Chercher des noms de machine à l'aide d'un serveur de domaine|
 |**[hostname]()**|Afficher le nom d'hôte du système|
-|**[id]()**|Afficher les UIDs et GIDs d'un utilisateur|
-|**[ip]()**|Afficher/manipuler le routage, les périphériques réseau, les interfaces et les tunnels|
-|**[iw]()**|Afficher/manipuler les appareils sans fil et leur configuration|
-|**[iptables]()**|Filtrer les paquets IP et NAT (pare-feu)|
-|**[jobs]()**|Afficher les tâches en cours d'exécution et leur état|
-|**[kill]()**|Envoyer un signal à un processus|
-|**[killall]()**|Envoyer un signal à des processus indiqués par leurs noms|
-|**[ld]()**|Interface de l'éditeur de liens système|
-|**[less]()**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|
-|**[let]()**|Effectuer de l'arithmétique sur des variables shell|
-|**[locate]()**|Rechercher des fichiers dans une hiérarchie de répertoires|
-|**[ln]()**|Créer des liens entre fichiers|
-|**[ls]()**|Lister (afficher) le contenu d'un répertoire|
-|**[man]()**|Afficher le manuel d'une commande/fonction|
-|**[mkdir]()**|Créer des répertoires|
-|**[mkfs]()**|Créér un système de fichiers (peut aussi formater un périphérique de stockage)|
-|**[more]()**|Se déplacer dans un texte, écran par écran|
-|**[mount]()**|Monter un système de fichiers|
-|**[mv]()**|Déplacer ou renommer un fichier|
-|**[nano]()**|Lancer l'éditeur en ligne de commande **Nano**|
-|**[nohup]()**|Exécuter un programme en le rendant insensible aux déconnexions|
-|**[passwd]()**|Modifier le mot de passe d'un utilisateur|
+|**[id](https://man.cx/id)**|Afficher les UIDs et GIDs d'un utilisateur|
+|**[ip](https://man.cx/ip)**|Afficher/manipuler le routage, les périphériques réseau, les interfaces et les tunnels|
+|**[iw](https://man.cx/iw)**|Afficher/manipuler les appareils sans fil et leur configuration|
+|**[iptables](https://man.cx/iptables)**|Filtrer les paquets IP et NAT (pare-feu)|
+|**[jobs](https://man.cx/jobs)**|Afficher les tâches en cours d'exécution et leur état|
+|**[kill](https://man.cx/kill)**|Envoyer un signal à un processus|
+|**[killall](https://man.cx/killall)**|Envoyer un signal à des processus indiqués par leurs noms|
+|**[less](https://man.cx/less)**|Se déplacer dans un texte, même volumineux (plus flexible que la commande **more**)|
+|**[let](https://man.cx/let)**|Effectuer de l'arithmétique sur des variables shell|
+|**[locate](https://man.cx/locate)**|Rechercher des fichiers dans une hiérarchie de répertoires|
+|**[ln](https://man.cx/ln)**|Créer des liens entre fichiers|
+|**[ls](https://man.cx/ls)**|Lister (afficher) le contenu d'un répertoire|
+|**[man](https://man.cx/man)**|Afficher le manuel d'une commande/fonction|
+|**[mkdir](https://man.cx/mkdir)**|Créer des répertoires|
+|**[mkfs](https://man.cx/mkfs)**|Créér un système de fichiers (peut aussi formater un périphérique de stockage)|
+|**[more](https://man.cx/more)**|Se déplacer dans un texte, écran par écran|
+|**[mount](https://man.cx/mount)**|Monter un système de fichiers|
+|**[mv](https://man.cx/mv)**|Déplacer ou renommer un fichier|
+|**[nano](https://man.cx/nano)**|Lancer l'éditeur en ligne de commande **Nano**|
+|**[nohup](https://man.cx/nohup)**|Exécuter un programme en le rendant insensible aux déconnexions|
+|**[passwd](https://man.cx/passwd)**|Modifier le mot de passe d'un utilisateur|
 |**[ping](https://man.cx/ping)**|Envoyer des datagrammes à un hôte sur le réseau|
 |**[ps](https://man.cx/ps)**|Afficher l'état des processus en cours|
 |**[pwd](https://man.cx/pwd)**|Récupérer le nom du répertoire courant|

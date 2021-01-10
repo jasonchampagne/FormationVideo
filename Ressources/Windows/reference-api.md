@@ -7,7 +7,7 @@
 Récupère un gestionnaire vers le périphérique standard spécifié (entrée standard, sortie standard ou erreur standard).
 
 ```c
-HANDLE WINAPI GetStdHandle(_In_ DWORD nStdHandle);
+HANDLE GetStdHandle(_In_ DWORD nStdHandle);
 ```
 
 ### Paramètre :
@@ -21,12 +21,5 @@ HANDLE WINAPI GetStdHandle(_In_ DWORD nStdHandle);
 ## WriteConsole
 
 ```c
-BOOL WINAPI WriteConsole
-(
-  _In_ HANDLE hConsoleOutput, 
-  _In_ const VOID *lpBuffer, 
-  _In_ DWORD nNumberOfCharsToWrite, 
-  _Out_opt_ LPDWORD lpNumberOfCharsWritten, 
-  _Reserved_ LPVOID lpReserved
-);
+BOOL WriteConsole(HANDLE hConsoleOutput, const VOID *lpBuffer, DWORD nNumberOfCharsToWrite, LPDWORD lpNumberOfCharsWritten, LPVOID lpReserved);
 ```

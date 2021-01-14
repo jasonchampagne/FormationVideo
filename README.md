@@ -25,10 +25,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ## Contenus disponibles
 
-Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'autres contenus sont à venir, avec ci-dessous, un aperçu de ce qui peut être envisagé sur la chaîne :
-
-![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
-
 > **REMARQUES**
 > + Les cours terminés sont marqués d'un ✔️
 > + Les cours à refaire/mettre à jour sont marqués d'un 🔁

@@ -30,8 +30,9 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 ![Contenus sur FormationVidéo (YouTube)](https://nsa40.casimages.com/img/2019/03/26/190326015623131775.png)
 
 > **REMARQUES**
-> + Les cours terminés sont marqués d'une ✔️
-> + Les cours à refaire/mettre à jour sont marqués d'une 🔁
+> + Les cours terminés sont marqués d'un ✔️
+> + Les cours à refaire/mettre à jour sont marqués d'un 🔁
+> + Les cours à venir sont marquées d'un 🔜
 
 ### Général
 
@@ -57,11 +58,13 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |✔️|Python|[43 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✔️|SQL|[22 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|_à venir_|_à venir_|
 
-### Systèmes et réseaux
+### Matériel, systèmes et réseaux
 
-|/|NOM|COURS|TUTORIELS|EXERCICES
+|/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
+|🔜|Architecture||-|-|
 ||GNU/Linux|[35 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)|_à venir_|
+|🔜|Réseaux||-|-|
 ||Windows|[10 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)|_à venir_|
 
 > _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
@@ -76,9 +79,9 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Anglais|_en préparation_|||
-||Français|_en préparation_|||
-||Japonais|_en préparation_|||
+|🔜|Anglais||||
+|🔜|Français||||
+|🔜|Japonais||||
 
 ---
 

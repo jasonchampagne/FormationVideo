@@ -20,7 +20,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
   + [Systèmes](#systèmes)
   + [Musique](#musique)
   + [Langues](#langues)
-+ [**Contenus à venir**](#contenus-à-venir)
++ [**Idées de contenus à venir**](#idées-de-contenus-à-venir)
 
 ---
 
@@ -87,7 +87,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ---
 
-## Contenus à venir
+## Idées de contenus à venir
 
 Ici, une liste (non complète et qui peut changer à tout moment) des contenus que j'aimerais aborder sur la chaîne. Par exemple, le cours sur le [langage de programmation Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) vous permettra d'aborder d'autres choses comme Django ou Ren'Py.
 

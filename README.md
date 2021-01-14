@@ -60,14 +60,13 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 
 ### Matériel, systèmes et réseaux
 
+> _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |🔜|Architecture||||
 ||GNU/Linux|[35](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
 |🔜|Réseaux||||
 ||Windows|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
-
-> _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
 
 ### Image, audio et vidéo
 

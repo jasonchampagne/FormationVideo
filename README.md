@@ -18,7 +18,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
   + [Matériel, systèmes et réseaux](#matériel-systèmes-et-réseaux)
   + [Image, audio et vidéo](#image-audio-et-vidéo)
   + [Langues](#langues)
-  + [Divers](#divers)
 + [**Contenus à venir**](#contenus-à-venir)
 
 ---

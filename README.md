@@ -47,11 +47,11 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |:--:|:--:|:--:|:--:|:--:|
 |🔁|Algorithmie|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
 ||Assembleur|[3](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|||
-|✔️|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
-|🔁|C++|[12](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)||
+|✔️|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
+|🔁|C++|[12](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)||
 ||C#|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|||
 |🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
-|✔️|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
+|✔️|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
 ||Java|[23](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
 ||JavaScript|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
 |✔️|PHP|[32](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||

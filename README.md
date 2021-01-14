@@ -14,6 +14,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 **SOMMAIRE**
 + [**Contenus disponibles**](#contenus-disponibles)
+  + [Général](#général)
   + [Programmation / Web / bases de données](#programmation--web--bases-de-données)
   + [Matériel, systèmes et réseaux](#matériel-systèmes-et-réseaux)
   + [Image, audio et vidéo](#image-audio-et-vidéo)

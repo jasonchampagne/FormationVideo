@@ -15,10 +15,10 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 **SOMMAIRE**
 + [**Contenus disponibles**](#contenus-disponibles)
   + [Guides et dépannage](#guides-et-dépannage)
+  + [Concepts théoriques](#concepts-théoriques)
   + [Langages](#langages)
-  + [Concepts](#concepts)
-  + [Systèmes d'exploitation](#systèmes-dexploitation)
-  + [Image, audio et vidéo](#image-audio-et-vidéo)
+  + [Systèmes](#systèmes)
+  + [Musique](#musique)
   + [Langues](#langues)
 + [**Contenus à venir**](#contenus-à-venir)
 
@@ -31,12 +31,22 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 > + Les cours à refaire/mettre à jour sont marqués d'un 🔁
 > + Les cours à venir sont marquées d'un 🔜
 
+|🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
+
 ### Guides et dépannage
 
 |NOM|DESCRIPTION|CONTENU|
 |:--:|:--:|:--:|
 |AIDE|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[24](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
 |SAV|Dépannage sur des problèmes récurrents|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
+
+### Concepts théoriques
+
+|/|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|:--:|
+|🔁|Algorithmie|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
+|🔜|Architecture||||
+|🔜|Réseaux||||
 
 ### Langages
 
@@ -53,16 +63,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |✔️|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[13](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✔️|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
 
-### Concepts
-
-|/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
-|🔁|Algorithmie|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
-|🔜|Architecture||||
-|🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
-|🔜|Réseaux||||
-
-### Systèmes d'exploitation
+### Systèmes
 
 > _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
 
@@ -71,7 +72,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||GNU/Linux|[35](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
 ||Windows|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
 
-### Image, audio et vidéo
+### Musique
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

@@ -14,9 +14,10 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 **SOMMAIRE**
 + [**Contenus disponibles**](#contenus-disponibles)
-  + [Général](#général)
-  + [Programmation / Web / bases de données](#programmation--web--bases-de-données)
-  + [Matériel, systèmes et réseaux](#matériel-systèmes-et-réseaux)
+  + [Guides et dépannage](#guides-et-dépannage)
+  + [Langages](#langages)
+  + [Concepts](#concepts)
+  + [Systèmes d'exploitation](#systèmes-dexploitation)
   + [Image, audio et vidéo](#image-audio-et-vidéo)
   + [Langues](#langues)
 + [**Contenus à venir**](#contenus-à-venir)
@@ -30,23 +31,21 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 > + Les cours à refaire/mettre à jour sont marqués d'un 🔁
 > + Les cours à venir sont marquées d'un 🔜
 
-### Général
+### Guides et dépannage
 
 |NOM|DESCRIPTION|CONTENU|
 |:--:|:--:|:--:|
 |AIDE|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[24](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
 |SAV|Dépannage sur des problèmes récurrents|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
 
-### Programmation / Web / bases de données
+### Langages
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|🔁|Algorithmie|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
 ||Assembleur|[3](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|||
 |✔️|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
 |🔁|C++|[12](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-tutoriels.md)||
 ||C#|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|||
-|🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
 |✔️|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
 ||Java|[23](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
 ||JavaScript|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
@@ -54,15 +53,22 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |✔️|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[13](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✔️|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
 
-### Matériel, systèmes et réseaux
+### Concepts
+
+|/|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|:--:|
+|🔁|Algorithmie|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
+|🔜|Architecture||||
+|🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
+|🔜|Réseaux||||
+
+### Systèmes d'exploitation
 
 > _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|🔜|Architecture||||
 ||GNU/Linux|[35](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
-|🔜|Réseaux||||
 ||Windows|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
 
 ### Image, audio et vidéo

@@ -53,7 +53,7 @@ Retrouvez ci-dessous les formations disponibles (par ordre alphabétique). D'aut
 |🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
 |✔️|HTML/CSS|[26 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
 ||Java|[23 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
-||JavaScript|[11 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|_à venir_||
+||JavaScript|[11 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
 |✔️|PHP|[32 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||
 |✔️|Python|[43 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[lien](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✔️|SQL|[22 séances](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||

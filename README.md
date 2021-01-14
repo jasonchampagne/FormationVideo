@@ -37,6 +37,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |:--:|:--:|:--:|
 |AIDE|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[24](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
 |SAV|Dépannage sur des problèmes récurrents|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
+|TÉMOIGNAGES|Appels à témoins sur des domaines divers||
 
 ### Concepts théoriques
 

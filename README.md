@@ -31,8 +31,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 > + Les cours à refaire/mettre à jour sont marqués d'un 🔁
 > + Les cours à venir sont marquées d'un 🔜
 
-|🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
-
 ### Guides et dépannage
 
 |NOM|DESCRIPTION|CONTENU|
@@ -46,6 +44,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |:--:|:--:|:--:|:--:|:--:|
 |🔁|Algorithmie|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
 |🔜|Architecture||||
+|🔁|Hacking|[plus tard](https://pastebin.com/C9ddUEi7)|||
 |🔜|Réseaux||||
 
 ### Langages

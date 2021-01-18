@@ -27,8 +27,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ## Contenus disponibles
 
 > **REMARQUES**
-> + Les formations terminés sont marqués d'un ✔️
-> + Les formations à refaire/mettre à jour sont marqués d'un 🔁
+> + Les formations terminées sont marquées d'un ✔️
+> + Les formations à refaire/mettre à jour sont marquées d'un 🔁
 > + Les formations à venir sont marquées d'un 🔜
 
 ### Guides et dépannage

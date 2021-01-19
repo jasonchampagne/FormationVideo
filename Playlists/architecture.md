@@ -7,3 +7,4 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Présentation](https://www.youtube.com/watch?v=x4yzYMZ5ZNo)
++ [Systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)

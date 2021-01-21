@@ -41,3 +41,4 @@
 + [33. Conditions](https://www.youtube.com/watch?v=bP7lBGERtfA)
 + [34. Boucles](https://www.youtube.com/watch?v=DIhSTLYIQgw)
 + [35. Chaînes de caractères](https://www.youtube.com/watch?v=f9KWIVczXdI)
++ [36. Tableaux](https://www.youtube.com/watch?v=VgJvbiVLLBA)

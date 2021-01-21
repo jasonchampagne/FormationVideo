@@ -65,7 +65,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Systèmes
 
-> _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en Batch ou PowerShell._
+> _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à coder en PowerShell._
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

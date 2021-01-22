@@ -42,3 +42,4 @@
 + [34. Boucles](https://www.youtube.com/watch?v=DIhSTLYIQgw)
 + [35. Chaînes de caractères](https://www.youtube.com/watch?v=f9KWIVczXdI)
 + [36. Tableaux](https://www.youtube.com/watch?v=VgJvbiVLLBA)
++ [37. Fonctions](https://www.youtube.com/watch?v=Bye1ez_7K4E)

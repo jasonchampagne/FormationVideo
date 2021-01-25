@@ -1,4 +1,4 @@
-# GNU/Linux - cours
+# GNU/Linux - cours ✔
 
 > [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 

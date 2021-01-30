@@ -1,6 +1,6 @@
 # Tableau de conversion de bases
 
-|BIN|OCT|DÉC|HEX|
+|BIN|OCT|DEC|HEX|
 |:--:|:--:|:--:|:--:|
 |0000|00|00|0|
 |0001|01|01|1|

@@ -6,4 +6,4 @@
 
 **🌐 indicates that the video is subtitled in English**
 
-+ [#1. Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
++ [1. Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)

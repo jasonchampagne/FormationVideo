@@ -104,6 +104,6 @@ Ici, une liste (non complète et non figée) des contenus que j'aimerais aborder
 |Langues|anglais, français, chinois, coréen|
 |Plateformes|Apache, Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD|
-|Techniques|analyse (UML), infographie (3D, calligraphie, dessin, imagerie, pixel-art), son (montage, mix, mastering), vidéo (montage, effets spéciaux), écriture, chant|
+|Techniques|analyse (UML), infographie (3D, calligraphie, dessin, imagerie, pixel-art), jeu vidéo (character design, game design, level design, ...), son (montage, mix, mastering), vidéo (montage, effets spéciaux), écriture, chant|
 
 Bon apprentissage et bon courage ! 👍

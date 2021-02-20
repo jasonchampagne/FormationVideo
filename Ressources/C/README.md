@@ -7,7 +7,7 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |dlist|Code source d'une Liste doublement chaînée (entiers)|
-|exercices|Exercices corrigés|
+|exercices|Corrigé des exercices|
 |flush-input-buffer|Fonction de vidage du tampon de lecture|
 |fonctions-standard|Fonctions de la bibliothèque standard|
 |list|Code source d'une Liste (entiers)|

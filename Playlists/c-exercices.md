@@ -15,4 +15,4 @@
 + [7. Tout compte fait](https://www.youtube.com/watch?v=W1cNlw2H2xg)
 + [8. À fond la caisse](https://www.youtube.com/watch?v=cY79sEvkEQc)
 + [9. Entrez dans la matrice](https://www.youtube.com/watch?v=M_GufgQqztA)
-+ [10. Un poti fichier](#)
++ [10. Un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs)

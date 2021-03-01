@@ -21,7 +21,8 @@ CREATE TABLE IF NOT EXISTS `fv_players`
 	`player_name` VARCHAR(65) NOT NULL UNIQUE, 
 	`player_level` INT NOT NULL, 
 	`player_ability` INT NOT NULL, 
-	PRIMARY KEY(`id_player`)
+	PRIMARY KEY(`id_player`), 
+	FOREIGN KEY(`player_ability`) REFERENCES `fv_abilities`(`id_ability`)
 );
 
 CREATE TABLE IF NOT EXISTS `fv_abilities`
@@ -38,7 +39,10 @@ CREATE TABLE IF NOT EXISTS `fv_playertrades`
 	`playertrade_buyer` INT NOT NULL, 
 	`playertrade_item` INT NOT NULL, 
 	`playertrade_date` DATETIME NOT NULL, 
-	PRIMARY KEY(`id_playertrade`)
+	PRIMARY KEY(`id_playertrade`), 
+	FOREIGN KEY(`playertrade_seller`) REFERENCES `fv_players`(`id_player`), 
+	FOREIGN KEY(`playertrade_buyer`) REFERENCES `fv_players`(`id_player`), 
+	FOREIGN KEY(`playertrade_item`) REFERENCES `fv_items`(`id_item`)
 );
 
 CREATE TABLE IF NOT EXISTS `fv_items`

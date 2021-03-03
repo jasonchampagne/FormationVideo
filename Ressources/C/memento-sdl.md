@@ -39,3 +39,12 @@ void SDL_Delay(Uint32 ms);
 |SDL_WINDOW_MOUSE_FOCUS|Indique si la souris survole la fenêtre (active ou non)|
 |SDL_WINDOW_ALLOW_HIGHDPI|Mode "High-DPI" (depuis SDL 2.0.1)|
 |SDL_WINDOW_FOREIGN|Fenêtre non créée avec la SDL|
+
+D'autres valeurs existent, **pour X11 seulement**, et à partir des versions 2.0.4 ou 2.0.5 comme :
+
+• SDL_WINDOW_MOUSE_CAPTURE
+• SDL_WINDOW_ALWAYS_ON_TOP
+• SDL_WINDOW_SKIP_TASKBAR
+• SDL_WINDOW_UTILITY
+• SDL_WINDOW_TOOLTIP
+• SDL_WINDOW_POPUP_MENU

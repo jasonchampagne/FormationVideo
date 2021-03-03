@@ -11,6 +11,7 @@
 |flush-input-buffer|Fonction de vidage du tampon de lecture|
 |fonctions-standard|Fonctions de la bibliothèque standard|
 |list|Code source d'une Liste (entiers)|
+|memento-sdl|Mémento de quelques fonctions et modes d'affichage de la SDL|
 |mots-reserves|Mots-clés réservés et utilisés par le langage|
 |schema-file|Schéma d'une File (structure de données)|
 |schema-liste|Schéma d'une Liste (structure de données)|

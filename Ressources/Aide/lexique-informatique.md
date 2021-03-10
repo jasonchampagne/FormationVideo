@@ -2,4 +2,4 @@
 
 |NOM FR|NOM EN|DÉFINITION|
 |:--|:--|:--|
-|Bit (chiffre binaire)|Bit (binary digit)|Unité de mesure de base la plus petite|
+|Bit (_chiffre binaire_)|Bit (_binary digit_)|Unité de mesure de base la plus petite|

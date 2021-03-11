@@ -1,7 +1,5 @@
 # Test de valeur des variables
 
-> [PHP #15 - traiter formulaire HTML](https://www.youtube.com/watch?v=RWL0mUiPiI4)
-
 Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/manual/fr/function.empty.php), [isset()](https://www.php.net/manual/fr/function.isset.php) et [is_null()](https://www.php.net/manual/fr/function.is-null.php) de PHP.
 
 + **empty()** détermine si une variable est vide

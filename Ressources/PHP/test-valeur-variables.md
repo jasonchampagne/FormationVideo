@@ -4,7 +4,7 @@ Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/m
 
 + **empty()** détermine si une variable est vide
 + **isset()** détermine si une variable est déclarée et est différente de NULL
-+ **is_null()** indique si une variable vaut NULL
++ **is_null()** détermine si une variable vaut NULL
 
 ---
 

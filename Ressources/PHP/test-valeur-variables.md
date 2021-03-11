@@ -3,7 +3,7 @@
 Résultat (booléen) retourné par les fonctions [empty()](https://www.php.net/manual/fr/function.empty.php), [isset()](https://www.php.net/manual/fr/function.isset.php) et [is_null()](https://www.php.net/manual/fr/function.is-null.php) de PHP.
 
 + **empty()** détermine si une variable est vide
-+ **isset()** détermine si une variable est déclarée et est différente de NULL
++ **isset()** détermine si une variable est déclarée et est différente de _null_
 + **is_null()** détermine si une variable vaut _null_
 
 ---

@@ -6,6 +6,7 @@ Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents pro
 
 ## Tomo (en cours)
 
++ [0. Annonce du 17/04/2020](https://www.twitch.tv/videos/595056190)
 + [1. Session du 23/04/2020](https://www.twitch.tv/videos/600654452)
 + [2. Session du 24/04/2020](https://www.twitch.tv/videos/601654372)
 + [3. Session du 28/04/2020](https://www.twitch.tv/videos/605542864)
@@ -28,3 +29,4 @@ Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents pro
 + [20. Session du 20/08/2020](https://www.twitch.tv/videos/716443846)
 + [21. Session du 29/01/2021](https://www.twitch.tv/videos/893267940)
 + [22. Session du 12/02/2021](https://www.twitch.tv/videos/911755902)
++ [23. Session du 12/03/2021](https://www.twitch.tv/videos/947078247)

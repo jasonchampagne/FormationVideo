@@ -17,4 +17,4 @@
 + [9. Lecture médias](https://www.youtube.com/watch?v=-q2eSc_mtx8)
 + [10. Navigation internet](https://www.youtube.com/watch?v=qGEfu-gokrM)
 + [11. Contacts et messagerie](https://www.youtube.com/watch?v=uCADqSUp0CQ)
-+ [12. Installer applications](#)
++ [12. Installer applications](https://www.youtube.com/watch?v=DGN6lX7rcU0)

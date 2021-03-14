@@ -12,6 +12,7 @@
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
++ [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [Rufus - créer une clé bootable](https://www.youtube.com/watch?v=-wffj0kEqQg)
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
@@ -31,4 +32,3 @@
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
 + [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
 + [Programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)
-+ [Sécuriser ses mots de passe (KeePass)](https://www.youtube.com/watch?v=oG3QSXRCuvE)

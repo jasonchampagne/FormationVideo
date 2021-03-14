@@ -11,6 +11,7 @@
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
++ [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
 + [VeraCrypt - chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
@@ -20,7 +21,6 @@
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)
-+ [Créer un installateur (Inno Setup)](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Gérer plusieurs versions de fichiers (Git)](https://www.youtube.com/watch?v=CEb_JM_hsFw&)

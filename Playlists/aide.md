@@ -15,10 +15,10 @@
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
 + [VeraCrypt - chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [Visual Studio Code - éditeur de code](https://www.youtube.com/watch?v=eQUsUq_2AQU)
++ [Zeal - documentation hors-ligne](https://www.youtube.com/watch?v=PmgO42dod7E)
 
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
 + [Créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)
 + [Créer un installateur (Inno Setup)](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)

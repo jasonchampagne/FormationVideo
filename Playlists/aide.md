@@ -12,6 +12,7 @@
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
++ [Git - gérer plusieurs versions de fichiers](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
@@ -25,7 +26,6 @@
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
-+ [Gérer plusieurs versions de fichiers (Git)](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
 + [Paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q)
 + [Programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I)

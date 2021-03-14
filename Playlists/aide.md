@@ -6,6 +6,9 @@
 
 **🌐 indicates that the video is subtitled in English**
 
++ [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
+
+---
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Chiffrer un support de stockage (VeraCrypt)](https://www.youtube.com/watch?v=_hP3_vmVRWc)
@@ -23,7 +26,6 @@
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
 + [Paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q)
-+ [Partager du code (Pastebin)](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [Programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I)
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
 + [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)

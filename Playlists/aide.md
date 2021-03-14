@@ -16,6 +16,7 @@
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
++ [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [Rufus - créer une clé bootable](https://www.youtube.com/watch?v=-wffj0kEqQg)
@@ -26,7 +27,6 @@
 
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
 + [Programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I)
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)

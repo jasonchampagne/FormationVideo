@@ -13,6 +13,7 @@
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
++ [Rufus - créer une clé bootable](https://www.youtube.com/watch?v=-wffj0kEqQg)
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
 + [VeraCrypt - chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [Visual Studio Code - éditeur de code](https://www.youtube.com/watch?v=eQUsUq_2AQU)
@@ -20,7 +21,6 @@
 
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Gérer plusieurs versions de fichiers (Git)](https://www.youtube.com/watch?v=CEb_JM_hsFw&)

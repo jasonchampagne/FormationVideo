@@ -10,6 +10,7 @@
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Chiffrer un support de stockage (VeraCrypt)](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [Choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
++ [Compiler du C ou C++ (gcc)](#)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
 + [Convertir des fichiers média (FFmpeg)](https://www.youtube.com/watch?v=gIZzxPgilCA)

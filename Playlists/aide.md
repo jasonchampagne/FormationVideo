@@ -9,6 +9,7 @@
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
++ [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
@@ -22,7 +23,6 @@
 
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Gérer plusieurs versions de fichiers (Git)](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)

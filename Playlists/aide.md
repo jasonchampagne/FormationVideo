@@ -7,9 +7,10 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
-+ GCC - compiler du C ou C++
++ [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
++ GCC - compiler du C ou C++
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
 + [VeraCrypt - chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
@@ -17,7 +18,6 @@
 
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
 + [Créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)

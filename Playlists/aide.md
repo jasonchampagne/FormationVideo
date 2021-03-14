@@ -7,9 +7,10 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
++ [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
-+ [SSH - Se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
-+ [VeraCrypt - Chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
++ [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
++ [VeraCrypt - chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [Visual Studio Code - éditeur de code](https://www.youtube.com/watch?v=eQUsUq_2AQU)
 
 ---
@@ -18,7 +19,6 @@
 + [Compiler du C ou C++ (gcc)](#)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
-+ [Convertir des fichiers média (FFmpeg)](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)
 + [Créer un installateur (Inno Setup)](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)

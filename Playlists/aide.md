@@ -8,6 +8,7 @@
 
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
++ [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
@@ -17,7 +18,6 @@
 
 ---
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Consulter de la doc hors-ligne (Zeal)](https://www.youtube.com/watch?v=PmgO42dod7E)
 + [Créer une clé bootable (Rufus)](https://www.youtube.com/watch?v=-wffj0kEqQg)
 + [Créer un installateur (Inno Setup)](https://www.youtube.com/watch?v=ormsdIk_Uhw)

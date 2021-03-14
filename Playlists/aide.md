@@ -7,6 +7,7 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
++ [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
@@ -23,7 +24,6 @@
 + [Créer un installateur (Inno Setup)](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
-+ [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [Gérer plusieurs versions de fichiers (Git)](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)

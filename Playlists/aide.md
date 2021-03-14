@@ -6,12 +6,14 @@
 
 **🌐 indicates that the video is subtitled in English**
 
++ [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
++ [SSH - Se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
++ [VeraCrypt - Chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc)
++ [Visual Studio Code - éditeur de code](https://www.youtube.com/watch?v=eQUsUq_2AQU)
 
 ---
-+ [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [Certificat SSL auto-signé (Apache + OpenSSL)](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Chiffrer un support de stockage (VeraCrypt)](https://www.youtube.com/watch?v=_hP3_vmVRWc)
 + [Choisir langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Compiler du C ou C++ (gcc)](#)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
@@ -30,6 +32,4 @@
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
 + [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
 + [Programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)
-+ [Se connecter à distance (SSH)](https://www.youtube.com/watch?v=XUE6v4ZgvJ8)
 + [Sécuriser ses mots de passe (KeePass)](https://www.youtube.com/watch?v=oG3QSXRCuvE)
-+ [Visual Studio Code](https://www.youtube.com/watch?v=eQUsUq_2AQU)

@@ -14,7 +14,7 @@ _Les additions invité VirtualBox (_vbox guest additions_) proposent des pilotes
 + Taper une à une les commandes suivantes (en **root**)
 
 ```bash
-cd /dev/cdrom            # Accède à l'emplacement des fichiers des addons
+cd /dev/cdrom            # Note : ce chemin peut être différent (ex : /media)
 ./VBoxLinuxAdditions.run # Lancement du script d'installation
 ```
 

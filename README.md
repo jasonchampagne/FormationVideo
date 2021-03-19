@@ -56,7 +56,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |:--:|:--:|:--:|:--:|:--:|
 ||Assembleur|[3](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|||
 |✔️|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
-|🔁|C++|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|||
+||C++|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|||
 ||C#|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|||
 |✔️|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
 ||Java|[23](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||

@@ -30,3 +30,4 @@ Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents pro
 + [21. Session du 29/01/2021](https://www.twitch.tv/videos/893267940)
 + [22. Session du 12/02/2021](https://www.twitch.tv/videos/911755902)
 + [23. Session du 12/03/2021](https://www.twitch.tv/videos/947078247)
++ [24. Session du 19/03/2021](https://www.twitch.tv/videos/955917492)

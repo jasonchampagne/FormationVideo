@@ -4,10 +4,10 @@
 <img src="https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png" alt="">
 </p>
 
-La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invite à aborder plusieurs domaines techniques et artistiques. Des sujets qui me passionnent et que je tiens naturellement à vous partager. L'ensemble des contenus est réparti sur 3 catégories, sauf quelques exceptions, sous forme de **playlists** sur la plateforme de Google :
+La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invite à aborder plusieurs domaines techniques et artistiques. Des sujets qui me passionnent et que je tiens à vous partager. L'ensemble des contenus est réparti sur 3 catégories (sauf quelques exceptions) sous forme de **playlists** sur la plateforme de Google :
 
 + Une playlist de **cours** est progressive et permet d'aborder des notions essentielles, en partant de la base jusqu'aux concepts avancés.
-+ Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (si vous n'en avez jamais assez 😉).
++ Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (_si vous n'en avez jamais assez_ 😉).
 + Une playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris.
 
 > Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre apprentissage. Enfin, un répertoire des **Projets** autonomes proposés à la communauté et ceux organisés de manière interactive en direct sur [Twitch](https://www.twitch.tv/jachampagne).
@@ -15,6 +15,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ---
 
 **SOMMAIRE**
++ [**Feuille de route**](#feuille-de-route)
 + [**Contenus disponibles**](#contenus-disponibles)
   + [Guides et dépannage](#guides-et-dépannage)
   + [Concepts théoriques](#concepts-théoriques)
@@ -23,6 +24,21 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
   + [Musique](#musique)
   + [Langues](#langues)
 + [**Idées de contenus à venir**](#idées-de-contenus-à-venir)
+
+---
+
+## Feuille de route
+
+Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines sur la chaîne et ce sur quoi je travaille en ce moment (_voir date de mise à jour_) :
+
+> **MAJ** : 21/03/2021
+
++ Nouvelles vidéos d'Architecture sur la mémoire et la gestion de la mémoire
++ Re-publication de vidéos sur la compilation et le débogage (Aide)
++ Ajout de nouveaux exercices en C, Python, HTML/CSS, PHP et SQL
++ Suite du cours en langage d'Assembleur (premières instructions, registres)
++ Suite du cours Windows (configuration avancée avant le gros chapitre sur l'usage de la ligne de commande)
++ Autres vidéos (témoignagnes, actualités de la chaîne)
 
 ---
 

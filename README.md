@@ -15,15 +15,15 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ---
 
 **SOMMAIRE**
-+ [**Feuille de route**](#feuille-de-route)
-+ [**Contenus disponibles**](#contenus-disponibles)
++ [**Feuille de route**](#-feuille-de-route)
++ [**Contenus disponibles**](#-contenus-disponibles)
   + [Guides et dépannage](#guides-et-dépannage)
   + [Concepts théoriques](#concepts-théoriques)
   + [Langages](#langages)
   + [Systèmes](#systèmes)
   + [Musique](#musique)
   + [Langues](#langues)
-+ [**Idées de contenus à venir**](#idées-de-contenus-à-venir)
++ [**Idées de contenus à venir**](#-idées-de-contenus-à-venir)
 
 ---
 

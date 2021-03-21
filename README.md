@@ -1,7 +1,7 @@
 # Présentation de la chaîne YouTube
 
 <p align="center">
-<img src="https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png" alt="">
+<img src="https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png" alt=""><br>
 🚨🚨 SOMETHING IS COMING...VERY SOON... 🚨🚨
 </p>
 

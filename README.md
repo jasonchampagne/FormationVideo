@@ -113,7 +113,7 @@ Ici, une liste (non complète et non figée) des contenus que j'aimerais aborder
 |TYPE|CONTENUS|
 |:--|:--|
 |Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Infographie : Krita, Photoshop, GIMP, Inkscape, Mypaint<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, Doxygen, OBS Studio,, Wireshark|
-|Bibliothèques|DirectX, GTK+, JQuery, Kivy, OpenGL, Qt, React, SFML, wxWidgets|
+|Bibliothèques|DirectX, GTK+, JQuery, Kivy, LÖVE, OpenGL, Qt, React, SFML, wxWidgets|
 |CMS|Joomla, phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Django, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
 |Langages|Dart, Go, Haskell, Kotlin, LaTeX, Lua, Ruby, Rust, V, Visual Basic, XML|

@@ -31,7 +31,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines sur la chaîne et ce sur quoi je travaille en ce moment (_voir date de mise à jour_) :
 
-> **MAJ** : 21/03/2021
+> **MAJ : 21/03/2021**
 
 + Nouvelles vidéos d'Architecture sur la mémoire et la gestion de la mémoire
 + Re-publication de vidéos sur la compilation et le débogage (Aide)

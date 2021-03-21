@@ -27,7 +27,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ---
 
-## Feuille de route
+## 🔵 Feuille de route
 
 Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines sur la chaîne et ce sur quoi je travaille en ce moment (_voir date de mise à jour_) :
 
@@ -42,7 +42,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 
 ---
 
-## Contenus disponibles
+## 🔵 Contenus disponibles
 
 > **REMARQUES**
 > + Les formations terminées sont marquées d'un ✔️
@@ -106,7 +106,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 
 ---
 
-## Idées de contenus à venir
+## 🔵 Idées de contenus à venir
 
 Ici, une liste (non complète et non figée) des contenus que j'aimerais aborder sur la chaîne. Par exemple, le cours sur le [langage de programmation Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) vous permettra d'aborder d'autres choses comme Django ou Ren'Py.
 

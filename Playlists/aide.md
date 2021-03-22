@@ -13,6 +13,7 @@
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
++ [GCC - compilateur C/C++](#)
 + [Git - gérer plusieurs versions de fichiers](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)

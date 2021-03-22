@@ -2,7 +2,7 @@
 
 <p align="center">
 	<img src="https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png" alt=""><br>
-	[formation-video.org](https://formation-video.org)
+	<a href="https://formation-video.org">formation-video.org</a>
 </p>
 
 La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invite à aborder plusieurs domaines techniques et artistiques. Des sujets qui me passionnent et que je tiens à vous partager. L'ensemble des contenus est réparti sur 3 catégories (sauf quelques exceptions) sous forme de **playlists** sur la plateforme de Google :

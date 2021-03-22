@@ -35,7 +35,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 > **MAJ : 21/03/2021**
 
 + Nouvelles vidéos d'Architecture sur la mémoire et la gestion de la mémoire
-+ Re-publication de vidéos sur la compilation avec gcc et le débogage avec gdb (Aide)
++ Publication de vidéos sur le compilateur gcc et le débogueur gdb (Aide)
 + Ajout de nouveaux exercices en C, Python, HTML/CSS, PHP et SQL
 + Suite du cours en langage d'Assembleur (premières instructions, registres)
 + Suite du cours Windows (configuration avancée avant le gros chapitre sur l'usage de la ligne de commande)

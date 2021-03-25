@@ -32,8 +32,9 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines sur la chaîne et ce sur quoi je travaille en ce moment :
 
-> **MAJ : 23/03/2021**
+> **MAJ : 25/03/2021**
 
++ Création de paquet en Python
 + Nouvelles vidéos d'Architecture sur la mémoire et la gestion de la mémoire
 + Publication d'une vidéo sur le débogueur gdb (Aide)
 + Ajout de nouveaux exercices en C, Python, HTML/CSS, PHP et SQL

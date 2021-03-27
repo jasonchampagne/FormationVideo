@@ -80,7 +80,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 ||Java|[23](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
 ||JavaScript|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
 |✔️|PHP|[32](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||
-|✔️|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[13](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
+|✔️|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[14](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✔️|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
 
 ### Systèmes

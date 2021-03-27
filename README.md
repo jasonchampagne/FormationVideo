@@ -34,7 +34,6 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 
 > **MAJ : 26/03/2021**
 
-+ Empaqueter un programme en Python
 + Nouvelles vidéos d'Architecture sur la mémoire et la gestion de la mémoire
 + Publication d'une vidéo sur le débogueur gdb (Aide)
 + Ajout de nouveaux exercices en C, Python, HTML/CSS, PHP et SQL

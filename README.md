@@ -40,6 +40,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 + Suite du cours en langage d'Assembleur (premières instructions, registres)
 + Suite du cours Windows (configuration avancée avant le gros chapitre sur l'usage de la ligne de commande)
 + Autres vidéos (témoignagnes, actualités de la chaîne, ...)
++ Aquisition d'un peu de matériel pour le cours de Piano
 
 ---
 

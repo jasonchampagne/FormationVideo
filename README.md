@@ -46,9 +46,9 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 ## 🌱 Contenus disponibles
 
 > **REMARQUES**
-> + Les formations terminées sont marquées d'un ✔️
-> + Les formations à refaire/mettre à jour sont marquées d'un 🔁
-> + Les formations à venir sont marquées d'un 🔜
+> + Les cours terminés sont marqués d'un ✔️
+> + Les cours à refaire/mettre à jour sont marqués d'un 🔁
+> + Les cours à venir sont marqués d'un 🔜
 
 ### Guides et dépannage
 

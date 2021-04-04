@@ -2,7 +2,7 @@
 
 > [Assembleur #2 - dis bonjour !](https://www.youtube.com/watch?v=22UPjfgyRzI)
 
-L'assembleur utilisé est [NASM](https://nasm.us/) et les lieurs sont [ld](https://www.gnu.org/software/binutils/) (pour GNU/Linux) et [golink](http://godevtool.com/) (pour Windows)
+L'assembleur utilisé est [NASM](https://nasm.us/) et les lieurs sont [ld](https://www.gnu.org/software/binutils/) (pour GNU/Linux) et [golink](http://godevtool.com/) (pour Windows).
 
 ## GNU/Linux
 

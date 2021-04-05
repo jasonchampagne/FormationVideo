@@ -63,7 +63,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |🔁|Algorithmie||-||
-||Architecture|[3](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/architecture.md)|-|-|
+||Architecture|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/architecture.md)|-|-|
 |🔁|Hacking|[_plus tard_](https://jasonchampagne.fr/static/faq-youtube.html)|||
 |🔜|Réseaux||||
 

@@ -8,4 +8,5 @@
 
 + [Présentation](https://www.youtube.com/watch?v=x4yzYMZ5ZNo)
 + [Conversion de base](https://www.youtube.com/watch?v=RdBNK43JK5c)
++ [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
 + [Systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)

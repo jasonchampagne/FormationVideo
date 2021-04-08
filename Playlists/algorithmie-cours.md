@@ -1,3 +1,0 @@
-# Algorithmie - cours
-
-À venir...

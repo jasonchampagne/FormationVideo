@@ -32,9 +32,10 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines sur la chaîne et ce sur quoi je travaille en ce moment :
 
-> 🧭 **MAJ : 06/04/2021**
+> 🧭 **MAJ : 09/04/2021**
 
 + Registres de processeurs (Architecture)
++ Séances du cours C++
 + Publication d'une vidéo sur le débogueur gdb (Aide)
 + Ajout de nouveaux exercices en C, Python, HTML/CSS, PHP et SQL
 + Suite du cours en langage d'Assembleur (premières instructions, registres)

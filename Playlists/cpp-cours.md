@@ -7,3 +7,4 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [1. Introduction](https://www.youtube.com/watch?v=f3UVQPbw32w)
++ [2. Premier programme](https://www.youtube.com/watch?v=FjG4HYo-Jm0)

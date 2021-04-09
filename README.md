@@ -39,7 +39,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 + Publication d'une vidéo sur le débogueur gdb (Aide)
 + Ajout de nouveaux exercices en C, Python, HTML/CSS, PHP et SQL
 + Suite du cours Windows (configuration avancée avant le gros chapitre sur l'usage de la ligne de commande)
-+ Autres vidéos (témoignagnes, actualités de la chaîne, ...)
++ Autres vidéos (SAV, témoignagnes, actualités de la chaîne, ...)
 
 ---
 

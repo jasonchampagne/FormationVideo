@@ -55,7 +55,7 @@ Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines s
 |NOM|DESCRIPTION|CONTENU|
 |:--:|:--:|:--:|
 |Aide|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[25](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
-|SAV|Dépannage sur des problèmes récurrents|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
+|SAV|Dépannage sur des problèmes récurrents|[9](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
 |Témoignages|Appels à témoins sur des problèmes d'internautes|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/temoignages.md)|
 
 ### Concepts théoriques

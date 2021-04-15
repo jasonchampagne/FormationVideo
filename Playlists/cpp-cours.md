@@ -8,3 +8,4 @@
 
 + [1. Introduction](https://www.youtube.com/watch?v=f3UVQPbw32w)
 + [2. Premier programme](https://www.youtube.com/watch?v=FjG4HYo-Jm0)
++ [3. Affichage console](https://www.youtube.com/watch?v=lS4sXuTXkyI)

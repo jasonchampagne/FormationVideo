@@ -8,6 +8,7 @@
 
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
++ [C'est quoi le meilleur ?](https://www.youtube.com/watch?v=YLR_rMc0Rps)
 + [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)

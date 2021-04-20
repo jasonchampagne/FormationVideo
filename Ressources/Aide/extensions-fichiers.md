@@ -18,6 +18,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**java**|fichier source écrit en langage Java|éditeur de code|
 |**jpg**|image matricielle avec perte|éditeur ou visionneuse d'images|
 |**js**|fichier source écrit en langage JavaScript|éditeur de code|
+|**lua**|fichier source écrit en langage Lua|éditeur de code|
 |**php**|fichier source écrit en langage PHP|éditeur de code|
 |**png**|image matricielle sans perte|éditeur ou visionneuse d'images|
 |**py**|fichier source écrit en langage Python|éditeur de code|

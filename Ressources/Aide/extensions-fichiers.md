@@ -8,6 +8,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |:--|:--|:--|
 |**asm**|fichier source écrit en langage d'Assembleur|éditeur de code|
 |**c**|fichier source écrit en langage C|éditeur de code|
+|**cc**|fichier source écrit en langage C++|éditeur de code|
 |**cpp**|fichier source écrit en langage C++|éditeur de code|
 |**cs**|fichier source écrit en langage C#|éditeur de code|
 |**exe**|exécutable Windows|système Windows|

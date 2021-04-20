@@ -8,30 +8,30 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 
 |NOM|AUTRE(S)|DESCRIPTION|MODE|
 |:--:|:--:|:--|:--:|
-|**asm**||code source en langage d'Assembleur|TXT|
-|**c**||code source C|TXT|
-|**cpp**|cc|code source C++|TXT|
-|**cs**||code source C#|TXT|
+|**asm**||code source d'un programme en langage d'Assembleur|TXT|
+|**c**||code source d'un programme en C|TXT|
+|**cpp**|cc|code source d'un programme en C++|TXT|
+|**cs**||code source d'un programme en C#|TXT|
 |**css**||feuille de style CSS|TXT|
 |**exe**||exécutable Windows|BIN|
 |**gba**||ROM d'un jeu GameBoy Advance|BIN|
-|**go**||code source Go|TXT|
-|**h**||en-tête C|TXT|
-|**hpp**||en-tête C++|TXT|
+|**go**||code source d'un programme en Go|TXT|
+|**h**||en-tête d'un programme en C|TXT|
+|**hpp**||en-tête d'un programme en C++|TXT|
 |**html**||page web HTML|TXT|
-|**java**||code source Java|TXT|
+|**java**||code source d'un programme en Java|TXT|
 |**jpg**|jpeg|image matricielle avec perte|BIN|
-|**js**||code source JavaScript|TXT|
-|**lua**||code source Lua|TXT|
+|**js**||code source d'un programme en JavaScript|TXT|
+|**lua**||code source d'un programme en Lua|TXT|
 |**pdf**||document portable avec conservation de la mise en page|BIN|
-|**php**||code source PHP|TXT|
+|**php**||code source d'un programme en PHP|TXT|
 |**png**||image matricielle sans perte|BIN|
 |**psd**||fichier Photoshop|BIN|
-|**py**||code source Python (console)|TXT|
-|**pyw**||code source Python (UI)|TXT|
-|**rb**||code source Ruby|TXT|
-|**rs**||code source Rust|TXT|
-|**s**||code source en langage d'Assembleur|TXT|
+|**py**||code source d'un programme en Python (console)|TXT|
+|**pyw**||code source d'un programme en Python (UI)|TXT|
+|**rb**||code source d'un programme en Ruby|TXT|
+|**rs**||code source d'un programme en Rust|TXT|
+|**s**||code source d'un programme en langage d'Assembleur|TXT|
 |**smc**||ROM d'un jeu Super Nintendo|BIN|
-|**sql**||requêtes SQL|TXT|
-|**v**||code source V|TXT|
+|**sql**||code source de requêtes en SQL|TXT|
+|**v**||code source d'un programme en V|TXT|

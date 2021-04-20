@@ -9,6 +9,7 @@
 |caracteres-speciaux|Caractères spéciaux utiles en informatique|
 |encodage-utf8|Encoder vos fichiers en UTF-8 depuis votre éditeur|
 |expressions-rationnelles|Expressions rationnelles|
+|extensions-fichiers|Extensions de fichiers et applications compatibles|
 |hebergeurs-sites-web|Liste d'hébergeurs (payants et gratuits) pour vos sites internet|
 |lexique-informatique|Lexique de termes en informatique|
 |liste-langages|Liste de langages de programmation ou de requête|

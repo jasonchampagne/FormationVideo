@@ -25,6 +25,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**lua**|code source Lua|éditeur de code|
 |**php**|code source PHP|éditeur de code|
 |**png**|image matricielle sans perte|éditeur ou visionneuse d'images|
+|**psd**|fichier Photoshop|Photoshop|
 |**py**|code source Python|éditeur de code|
 |**rb**|code source Ruby|éditeur de code|
 |**rs**|code source Rust|éditeur de code|

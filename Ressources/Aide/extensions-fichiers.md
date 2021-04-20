@@ -4,7 +4,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 
 ➖ Pensez à [afficher les extensions des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw) si vous êtes sur Windows.<br>
 ➖ Attention, certaines extensions peuvent être associées à plusieurs types de fichiers et/ou applications compatibles.<br>
-➖ Un fichier texte peut être ouvert avec un éditeur de texte ou de code; un fichier binaire doit être lu avec une application spécifique.
+➖ Un fichier texte peut être ouvert avec un éditeur de texte ou de code mais un fichier binaire nécessite une application spécifique.
 
 |NOM|AUTRE(S)|DESCRIPTION|MODE|
 |:--:|:--:|:--|:--:|

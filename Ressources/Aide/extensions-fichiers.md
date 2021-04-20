@@ -13,6 +13,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**cpp**|code source C++|éditeur de code|
 |**cs**|code source C#|éditeur de code|
 |**exe**|exécutable Windows|système Windows|
+|**sgba**|ROM d'un jeu GameBoy Advance|émulateur GBA|
 |**h**|en-tête C|éditeur de code|
 |**hpp**|en-tête C++|éditeur de code|
 |**html**|page web HTML|éditeur de code, navigateur web|

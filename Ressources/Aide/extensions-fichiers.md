@@ -7,7 +7,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 > 3. Un fichier texte peut être ouvert avec n'importe quel éditeur (de texte ou de code), tandis qu'un fichier binaire doit être lu avec une application bien spécifique
 
 |NOM|AUTRE(S)|DESCRIPTION|AVEC QUOI LE LIRE ?|MODE|
-|:--|:--|:--|:--|:--:|
+|:--:|:--|:--|:--|:--:|
 |**asm**||code source en langage d'Assembleur|éditeur de code|TXT|
 |**c**||code source C|éditeur de code|TXT|
 |**cpp**|cc|code source C++|éditeur de code|TXT|

@@ -2,7 +2,7 @@
 
 Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tableau (_complété au fur et à mesure_) peut éventuellement vous aider à identifier ce type de fichier, et avec quelle application vous pouvez le lire.
 
-> Sur Windows, pensez à [afficher les extensions des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw) sur votre système.
+> Pensez à [afficher les extensions des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw) si vous êtes sur Windows.
 
 |NOM|DESCRIPTION|AVEC QUOI LE LIRE ?|
 |:--|:--|:--|

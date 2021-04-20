@@ -1,4 +1,4 @@
-# Extensions de fichiers
+# Extensions des fichiers
 
 > Sur Windows, pensez à [afficher les extensions des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw) sur votre système.
 

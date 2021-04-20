@@ -28,3 +28,4 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**s**|code source en langage d'Assembleur|éditeur de code|
 |**smc**|ROM d'un jeu Super Nintendo|émulateur SNES|
 |**sql**|requêtes SQL|éditeur de code|
+|**v**|code source V|éditeur de code|

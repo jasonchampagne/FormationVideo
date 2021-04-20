@@ -32,6 +32,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**rb**||code source d'un programme en Ruby|TXT|
 |**rs**||code source d'un programme en Rust|TXT|
 |**s**||code source d'un programme en langage d'Assembleur|TXT|
+|**sav**||sauvegarde d'un jeu GameBoy Advance|BIN|
 |**smc**||ROM d'un jeu Super Nintendo|BIN|
 |**sql**||code source de requêtes en SQL|TXT|
 |**v**||code source d'un programme en V|TXT|

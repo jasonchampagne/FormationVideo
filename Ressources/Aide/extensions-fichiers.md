@@ -9,6 +9,8 @@
 |**cpp**|fichier source écrit en langage C++|éditeur de code|
 |**cs**|fichier source écrit en langage C#|éditeur de code|
 |**exe**|exécutable Windows|système Windows|
+|**h**|fichier d'en-tête écrit en C|éditeur de code|
+|**hpp**|fichier d'en-tête écrit en C++|éditeur de code|
 |**html**|page HTML|éditeur de code, navigateur web|
 |**java**|fichier source écrit en langage Java|éditeur de code|
 |**jpg**|image matricielle avec perte|éditeur ou visionneuse d'images|

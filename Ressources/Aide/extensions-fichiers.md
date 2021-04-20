@@ -7,22 +7,22 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 
 |NOM|DESCRIPTION|AVEC QUOI LE LIRE ?|
 |:--|:--|:--|
-|**asm**|fichier source écrit en langage d'Assembleur|éditeur de code|
-|**c**|fichier source écrit en langage C|éditeur de code|
-|**cc**|fichier source écrit en langage C++|éditeur de code|
-|**cpp**|fichier source écrit en langage C++|éditeur de code|
-|**cs**|fichier source écrit en langage C#|éditeur de code|
+|**asm**|fichier source en langage d'Assembleur|éditeur de code|
+|**c**|fichier source C|éditeur de code|
+|**cc**|fichier source C++|éditeur de code|
+|**cpp**|fichier source C++|éditeur de code|
+|**cs**|fichier source C#|éditeur de code|
 |**exe**|exécutable Windows|système Windows|
-|**h**|fichier d'en-tête écrit en C|éditeur de code|
-|**hpp**|fichier d'en-tête écrit en C++|éditeur de code|
+|**h**|fichier d'en-tête C|éditeur de code|
+|**hpp**|fichier d'en-tête C++|éditeur de code|
 |**html**|page web HTML|éditeur de code, navigateur web|
-|**java**|fichier source écrit en langage Java|éditeur de code|
+|**java**|fichier source Java|éditeur de code|
 |**jpg**|image matricielle avec perte|éditeur ou visionneuse d'images|
-|**js**|fichier source écrit en langage JavaScript|éditeur de code|
-|**lua**|fichier source écrit en langage Lua|éditeur de code|
-|**php**|fichier source écrit en langage PHP|éditeur de code|
+|**js**|fichier source JavaScript|éditeur de code|
+|**lua**|fichier source Lua|éditeur de code|
+|**php**|fichier source PHP|éditeur de code|
 |**png**|image matricielle sans perte|éditeur ou visionneuse d'images|
-|**py**|fichier source écrit en langage Python|éditeur de code|
-|**rb**|fichier source écrit en langage Ruby|éditeur de code|
-|**s**|fichier source écrit en langage d'Assembleur|éditeur de code|
-|**sql**|fichier de requêtes écrit en langage SQL|éditeur de code|
+|**py**|fichier source Python|éditeur de code|
+|**rb**|fichier source Ruby|éditeur de code|
+|**s**|fichier source en langage d'Assembleur|éditeur de code|
+|**sql**|fichier de requêtes SQL|éditeur de code|

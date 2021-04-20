@@ -22,3 +22,4 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**png**|image matricielle sans perte|éditeur ou visionneuse d'images|
 |**py**|fichier source écrit en langage Python|éditeur de code|
 |**rb**|fichier source écrit en langage Ruby|éditeur de code|
+|**s**|fichier source écrit en langage d'Assembleur|éditeur de code|

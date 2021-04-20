@@ -5,5 +5,10 @@
 |NOM|DESCRIPTION|AVEC QUOI LE LIRE ?|
 |:--|:--|:--|
 |**c**|fichier source écrit en langage C|éditeur de code|
+|**cpp**|fichier source écrit en langage C++|éditeur de code|
+|**cs**|fichier source écrit en langage C#|éditeur de code|
 |**exe**|exécutable Windows|système Windows|
+|**java**|fichier source écrit en langage Java|éditeur de code|
 |**png**|image matricielle sans perte|éditeur ou visionneuse d'images|
+|**py**|fichier source écrit en langage Python|éditeur de code|
+|**rb**|fichier source écrit en langage Ruby|éditeur de code|

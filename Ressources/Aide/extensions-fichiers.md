@@ -25,3 +25,4 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**py**|fichier source écrit en langage Python|éditeur de code|
 |**rb**|fichier source écrit en langage Ruby|éditeur de code|
 |**s**|fichier source écrit en langage d'Assembleur|éditeur de code|
+|**sql**|fichier de requêtes écrit en langage SQL|éditeur de code|

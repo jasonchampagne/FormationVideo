@@ -22,6 +22,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**jpg**|jpeg|image matricielle avec perte|éditeur ou visionneuse d'images|
 |**js**||code source JavaScript|éditeur de code|
 |**lua**||code source Lua|éditeur de code|
+|**pdf**|document portable avec conservation de la mise en page|lecteur PDF, navigateur web|
 |**php**||code source PHP|éditeur de code|
 |**png**||image matricielle sans perte|éditeur ou visionneuse d'images|
 |**psd**||fichier Photoshop|Photoshop|

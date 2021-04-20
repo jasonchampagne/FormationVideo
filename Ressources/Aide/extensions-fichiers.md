@@ -12,6 +12,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**cc**|code source C++|éditeur de code|
 |**cpp**|code source C++|éditeur de code|
 |**cs**|code source C#|éditeur de code|
+|**css**|feuille de style CSS|éditeur de code|
 |**exe**|exécutable Windows|système Windows|
 |**gba**|ROM d'un jeu GameBoy Advance|émulateur GBA|
 |**go**|code source Go|éditeur de code|

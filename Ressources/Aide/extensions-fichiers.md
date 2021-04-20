@@ -25,4 +25,5 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**py**|code source Python|éditeur de code|
 |**rb**|code source Ruby|éditeur de code|
 |**s**|code source en langage d'Assembleur|éditeur de code|
+|**smc**|ROM d'un jeu Super Nintendo|émulateur SNES|
 |**sql**|requêtes SQL|éditeur de code|

@@ -27,6 +27,7 @@ Vous avez un fichier qui porte une extension que vous ne connaissez pas. Ce tabl
 |**png**|image matricielle sans perte|éditeur ou visionneuse d'images|
 |**py**|code source Python|éditeur de code|
 |**rb**|code source Ruby|éditeur de code|
+|**rs**|code source Rust|éditeur de code|
 |**s**|code source en langage d'Assembleur|éditeur de code|
 |**smc**|ROM d'un jeu Super Nintendo|émulateur SNES|
 |**sql**|requêtes SQL|éditeur de code|

@@ -4,7 +4,7 @@
 
 |NOM|TAILLE|VALEURS POSSIBLES|
 |:--|:--|:--|
-|**bool**|IMP||
+|**bool**|_IMP_|true / false|
 ||||
 ||||
 ||||

@@ -1,6 +1,7 @@
 # Types fondamentaux
 
 > Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`<br>
+> _La taille des données dépend de l'implémentation (utilisez l'opérateur **sizeof** pour vérifier)_
 
 |NOM|TAILLE|VALEURS POSSIBLES|
 |:--|:--:|:--|
@@ -13,8 +14,6 @@
 |**float**|4 octets||
 |**double**|8 octets||
 |**long double**|_IMP_|_IMP_|
-
-_La taille des données dépend de l'implémentation (utilisez l'opérateur **sizeof** pour vérifier)_
 
 ### Types non signés
 

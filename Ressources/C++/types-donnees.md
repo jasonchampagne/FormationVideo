@@ -3,7 +3,7 @@
 > Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`<br>
 
 |NOM|TAILLE|VALEURS POSSIBLES|
-|:--|:--|:--|
+|:--|:--:|:--|
 |**bool**|1 octet ou _IMP_|true / false|
 |**char**|1 octet|-128 à 127|
 |**short**|2 octets|-32 768 à 32 767|
@@ -19,7 +19,7 @@ _**IMP** = taille définie par l'implémentation_
 ### Types non signés
 
 |NOM|TAILLE|VALEURS POSSIBLES|
-|:--|:--|:--|
+|:--|:--:|:--|
 |**unsigned char**|1 octet|0 à 255|
 |**unsigned short**|2 octets|0 à 65 535|
 |**unsigned int**|4 octets||

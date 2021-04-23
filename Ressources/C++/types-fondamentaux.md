@@ -11,9 +11,9 @@
 |**int**|4 octets|-2 147 483 648 à 2 147 483 647|
 |**long**|4 octets|-2 147 483 648 à 2 147 483 647|
 |**long long**|8 octets|-9 223 372 036 854 775 808 à 9 223 372 036 854 775 807|
-|**float**|4 octets||
+|**float**|4 octets|± 1.175 x 10^-38 à ± 3.4 x 10^38|
 |**double**|8 octets||
-|**long double**|_IMP_|_IMP_|
+|**long double**|16 octets||
 
 ### Types non signés
 

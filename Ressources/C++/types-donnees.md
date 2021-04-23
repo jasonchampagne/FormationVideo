@@ -1,19 +1,17 @@
 # Types de données
 
-> Un type non-signé (_unsigned_) est toujours positif<br>
-> Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`
+> Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`<br>
 
-## Booléen
+|NOM|TAILLE|VALEURS POSSIBLES|
+|:--|:--|:--|
+|**bool**|IMP||
+||||
+||||
+||||
+||||
+||||
+> **IMP** = taille définie par l'implémentation
 
-|NOM|VALEUR|
-|:--|:--|
-|bool|false / true|
-
-## Entiers
-
-## Flottants
-
-## Caractères
 
 ---
 [Plus de types...](https://en.cppreference.com/w/cpp/language/types)

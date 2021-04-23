@@ -15,8 +15,6 @@
 |**double**|8 octets|± 2.225 x 10^-308 à ± 1.797 x 10^308|
 |**long double**|16 octets||
 
-### Types non signés
-
 |NOM|TAILLE|VALEURS POSSIBLES|
 |:--|:--:|:--|
 |**unsigned char**|1 octet|0 à 255|

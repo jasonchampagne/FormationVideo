@@ -1,4 +1,4 @@
-# Types de données
+# Types fondamentaux
 
 > Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`<br>
 

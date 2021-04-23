@@ -14,7 +14,7 @@
 |**double**|8 octets||
 |**long double**|_IMP_|_IMP_|
 
-_**IMP** = taille définie par l'implémentation_
+_La taille des données dépend de l'implémentation (utilisez l'opérateur **sizeof** pour vérifier)_
 
 ### Types non signés
 

@@ -4,7 +4,7 @@
 
 |NOM|TAILLE|VALEURS POSSIBLES|
 |:--|:--|:--|
-|**bool**|_IMP_|true / false|
+|**bool**|1 octet ou _IMP_|true / false|
 ||||
 ||||
 ||||

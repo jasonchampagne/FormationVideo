@@ -15,19 +15,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ---
 
-**SOMMAIRE**
-+ [**Feuille de route**](#-feuille-de-route)
-+ [**Contenus disponibles**](#-contenus-disponibles)
-  + [Guides et dépannage](#guides-et-dépannage)
-  + [Concepts théoriques](#concepts-théoriques)
-  + [Langages](#langages)
-  + [Systèmes](#systèmes)
-  + [Musique](#musique)
-  + [Langues](#langues)
-+ [**Idées de contenus à venir**](#-idées-de-contenus-à-venir)
-
----
-
 ## 🌱 Feuille de route
 
 Cette section vous donne un _suivi_ (tenu à jour) des publications prochaines sur la chaîne et ce sur quoi je travaille en ce moment :

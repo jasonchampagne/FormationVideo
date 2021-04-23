@@ -1,7 +1,7 @@
 # Types fondamentaux
 
-> Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`<br>
-> _La taille des données dépend de l'implémentation (utilisez l'opérateur **sizeof** pour vérifier)_
+> _La taille des données dépend de l'implémentation (utilisez l'opérateur **sizeof** pour vérifier)_<br>
+> Le standard C++ garantit que : `char` <= `short` <= `int` <= `long` <= `long long`
 
 |NOM|TAILLE|VALEURS POSSIBLES|
 |:--|:--:|:--|

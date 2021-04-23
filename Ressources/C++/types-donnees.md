@@ -10,7 +10,7 @@
 ||||
 ||||
 ||||
-> **IMP** = taille définie par l'implémentation
+_**IMP** = taille définie par l'implémentation_
 
 
 ---

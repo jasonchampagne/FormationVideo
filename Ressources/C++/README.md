@@ -6,4 +6,4 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|types-donnees|Liste des types de données|
+|types-fondamentaux|Liste des types fondamentaux|

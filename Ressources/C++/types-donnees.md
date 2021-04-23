@@ -14,3 +14,6 @@
 ## Flottants
 
 ## Caractères
+
+---
+[Plus de types...](https://en.cppreference.com/w/cpp/language/types)

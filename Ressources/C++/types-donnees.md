@@ -10,9 +10,9 @@
 |**int**|4 octets|-2 147 483 648 à 2 147 483 647|
 |**long**|4 octets|-2 147 483 648 à 2 147 483 647|
 |**long long**|8 octets|-9 223 372 036 854 775 808 à 9 223 372 036 854 775 807|
-|**float**|||
-|**double**|||
-|**long double**|||
+|**float**|4 octets||
+|**double**|8 octets||
+|**long double**|_IMP_|_IMP_|
 
 _**IMP** = taille définie par l'implémentation_
 

@@ -22,9 +22,9 @@ _**IMP** = taille définie par l'implémentation_
 |:--|:--:|:--|
 |**unsigned char**|1 octet|0 à 255|
 |**unsigned short**|2 octets|0 à 65 535|
-|**unsigned int**|4 octets||
-|**unsigned long**|4 octets||
-|**unsigned long long**|8 octets||
+|**unsigned int**|4 octets|0 à 4 294 967 295|
+|**unsigned long**|4 octets|0 à 4 294 967 295|
+|**unsigned long long**|8 octets|0 à 18 446 744 073 709 551 615|
 
 ---
 [Plus de types...](https://en.cppreference.com/w/cpp/language/types)

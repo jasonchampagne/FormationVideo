@@ -6,7 +6,7 @@
 
 |COMMANDE|APPLICATION ASSOCIÉE|EMPLACEMENT|
 |:--|:--|:--|
-||||
+|bcedit|Éditeur de données de configuration de démarrage|`C:\Windows\System32`|
 
 ## Outils graphiques
 

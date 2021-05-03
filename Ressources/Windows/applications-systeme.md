@@ -13,6 +13,16 @@
 |**dfrgui**|Défragmenter et optimiser les lecteurs|`C:\Windows\System32`|
 |**eudcedit**|Éditeur de caractères privés|`C:\Windows\System32`|
 |**eventvwr**|Observateur d'évènements|`C:\Windows\System32`|
+|**filehistory**|Historique des fichiers|`C:\Windows\System32`|
+|**gpedit**|Éditeur de stratégie de groupe locale|`C:\Windows\System32`|
+|**lusrmgr**|Utilisateurs et groupes locaux|`C:\Windows\System32`|
+|**magnify**|Loupe|`C:\Windows\System32`|
 |**msconfig**|Configuration du système|`C:\Windows\System32`|
+|**msinfo32**|Informations système|`C:\Windows\System32`|
+|**mspaint**|Paint|`C:\Windows\System32`|
+|**mstsc**|Bureau à distance|`C:\Windows\System32`|
+|**narrator**|Narrateur|`C:\Windows\System32`|
+|**netplwiz**|Comptes d'utilisateurs|`C:\Windows\System32`|
 |**notepad**|Bloc-notes|`C:\Windows` & `C:\Windows\System32`|
+|**osk**|Clavier visuel|`C:\Windows\System32`|
 |**regedit**|Éditeur de registre|`C:\Windows`|

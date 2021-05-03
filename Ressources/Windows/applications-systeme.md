@@ -21,6 +21,7 @@
 |**dccw**|exe|Étalonnage des couleurs|`C:\Windows\System32`|
 |**dcomcnfg**|exe|Service de composants|`C:\Windows\System32`|
 |**dfrgui**|exe|Défragmenter et optimiser les lecteurs|`C:\Windows\System32`|
+|**dxdiag**|exe|Outil de diagnostic DirectX|`C:\Windows\System32`|
 |**eudcedit**|exe|Éditeur de caractères privés|`C:\Windows\System32`|
 |**eventvwr**|msc|Observateur d'évènements|`C:\Windows\System32`|
 |**explorer**|exe|Explorateur de fichiers|`C:\Windows`|

@@ -7,8 +7,10 @@
 |COMMANDE|TYPE|APPLICATION ASSOCIÉE|
 |:--|:--:|:--|
 |**bcedit**|exe|Éditeur de données de configuration de démarrage|
+|**bootcfg**|exe|Gestionnaire de configuration BOOT.INI|
 |**chkdsk**|exe|Utilitaire de vérification de disques|
 |**diskpart**|exe|Outil de partitionnement de disques|
+|**dism**|exe|Maintenance et gestion des images de déploiement|
 |**format**|com|Utilitaire de formatage de volume|
 |**ipconfig**|exe|Utilitaire de configuration IP|
 |**reagentc**|exe|Agent de récupération Windows|

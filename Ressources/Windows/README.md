@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|applications-systeme|Commande des applications du système|
 |commandes-shell|Liste des commandes Batch et PowerShell|
 |fonctions-api|Fonctions de l'API|
 |introduction-formation|Diaporama d'introduction au cours Windows|

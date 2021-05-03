@@ -14,6 +14,7 @@
 |**format**|com|Utilitaire de formatage de volume|
 |**ipconfig**|exe|Utilitaire de configuration IP|
 |**openfiles**|exe|Gestion des dossiers et fichiers partagés à distance|
+|**powercfg**|exe|Paramètres d'alimentation|
 |**reagentc**|exe|Agent de récupération Windows|
 |**wmic**|exe|Utilitaire de ligne de commande WMI|
 

@@ -28,7 +28,7 @@
 |**filehistory**|exe|Historique des fichiers|`C:\Windows\System32`|
 |**fsquirt**|exe|Transfert de fichiers à l'aide de Bluetooth|`C:\Windows\System32`|
 |**gpedit**|msc|Éditeur de stratégie de groupe locale|`C:\Windows\System32`|
-|**lpksetup**|exe|Programme d'installation des packs de langue|`C:\Windows\System32`|
+|**lpksetup**|exe|Installation des packs de langue|`C:\Windows\System32`|
 |**lusrmgr**|msc|Utilisateurs et groupes locaux|`C:\Windows\System32`|
 |**magnify**|exe|Loupe|`C:\Windows\System32`|
 |**mblctr**|exe|Centre de mobilité|`C:\Windows\System32`|

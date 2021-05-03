@@ -1,6 +1,6 @@
 # Applications système
 
-> Ces commandes sont utilisables via la recherche, le menu Exécuter ou un terminal (`Win + R`)
+> Ces commandes sont utilisables via la recherche, le menu Exécuter (`Win + R`) ou un terminal.
 
 ## Outils en console
 

@@ -11,6 +11,7 @@
 |**format**|com|Utilitaire de formatage de volume|
 |**ipconfig**|exe|Utilitaire de configuration IP|
 |**reagentc**|exe|Agent de récupération Windows|
+|**wmic**|exe|Utilitaire de ligne de commande WMI|
 
 ## Outils graphiques
 

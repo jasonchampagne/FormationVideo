@@ -2,6 +2,12 @@
 
 > Ces commandes sont utilisables via la recherche ou depuis la console d'exécution (`Win + R`)
 
+## Outils en console
+
+|COMMANDE|APPLICATION ASSOCIÉE|EMPLACEMENT|
+|:--|:--|:--|
+||||
+
 ## Outils graphiques
 
 |COMMANDE|APPLICATION ASSOCIÉE|EMPLACEMENT|
@@ -50,9 +56,3 @@
 |**taskschd**|Planificateur de tâches|`C:\Windows\System32`|
 |**useraccountcontrolsettings**|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|
 |**verifiergui**|Gestionnaire du vérificateur de pilotes|`C:\Windows\System32`|
-
-## Outils en console
-
-|COMMANDE|APPLICATION ASSOCIÉE|EMPLACEMENT|
-|:--|:--|:--|
-||||

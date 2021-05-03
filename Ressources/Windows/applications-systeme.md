@@ -35,3 +35,4 @@
 |**services**|Services|`C:\Windows\System32`|
 |**shrpubw**|Assistant de création de dossier partagé|`C:\Windows\System32`|
 |**slui**|Client d'activation Windows|`C:\Windows\System32`|
+|**snippingtool**|Outil de capture d'écran|`C:\Windows\System32`|

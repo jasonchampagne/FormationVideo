@@ -10,6 +10,7 @@
 |**chkdsk**|exe|Utilitaire de vérification de disque|`C:\Windows\System32`|
 |**format**|com|Utilitaire de formatage de volume|`C:\Windows\System32`|
 |**ipconfig**|exe|Utilitaire de configuration IP|`C:\Windows\System32`|
+|**reagent**|exe|Agent de récupération Windows|`C:\Windows\System32`|
 
 ## Outils graphiques
 

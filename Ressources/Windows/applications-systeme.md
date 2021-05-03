@@ -8,6 +8,7 @@
 |:--|:--:|:--|
 |**bcedit**|exe|Éditeur de données de configuration de démarrage|
 |**chkdsk**|exe|Utilitaire de vérification de disque|
+|**diskpart**|exe|Outil de partitionnement de volumes|
 |**format**|com|Utilitaire de formatage de volume|
 |**ipconfig**|exe|Utilitaire de configuration IP|
 |**reagentc**|exe|Agent de récupération Windows|

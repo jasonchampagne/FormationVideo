@@ -44,3 +44,6 @@
 |**systempropertiesperformance**|Options de performances|`C:\Windows\System32`|
 |**systempropertiesprotection**|Protection du système|`C:\Windows\System32`|
 |**systempropertiesremote**|Utilisation à distance|`C:\Windows\System32`|
+|**taskmgr**|Gestionnaire de tâches|`C:\Windows\System32`|
+|**taskschd**|Planificateur de tâches|`C:\Windows\System32`|
+|**useraccountcontrolsettings**|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|

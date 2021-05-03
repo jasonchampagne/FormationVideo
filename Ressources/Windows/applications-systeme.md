@@ -24,5 +24,11 @@
 |**narrator**|Narrateur|`C:\Windows\System32`|
 |**netplwiz**|Comptes d'utilisateurs|`C:\Windows\System32`|
 |**notepad**|Bloc-notes|`C:\Windows` & `C:\Windows\System32`|
+|**optionalfeatures**|Fonctionnalités de Windows|`C:\Windows\System32`|
 |**osk**|Clavier visuel|`C:\Windows\System32`|
+|**perfmon**|Analyseur de performances|`C:\Windows\System32`|
+|**recdisc**|Disque de réparation Windows|`C:\Windows\System32`|
+|**recoverydrive**|Créateur de support de récupération|`C:\Windows\System32`|
 |**regedit**|Éditeur de registre|`C:\Windows`|
+|**resmon**|Moniteur de ressources|`C:\Windows\System32`|
+|**rstrui**|Restauration du système|`C:\Windows\System32`|

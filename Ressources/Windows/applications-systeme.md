@@ -34,7 +34,7 @@
 |**mblctr**|exe|Centre de mobilité|`C:\Windows\System32`|
 |**mdsched**|exe|Outil de diagnostic de la mémoire|`C:\Windows\System32`|
 |**mobsync**|exe|Centre de synchronisation|`C:\Windows\System32`|
-|**mrt**|exe|Outil de suppression de logiciels malveillants|`C:\Windows\System32`|
+|**mrt**|exe|Suppression de logiciels malveillants|`C:\Windows\System32`|
 |**msconfig**|exe|Configuration du système|`C:\Windows\System32`|
 |**msinfo32**|exe|Informations système|`C:\Windows\System32`|
 |**mspaint**|exe|Paint|`C:\Windows\System32`|

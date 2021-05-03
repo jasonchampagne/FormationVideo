@@ -32,6 +32,7 @@
 |**eventvwr**|msc|Observateur d'évènements|`C:\Windows\System32`|
 |**explorer**|exe|Explorateur de fichiers|`C:\Windows`|
 |**filehistory**|exe|Historique des fichiers|`C:\Windows\System32`|
+|**fsmgmt**|msc|Dossiers partagés|`C:\Windows\System32`|
 |**fsquirt**|exe|Transfert de fichiers à l'aide de Bluetooth|`C:\Windows\System32`|
 |**gpedit**|msc|Éditeur de stratégie de groupe locale|`C:\Windows\System32`|
 |**lpksetup**|exe|Programme d'installation des packs de langue|`C:\Windows\System32`|
@@ -53,13 +54,16 @@
 |**optionalfeatures**|exe|Fonctionnalités de Windows|`C:\Windows\System32`|
 |**osk**|exe|Clavier visuel|`C:\Windows\System32`|
 |**perfmon**|exe|Analyseur de performances|`C:\Windows\System32`|
+|**printmanagement**|msc|Gestion de l'impression|`C:\Windows\System32`|
 |**rasphone**|exe|Annuaire téléphonique distant|`C:\Windows\System32`|
 |**recdisc**|exe|Disque de réparation Windows|`C:\Windows\System32`|
 |**recoverydrive**|exe|Créateur de support de récupération|`C:\Windows\System32`|
 |**regedit**|exe|Éditeur de registre|`C:\Windows`|
 |**rekeywiz**|exe|Assistant de certificats de chiffrement|`C:\Windows\System32`|
 |**resmon**|exe|Moniteur de ressources|`C:\Windows\System32`|
+|**rsop**|msc|Jeu de stratégie résultant|`C:\Windows\System32`|
 |**rstrui**|exe|Restauration du système|`C:\Windows\System32`|
+|**secpol**|msc|Stratégie de sécurité locale|`C:\Windows\System32`|
 |**services**|msc|Services|`C:\Windows\System32`|
 |**shrpubw**|exe|Assistant de création de dossier partagé|`C:\Windows\System32`|
 |**sigverif**|exe|Vérification des signatures de fichiers|`C:\Windows\System32`|
@@ -75,6 +79,7 @@
 |**systempropertiesremote**|exe|Utilisation à distance|`C:\Windows\System32`|
 |**taskmgr**|exe|Gestionnaire de tâches|`C:\Windows\System32`|
 |**taskschd**|msc|Planificateur de tâches|`C:\Windows\System32`|
+|**tpm**|msc|Gestion de module de plateforme sécurisée|`C:\Windows\System32`|
 |**useraccountcontrolsettings**|exe|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|
 |**utilman|exe|Options d'ergonomie|`C:\Windows\System32`|
 |**verifiergui**|exe|Gestionnaire du vérificateur de pilotes|`C:\Windows\System32`|
@@ -82,4 +87,5 @@
 |**wf**|msc|Pare-feu et fonctions avancées de sécurité|`C:\Windows\System32`|
 |**wiaacmgr**|exe|Gestion des scanners|`C:\Windows\System32`|
 |**winver**|exe|À propos de Windows|`C:\Windows\System32`|
+|**wmimgmt**|msc|Infrastructure de gestion Windows (WMI)|`C:\Windows\System32`|
 |**workfolders**|exe|Dossiers de travail|`C:\Windows\System32`|

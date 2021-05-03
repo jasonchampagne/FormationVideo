@@ -57,3 +57,4 @@
 |**useraccountcontrolsettings**|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|
 |**verifiergui**|Gestionnaire du vérificateur de pilotes|`C:\Windows\System32`|
 |**wf**|Pare-feu et fonctions avancées de sécurité|`C:\Windows\System32`|
+|**workfolders**|Dossiers de travail|`C:\Windows\System32`|

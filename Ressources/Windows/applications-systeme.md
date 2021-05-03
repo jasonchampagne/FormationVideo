@@ -1,5 +1,7 @@
 # Applications système
 
+> Ces commandes sont utilisables via la recherche ou depuis la console d'exécution (`Win + R`)
+
 |COMMANDE|APPLICATION ASSOCIÉE|
 |:--|:--|
 |**explorer**|Explorateur de fichiers|

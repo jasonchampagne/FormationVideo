@@ -37,10 +37,10 @@
 |**slui**|Client d'activation Windows|`C:\Windows\System32`|
 |**sndvol**|Mélangeur de volume|`C:\Windows\System32`|
 |**snippingtool**|Outil de capture d'écran|`C:\Windows\System32`|
-|**systempropertiesadvanced**|Propriétés système > Paramètres système avancés|`C:\Windows\System32`|
-|**systempropertiescomputername**|Propriétés système > Nom de l'ordinateur|`C:\Windows\System32`|
-|**systempropertiesdataexecutionprevention**|Options de performances > Prévention de l'exécution des données|`C:\Windows\System32`|
-|**systempropertieshardware**|Propriétés système > Matériel|`C:\Windows\System32`|
-|**systempropertiesperformance**|Propriétés système > Options de performances|`C:\Windows\System32`|
-|**systempropertiesprotection**|Propriétés système > Protection du système|`C:\Windows\System32`|
-|**systempropertiesremote**|Propriétés système > Utilisation à distance|`C:\Windows\System32`|
+|**systempropertiesadvanced**|Paramètres système avancés|`C:\Windows\System32`|
+|**systempropertiescomputername**|Nom de l'ordinateur|`C:\Windows\System32`|
+|**systempropertiesdataexecutionprevention**|Prévention de l'exécution des données|`C:\Windows\System32`|
+|**systempropertieshardware**|Matériel|`C:\Windows\System32`|
+|**systempropertiesperformance**|Options de performances|`C:\Windows\System32`|
+|**systempropertiesprotection**|Protection du système|`C:\Windows\System32`|
+|**systempropertiesremote**|Utilisation à distance|`C:\Windows\System32`|

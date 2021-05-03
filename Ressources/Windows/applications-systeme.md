@@ -26,9 +26,15 @@
 |**eventvwr**|msc|Observateur d'évènements|`C:\Windows\System32`|
 |**explorer**|exe|Explorateur de fichiers|`C:\Windows`|
 |**filehistory**|exe|Historique des fichiers|`C:\Windows\System32`|
+|**fsquirt**|exe|Transfert de fichiers à l'aide de Bluetooth|`C:\Windows\System32`|
 |**gpedit**|msc|Éditeur de stratégie de groupe locale|`C:\Windows\System32`|
+|**lpksetup**|exe|Programme d'installation des packs de langue|`C:\Windows\System32`|
 |**lusrmgr**|msc|Utilisateurs et groupes locaux|`C:\Windows\System32`|
 |**magnify**|exe|Loupe|`C:\Windows\System32`|
+|**mblctr**|exe|Centre de mobilité|`C:\Windows\System32`|
+|**mdsched**|exe|Outil de diagnostic de la mémoire|`C:\Windows\System32`|
+|**mobsync**|exe|Centre de synchronisation|`C:\Windows\System32`|
+|**mrt**|exe|Outil de suppression de logiciels malveillants|`C:\Windows\System32`|
 |**msconfig**|exe|Configuration du système|`C:\Windows\System32`|
 |**msinfo32**|exe|Informations système|`C:\Windows\System32`|
 |**mspaint**|exe|Paint|`C:\Windows\System32`|

@@ -41,7 +41,7 @@
 |**mstsc**|exe|Bureau à distance|`C:\Windows\System32`|
 |**narrator**|exe|Narrateur|`C:\Windows\System32`|
 |**netplwiz**|exe|Comptes d'utilisateurs|`C:\Windows\System32`|
-|**notepad**|exe|Bloc-notes|`C:\Windows` & `C:\Windows\System32`|
+|**notepad**|exe|Bloc-notes|`C:\Windows\System32`|
 |**optionalfeatures**|exe|Fonctionnalités de Windows|`C:\Windows\System32`|
 |**osk**|exe|Clavier visuel|`C:\Windows\System32`|
 |**perfmon**|exe|Analyseur de performances|`C:\Windows\System32`|

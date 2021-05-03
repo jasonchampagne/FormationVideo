@@ -77,7 +77,7 @@
 |**systempropertiesperformance**|exe|Options de performances|`C:\Windows\System32`|
 |**systempropertiesprotection**|exe|Protection du système|`C:\Windows\System32`|
 |**systempropertiesremote**|exe|Utilisation à distance|`C:\Windows\System32`|
-|**taskmgr**|exe|Gestionnaire de tâches|`C:\Windows\System32`|
+|**taskmgr**|exe|Gestionnaire des tâches|`C:\Windows\System32`|
 |**taskschd**|msc|Planificateur de tâches|`C:\Windows\System32`|
 |**tpm**|msc|Gestion de module de plateforme sécurisée|`C:\Windows\System32`|
 |**useraccountcontrolsettings**|exe|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|

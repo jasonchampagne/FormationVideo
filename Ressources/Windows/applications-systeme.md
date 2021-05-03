@@ -9,6 +9,7 @@
 |**bcedit**|exe|Éditeur de données de configuration de démarrage|`C:\Windows\System32`|
 |**chkdsk**|exe|Utilitaire de vérification de disque|`C:\Windows\System32`|
 |**format**|com|Utilitaire de formatage de volume|`C:\Windows\System32`|
+|**ipconfig**|exe|Utilitaire de configuration IP|`C:\Windows\System32`|
 
 ## Outils graphiques
 

@@ -6,6 +6,7 @@
 |:--|:--|:--|
 |**explorer**|Explorateur de fichiers|`C:\Windows`|
 |**calc**|Calculatrice|`C:\Windows\System32`|
+|**cleanmgr**|Nettoyage de disque|`C:\Windows\System32`|
 |**dfrgui**|Défragmenter et optimiser les lecteurs|`C:\Windows\System32`|
 |**msconfig**|Configuration du système|`C:\Windows\System32`|
 |**notepad**|Bloc-notes|`C:\Windows` & `C:\Windows\System32`|

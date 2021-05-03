@@ -4,11 +4,11 @@
 
 ## Outils en console
 
-|COMMANDE|APPLICATION ASSOCIÉE|EMPLACEMENT|
-|:--|:--|:--|
-|**bcedit**|Éditeur de données de configuration de démarrage|`C:\Windows\System32`|
-|**chkdsk**|Utilitaire de vérification de disque|`C:\Windows\System32`|
-|**format**|Utilitaire de formatage de volume|`C:\Windows\System32`|
+|COMMANDE|TYPE|APPLICATION ASSOCIÉE|EMPLACEMENT|
+|:--|:--:|:--|:--|
+|**bcedit**|exe|Éditeur de données de configuration de démarrage|`C:\Windows\System32`|
+|**chkdsk**|exe|Utilitaire de vérification de disque|`C:\Windows\System32`|
+|**format**|com|Utilitaire de formatage de volume|`C:\Windows\System32`|
 
 ## Outils graphiques
 

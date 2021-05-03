@@ -12,7 +12,10 @@
 
 |COMMANDE|TYPE|APPLICATION ASSOCIÉE|EMPLACEMENT|
 |:--|:--:|:--|:--|
+|**azman**|msc|Gestionnaire d'autorisations||
 |**calc**|exe|Calculatrice|`C:\Windows\System32`|
+|**certlm**|msc|Gestionnaire de certificats (local)|`C:\Windows\System32`|
+|**certmgr**|msc|Gestionnaire de certificats (utilisateur)|`C:\Windows\System32`|
 |**charmap**|exe|Table de caractères|`C:\Windows\System32`|
 |**cleanmgr**|exe|Nettoyage de disque|`C:\Windows\System32`|
 |**cmd**|exe|Invite de commandes|`C:\Windows\System32`|

@@ -32,3 +32,4 @@
 |**regedit**|Éditeur de registre|`C:\Windows`|
 |**resmon**|Moniteur de ressources|`C:\Windows\System32`|
 |**rstrui**|Restauration du système|`C:\Windows\System32`|
+|**services**|Services|`C:\Windows\System32`|

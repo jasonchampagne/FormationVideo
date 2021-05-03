@@ -29,33 +29,33 @@
 |**msconfig**|exe|Configuration du système|`C:\Windows\System32`|
 |**msinfo32**|exe|Informations système|`C:\Windows\System32`|
 |**mspaint**|exe|Paint|`C:\Windows\System32`|
-|**mstsc**||Bureau à distance|`C:\Windows\System32`|
-|**narrator**||Narrateur|`C:\Windows\System32`|
-|**netplwiz**||Comptes d'utilisateurs|`C:\Windows\System32`|
-|**notepad**||Bloc-notes|`C:\Windows` & `C:\Windows\System32`|
-|**optionalfeatures**||Fonctionnalités de Windows|`C:\Windows\System32`|
-|**osk**||Clavier visuel|`C:\Windows\System32`|
-|**perfmon**||Analyseur de performances|`C:\Windows\System32`|
-|**recdisc**||Disque de réparation Windows|`C:\Windows\System32`|
-|**recoverydrive**||Créateur de support de récupération|`C:\Windows\System32`|
-|**regedit**||Éditeur de registre|`C:\Windows`|
-|**resmon**||Moniteur de ressources|`C:\Windows\System32`|
-|**rstrui**||Restauration du système|`C:\Windows\System32`|
-|**services**||Services|`C:\Windows\System32`|
-|**shrpubw**||Assistant de création de dossier partagé|`C:\Windows\System32`|
-|**slui**||Client d'activation Windows|`C:\Windows\System32`|
-|**sndvol**||Mélangeur de volume|`C:\Windows\System32`|
-|**snippingtool**||Outil de capture d'écran|`C:\Windows\System32`|
-|**systempropertiesadvanced**||Paramètres système avancés|`C:\Windows\System32`|
-|**systempropertiescomputername**||Nom de l'ordinateur|`C:\Windows\System32`|
-|**systempropertiesdataexecutionprevention**||Prévention de l'exécution des données|`C:\Windows\System32`|
-|**systempropertieshardware**||Matériel|`C:\Windows\System32`|
-|**systempropertiesperformance**||Options de performances|`C:\Windows\System32`|
-|**systempropertiesprotection**||Protection du système|`C:\Windows\System32`|
-|**systempropertiesremote**||Utilisation à distance|`C:\Windows\System32`|
-|**taskmgr**||Gestionnaire de tâches|`C:\Windows\System32`|
-|**taskschd**||Planificateur de tâches|`C:\Windows\System32`|
-|**useraccountcontrolsettings**||Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|
-|**verifiergui**||Gestionnaire du vérificateur de pilotes|`C:\Windows\System32`|
+|**mstsc**|exe|Bureau à distance|`C:\Windows\System32`|
+|**narrator**|exe|Narrateur|`C:\Windows\System32`|
+|**netplwiz**|exe|Comptes d'utilisateurs|`C:\Windows\System32`|
+|**notepad**|exe|Bloc-notes|`C:\Windows` & `C:\Windows\System32`|
+|**optionalfeatures**|exe|Fonctionnalités de Windows|`C:\Windows\System32`|
+|**osk**|exe|Clavier visuel|`C:\Windows\System32`|
+|**perfmon**|exe|Analyseur de performances|`C:\Windows\System32`|
+|**recdisc**|exe|Disque de réparation Windows|`C:\Windows\System32`|
+|**recoverydrive**|exe|Créateur de support de récupération|`C:\Windows\System32`|
+|**regedit**|exe|Éditeur de registre|`C:\Windows`|
+|**resmon**|exe|Moniteur de ressources|`C:\Windows\System32`|
+|**rstrui**|exe|Restauration du système|`C:\Windows\System32`|
+|**services**|msc|Services|`C:\Windows\System32`|
+|**shrpubw**|exe|Assistant de création de dossier partagé|`C:\Windows\System32`|
+|**slui**|exe|Client d'activation Windows|`C:\Windows\System32`|
+|**sndvol**|exe|Mélangeur de volume|`C:\Windows\System32`|
+|**snippingtool**|exe|Outil de capture d'écran|`C:\Windows\System32`|
+|**systempropertiesadvanced**|exe|Paramètres système avancés|`C:\Windows\System32`|
+|**systempropertiescomputername**|exe|Nom de l'ordinateur|`C:\Windows\System32`|
+|**systempropertiesdataexecutionprevention**|exe|Prévention de l'exécution des données|`C:\Windows\System32`|
+|**systempropertieshardware**|exe|Matériel|`C:\Windows\System32`|
+|**systempropertiesperformance**|exe|Options de performances|`C:\Windows\System32`|
+|**systempropertiesprotection**|exe|Protection du système|`C:\Windows\System32`|
+|**systempropertiesremote**|exe|Utilisation à distance|`C:\Windows\System32`|
+|**taskmgr**|exe|Gestionnaire de tâches|`C:\Windows\System32`|
+|**taskschd**|msc|Planificateur de tâches|`C:\Windows\System32`|
+|**useraccountcontrolsettings**|exe|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|
+|**verifiergui**|exe|Gestionnaire du vérificateur de pilotes|`C:\Windows\System32`|
 |**wf**|msc|Pare-feu et fonctions avancées de sécurité|`C:\Windows\System32`|
 |**workfolders**|exe|Dossiers de travail|`C:\Windows\System32`|

@@ -8,6 +8,7 @@
 |:--|:--|:--|
 |**bcedit**|Éditeur de données de configuration de démarrage|`C:\Windows\System32`|
 |**chkdsk**|Utilitaire de vérification de disque|`C:\Windows\System32`|
+|**format**|Utilitaire de formatage de volume|`C:\Windows\System32`|
 
 ## Outils graphiques
 

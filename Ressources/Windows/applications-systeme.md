@@ -36,8 +36,10 @@
 |**mobsync**|exe|Centre de synchronisation|`C:\Windows\System32`|
 |**mrt**|exe|Outil de suppression de logiciels malveillants|`C:\Windows\System32`|
 |**msconfig**|exe|Configuration du système|`C:\Windows\System32`|
+|**msdt**|exe|Outil de diagnostic de support Microsoft|`C:\Windows\System32`|
 |**msinfo32**|exe|Informations système|`C:\Windows\System32`|
 |**mspaint**|exe|Paint|`C:\Windows\System32`|
+|**msra**|exe|Assistance à distance|`C:\Windows\System32`|
 |**mstsc**|exe|Bureau à distance|`C:\Windows\System32`|
 |**narrator**|exe|Narrateur|`C:\Windows\System32`|
 |**netplwiz**|exe|Comptes d'utilisateurs|`C:\Windows\System32`|
@@ -45,13 +47,16 @@
 |**optionalfeatures**|exe|Fonctionnalités de Windows|`C:\Windows\System32`|
 |**osk**|exe|Clavier visuel|`C:\Windows\System32`|
 |**perfmon**|exe|Analyseur de performances|`C:\Windows\System32`|
+|**rasphone**|exe|Annuaire téléphonique distant|`C:\Windows\System32`|
 |**recdisc**|exe|Disque de réparation Windows|`C:\Windows\System32`|
 |**recoverydrive**|exe|Créateur de support de récupération|`C:\Windows\System32`|
 |**regedit**|exe|Éditeur de registre|`C:\Windows`|
+|**rekeywiz**|exe|Assistant de certificats de chiffrement|`C:\Windows\System32`|
 |**resmon**|exe|Moniteur de ressources|`C:\Windows\System32`|
 |**rstrui**|exe|Restauration du système|`C:\Windows\System32`|
 |**services**|msc|Services|`C:\Windows\System32`|
 |**shrpubw**|exe|Assistant de création de dossier partagé|`C:\Windows\System32`|
+|**sigverif**|exe|Vérification des signatures de fichiers|`C:\Windows\System32`|
 |**slui**|exe|Client d'activation Windows|`C:\Windows\System32`|
 |**sndvol**|exe|Mélangeur de volume|`C:\Windows\System32`|
 |**snippingtool**|exe|Outil de capture d'écran|`C:\Windows\System32`|

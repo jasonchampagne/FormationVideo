@@ -19,3 +19,4 @@
 + [11. Contacts et messagerie](https://www.youtube.com/watch?v=uCADqSUp0CQ)
 + [12. Installer applications](https://www.youtube.com/watch?v=DGN6lX7rcU0)
 + [13. Nettoyage et maintenance](https://www.youtube.com/watch?v=md-2nQlpQEo)
++ [14. Gestionnaire des tâches](#)

@@ -21,9 +21,12 @@
 |**cmd**|exe|Invite de commandes|`C:\Windows\System32`|
 |**colorcpl**|exe|Gestion des couleurs|`C:\Windows\System32`|
 |**comexp**|msc|Service de composants|`C:\Windows\System32`|
+|**compmgmt**|msc|Gestion de l'ordinateur|`C:\Windows\System32`|
 |**control**|exe|Panneau de configuration|`C:\Windows\System32`|
 |**dccw**|exe|Étalonnage des couleurs|`C:\Windows\System32`|
+|**devmgmt**|msc|Gestionnaire de périphériques|`C:\Windows\System32`|
 |**dfrgui**|exe|Défragmenter et optimiser les lecteurs|`C:\Windows\System32`|
+|**diskmgmt**|msc|Gestionnaire de disques|`C:\Windows\System32`|
 |**dxdiag**|exe|Outil de diagnostic DirectX|`C:\Windows\System32`|
 |**eudcedit**|exe|Éditeur de caractères privés|`C:\Windows\System32`|
 |**eventvwr**|msc|Observateur d'évènements|`C:\Windows\System32`|

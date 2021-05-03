@@ -7,6 +7,7 @@
 |COMMANDE|APPLICATION ASSOCIÉE|EMPLACEMENT|
 |:--|:--|:--|
 |**bcedit**|Éditeur de données de configuration de démarrage|`C:\Windows\System32`|
+|**chkdsk**|Utilitaire de vérification de disque|`C:\Windows\System32`|
 
 ## Outils graphiques
 

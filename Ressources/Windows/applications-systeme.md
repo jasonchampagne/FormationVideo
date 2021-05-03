@@ -33,3 +33,5 @@
 |**resmon**|Moniteur de ressources|`C:\Windows\System32`|
 |**rstrui**|Restauration du système|`C:\Windows\System32`|
 |**services**|Services|`C:\Windows\System32`|
+|**shrpubw**|Assistant de création de dossier partagé|`C:\Windows\System32`|
+|**slui**|Client d'activation Windows|`C:\Windows\System32`|

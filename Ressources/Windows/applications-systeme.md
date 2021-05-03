@@ -70,7 +70,9 @@
 |**taskmgr**|exe|Gestionnaire de tâches|`C:\Windows\System32`|
 |**taskschd**|msc|Planificateur de tâches|`C:\Windows\System32`|
 |**useraccountcontrolsettings**|exe|Paramètres de contrôle de compte d'utilisateur|`C:\Windows\System32`|
+|**utilman|exe|Options d'ergonomie|`C:\Windows\System32`|
 |**verifiergui**|exe|Gestionnaire du vérificateur de pilotes|`C:\Windows\System32`|
+|**wab**|exe|Dossier des contacts|`C:\Windows\System32`|
 |**wf**|msc|Pare-feu et fonctions avancées de sécurité|`C:\Windows\System32`|
 |**wiaacmgr**|exe|Gestion des scanners|`C:\Windows\System32`|
 |**winver**|exe|À propos de Windows|`C:\Windows\System32`|

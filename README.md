@@ -61,7 +61,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |✔|GNU/Linux|[38](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
-||Windows|[14](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
+||Windows|[15](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
 
 ### Frameworks
 

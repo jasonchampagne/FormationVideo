@@ -67,7 +67,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
-|🔜|Django|||
+|🔜|Django|[1]()||
 
 ### Musique
 

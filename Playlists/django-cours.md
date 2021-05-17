@@ -7,4 +7,4 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [1. Introduction](https://www.youtube.com/watch?v=iBGhDHtysAA)
-+ [2. Structure d'un projet](#)
++ [2. Structure d'un projet](https://www.youtube.com/watch?v=rMHSCeA8Bfw)

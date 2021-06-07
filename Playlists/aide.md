@@ -21,7 +21,7 @@
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
 + [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
-+ Optimiser SSD
++ Optimiser un SSD
 + [Paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q)
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
 + [Programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I)

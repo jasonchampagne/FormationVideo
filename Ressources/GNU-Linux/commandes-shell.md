@@ -45,6 +45,7 @@
 |**[groups](https://man.cx/groups)**|Afficher les groupes d'un utilisateur|
 |**[gunzip](https://man.cx/gunzip)**|Décompacter des fichiers|
 |**[gzip](https://man.cx/gzip)**|Compacter ou décompacter des fichiers|
+|**[hdparm](https://man.cx/hdparm)**|Obtenir/définir les paramètres de périphérique SATA/IDE|
 |**[history](https://man.cx/history(n))**|Lister les commandes précédemment saisies dans le terminal|
 |**[host](https://man.cx/host)**|Chercher des noms de machine à l'aide d'un serveur de domaine|
 |**[hostname](https://man.cx/hostname)**|Afficher le nom d'hôte du système|

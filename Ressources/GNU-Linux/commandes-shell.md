@@ -61,6 +61,7 @@
 |**[locate](https://man.cx/locate)**|Rechercher des fichiers dans une hiérarchie de répertoires|
 |**[ln](https://man.cx/ln)**|Créer des liens entre fichiers|
 |**[ls](https://man.cx/ls)**|Lister (afficher) le contenu d'un répertoire|
+|**[lsblk](https://man.cx/lsblk)**|Lister les périphériques de bloc|
 |**[man](https://man.cx/man)**|Afficher le manuel d'une commande/fonction|
 |**[mkdir](https://man.cx/mkdir)**|Créer des répertoires|
 |**[mkfs](https://man.cx/mkfs)**|Créér un système de fichiers (peut aussi formater un périphérique de stockage)|

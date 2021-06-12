@@ -16,3 +16,4 @@
 + [8. À fond la caisse](https://www.youtube.com/watch?v=cY79sEvkEQc)
 + [9. Entrez dans la matrice](https://www.youtube.com/watch?v=M_GufgQqztA)
 + [10. Un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs)
++ 11. Dans ta stack

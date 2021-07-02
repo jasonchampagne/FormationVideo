@@ -1,6 +1,6 @@
 # Algorithmie
 
-> [**COURS**](#)
+> [**COURS**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ)
 
 ## Index des ressources
 

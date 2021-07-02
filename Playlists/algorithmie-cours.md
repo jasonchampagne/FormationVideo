@@ -1,6 +1,6 @@
 # Algorithmie
 
-> [PLAYLIST YOUTUBE](#)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ)
 
 ---
 

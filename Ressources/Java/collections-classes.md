@@ -13,7 +13,7 @@ Quelques spécificités des classes de collections pour manipuler vos données.
 |**HashMap**|❌|❌|✔|✔|❌|
 |**HashSet**|❌|❌|❌|✔|❌|
 |**LinkedList**|✔|✔|❌|✔|❌|
-|**PriorityQueue**|✔||❌|❌|❌|
+|**PriorityQueue**|✔|✔|❌|❌|❌|
 |**Stack**|✔|✔|❌|✔|✔|
 |**TreeMap**|✔|❌|✔|❌|❌|
 |**TreeSet**|✔|❌|❌|❌|❌|

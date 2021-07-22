@@ -29,7 +29,7 @@ cd /dev/cdrom            # ⚠ : ce chemin peut être différent (ex : dans /med
 Si vous ne parvenez pas à monter le disque optique virtuel, ouvrez un terminal sur votre système GNU/Linux et copiez/collez cette commande (à adapter si vous utilisez un autre système qu'Ubuntu) :
 
 ```bash
-sudo apt update && sudo apt install 
+sudo apt update && sudo apt install virtualbox-guest-utils
 ```
 
 Une fois l'opération terminée, redémarrez le système virtualisé.

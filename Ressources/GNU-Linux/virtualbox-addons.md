@@ -4,9 +4,9 @@
 
 _Les additions invité VirtualBox (_vbox guest additions_) proposent des pilotes et applications pour optimiser le système virtualisé et offrir de meilleures performances. Cela inclut également la prise en charge du changement de résolution de l'interface._
 
-**DEUX POSSIBILITÉS D'INSTALLATION**
-+ [1. Depuis le disque optique virtuel](#1-depuis-le-disque-optique-virtuel)
-+ [2. Depuis la ligne de commandes](#2-depuis-la-ligne-de-commandes)
+> **DEUX POSSIBILITÉS D'INSTALLATION**
+> + [1. Depuis le disque optique virtuel](#1-depuis-le-disque-optique-virtuel)
+> + [2. Depuis la ligne de commandes](#2-depuis-la-ligne-de-commandes)
 
 ---
 

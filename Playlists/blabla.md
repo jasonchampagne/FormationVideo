@@ -1,6 +1,6 @@
 # Blabla
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEyv4H_Mz-LJ6UMM8To3Ufy)
 
 ---
 

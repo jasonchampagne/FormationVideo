@@ -27,7 +27,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |NOM|DESCRIPTION|CONTENU|
 |:--:|:--:|:--:|
 |Aide|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[27](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
-|Blabla|Réactions à des commentaires d'abonnés|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/blabla.md)|
+|Blabla|Réaction à des commentaires d'abonnés|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/blabla.md)|
 |SAV|Dépannage sur des problèmes récurrents|[9](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
 |Témoignages|Appels à témoins sur des problèmes d'internautes|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/temoignages.md)|
 

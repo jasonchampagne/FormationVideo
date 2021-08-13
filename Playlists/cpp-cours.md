@@ -12,3 +12,4 @@
 + [4. Variables](https://www.youtube.com/watch?v=3exIzj5MYzU)
 + [5. Saisie utilisateur](https://www.youtube.com/watch?v=tkCCUzIErNU)
 + [6. Opérations](https://www.youtube.com/watch?v=CZ03XvQySsY)
++ [7. Conditions](#)

@@ -72,9 +72,9 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Musique
 
-|/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
-|🔁|Piano|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)|||
+|/|NOM|COURS|TUTORIELS|
+|:--:|:--:|:--:|:--:|
+|🔁|Piano|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)||
 
 ### Langues
 

@@ -9,3 +9,4 @@ Mémento des propriétés CSS valides [W3C](https://www.w3.org/). Notez que cert
 |**align-self**|Aligner des éléments flexibles|
 |**all**|Réinitialiser toutes les propriétés d'une autre feuille CSS (sauf _unicode-bidi_ et _direction_)|
 |**animation**|Appliquer une animation entre des styles|
+|**scroll-behavior**|Définir l'animation des barres de défilement|

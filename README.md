@@ -15,12 +15,12 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ---
 
-## 🌱 Contenus disponibles
+## Contenus disponibles
 
 > **INDICATEURS**
-> + Les cours terminés sont marqués d'un ✅
-> + Les cours à refaire/mettre à jour sont marqués d'un 🔁
-> + Les cours à venir sont marqués d'un 💡
+> + Cours terminés : ✅
+> + Cours à mettre à jour/ré-enregistrer : 🔁
+> + Cours en préparation : 🚧
 
 ### Guides et dépannage
 
@@ -38,7 +38,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||Algorithmie|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
 ||Architecture|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/architecture.md)|-|-|
 |🔁|Hacking|[_plus tard_](https://jasonchampagne.fr/static/faq-youtube.html)|||
-|💡|Réseaux||||
+|🚧|Réseaux||||
 
 ### Langages
 
@@ -74,19 +74,19 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
-|💡|Piano|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)||
+|🔁|Piano|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)||
 
 ### Langues
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|💡|Anglais||||
-|💡|Français||||
-|💡|Japonais||||
+|🚧|Anglais||||
+|🚧|Français||||
+|🚧|Japonais||||
 
 ---
 
-## 🌱 Idées de contenus à venir
+## Idées de contenus à venir
 
 Ici, une liste (non complète et non figée) des contenus que j'aimerais aborder sur la chaîne. Par exemple, le cours sur le [langage de programmation Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) permet ensuite d'aborder d'autres choses comme [Django](https://www.youtube.com/playlist?list=PLrSOXFDHBtfED_VFTa6labxAOPh29RYiO) et Ren'Py.
 

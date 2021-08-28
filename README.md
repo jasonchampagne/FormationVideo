@@ -88,7 +88,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ## Idées de contenus à venir
 
-Ici, une liste (non complète et non figée) des contenus que j'aimerais aborder sur la chaîne. Par exemple, le cours sur le [langage de programmation Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) permet ensuite d'aborder d'autres choses comme [Django](https://www.youtube.com/playlist?list=PLrSOXFDHBtfED_VFTa6labxAOPh29RYiO) et Ren'Py.
+Ici, une liste (non complète et non définitive) des contenus que j'aimerais aborder sur la chaîne :
 
 |TYPE|CONTENUS|
 |:--|:--|

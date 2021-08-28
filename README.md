@@ -17,7 +17,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ## 🌱 Contenus disponibles
 
-> **REMARQUES**
+> **INDICATEURS**
 > + Les cours terminés sont marqués d'un ✅
 > + Les cours à refaire/mettre à jour sont marqués d'un 🔁
 > + Les cours à venir sont marqués d'un 💡

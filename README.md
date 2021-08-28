@@ -18,7 +18,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ## 🌱 Contenus disponibles
 
 > **REMARQUES**
-> + Les cours terminés sont marqués d'un ✔️
+> + Les cours terminés sont marqués d'un ✅
 > + Les cours à refaire/mettre à jour sont marqués d'un 🔁
 > + Les cours à venir sont marqués d'un 🔜
 
@@ -45,15 +45,15 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 ||Assembleur|[3](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|||
-|✔️|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
+|✅|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
 ||C++|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|||
 ||C#|[10](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|||
-|✔️|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
+|✅|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
 ||Java|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
 ||JavaScript|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
-|✔️|PHP|[32](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||
-|✔️|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[14](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
-|✔️|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
+|✅|PHP|[32](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||
+|✅|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[14](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
+|✅|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
 
 ### Systèmes
 
@@ -61,7 +61,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|✔|GNU/Linux|[38](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
+|✅|GNU/Linux|[38](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
 ||Windows|[15](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
 
 ### Frameworks

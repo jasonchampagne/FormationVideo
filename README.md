@@ -52,7 +52,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||Java|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
 ||JavaScript|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
 |✅|PHP|[32](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||
-|✅|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[14](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
+|✅|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[15](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
 |✅|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
 
 ### Systèmes

@@ -17,7 +17,7 @@
 + [Formatage de texte](https://www.youtube.com/watch?v=4ApZ80RegNI)
 + [Installer des paquets](https://www.youtube.com/watch?v=MxvLhp9xJo4)
 + [Introspection](https://www.youtube.com/watch?v=JKrpRtHBZRk)
-+ Itérateurs
++ [Itérateurs](#)
 + [Méthodes spéciales](https://www.youtube.com/watch?v=XxUasK8f-s0)
 + [Portée variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
 + [Tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)

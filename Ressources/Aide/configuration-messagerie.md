@@ -3,7 +3,7 @@
 ## Envoi
 
 |FOURNISSEUR|SMTP (PORT)|
-|--:|:--|
+|--:|:--:|
 |**Bouygues**|smtp.bbox.fr (587)|
 |**Free**|smtp.free.fr (465)|
 |**Google**|smtp.gmail.com (587)|
@@ -17,7 +17,7 @@
 ## Réception
 
 |FOURNISSEUR|POP (PORT)|IMAP (PORT)|
-|--:|:--|:--|
+|--:|:--:|:--:|
 |**Bouygues**|pop3.bbox.fr (995)|imap.bbox.fr (993)|
 |**Free**|pop.free.fr (110)|imap.free.fr (993)|
 |**Google**|pop.gmail.com (995)|imap.gmail.com (993)|

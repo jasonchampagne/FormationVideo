@@ -1,6 +1,37 @@
 # Configuration de messageries
 
-|FOURNISSEUR|SMTP|POP3|IMAP|SSL/TLS|
-|--:|:--:|:--:|:--:|:--:|
-|Free|`smtp.free.fr / 25`||||
-||`aaaaa`||||
+## Free
+
+|PROTOCOLE|ADRESSE|PORT|
+|--:|:--:|:--:|
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+
+## Google
+
+|PROTOCOLE|ADRESSE|PORT|
+|--:|:--:|:--:|
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+
+## Laposte
+
+|PROTOCOLE|ADRESSE|PORT|
+|--:|:--:|:--:|
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+
+## Orange
+
+|PROTOCOLE|ADRESSE|PORT|
+|--:|:--:|:--:|
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||

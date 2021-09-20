@@ -19,7 +19,7 @@
 |FOURNISSEUR|POP (PORT)|IMAP (PORT)|
 |--:|:--|:--|
 |**Bouygues**|pop3.bbox.fr (995)|imap.bbox.fr (993)|
-|**Free**|pop.free.fr (110)|imap.free.fr (993/143)|
+|**Free**|pop.free.fr (110)|imap.free.fr (993)|
 |**Google**|pop.gmail.com (995)|imap.gmail.com (993)|
 |**Laposte**|pop.laposte.net (995)|imap.laposte.net (993)|
 |**Orange**|pop.orange.fr (995)|image.orange.fr (993)|

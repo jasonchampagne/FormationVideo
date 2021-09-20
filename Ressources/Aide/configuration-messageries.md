@@ -11,6 +11,7 @@
 |**Orange**|smtp.orange.fr (465)|
 |**OVH**|ssl0.ovh.net (465)|
 |**SFR**|smtp.sfr.fr (465)|
+|**Yahoo**||
 
 ## Réception
 
@@ -23,3 +24,4 @@
 |**Orange**|pop.orange.fr (995)|image.orange.fr (993)|
 |**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
 |**SFR**|pop.sfr.fr (995)|imap.sfr.fr (993)|
+|**Yahoo**||

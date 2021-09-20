@@ -8,7 +8,7 @@
 |**Free**|smtp.free.fr (465/25)|
 |**Google**|smtp.gmail.com (587/465)|
 |**Laposte**|smtp.laposte.net (465)|
-|**Orange**||
+|**Orange**|smtp.orange.fr (465)|
 |**OVH**|ssl0.ovh.net (465)|
 |**SFR**||
 

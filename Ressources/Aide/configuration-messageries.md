@@ -4,10 +4,9 @@
 
 |PROTOCOLE|ADRESSE|PORT|
 |--:|:--:|:--:|
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
+|SMTP<br>SMTP + SSL|`smtp.free.fr`|25<br>465|
+|POP|`pop.free.fr`|110|
+|IMAP|`imap.free.fr`|143|
 
 ## Google
 

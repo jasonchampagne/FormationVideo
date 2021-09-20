@@ -6,7 +6,7 @@
 |--:|:--|
 |**Bouygues**|smtp.bbox.fr (587)|
 |**Free**|smtp.free.fr (465)|
-|**Google**|smtp.gmail.com (587/465)|
+|**Google**|smtp.gmail.com (587)|
 |**Laposte**|smtp.laposte.net (465)|
 |**Orange**|smtp.orange.fr (465)|
 |**Outlook**||

@@ -1,5 +1,14 @@
 # Configuration de messageries
 
+## Bouygues Telecom
+
+|PROTOCOLE|ADRESSE|PORT|
+|--:|:--:|:--:|
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+
 ## Free
 
 |PROTOCOLE|ADRESSE|PORT|
@@ -24,6 +33,15 @@
 |IMAP|`imap.laposte.net`|993|
 
 ## Orange
+
+|PROTOCOLE|ADRESSE|PORT|
+|--:|:--:|:--:|
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+||`ddddd`||
+
+## SFR
 
 |PROTOCOLE|ADRESSE|PORT|
 |--:|:--:|:--:|

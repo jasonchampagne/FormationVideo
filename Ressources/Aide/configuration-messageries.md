@@ -9,7 +9,7 @@
 |**Google**|smtp.gmail.com (587)|
 |**Laposte**|smtp.laposte.net (465)|
 |**Orange**|smtp.orange.fr (465)|
-|**Outlook**||
+|**Outlook**|smtp-mail.outlook.com (587)|
 |**OVH**|ssl0.ovh.net (465)|
 |**SFR**|smtp.sfr.fr (465)|
 |**Yahoo**||
@@ -23,7 +23,7 @@
 |**Google**|pop.gmail.com (995)|imap.gmail.com (993)|
 |**Laposte**|pop.laposte.net (995)|imap.laposte.net (993)|
 |**Orange**|pop.orange.fr (995)|image.orange.fr (993)|
-|**Outlook**||
+|**Outlook**|outlook.office365.com (995)|outlook.office365.com (993)|
 |**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
 |**SFR**|pop.sfr.fr (995)|imap.sfr.fr (993)|
 |**Yahoo**||

@@ -1,60 +1,25 @@
 # Configuration de messageries
 
-## Bouygues Telecom
+## Envoi
 
-|PROTOCOLE|ADRESSE|PORT|
+|FOURNISSEUR|SMTP (PORT)|
+|--:|:--:|
+|**Bouygues Telecom**||
+|**Free**|smtp.free.fr (25/465)|
+|**Google**|smtp.gmail.com (465/587)|
+|**Laposte**|smtp.laposte.net (465)|
+|**Orange**||
+|**OVH**||
+|**SFR**||
+
+## Réception
+
+|FOURNISSEUR|POP (PORT)|IMAP (PORT)|
 |--:|:--:|:--:|
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-
-## Free
-
-|PROTOCOLE|ADRESSE|PORT|
-|--:|:--:|:--:|
-|SMTP<br>SMTP + SSL/TLS|`smtp.free.fr`|25<br>465|
-|POP|`pop.free.fr`|110|
-|IMAP<br>IMAP + SSL/TLS|`imap.free.fr`|143<br>993|
-
-## Google
-
-|PROTOCOLE|ADRESSE|PORT|
-|--:|:--:|:--:|
-|SMTP + SSL<br>SMTP + TLS/STARTTL|`smtp.gmail.com`|465<br>587|
-|POP + SSL|`pop.gmail.com`|995|
-|IMAP + SSL|`imap.gmail.com`|993|
-
-## Laposte
-
-|PROTOCOLE|ADRESSE|PORT|
-|--:|:--:|:--:|
-|SMTP + TLS|`smtp.laposte.net`|465|
-|IMAP|`imap.laposte.net`|993|
-
-## Orange
-
-|PROTOCOLE|ADRESSE|PORT|
-|--:|:--:|:--:|
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-
-## OVH
-
-|PROTOCOLE|ADRESSE|PORT|
-|--:|:--:|:--:|
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-
-## SFR
-
-|PROTOCOLE|ADRESSE|PORT|
-|--:|:--:|:--:|
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
+|**Bouygues Telecom**|||
+|**Free**|pop.free.fr (110)|imap.free.fr (143/993)|
+|**Google**|pop.gmail.com (995)|imap.gmail.com (993)|
+|**Laposte**|-|imap.laposte.net (993)|
+|**Orange**|||
+|**OVH**|||
+|**SFR**|||

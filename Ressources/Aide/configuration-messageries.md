@@ -15,7 +15,6 @@
 |SMTP + SSL<br>SMTP + TLS/STARTTL|`smtp.gmail.com`|465<br>587|
 |POP + SSL|`pop.gmail.com`|995|
 |IMAP + SSL|`imap.gmail.com`|993|
-||`ddddd`||
 
 ## Laposte
 

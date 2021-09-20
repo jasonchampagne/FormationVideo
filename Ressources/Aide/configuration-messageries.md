@@ -19,7 +19,7 @@
 |**Bouygues**|||
 |**Free**|pop.free.fr (110)|imap.free.fr (993/143)|
 |**Google**|pop.gmail.com (995)|imap.gmail.com (993)|
-|**Laposte**|-|imap.laposte.net (993)|
+|**Laposte**|pop.laposte.net (995)|imap.laposte.net (993)|
 |**Orange**|pop.orange.fr (995)|image.orange.fr (993)|
 |**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
 |**SFR**|pop.sfr.fr (995)|imap.sfr.fr (993)|

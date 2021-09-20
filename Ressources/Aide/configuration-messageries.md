@@ -9,7 +9,7 @@
 |**Google**|smtp.gmail.com (587/465)|
 |**Laposte**|smtp.laposte.net (465)|
 |**Orange**||
-|**OVH**||
+|**OVH**|ssl0.ovh.net (465)|
 |**SFR**||
 
 ## Réception
@@ -21,5 +21,5 @@
 |**Google**|pop.gmail.com (995)|imap.gmail.com (993)|
 |**Laposte**|-|imap.laposte.net (993)|
 |**Orange**|||
-|**OVH**|||
+|**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
 |**SFR**|||

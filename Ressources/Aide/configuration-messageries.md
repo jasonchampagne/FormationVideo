@@ -26,4 +26,4 @@
 |**Outlook**|outlook.office365.com (995)|outlook.office365.com (993)|
 |**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
 |**SFR**|pop.sfr.fr (995)|imap.sfr.fr (993)|
-|**Yahoo**|-|imap.mail.yahoo.com (993)|
+|**Yahoo**|pop.mail.yahoo.com (995)|imap.mail.yahoo.com (993)|

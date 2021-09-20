@@ -20,10 +20,8 @@
 
 |PROTOCOLE|ADRESSE|PORT|
 |--:|:--:|:--:|
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
-||`ddddd`||
+|SMTP + TLS|`smtp.laposte.net`|465|
+|IMAP|`imap.laposte.net`|993|
 
 ## Orange
 

@@ -1,4 +1,4 @@
-# Configuration de messageries
+# Configuration de messagerie
 
 ## Envoi
 

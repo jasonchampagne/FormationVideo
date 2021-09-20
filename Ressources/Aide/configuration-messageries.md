@@ -10,7 +10,7 @@
 |**Laposte**|smtp.laposte.net (465)|
 |**Orange**|smtp.orange.fr (465)|
 |**OVH**|ssl0.ovh.net (465)|
-|**SFR**||
+|**SFR**|smtp.sfr.fr (465)|
 
 ## Réception
 
@@ -22,4 +22,4 @@
 |**Laposte**|-|imap.laposte.net (993)|
 |**Orange**|||
 |**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
-|**SFR**|||
+|**SFR**|pop.sfr.fr (995)|imap.sfr.fr (993)|

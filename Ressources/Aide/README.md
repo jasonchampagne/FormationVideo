@@ -7,7 +7,7 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |caracteres-speciaux|Caractères spéciaux utiles en informatique|
-|configuration-messageries|Paramètres de configuration de serveurs de messagerie populaires|
+|configuration-messagerie|Paramètres de configuration de serveurs de messagerie populaires|
 |encodage-utf8|Encoder vos fichiers en UTF-8 depuis votre éditeur|
 |expressions-rationnelles|Expressions rationnelles|
 |extensions-fichiers|Extensions de fichiers et applications compatibles|

@@ -12,7 +12,7 @@
 |**Outlook**|smtp-mail.outlook.com (587)|
 |**OVH**|ssl0.ovh.net (465)|
 |**SFR**|smtp.sfr.fr (465)|
-|**Yahoo**||
+|**Yahoo**|smtp.mail.yahoo.com (587)|
 
 ## Réception
 
@@ -26,4 +26,4 @@
 |**Outlook**|outlook.office365.com (995)|outlook.office365.com (993)|
 |**OVH**|ssl0.ovh.net (995)|ssl0.ovh.net (993)|
 |**SFR**|pop.sfr.fr (995)|imap.sfr.fr (993)|
-|**Yahoo**||
+|**Yahoo**|-|imap.mail.yahoo.com (993)|

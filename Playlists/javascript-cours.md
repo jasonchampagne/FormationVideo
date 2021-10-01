@@ -17,4 +17,4 @@
 + [9. Prototypes et classes](https://www.youtube.com/watch?v=_Ilj_unoqvA)
 + [10. Héritage](https://www.youtube.com/watch?v=2BoeW9J-Hso)
 + [11. Exceptions](https://www.youtube.com/watch?v=oAbmzi_2AWo)
-+ [12. Nombres](#)
++ [12. Nombres](https://www.youtube.com/watch?v=t2nPQyJkQlI)

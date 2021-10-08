@@ -18,3 +18,4 @@
 + [10. Héritage](https://www.youtube.com/watch?v=2BoeW9J-Hso)
 + [11. Exceptions](https://www.youtube.com/watch?v=oAbmzi_2AWo)
 + [12. Nombres](https://www.youtube.com/watch?v=t2nPQyJkQlI)
++ [13. Chaînes de caractères](https://www.youtube.com/watch?v=x87WIDfPtG8)

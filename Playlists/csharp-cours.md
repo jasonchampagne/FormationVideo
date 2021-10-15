@@ -16,4 +16,4 @@
 + [8. Lecture au clavier](https://www.youtube.com/watch?v=qqx6uARSewY)
 + [9. Méthodes](https://www.youtube.com/watch?v=nKmPXDdfA3s)
 + [10. Structures et classes](https://www.youtube.com/watch?v=tCM63nMetaU)
-+ [11. Énumérations](#)
++ [11. Énumérations](https://www.youtube.com/watch?v=Ux5xvUByCjk)

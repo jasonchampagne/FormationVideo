@@ -10,7 +10,7 @@
 |**%programfiles%**|-|`C:\Program Files`|
 |**%programfiles(x86)%**|-|`	C:\Program Files (x86)`|
 |**%public%**|-|`C:\Users\Public`|
-|**%systemdrive%**|%homedrive%|`C:\`|
+|**%systemdrive%**|%homedrive%|`C:`|
 |**%systemroot%**|%windir%|`C:\Windows`|
 |**%userprofile%**|%homepath%|`C:\Users\<username>`|
 |**%temp%**|-|`C:\Users\<username>\AppData\Local\Temp`|

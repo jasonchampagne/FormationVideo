@@ -7,6 +7,7 @@
 |**%programdata%**|%allusersprofile%|`C:\ProgramData`|
 |**%programfiles%**|-|`C:\Program Files`|
 |**%programfiles(x86)%**|-|`	C:\Program Files (x86)`|
+|**%public%**|-|`C:\Users\Public`|
 |**%systemdrive%**|%homedrive%|`C:\`|
 |**%systemroot%**|%windir%|`C:\Windows`|
 |**%userprofile%**|%homepath%|`C:\Users\<username>`|

@@ -12,4 +12,5 @@
 |introduction-formation|Diaporama d'introduction au cours Windows|
 |path-variable|Variable Path (valeur par défaut)|
 |services-systeme|Liste des services système|
+|variables-environnement|Variables d'environnement|
 |visual-redistributable-packages|Paquets redistribuables Visual C++|

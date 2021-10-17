@@ -1,7 +1,7 @@
 # Variables d'environnement
 
 |NOM|ALIAS|CHEMIN ASSOCIÉ|
-|:--:|:--:|:--|
+|--:|:--:|:--|
 |**%appdata%**|-|`C:\Users\<username>\AppData\Roaming`|
 |**%commonprogramfiles%**|-|`C:\Program Files\Common Files`|
 |**%commonprogramfiles(x86)%**|-|`C:\Program Files (x86)\Common Files`|

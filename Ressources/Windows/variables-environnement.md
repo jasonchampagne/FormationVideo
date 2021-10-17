@@ -1,10 +1,12 @@
 # Variables d'environnement
 
-|NOM|DESCRIPTION|
-|--:|:--|
-|`ddd`||
-|`ddd`||
-|`ddd`||
-|`ddd`||
-|`ddd`||
-|`ddd`||
+|NOM|ALIAS|CHEMIN ASSOCIÉ|
+|:--:|:--:|:--|
+|**%systemdrive%**|%homedrive%|`C:\`|
+|**aaaa**||``|
+|**aaaa**||``|
+|**aaaa**||``|
+|**aaaa**||``|
+|**aaaa**||``|
+|**aaaa**||``|
+|**aaaa**||``|

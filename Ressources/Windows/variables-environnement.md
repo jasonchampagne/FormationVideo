@@ -10,4 +10,4 @@
 |**%systemdrive%**|%homedrive%|`C:\`|
 |**%systemroot%**|%windir%|`C:\Windows`|
 |**%userprofile%**|%homepath%|`C:\Users\<username>`|
-|**aaaa**||``|
+|**%temp%**|-|`C:\Users\<username>\AppData\Local\Temp`|

@@ -3,7 +3,7 @@
 |NOM|ALIAS|CHEMIN ASSOCIÉ|
 |:--:|:--:|:--|
 |**%systemdrive%**|%homedrive%|`C:\`|
-|**%systemroot%**|-|`C:\Windows`|
+|**%systemroot%**|%windir%|`C:\Windows`|
 |**%userprofile%**|%homepath%|`C:\Users\<username>`|
 |**aaaa**||``|
 |**aaaa**||``|

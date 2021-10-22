@@ -17,3 +17,4 @@
 + [9. Méthodes](https://www.youtube.com/watch?v=nKmPXDdfA3s)
 + [10. Structures et classes](https://www.youtube.com/watch?v=tCM63nMetaU)
 + [11. Énumérations](https://www.youtube.com/watch?v=Ux5xvUByCjk)
++ [12. Propriétés d'encapsulation](https://www.youtube.com/watch?v=NgSBm1mIRZE)

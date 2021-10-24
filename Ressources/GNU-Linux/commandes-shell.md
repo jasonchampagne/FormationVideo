@@ -3,7 +3,7 @@
 |NOM|DESCRIPTION|
 |:--:|:--|
 |**[addgroup](https://man.cx/addgroup)**|Ajouter un nouveau groupe|
-|**[adduser](https://man.cx/adduser)**|Ajouter un nouvel utilisateur|
+|**[adduser](https://man.cx/adduser)**|Ajouter un nouvel utilisateur (+ création de son répertoire personnel)|
 |**[apropos](https://man.cx/apropos)**|Chercher le nom et la description des pages de manuel|
 |**[apt](https://man.cx/apt)**|Utilitaire d'APT pour la manipulation de paquets|
 |**[apt-get](https://man.cx/apt-get)**|Utilitaire d'APT pour la manipulation de paquets|

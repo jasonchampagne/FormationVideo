@@ -105,6 +105,7 @@
 |**[unset](https://man.cx/unset)**|Annule les valeurs et les attributs des variables et des fonctions|
 |**[unzip](https://man.cx/unzip)**|Lister, tester et extraire des fichiers compressés dans une archive ZIP|
 |**[uptime](https://man.cx/uptime)**|Afficher le temps depuis lequel la machine est démarrée|
+|**[useradd](https://man.cx/useradd)**|Administrer une nouvelle connexion utilisateur sur le système|
 |**[usermod](https://man.cx/usermod)**|Modifier les informations d'un utilisateur|
 |**[users](https://man.cx/users)**|Afficher les utilisateurs connectés|
 |**[vi](https://man.cx/vi)**|Lancer l'éditeur en ligne de commande **Vi**|

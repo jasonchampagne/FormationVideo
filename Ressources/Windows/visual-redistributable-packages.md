@@ -28,6 +28,6 @@ Cherchez la ligne **Type du système** :
 |Visual C++ 2008|[lien](http://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe)|[lien](http://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe)|-|[lien](http://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_IA64.exe)|
 |Visual C++ 2005|[lien](http://download.microsoft.com/download/5/D/A/5DA273D6-C1CB-4F1C-90C0-73B5263E0AC7/vcredist_x86.EXE)|[lien](http://download.microsoft.com/download/5/D/A/5DA273D6-C1CB-4F1C-90C0-73B5263E0AC7/vcredist_x64.EXE)|-|[lien](http://download.microsoft.com/download/5/D/A/5DA273D6-C1CB-4F1C-90C0-73B5263E0AC7/vcredist_IA64.EXE)|
 
-|NOM DUNOM_DU_PAQUETPAQUET|DESCRIPTION|LIEN|
+|NOM_DU_PAQUET|DESCRIPTION|LIEN|
 |:--|:--|:--:|
 |Visual C++ Build Tools|Installe des outils de génération autonomes nécessaires à certains programmes et/ou modules à compiler (_par exemple, des [modules Python installés avec PIP](https://www.youtube.com/watch?v=MxvLhp9xJo4)_)|[lien](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)|

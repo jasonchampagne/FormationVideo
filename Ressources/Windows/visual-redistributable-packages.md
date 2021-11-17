@@ -17,7 +17,7 @@ Cherchez la ligne **Type du système** :
 
 + [Visual C++ Build Tools](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)
 
-> 🔴 Si vous ne savez pas quoi installer, commencez par le paquet trois-en-un (2019 + 2017 + 2015). Si vous avez toujours des erreurs de fonctionnement sur d'autres logiciels, passez à l'installation des versions plus anciennes (2013 et moins).
+> 🔴 **Si vous ne savez pas quoi installer, commencez par le paquet trois-en-un (2019 + 2017 + 2015). Si vous avez toujours des erreurs de fonctionnement sur d'autres logiciels, passez à l'installation des versions plus anciennes (2013 et moins).**
 
 |NOM DU PACKAGE|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
 |:--:|:--:|:--:|:--:|:--:|

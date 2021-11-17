@@ -17,6 +17,8 @@ Cherchez la ligne **Type du système** :
 
 + [Visual C++ Build Tools](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)
 
+> 🔴 Si vous ne savez pas quoi installer, commencez par le paquet trois-en-un (2019 + 2017 + 2015). Si vous avez toujours des erreurs de fonctionnement sur d'autres logiciels, passez à l'installation des versions plus anciennes (2013 et moins).
+
 |NOM DU PACKAGE|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
 |:--:|:--:|:--:|:--:|:--:|
 |Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(tout-en-un)|[lien](https://aka.ms/vs/16/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/16/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/16/release/VC_redist.arm64.exe)|-|

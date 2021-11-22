@@ -14,4 +14,4 @@
 + [6. Jeu de l'étudiant](https://www.youtube.com/watch?v=mvWBlzDPcjQ)
 + [7. Famille bouftou](https://www.youtube.com/watch?v=gUXFoGzCzLE)
 + [8. Where is Bryan ?](https://www.youtube.com/watch?v=gmQp9F1oMIE)
-+ [9. Tuple or not tuple](#)
++ [9. Tuple or not tuple](https://www.youtube.com/watch?v=FWTezV5QjNk)

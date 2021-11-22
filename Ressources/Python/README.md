@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|exo-9|Fichier pour réaliser l'exercice n°9|
 |fonctions-integrees|Fonctions intégrées|
 |methodes-speciales|Méthodes spéciales|
 |methodes-tests-unitaires|Méthodes usuelles pour les tests unitaires (module unittest)|

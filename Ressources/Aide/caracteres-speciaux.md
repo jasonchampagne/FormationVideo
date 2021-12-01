@@ -40,4 +40,4 @@ Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont 
 |**(**<br>**)**|parenthèses|round brackets|accès direct|Maj + 9<br>Maj + 0|
 |**[**<br>**]**|crochets|square brackets|AltGr + (<br>AltGr + )|accès direct|
 |**{**<br>**}**|accolades|curvy brackets|AltGr + '<br>AltGr + =|Maj + [<br>Maj + ]|
-|**<**<br>**>**|chevrons|oblique brackets|accès direct<br>Maj + <|Maj + ,<br>Maj + .|
+|**<**<br>**>**|chevrons|angle brackets|accès direct<br>Maj + <|Maj + ,<br>Maj + .|

@@ -8,4 +8,4 @@ Si vous avez par erreur supprimé le contenu par défaut de la **variable d'envi
 
 > C:\Windows\System32<br>C:\Windows\System32\Wbem<br>C:\Windows
 
-Notez que sur Windows 10, chaque ligne comporte un chemin. Pour Windows 7 et versions antérieures, il n'y a qu'un seul champ de texte où chaque chemin est séparé par un point-virgule (exemple -> `C:\Windows\System32;C:\Windows\System32\Wbem;C:\Windows`).
+Notez qu'à partir de Windows 10, chaque ligne comporte un chemin. Pour Windows 7 et versions plus anciennes, il n'y a qu'un seul champ de texte où chaque chemin est séparé par un point-virgule (exemple -> `C:\Windows\System32;C:\Windows\System32\Wbem;C:\Windows`).

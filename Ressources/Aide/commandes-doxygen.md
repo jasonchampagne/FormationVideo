@@ -281,6 +281,21 @@ Retour d'une fonction/méthode :
 bool isEmptyList(const struct List* li);
 ```
 
+## retval
+
+Valeur de retour d'une fonction/méthode :
+
+```
+/**
+* @brief Vérifie si une Liste est vide
+* @param li La liste à vérifier
+* @return Un booléen
+* @retval Vrai (true) si la Liste est vide
+* @etval Faux (false) si la liste contient des éléments
+*/
+bool isEmptyList(const struct List* li);
+```
+
 ---
 
 [Plus de commandes Doxygen...](https://www.doxygen.nl/manual/commands.html)

@@ -136,7 +136,8 @@ public bool IsWritableMediaFile(MediaFile &f)
 
 ```c
 /**
-* @enum Définit le niveau d'une alerte suivant l'erreur survenue à l'exécution
+* @enum AlertLevel
+* Définit le niveau d'une alerte suivant l'erreur survenue à l'exécution
 */
 enum AlertLevel
 {
@@ -307,6 +308,22 @@ Indique un élément ajouté à partir d'une certaine version :
 #
 def export_to_mkv(filename):
 	pass
+```
+
+## struct
+
+Structure :
+
+```c
+/**
+* @struct Point2D
+* Définit un point dans un plan à deux dimensions
+*/
+struct Point2D
+{
+	int x;
+	int y;
+};
 ```
 
 ---

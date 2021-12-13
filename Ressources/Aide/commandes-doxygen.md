@@ -369,6 +369,23 @@ Variable ou valeur nommée :
 private string $username;
 ```
 
+## version
+
+Numéro de version :
+
+```c
+/**
+* @file list.c
+* @version 0.1 Alpha
+*/
+#include "list.h"
+
+struct List* new_list()
+{
+	// code...
+}
+```
+
 ## warning
 
 Avertissement :

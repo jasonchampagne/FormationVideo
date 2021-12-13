@@ -1,8 +1,17 @@
 # Commandes spéciales Doxygen
 
-> Une commande commence par un `@` ou un `\`
-
 ## author
+
+> **Alias** : authors
+
++ Nom d'un auteur
+
+```python
+##
+# @author Chuck Norris
+##
+print("Hello World !")
+```
 
 ## brief
 

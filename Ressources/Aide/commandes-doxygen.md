@@ -3,7 +3,7 @@
 > Une commande commence par un `@` ou un `\`
 
 |TAG|ALIAS|USAGE|
-|:--:|:--:|:--|
+|--:|:--:|:--|
 |**author**|authors|Nom d'un auteur|
 |**copyright**|-|Texte des droits d'auteur|
 |**date**|-|Date d'un fichier|

@@ -5,9 +5,12 @@
 |TAG|ALIAS|USAGE|
 |--:|:--:|:--|
 |**author**|authors|Nom d'un auteur|
+|**bug**|-|Description d'un bug|
 |**copyright**|-|Texte des droits d'auteur|
 |**date**|-|Date d'un fichier|
 |**file**|-|Description d'un fichier|
+|**namespace**|-|Description d'un espace de nom|
+|**package**|-|Description d'un paquet Java|
 |**version**|-|Version d'un fichier|
 
 [Autres commandes...](https://www.doxygen.nl/manual/commands.html)

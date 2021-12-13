@@ -3,7 +3,7 @@
 > Une commande commence par un `@` ou un `\`
 
 |TAG|ALIAS|USAGE|EXEMPLE|
-|--:|:--:|:--:|:--|
+|:--|:--|:--|:--|
 |**author**|authors|Nom d'un auteur||
 |**brief**|short|Description courte||
 |**bug**|-|Bug||

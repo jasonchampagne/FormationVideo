@@ -232,7 +232,28 @@ namespace Views
 
 ## package
 
+Paquet Java :
+
+```java
+/**
+* @package ChuckNorris.Util
+* Utilitaires de Chuck Norris (comme s'il en avait besoin)
+*/
+package ChuckNorris.Util;
+```
+
 ## version
+
+Paramètre de fonction/méthode :
+
+```c
+/**
+* @brief Affiche un message à l'écran
+* @param author Auteur du message
+* @param text Message à afficher
+*/
+void print_message(const char* author, const char* text);
+```
 
 ---
 

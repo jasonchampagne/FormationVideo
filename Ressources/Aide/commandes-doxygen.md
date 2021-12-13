@@ -15,6 +15,20 @@ print("Hello World !")
 
 ## brief
 
+> **Alias** : short
+
++ Courte description
+
+```java
+/**
+* @brief Charge une sauvegarde
+*/
+public void loadData(String filename)
+{
+	//...
+}
+```
+
 ## bug
 
 ## class

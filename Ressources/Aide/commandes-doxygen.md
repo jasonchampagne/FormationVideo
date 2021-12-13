@@ -13,7 +13,7 @@
 |**date**|-|Date|`@date 2014`|
 |**def**|-|Définition de macro préprocesseur|`@def Nombre maximum d'éléments dans le tableau`|
 |**deprecated**|-|Élément obsolète|`@deprecated Utiliser PDO à la place`|
-|**details**|-|Description longue et détaillée|`@details Longue description d'un bout de code pour donner davantage de détails...`|
+|**details**|-|Description longue et détaillée|`@details Longue description d'un bout de code...`|
 |**enum**|-|Énumération||
 |**exception**|-|Exception||
 |**file**|-|Présentation d'un fichier||

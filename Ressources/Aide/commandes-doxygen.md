@@ -296,6 +296,19 @@ Valeur de retour d'une fonction/méthode :
 bool isEmptyList(const struct List* li);
 ```
 
+## since
+
+Indique un élément ajouté à partir d'une certaine version :
+
+```python
+/**
+* Exporte le fichier au format MKV
+* @since 3.4
+*/
+def export_to_mkv(filename):
+	pass
+```
+
 ---
 
 [Plus de commandes Doxygen...](https://www.doxygen.nl/manual/commands.html)

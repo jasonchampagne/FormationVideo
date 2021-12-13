@@ -149,19 +149,6 @@ enum AlertLevel
 };
 ```
 
-## exception
-
-Donne des indications sur une exception pouvant être déclenchée :
-
-```python
-##
-# @brief Fait la division de deux nombres entiers
-# @exception ZeroDivisionError Déclenchée si le dénominateur est nul
-def division(a, b):
-	# code...
-	pass
-```
-
 ## file
 
 Description d'un fichier :
@@ -324,6 +311,49 @@ struct Point2D
 	int x;
 	int y;
 };
+```
+
+## throw / throws
+
+Donne des indications sur une exception pouvant être déclenchée :
+
+```python
+##
+# @brief Fait la division de deux nombres entiers
+# @throw ZeroDivisionError Déclenchée si le dénominateur est nul
+def division(a, b):
+	# code...
+	pass
+```
+
+## todo
+
+Indique un élément à revoir/corriger/écrire plus tard :
+
+```csharp
+/**
+* @brief Sauvegarde les données
+* @toto Permettre l'export au format JSON
+*/
+public static void Save(string filename)
+{
+	// code...
+}
+```
+
+## warning
+
+Avertissement :
+
+```java
+/**
+* @brief Envoie un message sur le flux
+* @warning Ne fonctionne pas dans un environnement multi-threadé
+*/
+public void sendToStream(String msg)
+{
+	// code...
+}
 ```
 
 ---

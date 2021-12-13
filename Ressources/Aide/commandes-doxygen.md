@@ -43,6 +43,19 @@ public void loadData(String filename)
 
 ## class
 
+Classe :
+
+```php
+/**
+* @class SQLEngine sqlengine.php
+* @brief Moteur de connexion à une base de données SQL
+*/
+class SQLEngine
+{
+	// code...
+}
+```
+
 ## concept
 
 ## copyright

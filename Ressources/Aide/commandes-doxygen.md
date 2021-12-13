@@ -2,6 +2,6 @@
 
 > Une commande commence par un `@` ou un `\`
 
-|TAG|DESCRIPTION|
-|--:|:--|
-|**author**||
+|TAG|ALIAS|DESCRIPTION|
+|:--:|:--:|:--|
+|**author**|authors|Nom de l'auteur|

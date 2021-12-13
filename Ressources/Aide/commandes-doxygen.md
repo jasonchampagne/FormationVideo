@@ -102,6 +102,8 @@ Définition d'une macro (préprocesseur) :
 
 ## deprecated
 
+Élément obsolète ou dépréciée :
+
 ```php
 /**
 * @brief Se connecte à une base de données MySQL
@@ -114,6 +116,19 @@ public function connect_with_mysql()
 ```
 
 ## details
+
+Longue description :
+
+```csharp
+/**
+* @brief Vérifie si un fichier média peut-être écrasé
+* @details Vérifie le niveau de permission du fichier pour enregistrer une nouvelle version de ce dernier
+*/
+public bool IsWritableMediaFile(MediaFile &f)
+{
+	// code...
+}
+```
 
 ## enum
 

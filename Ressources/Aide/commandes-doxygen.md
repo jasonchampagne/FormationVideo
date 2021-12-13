@@ -4,11 +4,12 @@
 
 > **Alias** : authors
 
-+ Nom d'un auteur
+Indique le nom d'auteurs :
 
 ```python
 ##
 # @author Chuck Norris
+# @author Chuck Norris Jr.
 ##
 print("Hello World !")
 ```
@@ -17,7 +18,7 @@ print("Hello World !")
 
 > **Alias** : short
 
-+ Courte description
+Courte description :
 
 ```java
 /**
@@ -31,7 +32,7 @@ public void loadData(String filename)
 
 ## bug
 
-+ Présence d'un bogue
+Présence d'un bogue :
 
 ```java
 /**

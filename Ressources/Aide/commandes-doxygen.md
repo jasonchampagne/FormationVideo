@@ -341,6 +341,22 @@ public static void Save(string filename)
 }
 ```
 
+## union
+
+Union :
+
+```c
+/**
+* @union Book
+* Définition d'un ouvrage
+*/
+union Book
+{
+	char ISBN_10[11];
+	char ISBN_13[14];
+};
+```
+
 ## warning
 
 Avertissement :

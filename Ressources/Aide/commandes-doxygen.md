@@ -31,6 +31,19 @@ public void loadData(String filename)
 
 ## bug
 
++ Présence d'un bogue
+
+```java
+/**
+* @brief Charge une partie sauvegardée
+* @bug Fait planter l'application si le nom du fichier contient des accents
+*/
+public void loadData(String filename)
+{
+	//...
+}
+```
+
 ## class
 
 ## concept

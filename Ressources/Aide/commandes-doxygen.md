@@ -22,7 +22,7 @@ Courte description :
 */
 public void loadData(String filename)
 {
-	//...
+	// code...
 }
 ```
 
@@ -37,7 +37,7 @@ Présence d'un bogue :
 */
 public void loadData(String filename)
 {
-	//...
+	// code...
 }
 ```
 
@@ -101,6 +101,17 @@ Définition d'une macro (préprocesseur) :
 ```
 
 ## deprecated
+
+```php
+/**
+* @brief Se connecte à une base de données MySQL
+* @deprecated Utiliser connect_with_PDO() à la place
+*/
+public function connect_with_mysql()
+{
+	// code...
+}
+```
 
 ## details
 

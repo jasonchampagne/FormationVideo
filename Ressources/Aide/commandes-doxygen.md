@@ -195,6 +195,21 @@ Fonction ou méthode :
 void print_message(const char* message);
 ```
 
+## interface
+
+Interface :
+
+```php
+/**
+* @interface IExportable
+* @brief Interface des fonctionnalités d'export d'un fichier en différents formats
+*/
+interface IExportable
+{
+	public function export(string $filename);
+}
+```
+
 ## namespace
 
 ## package

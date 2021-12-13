@@ -4,9 +4,9 @@
 
 |TAG|ALIAS|USAGE|EXEMPLE|
 |:--|:--|:--|:--|
-|**author**|authors|Nom d'un auteur||
-|**brief**|short|Description courte||
-|**bug**|-|Bug||
+|**author**|authors|Nom d'un auteur|`@author Chuck Norris`|
+|**brief**|short|Description courte|`@brief Calcule la puissance d'un nombre entier`|
+|**bug**|-|Bug|`@bug Libération de la mémoire non effectuée`|
 |**class**|-|Classe||
 |**concept**|-|Concept C++||
 |**copyright**|-|Droits d'auteur||

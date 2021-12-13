@@ -21,7 +21,7 @@ print("Hello World !")
 
 ```java
 /**
-* @brief Charge une sauvegarde
+* @brief Charge une partie sauvegardée
 */
 public void loadData(String filename)
 {

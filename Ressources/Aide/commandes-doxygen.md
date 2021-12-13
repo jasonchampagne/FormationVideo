@@ -75,6 +75,19 @@ int main(void)
 
 ## date
 
+Date d'écriture/publication :
+
+```java
+/**
+* @author Chuck Norris
+* @date 23-04-2015
+*/
+public class App
+{
+	// code...
+}
+```
+
 ## def
 
 ## deprecated

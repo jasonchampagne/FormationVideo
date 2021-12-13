@@ -6,6 +6,8 @@
 |:--:|:--:|:--|
 |**author**|authors|Nom de l'auteur|
 
+[Autres commandes...](https://www.doxygen.nl/manual/commands.html)
+
 ---
 
 ## Exemple pratique

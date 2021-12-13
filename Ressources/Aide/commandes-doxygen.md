@@ -90,6 +90,16 @@ public class App
 
 ## def
 
+Définition d'une macro (préprocesseur) :
+
+```c
+/**
+* @def STORAGE_MAX_ITEMS
+* Nombre d'objets maximum dans l'inventaire
+*/
+#define STORAGE_MAX_ITEMS 50
+```
+
 ## deprecated
 
 ## details

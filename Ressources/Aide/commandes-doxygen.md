@@ -357,6 +357,18 @@ union Book
 };
 ```
 
+## var
+
+Variable ou valeur nommée :
+
+```php
+/**
+* @brief Nom de l'utilisateur
+* @var \Models\UserModel $username
+*/
+private string $username;
+```
+
 ## warning
 
 Avertissement :

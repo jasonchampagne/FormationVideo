@@ -223,10 +223,10 @@ using System;
 */
 namespace Views
 {
-    class Index
-    {
+	class Index
+	{
 		// code...
-    }
+	}
 }
 ```
 

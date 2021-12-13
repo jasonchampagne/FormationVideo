@@ -2,7 +2,13 @@
 
 > Une commande commence par un `@` ou un `\`
 
-Un petit exemple (en Java) :
+|TAG|ALIAS|DESCRIPTION|
+|:--:|:--:|:--|
+|**author**|authors|Nom de l'auteur|
+
+---
+
+## Exemple pratique
 
 ```java
 /**
@@ -38,7 +44,3 @@ public class Button
 	}
 }
 ```
-
-|TAG|ALIAS|DESCRIPTION|
-|:--:|:--:|:--|
-|**author**|authors|Nom de l'auteur|

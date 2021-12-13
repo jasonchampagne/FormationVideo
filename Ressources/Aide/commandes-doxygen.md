@@ -2,9 +2,13 @@
 
 > Une commande commence par un `@` ou un `\`
 
-|TAG|ALIAS|DESCRIPTION|
+|TAG|ALIAS|USAGE|
 |:--:|:--:|:--|
-|**author**|authors|Nom de l'auteur|
+|**author**|authors|Nom d'un auteur|
+|**copyright**|-|Texte des droits d'auteur|
+|**date**|-|Date d'un fichier|
+|**file**|-|Description d'un fichier|
+|**version**|-|Version d'un fichier|
 
 [Autres commandes...](https://www.doxygen.nl/manual/commands.html)
 

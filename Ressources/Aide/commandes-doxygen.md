@@ -36,4 +36,4 @@
 
 ---
 
-[Autres commandes...](https://www.doxygen.nl/manual/commands.html)
+[Plus de commandes Doxygen...](https://www.doxygen.nl/manual/commands.html)

@@ -285,7 +285,7 @@ bool isEmptyList(const struct List* li);
 
 Valeur de retour d'une fonction/méthode :
 
-```
+```c
 /**
 * @brief Vérifie si une Liste est vide
 * @param li La liste à vérifier

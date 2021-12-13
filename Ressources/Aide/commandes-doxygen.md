@@ -8,7 +8,7 @@ Indique le nom d'auteurs :
 ##
 # @author Chuck Norris
 # @author Chuck Norris Jr.
-##
+#
 print("Hello World !")
 ```
 
@@ -149,6 +149,17 @@ enum AlertLevel
 ```
 
 ## exception
+
+Donne des indications sur une exception pouvant être déclenchée :
+
+```python
+##
+# @brief Fait la division de deux nombres entiers
+# @exception ZeroDivisionError Déclenchée si le dénominateur est nul
+def division(a, b):
+	# code...
+	pass
+```
 
 ## file
 

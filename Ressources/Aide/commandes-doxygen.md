@@ -163,6 +163,25 @@ def division(a, b):
 
 ## file
 
+Description d'un fichier :
+
+```cpp
+/**
+* @file packetstream.cpp
+* Gère les paquets réseau sur le flux
+*/
+
+PacketStream::encode()
+{
+	// code...
+}
+
+PacketStream::write()
+{
+	// code...
+}
+```
+
 ## namespace
 
 ## package

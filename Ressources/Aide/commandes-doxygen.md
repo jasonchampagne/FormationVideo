@@ -1,8 +1,6 @@
 # Commandes spéciales Doxygen
 
-## author
-
-> **Alias** : authors
+## author / authors
 
 Indique le nom d'auteurs :
 
@@ -14,9 +12,7 @@ Indique le nom d'auteurs :
 print("Hello World !")
 ```
 
-## brief
-
-> **Alias** : short
+## brief / short
 
 Courte description :
 

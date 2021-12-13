@@ -182,6 +182,19 @@ PacketStream::write()
 }
 ```
 
+## fn
+
+Fonction ou méthode :
+
+```c
+/**
+* @fn void print_message(const char* message)
+* @brief Affiche un message à l'écran
+* @param message Message à afficher
+*/
+void print_message(const char* message);
+```
+
 ## namespace
 
 ## package

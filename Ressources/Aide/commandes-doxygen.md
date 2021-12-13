@@ -268,6 +268,19 @@ def sort_inventory(Inventory i):
 	pass
 ```
 
+## return / result
+
+Retour d'une fonction/méthode :
+
+```c
+/**
+* @brief Vérifie si une Liste est vide
+* @param li La liste à vérifier
+* @return Vrai (true) si la Liste est vide, faux (false) sinon
+*/
+bool isEmptyList(const struct List* li);
+```
+
 ---
 
 [Plus de commandes Doxygen...](https://www.doxygen.nl/manual/commands.html)

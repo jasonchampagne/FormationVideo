@@ -56,9 +56,22 @@ class SQLEngine
 }
 ```
 
-## concept
-
 ## copyright
+
+Droits d'auteur :
+
+```c
+/**
+* @copyright Copyright 2021 Norris - Tous droits réservés
+*/
+#include <stdio.h>
+
+int main(void)
+{
+	// code...
+	return 0;
+}
+```
 
 ## date
 

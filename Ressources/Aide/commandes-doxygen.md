@@ -212,6 +212,24 @@ interface IExportable
 
 ## namespace
 
+Espace de nom :
+
+```csharp
+using System;
+
+/**
+* @namespace Views
+* Espace des vues de l'application
+*/
+namespace Views
+{
+    class Index
+    {
+		// code...
+    }
+}
+```
+
 ## package
 
 ## version

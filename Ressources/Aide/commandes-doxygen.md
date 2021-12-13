@@ -242,7 +242,7 @@ Paquet Java :
 package ChuckNorris.Util;
 ```
 
-## version
+## param
 
 Paramètre de fonction/méthode :
 
@@ -253,6 +253,19 @@ Paramètre de fonction/méthode :
 * @param text Message à afficher
 */
 void print_message(const char* author, const char* text);
+```
+
+## remark / remarks
+
+Note mise en avant :
+
+```python
+##
+# @brief Trie un inventaire par catégorie d'objet
+# @remark Cette méthode est très lente à l'exécution
+#
+def sort_inventory(Inventory i):
+	pass
 ```
 
 ---

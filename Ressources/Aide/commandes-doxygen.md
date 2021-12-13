@@ -132,6 +132,22 @@ public bool IsWritableMediaFile(MediaFile &f)
 
 ## enum
 
+Énumération (type à constantes nommées) :
+
+```c
+/**
+* @enum Définit le niveau d'une alerte suivant l'erreur survenue à l'exécution
+*/
+enum AlertLevel
+{
+	SUCCESS = 0, 
+	INFO = 1, 
+	WARNING = 5, 
+	ERROR = 6, 
+	FATAL_ERROR = 7
+};
+```
+
 ## exception
 
 ## file

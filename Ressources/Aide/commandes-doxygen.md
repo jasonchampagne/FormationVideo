@@ -34,4 +34,6 @@
 
 ## version
 
+---
+
 [Autres commandes...](https://www.doxygen.nl/manual/commands.html)

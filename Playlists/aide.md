@@ -12,6 +12,7 @@
 + [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
++ [Doxygen - générer de la documentation](#)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [GCC - compilation en C/C++](https://www.youtube.com/watch?v=gr44z0Fyx_Y)

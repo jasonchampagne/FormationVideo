@@ -1,6 +1,23 @@
 # Commandes spéciales Doxygen
 
 > **SOMMAIRE**
+> + [author / authors](#author--authors)
+> + [brief / short](#brief--short)
+> + [bug](#bug)
+> + [class](#class)
+> + [copyright](#copyright)
+> + [date](#date)
+> + [def](#def)
+> + [deprecated](#deprecated)
+> + [details](#details)
+> + [enum](#enum)
+> + [file](#file)
+> + [fn](#fn)
+> + [interface](#interface)
+> + [namespace](#namespace)
+> + [package](#package)
+> + [param](#param)
+> + [remark / remarks](#remark--remarks)
 > + [return / result](#return--result)
 > + [retval](#retval)
 > + [since](#since)

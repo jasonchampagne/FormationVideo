@@ -253,6 +253,14 @@ Bonjour et bienvenue sur la documentation. Retrouvez :
 + Une liste des fonctions
 + L'ensemble des structures
 + Et même un serveur Discord pour communiquer vos retours
+
+## Partie 1
+
+Bla bla bla...
+
+## Partie 2
+
+Bla bla bla...
 ```
 
 ## namespace

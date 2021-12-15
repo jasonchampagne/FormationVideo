@@ -14,8 +14,10 @@
 > + [file](#file)
 > + [fn](#fn)
 > + [interface](#interface)
+> + [mainpage](#mainpage)
 > + [namespace](#namespace)
 > + [package](#package)
+> + [page](#page)
 > + [param](#param)
 > + [remark / remarks](#remark--remarks)
 > + [return / result](#return--result)
@@ -229,6 +231,30 @@ interface IExportable
 }
 ```
 
+## mainpage
+
+Page d'accueil de la documentation :
+
+```
+/**
+* @mainpage
+* # Page d'accueil
+* Bonjour et bienvenue sur la documentation !
+*/
+```
+
+Vous pouvez aussi créer un fichier au format Markdown et le spécifier lors de la génération de la documentation grâce à l'option _USE_MDFILE_AS_MAINPAGE_ (onglet _Expert_ > _Input_) :
+
+```markdown
+# Page d'accueil
+
+Bonjour et bienvenue sur la documentation. Retrouvez :
+
++ Une liste des fonctions
++ L'ensemble des structures
++ Et même un serveur Discord pour communiquer vos retours
+```
+
 ## namespace
 
 Espace de nom :
@@ -259,6 +285,21 @@ Paquet Java :
 * Utilitaires de Chuck Norris (comme s'il en avait besoin)
 */
 package ChuckNorris.Util;
+```
+
+## page
+
+Page associée dans la documentation :
+
+```cpp
+/**
+* @page NomDePage
+* Bonjour, ceci est le contenu de la page associée...
+*/
+Util::loadConfig(const std::string filename)
+{
+	// code...
+}
 ```
 
 ## param

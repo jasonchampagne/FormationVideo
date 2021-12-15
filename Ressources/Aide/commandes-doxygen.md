@@ -29,6 +29,8 @@
 > + [version](#version)
 > + [warning](#warning)
 
+---
+
 ## author / authors
 
 Noms d'auteurs :

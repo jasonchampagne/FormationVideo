@@ -252,7 +252,7 @@ Bonjour et bienvenue sur la documentation. Retrouvez :
 
 + Une liste des fonctions
 + L'ensemble des structures
-+ Et même un serveur Discord pour communiquer vos retours
++ Et même un [serveur Discord](https://discord.gg/LaMatrice) pour communiquer vos retours
 
 ## Partie 1
 

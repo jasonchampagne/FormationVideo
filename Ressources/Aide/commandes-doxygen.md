@@ -2,7 +2,7 @@
 
 ## author / authors
 
-Indique le nom d'auteurs :
+Noms d'auteurs :
 
 ```python
 ##

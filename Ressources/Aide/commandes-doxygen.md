@@ -48,7 +48,7 @@ Classe :
 ```php
 /**
 * @class SQLEngine sqlengine.php
-* @brief Moteur de connexion à une base de données SQL
+* Moteur de connexion à une base de données SQL
 */
 class SQLEngine
 {
@@ -190,7 +190,7 @@ Interface :
 ```php
 /**
 * @interface IExportable exportable.php
-* @brief Interface des fonctionnalités d'export d'un fichier en différents formats
+* Interface des fonctionnalités d'export d'un fichier en différents formats
 */
 interface IExportable
 {
@@ -224,7 +224,7 @@ Paquet Java :
 
 ```java
 /**
-* @package ChuckNorris.Util
+* @package Util
 * Utilitaires de Chuck Norris (comme s'il en avait besoin)
 */
 package ChuckNorris.Util;
@@ -333,7 +333,7 @@ Indique un élément à revoir/corriger/écrire plus tard :
 ```csharp
 /**
 * @brief Sauvegarde les données
-* @toto Permettre l'export au format JSON
+* @todo Ajouter une option d'export au format JSON
 */
 public static void Save(string filename)
 {
@@ -363,8 +363,8 @@ Variable ou valeur nommée :
 
 ```php
 /**
-* @brief Nom de l'utilisateur
 * @var \Models\UserModel $username
+* Nom de l'utilisateur
 */
 private string $username;
 ```

@@ -1,5 +1,17 @@
 # Commandes spéciales Doxygen
 
+> **SOMMAIRE**
+> + [return / result](#return--result)
+> + [retval](#retval)
+> + [since](#since)
+> + [struct](#struct)
+> + [throw / throws](#throw--throws)
+> + [todo](#todo)
+> + [union](#union)
+> + [var](#var)
+> + [version](#version)
+> + [warning](#warning)
+
 ## author / authors
 
 Noms d'auteurs :

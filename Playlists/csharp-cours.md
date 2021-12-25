@@ -20,3 +20,4 @@
 + [12. Propriétés d'encapsulation](https://www.youtube.com/watch?v=NgSBm1mIRZE)
 + [13. Héritage](https://www.youtube.com/watch?v=8-GMvozd1dE)
 + [14. Surcharge d'opérateurs](https://www.youtube.com/watch?v=kkKEDdZHqqU)
++ [15. Classes abstraites](https://www.youtube.com/watch?v=WUtyBlkr6UA)

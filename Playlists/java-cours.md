@@ -20,7 +20,7 @@
 + [12. Tableaux](https://www.youtube.com/watch?v=VdvUYGs17Ek)
 + [13. Chaînes de caractères (1/2)](https://www.youtube.com/watch?v=wvQQ5263pvI)
 + [14. Chaînes de caractères (2/2)](https://www.youtube.com/watch?v=EphmNLfZ2hM)
-+ [15. Packages](https://www.youtube.com/watch?v=8xVLSfM5UhY)
++ [15. Paquets](https://www.youtube.com/watch?v=8xVLSfM5UhY)
 + [16. Lecture au clavier](https://www.youtube.com/watch?v=fa84_nrUrMw)
 + [17. Exceptions](https://www.youtube.com/watch?v=UEISfoJaOyk)
 + [18. Héritage](https://www.youtube.com/watch?v=8TSVW7SV0KA)

@@ -1,6 +1,6 @@
 # Encodage UTF-8
 
-Comme je le répète très souvent sur les formations, il est important de travailler en informatique avec l'encodage UTF-8 (notamment pour éviter cette éternelle erreur _[undefined reference to WinMain](https://www.youtube.com/watch?v=RNAdJW2J-wA)_). En effet, l'Unicode prend en charge les différents caractères de plusieurs langues (accents en français, idéogrammes chinois, etc.). Voici comment définir le bon encodage à vos fichiers depuis votre éditeur favori.
+Comme je le répète très souvent sur les formations, il est important de travailler en informatique avec l'encodage UTF-8 (notamment pour éviter cette éternelle erreur _[undefined reference to WinMain](https://www.youtube.com/watch?v=RNAdJW2J-wA) en langage C, par exemple_). En effet, l'Unicode prend en charge les différents caractères de plusieurs langues (accents en français, idéogrammes chinois, etc.). Voici comment définir le bon encodage à vos fichiers depuis votre éditeur favori.
 
 **SOMMAIRE**
 + [Atom](#atom)

@@ -10,8 +10,9 @@ D'abord :
 
 + [Présentation](https://www.youtube.com/watch?v=x4yzYMZ5ZNo)
 
-Puis (sans ordre précis) :
+Puis (sans ordre particulier, sauf exception, précisé en vidéo) :
 
 + [Conversion de base](https://www.youtube.com/watch?v=RdBNK43JK5c)
 + [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
++ Processeur
 + [Systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)

@@ -15,11 +15,11 @@ Cherchez la ligne **Type du système** :
 
 ---
 
-> 🔴 **Si vous ne savez pas quoi installer, commencez par le paquet _3 en 1_ (2019 + 2017 + 2015). Si vous avez toujours des erreurs de fonctionnement sur d'autres logiciels, passez à l'installation des versions plus anciennes (2013 et moins).**
+> 🔴 **Si vous ne savez pas quoi installer, commencez par le paquet _4 en 1_ (2022 + 2019 + 2017 + 2015). Si vous avez toujours des erreurs de fonctionnement sur d'autres logiciels, passez à l'installation des versions plus anciennes (2013 et moins).**
 
 |NOM_DU_PAQUET_WINDOWS|32 BITS (x86)|64 BITS (x64)|ARM64|IA64|
 |:--:|:--:|:--:|:--:|:--:|
-|Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(_3 en 1_)|[lien](https://aka.ms/vs/16/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/16/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/16/release/VC_redist.arm64.exe)|-|
+|Visual C++ 2022<br>Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(_4 en 1_)|[lien](https://aka.ms/vs/17/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/17/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/17/release/vc_redist.arm64.exe)|-|
 |Visual C++ 2017|[lien](https://download.visualstudio.microsoft.com/download/pr/100349138/88b50ce70017bf10f2d56d60fcba6ab1/VC_redist.x86.exe)|[lien](https://download.microsoft.com/download/3/b/f/3bf6e759-c555-4595-8973-86b7b4312927/vc_redist.x64.exe)|-|-|
 |Visual C++ 2015|[lien](https://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x86.exe)|[lien](https://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x64.exe)|-|-|
 |Visual C++ 2013|[lien](http://download.microsoft.com/download/A/4/D/A4D9F1D3-6449-49EB-9A6E-902F61D8D14B/vcredist_x86.exe)|[lien](http://download.microsoft.com/download/A/4/D/A4D9F1D3-6449-49EB-9A6E-902F61D8D14B/vcredist_x64.exe)|[lien](http://download.microsoft.com/download/A/4/D/A4D9F1D3-6449-49EB-9A6E-902F61D8D14B/vcredist_arm.exe)|-|

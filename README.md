@@ -98,7 +98,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue.js|
 |Langages|Dart, Go, Haskell, Kotlin, LaTeX, Lua, Ruby, Rust, V, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|
-|Plateformes|Apache, Nginx, NodeJS, Twitch, YouTube|
+|Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD, MacOS, iOS|
 |Techniques|Analyse : UML<br>Infographie : 3D, calligraphie, dessin, imagerie, pixel-art<br>Jeu vidéo : character design, game design, level design, ...<br>Son : montage, mix, mastering<br>Vidéo : montage, effets spéciaux<br>Écriture<br>Chant|
 

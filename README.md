@@ -92,14 +92,14 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 
 |TYPE|CONTENUS|
 |:--|:--|
-|Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Infographie : Krita, Photoshop, GIMP, Inkscape, Mypaint<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, Doxygen, OBS Studio, Wireshark|
+|Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Infographie : Krita, Photoshop, GIMP, Inkscape, Mypaint<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, OBS Studio, Wireshark|
 |Bibliothèques|DirectX, GTK+, JQuery, Kivy, LÖVE, OpenGL, Qt, React, SFML, wxWidgets|
 |CMS|Joomla, phpBB, PrestaShop, WordPress|
-|Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, LÖVE, Metasploit, Ruby on Rails, Symfony, Vue.js|
+|Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue.js|
 |Langages|Dart, Go, Haskell, Kotlin, LaTeX, Lua, Ruby, Rust, V, Visual Basic, XML|
 |Langues|anglais, français, chinois, coréen|
 |Plateformes|Apache, Nginx, NodeJS, Twitch, YouTube|
-|Systèmes|Android, BSD|
+|Systèmes|Android, BSD, MacOS, iOS|
 |Techniques|analyse (UML), infographie (3D, calligraphie, dessin, imagerie, pixel-art), jeu vidéo (character design, game design, level design, ...), son (montage, mix, mastering), vidéo (montage, effets spéciaux), écriture, chant|
 
 Bon apprentissage et bon courage ! 👍

@@ -22,4 +22,4 @@
 + [14. Surcharge d'opérateurs](https://www.youtube.com/watch?v=kkKEDdZHqqU)
 + [15. Classes abstraites](https://www.youtube.com/watch?v=WUtyBlkr6UA)
 + [16. Interfaces](https://www.youtube.com/watch?v=VtNvfpkFXYA)
-+ [17. Polymorphisme](#)
++ [17. Polymorphisme](https://www.youtube.com/watch?v=pUH4wBJ1PT0)

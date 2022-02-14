@@ -84,7 +84,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||Français||||
 ||Japonais||||
 
-### Archives
+### Les restes du monde
 
 + [Vidéos archivées](Playlists/archives.md)
 

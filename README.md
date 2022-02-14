@@ -26,17 +26,17 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |NOM|DESCRIPTION|CONTENU|
 |:--:|:--:|:--:|
-|Aide|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[28](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/aide.md)|
-|Blabla|Réaction à des commentaires d'abonnés|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/blabla.md)|
-|SAV|Dépannage sur des problèmes récurrents|[9](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sav.md)|
-|Témoignages|Appels à témoins sur des problèmes d'internautes|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/temoignages.md)|
+|Aide|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[28](Playlists/aide.md)|
+|Blabla|Réaction à des commentaires d'abonnés|[1](Playlists/blabla.md)|
+|SAV|Dépannage sur des problèmes récurrents|[9](Playlists/sav.md)|
+|Témoignages|Appels à témoins sur des problèmes d'internautes|[2](Playlists/temoignages.md)|
 
 ### Concepts théoriques
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Algorithmie|[1](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/algorithmie-cours.md)|-||
-||Architecture|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/architecture.md)|-|-|
+||Algorithmie|[1](Playlists/algorithmie-cours.md)|-||
+||Architecture|[5](Playlists/architecture.md)|-|-|
 |🚧|Hacking|[_ça arrive !_](https://jasonchampagne.fr/static/faq-youtube.html)|||
 ||Réseaux||||
 
@@ -44,16 +44,16 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Assembleur|[3](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/assembleur-cours.md)|||
-|✅|C|[29](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-cours.md)|[7](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-tutoriels.md)|[11](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/c-exercices.md)|
-||C++|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/cpp-cours.md)|||
-||C#|[17](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/csharp-cours.md)|||
-|✅|HTML/CSS|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-tutoriels.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/html-css-exercices.md)|
-||Java|[26](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/java-tutoriels.md)||
-||JavaScript|[13](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/javascript-cours.md)|||
-|✅|PHP|[32](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/php-tutoriels.md)||
-|✅|Python|[43](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-cours.md)|[16](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-tutoriels.md)|[9](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/python-exercices.md)|
-|✅|SQL|[22](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/sql-cours.md)|||
+||Assembleur|[3](Playlists/assembleur-cours.md)|||
+|✅|C|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
+||C++|[8](Playlists/cpp-cours.md)|||
+||C#|[17](Playlists/csharp-cours.md)|||
+|✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[5](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
+||Java|[26](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
+||JavaScript|[13](Playlists/javascript-cours.md)|||
+|✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)||
+|✅|Python|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
+|✅|SQL|[22](Playlists/sql-cours.md)|||
 
 ### Systèmes
 
@@ -61,20 +61,20 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|✅|GNU/Linux|[38](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-cours.md)|[2](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/gnu-linux-tutoriels.md)||
-||Windows|[15](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-cours.md)|[5](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/windows-tutoriels.md)||
+|✅|GNU/Linux|[38](Playlists/gnu-linux-cours.md)|[2](Playlists/gnu-linux-tutoriels.md)||
+||Windows|[15](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
 ### Frameworks
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
-||Django|[4](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/django-cours.md)||
+||Django|[4](Playlists/django-cours.md)||
 
 ### Musique
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
-|🔁|Piano|[8](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/piano-cours.md)||
+|🔁|Piano|[8](Playlists/piano-cours.md)||
 
 ### Langues
 

@@ -1,6 +1,6 @@
 # Archives
 
-> [PLAYLIST YOUTUBE](#)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGv7PbZ66B09ewF6kVSEwE_)
 
 ---
 

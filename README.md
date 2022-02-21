@@ -57,8 +57,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Systèmes
 
-> _La programmation de scripts Bash est incluse dans le cours GNU/Linux_
-> _La programmation de scripts PowerShell est incluse dans le cours Windows_
+> _Le dernier chapitre du cours GNU/Linux aborde l'écriture de scripts Bash_<br>
+> _Le dernier chapitre du cours Windows aborde l'écriture de scripts PowerShell_
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

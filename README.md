@@ -57,7 +57,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Systèmes
 
-> _Le cours GNU/Linux vous apprend à écrire des scripts en Bash et le cours Windows à écrire des scripts en PowerShell._
+> _La programmation de scripts Bash est incluse dans le cours GNU/Linux_
+> _La programmation de scripts PowerShell est incluse dans le cours Windows_
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

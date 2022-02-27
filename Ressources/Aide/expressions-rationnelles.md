@@ -76,7 +76,7 @@ Mais aussi quelques séquences :
 > + [Bash](#bash)
 > + [C](#c)
 > + [C++](#c-1)
-> + [C\#](#c\#)
+> + [C#](#c-2)
 > + [D](#d)
 > + [Dart](#dart)
 > + [Go](#go)

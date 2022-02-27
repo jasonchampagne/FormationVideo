@@ -76,7 +76,7 @@ Mais aussi quelques séquences :
 > + [Bash](#bash)
 > + [C](#c)
 > + [C++](#c-1)
-> + [CSharp](#csharp)
+> + [C\#](#c\#)
 > + [D](#d)
 > + [Dart](#dart)
 > + [Go](#go)
@@ -163,7 +163,7 @@ int main()
 }
 ```
 
-### CSharp
+### C\#
 
 ```cs
 using System;

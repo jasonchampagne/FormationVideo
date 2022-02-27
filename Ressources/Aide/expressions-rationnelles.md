@@ -273,8 +273,6 @@ end
 ### PHP
 
 ```php
-<?php
-
 string $data = 'tester-une-expression-rationnelle-avec-PHP';
 string $pattern = '#^[a-zA-Z-]+$#';
 

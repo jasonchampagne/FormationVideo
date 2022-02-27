@@ -275,8 +275,8 @@ end
 ```php
 <?php
 
-$data = 'tester-une-expression-rationnelle-avec-PHP';
-$pattern = '#^[a-zA-Z-]+$#';
+string $data = 'tester-une-expression-rationnelle-avec-PHP';
+string $pattern = '#^[a-zA-Z-]+$#';
 
 if(preg_match($pattern, $data))
 	echo 'OK';

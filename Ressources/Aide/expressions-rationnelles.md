@@ -74,6 +74,7 @@ Mais aussi quelques séquences :
 ## Exemples de code
 
 > + [Bash](#bash)
+> + [Batch](#batch)
 > + [C](#c)
 > + [C++](#c-1)
 > + [C#](#c-2)
@@ -102,6 +103,23 @@ if [[ $data =~ $pattern ]]
 then
     echo 'OK'
 fi
+```
+
+### Batch
+
+```batch
+@echo off
+
+set data = "tester-une-expression-rationnelle-avec-Batch"
+echo %data% | findstr /r "^[a-zA-Z-]+$"
+
+if errorlevel 1 (
+	echo OK
+) else (
+	echo PAS OK
+)
+
+pause
 ```
 
 ### C

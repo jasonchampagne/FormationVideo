@@ -163,7 +163,7 @@ int main()
 }
 ```
 
-### C\#
+### C#
 
 ```cs
 using System;

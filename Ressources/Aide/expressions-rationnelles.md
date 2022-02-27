@@ -116,9 +116,7 @@ int main(void)
 {
     char data[] = "tester-une-expression-rationnelle-avec-C";
     char pattern[] = "^[a-zA-Z-]+$";
-    char buffer[128];
     regex_t regex;
-    int exec_regex_code;
     
     if(regcomp(&regex, pattern, REG_EXTENDED))
     {
@@ -126,7 +124,7 @@ int main(void)
         exit(EXIT_FAILURE);
     }
     
-    exec_regex_code = regexec(&regex, data, 0, NULL, 0);
+    int exec_regex_code = regexec(&regex, data, 0, NULL, 0);
         
     if(!exec_regex_code)
         printf("OK\n");
@@ -134,6 +132,8 @@ int main(void)
         printf("PAS OK\n");
     else
     {
+		char buffer[128];
+		
         regerror(exec_regex_code, &regex, buffer, sizeof(buffer));
         fprintf(stderr, "ERREUR : Echec du test de motif (%s)", buffer);
         exit(EXIT_FAILURE);

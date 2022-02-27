@@ -7,3 +7,4 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |programme-base|Programme de base ("Hello World") pour Windows et GNU/Linux (32 bits + 64 bits)|
+|references|Manuels de référence pour quelques architectures de processeurs|

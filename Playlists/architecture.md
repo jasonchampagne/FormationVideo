@@ -12,7 +12,7 @@ D'abord :
 
 Puis (sans ordre particulier, sauf exception, précisé en vidéo) :
 
-+ [Conversion de base](https://www.youtube.com/watch?v=RdBNK43JK5c)
++ [Conversion de base numérique](https://www.youtube.com/watch?v=RdBNK43JK5c)
 + [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
 + [Processeur](https://www.youtube.com/watch?v=2jFBKfXxeZw)
 + [Systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)

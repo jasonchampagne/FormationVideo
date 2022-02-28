@@ -36,7 +36,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 ||Algorithmie|[1](Playlists/algorithmie-cours.md)|-||
-||Architecture|[5](Playlists/architecture.md)|-|-|
+||Architecture|[6](Playlists/architecture.md)|-|-|
 |🚧|Hacking|[_ça arrive !_](https://jasonchampagne.fr/static/faq-youtube.html)|||
 ||Réseaux||||
 

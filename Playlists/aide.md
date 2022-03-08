@@ -7,6 +7,7 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
++ [Bibliothèque statique](https://www.youtube.com/watch?v=osxzRLjHDNY)
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [C'est quoi le meilleur ?](https://www.youtube.com/watch?v=YLR_rMc0Rps)
 + [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)

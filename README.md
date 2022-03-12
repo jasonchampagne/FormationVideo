@@ -1,7 +1,7 @@
 # Présentation de la chaîne YouTube
 
 <p align="center">
-	<img src="https://nsa40.casimages.com/img/2019/10/10/191010123344352794.png" alt=""><br>
+	<img src="https://formation-video.org/img/logo.png" alt=""><br>
 	<a href="https://formation-video.org">formation-video.org</a>
 </p>
 

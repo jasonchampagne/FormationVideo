@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢 indique que la vidéo est chapitrée**
 
 + [1. Introduction](https://www.youtube.com/watch?v=90hGCMC3Chc)
 + [2. Compiler programme](https://www.youtube.com/watch?v=6E-zrVV2tSg)

@@ -5,7 +5,7 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢** indique que la vidéo est chapitrée
+**🔢 indique que la vidéo est chapitrée**
 
 + [Base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)
 + [Calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA)

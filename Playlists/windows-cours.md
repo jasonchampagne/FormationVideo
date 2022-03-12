@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢** indique que la vidéo est chapitrée
 
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM)
 + [2. Installer le système](https://www.youtube.com/watch?v=kKoOjrNzhtQ)

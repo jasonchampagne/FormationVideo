@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢** indique que la vidéo est chapitrée
 
 + [1. Introduction](https://www.youtube.com/watch?v=f_gEWxusGE8)
 + [2. Acquisition du matériel](https://www.youtube.com/watch?v=HOeuSei3co4)

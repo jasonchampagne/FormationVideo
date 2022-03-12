@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢 indique que la vidéo est chapitrée**
 
 + [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8)
 + [Arguments fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)

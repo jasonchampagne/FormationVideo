@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢** indique que la vidéo est chapitrée
 
 + [CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80)
 + [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE)

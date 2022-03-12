@@ -5,7 +5,7 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢** indique que la vidéo est chapitrée
+**🔢 indique que la vidéo est chapitrée**
 
 + [Afficher extension des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw)
 + [Installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A)

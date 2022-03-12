@@ -5,7 +5,7 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢** indique que la vidéo est chapitrée
+**🔢 indique que la vidéo est chapitrée**
 
 + [1. Introduction](https://www.youtube.com/watch?v=_l4pJ7HCrl4)
 + [2. Premier programme](https://www.youtube.com/watch?v=cvpkw2ZN4Ps)

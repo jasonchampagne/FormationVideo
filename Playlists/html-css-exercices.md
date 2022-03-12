@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢** indique que la vidéo est chapitrée
 
 + [1. Article de blog](https://www.youtube.com/watch?v=fzjar4drY-c)
 + [2. Tableau de données](https://www.youtube.com/watch?v=jqNCf_NRXnc)

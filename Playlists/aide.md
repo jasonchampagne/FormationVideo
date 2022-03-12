@@ -5,7 +5,7 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢** indique que la vidéo est chapitrée
+**🔢 indique que la vidéo est chapitrée**
 
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Bibliothèque statique](https://www.youtube.com/watch?v=osxzRLjHDNY) 🔢

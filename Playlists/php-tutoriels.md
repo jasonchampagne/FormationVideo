@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢** indique que la vidéo est chapitrée
 
 + [Envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY)
 + [Inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI)

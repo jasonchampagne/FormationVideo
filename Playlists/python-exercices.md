@@ -4,7 +4,8 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+**🌐 indicates that the video is subtitled in English**<br>
+**🔢** indique que la vidéo est chapitrée
 
 + [1. Affichage simple](https://www.youtube.com/watch?v=HVN4qv6Dxdk)
 + [2. Variables (QCM)](https://www.youtube.com/watch?v=7o3y47LYFvE)

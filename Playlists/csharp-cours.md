@@ -26,4 +26,4 @@
 + [17. Polymorphisme](https://www.youtube.com/watch?v=pUH4wBJ1PT0)
 + [18. Tableaux](https://www.youtube.com/watch?v=1FgKfbNBH6Y)
 + [19. Gestion d'erreurs](https://www.youtube.com/watch?v=eQrZVi6AXHo)
-+ 20 Chaînes de caractères
++ [20. Chaînes de caractères](https://www.youtube.com/watch?v=5nK49CWxpDc)

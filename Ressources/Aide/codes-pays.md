@@ -6,3 +6,5 @@
 |--:|:--:|:--:|
 |Afghanistan|AF|93|
 |Åland|AX|358|
+|Albanie|AL|355|
+|Algérie|DZ|213|

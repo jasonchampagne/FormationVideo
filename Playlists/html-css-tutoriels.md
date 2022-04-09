@@ -7,6 +7,7 @@
 **🌐 indicates that the video is subtitled in English**<br>
 **🔢 indique que la vidéo est chapitrée**
 
++ [Accessibilité web](https://www.youtube.com/watch?v=bLPONCBPDeQ) 🔢
 + [Attributs universels](https://www.youtube.com/watch?v=TZwvw5niU7Q)
 + [Balises obsolètes](https://www.youtube.com/watch?v=23Kcs7AW-18)
 + [Thème sombre](https://www.youtube.com/watch?v=UmnzAkE6DJQ)

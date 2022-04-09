@@ -5,3 +5,4 @@
 |PAYS|CODE|TEL|
 |--:|:--:|:--:|
 |Afghanistan|AF|93|
+|Åland|AX|358|

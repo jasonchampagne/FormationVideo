@@ -10,14 +10,14 @@
         <option value="SN">Sénégal (+221)</option>
     </optgroup>
     <optgroup label="Amérique">
-        <option value=""></option>
-        <option value=""></option>
-        <option value=""></option>
+        <option value="US">États-Unis (+1)</option>
+        <option value="BS">Bahamas (+1-242)</option>
+        <option value="BM">Bermudes (+1-441)</option>
     </optgroup>
     <optgroup label="Asie">
-        <option value=""></option>
-        <option value=""></option>
-        <option value=""></option>
+        <option value="ID">Indonésie (+62)</option>
+        <option value="JP">Japon (+81)</option>
+        <option value="CH">Chine (+86)</option>
     </optgroup>
     <optgroup label="Europe">
         <option value="BE">Belgique (+32)</option>

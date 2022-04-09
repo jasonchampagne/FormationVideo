@@ -1,6 +1,6 @@
 # Codes par pays
 
-> Tableau incomplet
+> 🛑 _Tableau incomplet_
 
 À utiliser pour alimenter vos bases de données ou formulaires de saisie
 

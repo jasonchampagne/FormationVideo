@@ -1,5 +1,7 @@
 # Indicatifs téléphoniques internationaux
 
+> INCOMPLET !
+
 ```html
 <select name="phone-area-code">
     <optgroup label="Afrique">

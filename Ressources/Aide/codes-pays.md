@@ -1,5 +1,7 @@
 # Codes par pays
 
+> Tableau incomplet
+
 À utiliser pour alimenter vos bases de données ou formulaires de saisie
 
 |PAYS|CODE|TEL|

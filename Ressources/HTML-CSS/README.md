@@ -11,4 +11,5 @@
 |exo-2|Corrigé de l'exercice n°2|
 |exo-4|Corrigé de l'exercice n°4|
 |exo-5|Corrigé de l'exercice n°5|
+|indicatifs-telephoniques|Liste des indicatifs téléphoniques internationaux|
 |proprietes-css|Liste de propriétés CSS|

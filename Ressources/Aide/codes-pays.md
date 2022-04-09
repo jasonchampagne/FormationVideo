@@ -8,3 +8,4 @@
 |Åland|AX|358|
 |Albanie|AL|355|
 |Algérie|DZ|213|
+|Allemagne|DE|49|

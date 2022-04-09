@@ -5,9 +5,9 @@
 ```html
 <select name="phone-area-code">
     <optgroup label="Afrique">
-        <option value=""></option>
-        <option value=""></option>
-        <option value=""></option>
+        <option value="EG">Egypte (+20)</option>
+        <option value="DZ">Algérie (+213)</option>
+        <option value="SN">Sénégal (+221)</option>
     </optgroup>
     <optgroup label="Amérique">
         <option value=""></option>

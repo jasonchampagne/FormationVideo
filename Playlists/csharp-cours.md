@@ -27,4 +27,4 @@
 + [18. Tableaux](https://www.youtube.com/watch?v=1FgKfbNBH6Y)
 + [19. Gestion d'erreurs](https://www.youtube.com/watch?v=eQrZVi6AXHo)
 + [20. Chaînes de caractères](https://www.youtube.com/watch?v=5nK49CWxpDc)
-+ [21. Espaces de noms](#) 🔢
++ [21. Espaces de noms](https://www.youtube.com/watch?v=rM5BbdxR9pk) 🔢

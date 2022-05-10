@@ -2,11 +2,14 @@
 
 Mémento des propriétés CSS valides [W3C](https://www.w3.org/). Notez que certaines d'entre-elles ne sont pas encore prises en charge par l'ensemble des navigateurs PC et mobile.
 
-|NOM|DESCRIPTION|
-|--:|:--|
-|**align-content**|Répartir l'espace entre/autour des élements le long de l'axe d'un bloc de contenu|
-|**align-items**|Aligner un élément dans son conteneur|
-|**align-self**|Aligner des éléments flexibles|
-|**all**|Réinitialiser toutes les propriétés d'une autre feuille CSS (sauf _unicode-bidi_ et _direction_)|
-|**animation**|Appliquer une animation entre des styles|
-|**scroll-behavior**|Définir l'animation des barres de défilement|
+## [color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
+
++ **Usage** : couleur du texte
++ **Valeurs** : mot-clé, code hexadécimal, fonction rgb()/rgba() ou fonction hsl()/hsla()
+
+```css
+color: red;
+color: #FF0000;
+color: rgb(255, 0, 0, 0.5);
+color: hsl(25, 60%, 30%, 0.5);
+```

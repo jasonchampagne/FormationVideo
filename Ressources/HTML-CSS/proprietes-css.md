@@ -2,10 +2,10 @@
 
 🔗 [CSS Reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
 
+---
 > **SOMMAIRE**
 > + [Couleur du texte](#-color)
 > + [Type d'affichage](#-display)
-
 ---
 
 ## 🔵 color

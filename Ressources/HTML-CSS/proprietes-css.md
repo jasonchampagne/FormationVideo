@@ -1,6 +1,6 @@
 # Propriétés CSS
 
-🔗 [CSS Reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
+🔗 [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
 
 ---
 > **SOMMAIRE**

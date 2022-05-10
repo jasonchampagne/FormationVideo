@@ -1,12 +1,12 @@
 # Propriétés CSS
 
 > **SOMMAIRE**
-> + [Couleur du texte](#color)
-> + [Type d'affichage](#display)
+> + [Couleur du texte](#-color)
+> + [Type d'affichage](#-display)
 
 ---
 
-## color
+## 🔵 color
 
 ```css
 color: red;
@@ -16,7 +16,7 @@ color: rgb(255, 0, 0, 0.5);
 color: hsl(25, 60%, 30%, 0.5);
 ```
 
-## display
+## 🔵 display
 
 ```css
 display: none;

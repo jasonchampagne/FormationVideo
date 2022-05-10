@@ -4,7 +4,7 @@ Mémento des propriétés CSS valides [W3C](https://www.w3.org/). Notez que cert
 
 ## [color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
 
-+ Couleur du texte
+> Couleur du texte
 
 ```css
 color: red;

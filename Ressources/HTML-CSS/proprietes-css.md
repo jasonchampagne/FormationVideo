@@ -4,8 +4,7 @@ Mémento des propriétés CSS valides [W3C](https://www.w3.org/). Notez que cert
 
 ## [color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
 
-+ **Usage** : couleur du texte
-+ **Valeurs** : mot-clé, code hexadécimal, fonction `rgb()`/`rgba()` ou fonction `hsl()`/`hsla()`
++ Couleur du texte
 
 ```css
 color: red;

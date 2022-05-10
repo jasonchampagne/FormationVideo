@@ -29,3 +29,5 @@ display: inline-block;
 display: flex;
 display: grid;
 ```
+
+[CSS Reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)

@@ -1,8 +1,12 @@
 # Propriétés CSS
 
-## [color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
+> **SOMMAIRE**
+> + [Couleur du texte](#color)
+> + [Type d'affichage](#display)
 
-> Couleur du texte
+---
+
+## [color](https://developer.mozilla.org/fr/docs/Web/CSS/color)
 
 ```css
 color: red;
@@ -13,8 +17,6 @@ color: hsl(25, 60%, 30%, 0.5);
 ```
 
 ## [display](https://developer.mozilla.org/fr/docs/Web/CSS/display)
-
-> Affichage
 
 ```css
 display: none;

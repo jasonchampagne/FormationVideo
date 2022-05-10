@@ -2,7 +2,13 @@
 
 Mémento des balises HTML valides [W3C](https://www.w3.org/TR/html52/) et qui sont correctement prises en charge par les navigateurs standards (Chrome, Edge, Firefox, Opera, Safari).
 
-## Balises valides W3C
+> **SOMMAIRE**
+> + [Balises valides](#balises-valides)
+> + [Balises obsolètes](#balises-obsolètes)
+
+---
+
+## Balises valides
 
 ### \<!-- --\>
 

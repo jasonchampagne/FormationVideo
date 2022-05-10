@@ -1,5 +1,7 @@
 # Propriétés CSS
 
+🔗 [CSS Reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
+
 > **SOMMAIRE**
 > + [Couleur du texte](#-color)
 > + [Type d'affichage](#-display)
@@ -29,5 +31,3 @@ display: inline-block;
 display: flex;
 display: grid;
 ```
-
-[CSS Reference](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)

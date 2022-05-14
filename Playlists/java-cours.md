@@ -33,4 +33,4 @@
 + [24. Files](https://www.youtube.com/watch?v=TLPqZ6QOeBo)
 + [25. Ensembles](https://www.youtube.com/watch?v=lBa9_JzgBEE)
 + [26. Cartes (clé-valeur)](https://www.youtube.com/watch?v=l1pXrZByaAM)
-+ [27. Énumérations](https://www.youtube.com/watch?v=7cdTn1bvNJc)
++ [27. Énumérations](https://www.youtube.com/watch?v=7cdTn1bvNJc) 🔢

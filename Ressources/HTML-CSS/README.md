@@ -12,4 +12,4 @@
 |exo-4|Corrigé de l'exercice n°4|
 |exo-5|Corrigé de l'exercice n°5|
 |proprietes-css|Liste de propriétés CSS|
-|reset-css|Feuille de réinitialisation des propriétés CSS|
+|reset|Feuille de réinitialisation des propriétés CSS|

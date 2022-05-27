@@ -97,6 +97,7 @@ button, input, select, textarea
     border:1px solid #aaa;
     border-radius:0;
     font:inherit;
+    margin:0;
 }
 
 @media(prefers-reduced-motion:reduce)

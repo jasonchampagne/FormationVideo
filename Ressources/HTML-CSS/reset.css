@@ -1,3 +1,27 @@
+/*-----------------------------------------
+-------------------------------------------
+*
+{
+    scrollbar-width:thin;
+    scrollbar-color:#5cb3ff #343c5a;
+}
+*::-webkit-scrollbar
+{
+    width:8px;
+}
+*::-webkit-scrollbar-track
+{
+    background:#343c5a;
+}
+*::-webkit-scrollbar-thumb
+{
+    background-color:#5cb3ff;
+}
+-------------------------------------------
+-----------------------------------------*/
+
+
+/*======================================== RESET ========================================*/
 #root, #__next
 {
     isolation:isolate;
@@ -84,6 +108,11 @@ abbr[title]
     border-bottom:2px dotted #000;
     cursor:help;
     text-decoration:none;
+}
+
+button:focus, input:focus, select:focus, textarea:focus
+{
+    outline:2px solid #4c7cf5;
 }
 
 button, input, select, textarea

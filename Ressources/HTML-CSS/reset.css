@@ -1,27 +1,3 @@
-/*-----------------------------------------
--------------------------------------------
-*
-{
-    scrollbar-width:thin;
-    scrollbar-color:#5cb3ff #343c5a;
-}
-*::-webkit-scrollbar
-{
-    width:8px;
-}
-*::-webkit-scrollbar-track
-{
-    background:#343c5a;
-}
-*::-webkit-scrollbar-thumb
-{
-    background-color:#5cb3ff;
-}
--------------------------------------------
------------------------------------------*/
-
-
-/*======================================== RESET ========================================*/
 #root, #__next
 {
     isolation:isolate;

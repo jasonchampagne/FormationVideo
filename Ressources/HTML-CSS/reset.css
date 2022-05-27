@@ -93,6 +93,9 @@ button:focus, input:focus, select:focus, textarea:focus
 
 button, input, select, textarea
 {
+    background-color:#fff;
+    border:1px solid #aaa;
+    border-radius:0;
     font:inherit;
 }
 

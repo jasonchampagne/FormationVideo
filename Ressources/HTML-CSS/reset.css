@@ -52,6 +52,15 @@ a:not([class])
     text-decoration-skip-ink:auto;
 }
 
+q::before
+{
+    content:'« ';
+}
+q::after
+{
+    content:' »';
+}
+
 ol[role='list'], ul[role='list']
 {
     list-style:none;

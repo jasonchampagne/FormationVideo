@@ -544,7 +544,10 @@ Ce long mot sera tronqué : aaaaaaaaaaaaaaa<wbr>aaaaaaaaaaa
 + `<frameset>`
 + `<hgroup>`
 + `<keygen>`
++ `<menu>`
++ `<menuitem>`
 + `<noframes>`
++ `<shadow>`
 + `<strike>`
 + `<tt>`
 + `<u>`

@@ -13,16 +13,6 @@ html:focus-within
     scroll-behavior:smooth;
 }
 
-/*
-@media (prefers-reduced-motion: no-preference)
-{
-    :root
-    {
-        scroll-behavior:smooth;
-    }
-}
-*/
-
 html, body, #__next
 {
     min-height:100%;

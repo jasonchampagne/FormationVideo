@@ -13,6 +13,16 @@ html:focus-within
     scroll-behavior:smooth;
 }
 
+/*
+@media (prefers-reduced-motion: no-preference)
+{
+    :root
+    {
+        scroll-behavior:smooth;
+    }
+}
+*/
+
 html, body, #__next
 {
     min-height:100%;
@@ -45,6 +55,10 @@ h1, h2, h3, h4, h5, h6, p
 a
 {
     color:#4c7cf5;
+}
+a:visited
+{
+    color:#8d4cf5;
 }
 
 a:not([class])
@@ -93,7 +107,6 @@ button:focus, input:focus, select:focus, textarea:focus
 
 button, input, select, textarea
 {
-    background-color:#eee;
     border:1px solid #aaa;
     border-radius:0;
     font:inherit;

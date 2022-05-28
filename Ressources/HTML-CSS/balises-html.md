@@ -538,6 +538,7 @@ Ce long mot sera tronqué : aaaaaaaaaaaaaaa<wbr>aaaaaaaaaaa
 + `<big>`
 + `<center>`
 + `<command>`
++ `<content>`
 + `<dir>`
 + `<font>`
 + `<frame>`

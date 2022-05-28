@@ -22,3 +22,4 @@
 + [13. Nettoyage et maintenance](https://www.youtube.com/watch?v=md-2nQlpQEo)
 + [14. Gestionnaire des tâches](https://www.youtube.com/watch?v=0AA0eOGKcDc)
 + [15. Gestion supports de stockage](https://www.youtube.com/watch?v=2lf7zkxMuOE)
++ [16. Impression et numérisation](#)

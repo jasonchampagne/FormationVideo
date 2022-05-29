@@ -4,7 +4,9 @@
 
 Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents projets réalisés par la communauté.
 
-## Tomo (en cours)
+## Tomo
+
+🛑 Ce projet a été stoppé
 
 + [0. Annonce du 17/04/2020](https://www.twitch.tv/videos/595056190)
 + [1. Session du 23/04/2020](https://www.twitch.tv/videos/600654452)

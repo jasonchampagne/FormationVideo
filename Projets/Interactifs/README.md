@@ -2,7 +2,7 @@
 
 > [**Sujet du projet**](https://github.com/jasonchampagne/FormationVideo/blob/master/Projets/Interactifs/01-tomo.pdf)
 
-Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents projets réalisés par la communauté.
+Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents projets tenus par la communauté.
 
 ## Tomo
 

@@ -12,4 +12,4 @@
 |exo-4|Corrigé de l'exercice n°4|
 |exo-5|Corrigé de l'exercice n°5|
 |proprietes-css|Liste de propriétés CSS|
-|reset|Réinitialisation des balises HTML et mise en forme par défaut|
+|harmonize|Réinitialisation des balises HTML et mise en forme par défaut|

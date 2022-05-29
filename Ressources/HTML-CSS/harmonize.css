@@ -1,0 +1,244 @@
+@-ms-viewport
+{
+    width:device-width;
+}
+
+#root, #__next
+{
+    isolation:isolate;
+}
+
+*, *::before, *::after
+{
+    box-sizing:border-box;
+}
+
+html:focus-within
+{
+    scroll-behavior:smooth;
+}
+
+html, body, #__next
+{
+    min-height:100%;
+}
+
+body
+{
+    background-color:var(--color-body);
+    font-family:var(--font-sans-serif);
+    font-size:1rem;
+    font-weight:400;
+    line-height:1.5;
+}
+
+blockquote, body, button, dd, dl, figure, h1, h2, h3, h4, h5, h6, input, p, select, textarea
+{
+    margin:0;
+}
+
+canvas, iframe, img, picture, svg, video
+{
+    max-width:100%;
+}
+
+canvas, img, picture, svg, video
+{
+    display:block;
+}
+
+h1, h2, h3, h4, h5, h6, p
+{
+    overflow-wrap:break-word;
+}
+
+address, details, p
+{
+    margin-bottom:var(--space-sm);
+}
+
+hr
+{
+    border:1px solid #bbb;
+}
+
+a
+{
+    color:var(--color-link);
+}
+a:visited
+{
+    color:var(--color-link-visited);
+}
+
+a:not([class])
+{
+    text-decoration-skip-ink:auto;
+}
+
+mark
+{
+    background-color:var(--color-mark);
+    padding:2px 5px 2px 5px;
+}
+
+kbd, samp
+{
+    border-radius:3px;
+    font-size:90%;
+    padding:3px 5px 3px 5px;
+}
+
+kbd
+{
+    background-color:#eee;
+    border:1px solid #888;
+    font-weight:600;
+}
+
+samp
+{
+    background-color:#333;
+    color:var(--color-white);
+}
+
+abbr[title]
+{
+    border-bottom:2px dotted var(--color-black);
+    cursor:help;
+    text-decoration:none;
+}
+
+blockquote
+{
+    background-color:#eee;
+    font-style:italic;
+    margin:var(--space-sm);
+    padding:var(--space-sm);
+}
+
+q::before
+{
+    content:'« ';
+}
+q::after
+{
+    content:' »';
+}
+
+/*------------------------*/
+/* details et summary ici */
+/*------------------------*/
+
+address
+{
+    font-style:normal;
+}
+
+ol[role='list'], ul[role='list']
+{
+    list-style:none;
+}
+
+dt
+{
+    font-weight:bold;
+}
+
+dd
+{
+    margin-bottom:.5rem;
+}
+
+sub, sup
+{
+    font-size:75%;
+    line-height:0;
+    position:relative;
+}
+
+code, pre
+{
+    font-family:var(--font-monospace);
+    font-size:var(--space-sm);
+}
+
+pre
+{
+    overflow:auto;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+
+caption
+{
+    caption-side:bottom;
+    font-style:italic;
+}
+
+button, fieldset, input[type="submit"], td, th
+{
+    border:1px solid #000;
+}
+
+datalist, input, select, textarea
+{
+    width:100%;
+}
+
+button, input, select, textarea
+{
+    border:1px solid #aaa;
+    border-radius:0;
+    font:inherit;
+}
+
+textarea
+{
+    resize:vertical;
+}
+
+button:focus, input:focus, select:focus, textarea:focus
+{
+    outline:2px solid var(--color-input-outline);
+}
+
+datalist:disabled, input:disabled, select:disabled, textarea:disabled
+{
+    background-color:#eee;
+    cursor:not-allowed;
+}
+
+button:not(:disabled), summary, [type=button]:not(:disabled), [type=submit]:not(:disabled), [type=reset]:not(:disabled)
+{
+    cursor:pointer;
+}
+
+[type="button"], [type="checkbox"], [type="radio"], [type="reset"], [type="submit"]
+{
+    width:initial;
+}
+
+[type="color"]
+{
+    width:var(--space-md);
+}
+
+@media(prefers-reduced-motion:reduce)
+{
+    html:focus-within
+    {
+        scroll-behavior:auto;
+    }
+
+    *, *::before, *::after
+    {
+        animation-duration:0.01ms !important;
+        animation-iteration-count:1 !important;
+        scroll-behavior:auto !important;
+        transition-duration:0.01ms !important;
+    }
+}

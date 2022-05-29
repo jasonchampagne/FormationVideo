@@ -6,7 +6,7 @@ Retrouvez ci-dessous la rediffusion des lives (sessions) sur les différents pro
 
 ## Tomo
 
-🛑 Ce projet a été stoppé, voici le dernier [code source]([./tomo-src.zip](https://github.com/jasonchampagne/FormationVideo/raw/master/Projets/Interactifs/tomo-src.zip).
+🛑 Ce projet a été stoppé, voici le dernier [code source](https://github.com/jasonchampagne/FormationVideo/raw/master/Projets/Interactifs/tomo-src.zip).
 
 + [0. Annonce du 17/04/2020](https://www.twitch.tv/videos/595056190)
 + [1. Session du 23/04/2020](https://www.twitch.tv/videos/600654452)

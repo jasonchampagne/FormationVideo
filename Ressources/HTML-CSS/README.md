@@ -11,5 +11,5 @@
 |exo-2|Corrigé de l'exercice n°2|
 |exo-4|Corrigé de l'exercice n°4|
 |exo-5|Corrigé de l'exercice n°5|
-|proprietes-css|Liste de propriétés CSS|
 |harmonize|Réinitialisation des balises HTML et mise en forme par défaut|
+|proprietes-css|Liste de propriétés CSS|

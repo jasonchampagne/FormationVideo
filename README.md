@@ -97,7 +97,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 
 |TYPE|CONTENUS|
 |:--|:--|
-|Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Développement : Visual Studio, Eclipse<br>Infographie : Krita, Photoshop, GIMP, Inkscape, Mypaint<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, OBS Studio, Wireshark|
+|Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Développement : Visual Studio, Eclipse<br>Infographie : Krita, Photoshop, GIMP, Inkscape, Mypaint<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, OBS Studio, Podman, Wireshark|
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, wxWidgets|
 |CMS|Joomla, phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue.js|

@@ -130,14 +130,9 @@ button, input, select, textarea
 
 /*----- Mise en forme par défaut ------------------------------------*/
 
-h1, h2, h3, h4, h5, h6
-{
-    margin-bottom:1.5rem;
-}
-
 p
 {
-    margin:1rem 0 1rem 0;
+    margin-bottom:1rem;
 }
 
 hr

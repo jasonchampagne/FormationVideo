@@ -8,4 +8,4 @@
 **🔢 indique que la vidéo est chapitrée**
 
 + [Identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo)
-+ [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)
++ [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8) 🔢

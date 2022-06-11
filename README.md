@@ -50,7 +50,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||C#|[21](Playlists/csharp-cours.md)|||
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
 ||Java|[28](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
-||JavaScript|[13](Playlists/javascript-cours.md)|||
+||JavaScript|[14](Playlists/javascript-cours.md)|||
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)||
 |✅|Python|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
 |✅|SQL|[22](Playlists/sql-cours.md)|||

@@ -1,5 +1,7 @@
 :root
 {
+    --color-black:#000;
+    --color-white:#fff;
     --color-a:#4c7cf5;
     --color-a-visited:#8d4cf5;
     --font-sans-serif:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue','Noto Sans','Liberation Sans',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
@@ -61,7 +63,7 @@ h1, h2, h3, h4, h5, h6, p
 
 hr
 {
-    border:1px solid #bbb;
+    border:1px solid var(--color-black);
 }
 
 a
@@ -78,39 +80,11 @@ a:not([class])
     text-decoration-skip-ink:auto;
 }
 
-kbd, samp
-{
-    border-radius:3px;
-    font-size:90%;
-    padding:3px 5px 3px 5px;
-}
-
-kbd
-{
-    background-color:#eee;
-    border:1px solid #888;
-    font-weight:600;
-}
-
-samp
-{
-    background-color:#333;
-    color:var(--color-white);
-}
-
 abbr[title]
 {
     border-bottom:2px dotted var(--color-black);
     cursor:help;
     text-decoration:none;
-}
-
-blockquote
-{
-    background-color:#eee;
-    font-style:italic;
-    margin:var(--space-sm);
-    padding:var(--space-sm);
 }
 
 q::before
@@ -132,16 +106,6 @@ ol[role='list'], ul[role='list']
     list-style:none;
 }
 
-dt
-{
-    font-weight:bold;
-}
-
-dd
-{
-    margin-bottom:.5rem;
-}
-
 sub, sup
 {
     font-size:75%;
@@ -152,7 +116,6 @@ sub, sup
 code, pre
 {
     font-family:var(--font-monospace);
-    font-size:var(--space-sm);
 }
 
 pre
@@ -171,36 +134,13 @@ caption
     font-style:italic;
 }
 
-button, fieldset, input[type="submit"], td, th
-{
-    border:1px solid #000;
-}
-
-datalist, input, select, textarea
-{
-    width:100%;
-}
-
 button, input, select, textarea
 {
-    border:1px solid #aaa;
-    border-radius:0;
     font:inherit;
-}
-
-textarea
-{
-    resize:vertical;
-}
-
-button:focus, input:focus, select:focus, textarea:focus
-{
-    outline:2px solid var(--color-input-outline);
 }
 
 datalist:disabled, input:disabled, select:disabled, textarea:disabled
 {
-    background-color:#eee;
     cursor:not-allowed;
 }
 

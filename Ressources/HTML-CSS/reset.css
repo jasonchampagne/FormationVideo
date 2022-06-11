@@ -1,3 +1,11 @@
+:root
+{
+    --color-a:#4c7cf5;
+    --color-a-visited:#8d4cf5;
+    --font-sans-serif:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue','Noto Sans','Liberation Sans',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    --font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,'Liberation Mono','Courier New',monospace;
+}
+
 @-ms-viewport
 {
     width:device-width;
@@ -25,7 +33,6 @@ html, body, #__next
 
 body
 {
-    background-color:var(--color-body);
     font-family:var(--font-sans-serif);
     font-size:1rem;
     font-weight:400;
@@ -52,11 +59,6 @@ h1, h2, h3, h4, h5, h6, p
     overflow-wrap:break-word;
 }
 
-address, details, p
-{
-    margin-bottom:var(--space-sm);
-}
-
 hr
 {
     border:1px solid #bbb;
@@ -64,22 +66,16 @@ hr
 
 a
 {
-    color:var(--color-link);
+    color:var(--color-a);
 }
 a:visited
 {
-    color:var(--color-link-visited);
+    color:var(--color-a-visited);
 }
 
 a:not([class])
 {
     text-decoration-skip-ink:auto;
-}
-
-mark
-{
-    background-color:var(--color-mark);
-    padding:2px 5px 2px 5px;
 }
 
 kbd, samp
@@ -125,10 +121,6 @@ q::after
 {
     content:' »';
 }
-
-/*------------------------*/
-/* details et summary ici */
-/*------------------------*/
 
 address
 {
@@ -217,14 +209,9 @@ button:not(:disabled), summary, [type=button]:not(:disabled), [type=submit]:not(
     cursor:pointer;
 }
 
-[type="button"], [type="checkbox"], [type="radio"], [type="reset"], [type="submit"]
+[type="button"], [type="color"], [type="checkbox"], [type="radio"], [type="reset"], [type="submit"]
 {
     width:initial;
-}
-
-[type="color"]
-{
-    width:var(--space-md);
 }
 
 @media(prefers-reduced-motion:reduce)

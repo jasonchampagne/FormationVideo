@@ -47,7 +47,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||Assembleur|[5](Playlists/assembleur-cours.md)|||
 |✅|C|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
 ||C++|[8](Playlists/cpp-cours.md)|||
-||C#|[21](Playlists/csharp-cours.md)|||
+||C#|[21](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)||
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
 ||Java|[28](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
 ||JavaScript|[14](Playlists/javascript-cours.md)|||

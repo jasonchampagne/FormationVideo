@@ -9,7 +9,7 @@
 
 + [1. Introduction](https://www.youtube.com/watch?v=f3UVQPbw32w) 🔢
 + [2. Premier programme](https://www.youtube.com/watch?v=FjG4HYo-Jm0) 🔢
-+ [3. Affichage console](https://www.youtube.com/watch?v=lS4sXuTXkyI)
++ [3. Affichage console](https://www.youtube.com/watch?v=lS4sXuTXkyI) 🔢
 + [4. Variables](https://www.youtube.com/watch?v=3exIzj5MYzU)
 + [5. Saisie utilisateur](https://www.youtube.com/watch?v=tkCCUzIErNU)
 + [6. Opérations](https://www.youtube.com/watch?v=CZ03XvQySsY)

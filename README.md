@@ -101,7 +101,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
 |CMS|Joomla, phpBB, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
-|Langages|LaTeX, Lua, Ruby, Rust, Visual Basic, XML|
+|Langages|LaTeX, Lua, Ruby, Rust, XML|
 |Langues|anglais, français, chinois, coréen|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD, MacOS, iOS|

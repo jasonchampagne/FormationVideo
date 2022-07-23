@@ -93,7 +93,7 @@ section .text
 
 		add rsp, 32+8
 
-		xor ecx, ecx
+		xor rcx, rcx
 		call ExitProcess
 ```
 ```powershell

@@ -8,6 +8,7 @@
 **🔢 indique que la vidéo est chapitrée**
 
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
++ [Bibliothèque dynamique](#) 🔢
 + [Bibliothèque statique](https://www.youtube.com/watch?v=osxzRLjHDNY) 🔢
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
 + [C'est quoi le meilleur ?](https://www.youtube.com/watch?v=YLR_rMc0Rps)

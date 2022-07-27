@@ -12,4 +12,4 @@
 + [3. Structure d'un programme](https://www.youtube.com/watch?v=sS_1SyDqVV8) 🔢
 + [4. Conventions d'appel](https://www.youtube.com/watch?v=ZpeMivhWuic) 🔢
 + [5. Variables](https://www.youtube.com/watch?v=CIzKfH8Jtco) 🔢
-+ 6. Lecture au clavier 🔢
++ Lecture au clavier 🔢

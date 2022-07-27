@@ -44,7 +44,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Assembleur|[5](Playlists/assembleur-cours.md)|||
+||Assembleur|[6](Playlists/assembleur-cours.md)|||
 |✅|C|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
 ||C++|[10](Playlists/cpp-cours.md)|||
 ||C#|[22](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)||

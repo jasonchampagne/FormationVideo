@@ -8,7 +8,7 @@
 **🔢 indique que la vidéo est chapitrée**
 
 + [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8)
-+ [Arguments fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)
++ [Arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)
 + [Fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E)
 + [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk)
 + [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)

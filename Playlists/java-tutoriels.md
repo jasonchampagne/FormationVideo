@@ -8,4 +8,4 @@
 **🔢 indique que la vidéo est chapitrée**
 
 + [Annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
-+ [Créer exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)
++ [Créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)

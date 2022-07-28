@@ -21,5 +21,5 @@
 + [Itérateurs](https://www.youtube.com/watch?v=H9FIOc-bIHU)
 + [Liste en compréhension](https://www.youtube.com/watch?v=Vf9Wwa1CGgk)
 + [Méthodes spéciales](https://www.youtube.com/watch?v=XxUasK8f-s0)
-+ [Portée variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
++ [Portée des variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
 + [Tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)

@@ -57,8 +57,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Systèmes
 
-> _Le dernier chapitre du cours GNU/Linux aborde l'écriture de scripts Bash_<br>
-> _Le dernier chapitre du cours Windows abordera l'écriture de scripts PowerShell_
+> _Un chapitre du cours GNU/Linux aborde l'écriture de scripts Bash_<br>
+> _Un chapitre du cours Windows abordera l'écriture de scripts PowerShell_
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

@@ -15,7 +15,7 @@
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
 + [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
 + [Doxygen - générer de la documentation](https://www.youtube.com/watch?v=3uAuexgarD4)
-+ [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
++ [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50) 🔢
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [GCC - compilation en C/C++](https://www.youtube.com/watch?v=gr44z0Fyx_Y)
 + [Git - gérer plusieurs versions de fichiers](https://www.youtube.com/watch?v=CEb_JM_hsFw&)

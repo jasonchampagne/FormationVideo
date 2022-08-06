@@ -23,3 +23,4 @@
 + [14. Gestionnaire des tâches](https://www.youtube.com/watch?v=0AA0eOGKcDc)
 + [15. Gestion supports de stockage](https://www.youtube.com/watch?v=2lf7zkxMuOE)
 + [16. Raccourcis clavier](https://www.youtube.com/watch?v=SlcOSZQZaPY) 🔢
++ [17. Ligne de commande (PowerShell)](https://www.youtube.com/watch?v=EGMR9MntT80) 🔢

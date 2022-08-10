@@ -12,3 +12,4 @@
 + [3. Création d'une application](https://www.youtube.com/watch?v=t1B3NocLLWY) 🔢
 + [4. Chargement d'un gabarit](https://www.youtube.com/watch?v=82M_yuQ3CAY) 🔢
 + [5. Fichiers statiques](https://www.youtube.com/watch?v=_jfryi6pEOM) 🔢
++ [6. Balises et filtres (1/2)](https://www.youtube.com/watch?v=xNPiqBCftc8) 🔢

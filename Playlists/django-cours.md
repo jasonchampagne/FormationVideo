@@ -13,3 +13,4 @@
 + [4. Chargement d'un gabarit](https://www.youtube.com/watch?v=82M_yuQ3CAY) 🔢
 + [5. Fichiers statiques](https://www.youtube.com/watch?v=_jfryi6pEOM) 🔢
 + [6. Balises et filtres (1/2)](https://www.youtube.com/watch?v=xNPiqBCftc8) 🔢
++ [7. Balises et filtres (2/2)](https://www.youtube.com/watch?v=VYQwO7XctOQ) 🔢

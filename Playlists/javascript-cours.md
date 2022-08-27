@@ -22,3 +22,4 @@
 + [13. Chaînes de caractères](https://www.youtube.com/watch?v=x87WIDfPtG8)
 + [14. Tableaux](https://www.youtube.com/watch?v=8JosoQnWbag) 🔢
 + [15. Dates](https://www.youtube.com/watch?v=hibxWv9vrvc) 🔢
++ [16. Ensembles](https://www.youtube.com/watch?v=0OO_JbiKQHA) 🔢

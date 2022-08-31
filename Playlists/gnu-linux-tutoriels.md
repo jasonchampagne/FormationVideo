@@ -8,4 +8,5 @@
 **🔢 indique que la vidéo est chapitrée**
 
 + [Identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo) 🔢
++ [Installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ) 🔢
 + [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8) 🔢

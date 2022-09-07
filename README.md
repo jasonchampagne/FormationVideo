@@ -28,6 +28,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |:--:|:--:|:--:|
 |Aide|Guides et vidéos explicatives sur des sujets généraux de la chaîne|[30](Playlists/aide.md)|
 |Blabla|Réaction à des commentaires d'abonnés|[1](Playlists/blabla.md)|
+|Partenariats|Vidéos promotionnelles et sponsors||
 |SAV|Dépannage sur des problèmes récurrents|[9](Playlists/sav.md)|
 |Témoignages|Appels à témoins sur des problèmes d'internautes|[2](Playlists/temoignages.md)|
 

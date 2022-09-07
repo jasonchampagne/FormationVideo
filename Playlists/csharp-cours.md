@@ -29,3 +29,4 @@
 + [20. Chaînes de caractères](https://www.youtube.com/watch?v=5nK49CWxpDc)
 + [21. Espaces de noms](https://www.youtube.com/watch?v=rM5BbdxR9pk) 🔢
 + [22. Fichiers](https://www.youtube.com/watch?v=R_X_nusMKgM) 🔢
++ [23. Dates et temps (1/2)](https://www.youtube.com/watch?v=i8dqXQpXs5w) 🔢

@@ -1,6 +1,6 @@
 # Partenariats
 
-> [PLAYLIST YOUTUBE](#)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)
 
 ---
 

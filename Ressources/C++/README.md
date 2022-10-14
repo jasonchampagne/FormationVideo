@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|surcharge-operateurs|Surcharge des opérateurs|
 |types-fondamentaux|Liste des types fondamentaux|

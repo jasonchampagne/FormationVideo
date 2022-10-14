@@ -31,8 +31,13 @@ struct Point
   int y
 };
 
-bool operator==(const Point& a, const Point& b)
+bool operator==(const Point& p1, const Point& p2)
 {
-  return (a.x == b.x && a.y == b.y);
+  return (p1.x == p2.x && p1.y == p2.y);
+}
+
+std::ostream& operator<<(std::ostream& os, const Point& p)
+{
+    return os << "(" << p.x << ", " << p.x << ")";
 }
 ```

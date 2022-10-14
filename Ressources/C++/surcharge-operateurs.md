@@ -1,4 +1,4 @@
-# Surcharge d'opérateurs
+# Surcharge des opérateurs
 
 ## Prototypes
 

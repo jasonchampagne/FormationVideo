@@ -22,3 +22,4 @@
 + [13. Fichiers](https://www.youtube.com/watch?v=s98HCale71U) 🔢
 + [14. Espaces de noms](https://www.youtube.com/watch?v=vMrIyb6PhwM) 🔢
 + [15. Structures](https://www.youtube.com/watch?v=vMrIyb6PhwM) 🔢
++ [16. Classes et objets](https://www.youtube.com/watch?v=sFdFzlbMKVs) 🔢

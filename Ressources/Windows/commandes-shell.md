@@ -3,22 +3,9 @@
 |CMDLET|POWERSHELL|DOS|DESCRIPTION|
 |:--:|:--:|:--:|:--|
 |`Get-ChildItem`|`ls`|`dir`|Lister le contenu d'un répertoire|
-|``|``|``||
-|``|``|``||
-|``|``|``||
-|``|``|``||
-|``|``|``||
-
-|NOM|DESCRIPTION|BATCH|POWERSHELL|
-|:--:|:--|:--:|:--:|
-|**cd**|Changer de répertoire|🟢|🟢|
-|**clear**|Effacer le terminal||🟢|
-|**cls**|Effacer le terminal|🟢|🟢|
-|**dir**|Lister (afficher) le contenu d'un répertoire|🟢|🟢|
-|**exit**|Fermer le script, sous-programme ou terminal en cours|🟢|🟢|
-|**ls**|Lister (afficher) le contenu d'un répertoire||🟢|
-|**ver**|Afficher le numéro de version du système|🟢||
-|**winver**|Afficher la version du système (pop-up)|🟢|🟢|
+|`Set-Location`|`cd`|`cd`|Changer de répertoire|
+|`Clear-Host`|`clear`|`cls`|Effacer le terminal|
+|`Write-Output`|`echo`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
 
 ## Commandes à éviter
 

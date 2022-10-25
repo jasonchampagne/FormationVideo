@@ -1,5 +1,7 @@
 # Commandes Shell
 
+> _Un **élément** peut être un répertoire, un fichier, un alias, une variable, une fonction, etc._
+
 |APPLET DE COMMANDE|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|

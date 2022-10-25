@@ -1,6 +1,6 @@
 # Commandes Shell
 
-|CMDLET|ALIAS||DESCRIPTION|
+|CMDLET|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
 |`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
 |`Set-Location`|`cd`, `chdir`|Changer de répertoire|

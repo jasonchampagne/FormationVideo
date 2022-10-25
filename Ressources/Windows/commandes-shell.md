@@ -1,7 +1,7 @@
 # Commandes Shell
 
-|CMDLET|ALIAS (POWERSHELL, DOS)||DESCRIPTION|
-|:--:|:--:|:--:|:--|
+|CMDLET|ALIAS||DESCRIPTION|
+|:--:|:--:|:--|
 |`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
 |`Set-Location`|`cd`, `chdir`|Changer de répertoire|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|

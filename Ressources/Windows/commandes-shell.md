@@ -3,7 +3,7 @@
 |CMDLET|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
 |`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
-|`Set-Location`|`cd`, `chdir`|Changer de répertoire|
+|`Set-Location`|`cd`, `chdir`|Changer de répertoire ou afficher le répertoire courant|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
 |`Copy-Item`|`copy`, `cp`|Copier un ou plusieurs fichiers d'un emplacement à un autre|
 |`Write-Output`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|

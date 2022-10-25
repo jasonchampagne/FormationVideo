@@ -5,7 +5,7 @@
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
 |`Copy-Item`|`copy`, `cp`|Copier un ou plusieurs fichiers d'un emplacement à un autre|
 |`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
-|`Remove-Item`|`del`|Supprimer un élément (fichier, répertoire, variable, fonction, ...)|
+|`Remove-Item`|`del`, `erase`, `ri`, `rm`|Supprimer un élément (fichier, répertoire, variable, fonction, ...)|
 |`Set-Location`|`cd`, `chdir`|Changer de répertoire|
 |`Write-Output`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
 

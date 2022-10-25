@@ -1,11 +1,11 @@
 # Commandes Shell
 
-|CMDLET|POWERSHELL|DOS|DESCRIPTION|
+|CMDLET|ALIAS (POWERSHELL, DOS)||DESCRIPTION|
 |:--:|:--:|:--:|:--|
-|`Get-ChildItem`|`ls`|`dir`|Lister le contenu d'un répertoire|
-|`Set-Location`|`cd`|`cd`|Changer de répertoire|
-|`Clear-Host`|`clear`|`cls`|Effacer le terminal|
-|`Write-Output`|`echo`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
+|`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
+|`Set-Location`|`cd`, `chdir`|Changer de répertoire|
+|`Clear-Host`|`clear`, `cls`|Effacer le terminal|
+|`Write-Output`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
 
 ## Commandes à éviter
 

@@ -5,7 +5,7 @@
 |APPLET DE COMMANDE|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
-|`Copy-Item`|`copy`, `cp`, `cpi`|Copier un ou plusieurs fichiers d'un emplacement à un autre|
+|`Copy-Item`|`copy`, `cp`, `cpi`|Copier un ou plusieurs éléments d'un emplacement à un autre|
 |`Get-ChildItem`|`gci`, `ls`, `dir`|Lister le contenu d'un répertoire|
 |`Get-Content`|`cat`, `gc`, `type`|Récupérer le contenu d'un élément|
 |`Remove-Item`|`del`, `erase`, `rd`, `ri`, `rm`, `rmdir`|Supprimer un élément (fichier, répertoire, variable, fonction, ...)|

@@ -1,5 +1,14 @@
 # Commandes Shell
 
+|CMDLET|POWERSHELL|DOS|DESCRIPTION|
+|:--:|:--:|:--:|:--|
+|`Get-ChildItem`|`ls`|`dir`|Lister le contenu d'un répertoire|
+|``|``|``||
+|``|``|``||
+|``|``|``||
+|``|``|``||
+|``|``|``||
+
 |NOM|DESCRIPTION|BATCH|POWERSHELL|
 |:--:|:--|:--:|:--:|
 |**cd**|Changer de répertoire|🟢|🟢|

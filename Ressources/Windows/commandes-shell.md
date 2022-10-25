@@ -3,7 +3,7 @@
 |CMDLET|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
-|`Copy-Item`|`copy`, `cp`|Copier un ou plusieurs fichiers d'un emplacement à un autre|
+|`Copy-Item`|`copy`, `cp`, `cpi`|Copier un ou plusieurs fichiers d'un emplacement à un autre|
 |`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
 |`Remove-Item`|`del`, `erase`, `rd`, `ri`, `rm`, `rmdir`|Supprimer un élément (fichier, répertoire, variable, fonction, ...)|
 |`Set-Location`|`cd`, `chdir`|Changer de répertoire|

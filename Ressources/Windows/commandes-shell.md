@@ -1,6 +1,6 @@
 # Commandes Shell
 
-|CMDLET|ALIAS|DESCRIPTION|
+|APPLET DE COMMANDE|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
 |`Copy-Item`|`copy`, `cp`, `cpi`|Copier un ou plusieurs fichiers d'un emplacement à un autre|

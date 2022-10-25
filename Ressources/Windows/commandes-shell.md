@@ -2,10 +2,10 @@
 
 |CMDLET|ALIAS|DESCRIPTION|
 |:--:|:--:|:--|
-|`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
-|`Set-Location`|`cd`, `chdir`|Changer de répertoire|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
 |`Copy-Item`|`copy`, `cp`|Copier un ou plusieurs fichiers d'un emplacement à un autre|
+|`Get-ChildItem`|`ls`, `dir`|Lister le contenu d'un répertoire|
+|`Set-Location`|`cd`, `chdir`|Changer de répertoire|
 |`Write-Output`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
 
 ## Commandes à éviter

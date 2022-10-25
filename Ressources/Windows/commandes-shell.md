@@ -7,7 +7,7 @@
 |`Get-ChildItem`|`gci`, `ls`, `dir`|Lister le contenu d'un répertoire|
 |`Remove-Item`|`del`, `erase`, `rd`, `ri`, `rm`, `rmdir`|Supprimer un élément (fichier, répertoire, variable, fonction, ...)|
 |`Set-Location`|`cd`, `chdir`, `sl`|Changer de répertoire|
-|`Write-Output`|`echo`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
+|`Write-Output`|`echo`, `write`|Afficher des messages ou activer/désactiver la fonction d'affichage des commandes|
 
 ## Commandes à éviter
 

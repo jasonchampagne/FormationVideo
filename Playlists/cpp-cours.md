@@ -25,3 +25,4 @@
 + [16. Classes et objets](https://www.youtube.com/watch?v=sFdFzlbMKVs) 🔢
 + [17. Atributs et méthodes](https://www.youtube.com/watch?v=a0_xBdcLd0Y) 🔢
 + [18. Encapsulation](https://www.youtube.com/watch?v=50ChszaNyMU) 🔢
++ [19. Héritage](https://www.youtube.com/watch?v=Z1R-q8mlGbs) 🔢

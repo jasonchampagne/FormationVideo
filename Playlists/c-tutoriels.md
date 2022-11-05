@@ -5,12 +5,12 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢 indique que la vidéo est chapitrée**
+**🖍 indique que la vidéo doit encore être chapitrée**
 
-+ [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8)
-+ [Arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)
-+ [Fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E)
-+ [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk)
-+ [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
-+ [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
-+ [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)
++ [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8) 🖍
++ [Arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI) 🖍
++ [Fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E) 🖍
++ [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk) 🖍
++ [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw) 🖍
++ [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc) 🖍
++ [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0) 🖍

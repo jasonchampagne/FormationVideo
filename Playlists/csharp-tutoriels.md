@@ -5,6 +5,5 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢 indique que la vidéo est chapitrée**
 
-+ [Projets et solutions](https://www.youtube.com/watch?v=HaDML4J3Wzg) 🔢
++ [Projets et solutions](https://www.youtube.com/watch?v=HaDML4J3Wzg)

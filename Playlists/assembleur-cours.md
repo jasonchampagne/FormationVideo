@@ -4,7 +4,7 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
+**🌐 indicates that the video is subtitled in English**
 
 + [1. Introduction](https://www.youtube.com/watch?v=fvtd2Ut3MHw)
 + [2. Dis bonjour !](https://www.youtube.com/watch?v=22UPjfgyRzI)

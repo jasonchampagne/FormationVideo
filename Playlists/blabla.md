@@ -5,6 +5,6 @@
 ---
 
 **🌐 indicates that the video is subtitled in English**<br>
-**🔢 indique que la vidéo est chapitrée**
+**🖍 indique que la vidéo doit encore être chapitrée**
 
-+ [Pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
++ [Pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k) 🖍

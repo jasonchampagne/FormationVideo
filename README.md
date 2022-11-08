@@ -89,7 +89,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Les restes du monde
 
-+ [Vidéos archivées](Playlists/archives.md)
++ [Vidéos archivées](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGv7PbZ66B09ewF6kVSEwE_)
 
 ---
 

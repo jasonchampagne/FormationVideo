@@ -31,6 +31,7 @@
 + [Programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I) 🖍
 + [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo) 🖍
 + [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8) 🖍
++ [Programmation par contrat](https://www.youtube.com/watch?v=VpMawX9jIj0)
 + [Programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU) 🖍
 + [Rufus - créer une clé bootable](https://www.youtube.com/watch?v=-wffj0kEqQg) 🖍
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8) 🖍

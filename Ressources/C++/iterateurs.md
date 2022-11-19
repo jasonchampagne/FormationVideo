@@ -1,6 +1,6 @@
 # Itérateurs
 
-|TYPE|CLASSE(S)|ACCÈS|DÉPLACEMENT|OPÉRATEURS SURCHARGÉS|
+|CATÉGORIE|CLASSE(S)|ACCÈS|DÉPLACEMENT|OPÉRATEURS SURCHARGÉS|
 |--:|:--:|:--:|:--:|:--|
 |**Avant**|-|lecture + écriture|avant|`*`, `++`, `==`, `!=`|
 |**Entrée**|`istream`|lecture|avant|`*`, `++`, `==`, `!=`|

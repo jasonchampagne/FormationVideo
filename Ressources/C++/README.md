@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|iterateurs|Types d'itérateurs et fonctionnalités|
 |types-fondamentaux|Liste des types fondamentaux|

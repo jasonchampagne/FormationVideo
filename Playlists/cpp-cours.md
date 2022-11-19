@@ -27,4 +27,4 @@
 + [19. Héritage](https://www.youtube.com/watch?v=Z1R-q8mlGbs)
 + [20. Polymorphisme](https://www.youtube.com/watch?v=ivuuoQSTTPY)
 + [21. Tableaux](https://www.youtube.com/watch?v=051vzqDvx9A)
-+ [22. ???](#)
++ [22. Chaînes de caractères](https://www.youtube.com/watch?v=urA7bqPmMgs)

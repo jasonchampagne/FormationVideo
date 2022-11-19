@@ -5,5 +5,5 @@
 |**Avant**||lecture + écriture|avant|`*`, `++`, `==`, `!=`|
 |**Entrée**|`istream`|lecture|avant|`*`, `++`, `==`, `!=`|
 |**Sortie**|`ostream`|écriture|avant|`*`, `++`, `==`, `!=`|
-|**Bidirectionnel**||lecture + écriture|avant + arrière|`*`, `++`, `--`, `==`, `!=`|
-|**Aléatoire**||lecture + écriture|avant + arrière|`*`, `+`, `++`, `-`, `--`, `==`, `!=`, `<`, `<=`, `>`, `>=`|
+|**Bidirectionnel**|`list`, `map`, `multimap`, `multiset`, `set`|lecture + écriture|avant + arrière|`*`, `++`, `--`, `==`, `!=`|
+|**Aléatoire**|`array`, `deque`, `vector`|lecture + écriture|avant + arrière|`*`, `+`, `++`, `-`, `--`, `==`, `!=`, `<`, `<=`, `>`, `>=`|

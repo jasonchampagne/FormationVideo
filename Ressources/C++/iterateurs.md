@@ -5,5 +5,5 @@
 |**Avant**|lecture + écriture|avant|`*`, `++`|
 |**Entrée**|lecture|avant|`*`, `++`|
 |**Sortie**|écriture|avant|`*`, `++`|
-|**Bidirectionnel**|lecture + écriture|avant + arrière|`*`, `++`|
-|**Aléatoire**|lecture + écriture|avant + arrière|`*`, `+`, `++`, `-`|
+|**Bidirectionnel**|lecture + écriture|avant + arrière|`*`, `++`, `--`|
+|**Aléatoire**|lecture + écriture|avant + arrière|`*`, `+`, `++`, `-`, `--`|

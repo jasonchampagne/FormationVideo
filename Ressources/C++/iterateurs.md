@@ -1,7 +1,7 @@
 # Itérateurs
 
 |TYPE|ACCÈS|DÉPLACEMENT|OPÉRATEURS SURCHARGÉS|
-|--:|:--:|:--:|:--:|
+|--:|:--:|:--:|:--|
 |**Avant**|lecture + écriture|avant|`*`, `++`, `==`, `!=`|
 |**Entrée**|lecture|avant|`*`, `++`, `==`, `!=`|
 |**Sortie**|écriture|avant|`*`, `++`, `==`, `!=`|

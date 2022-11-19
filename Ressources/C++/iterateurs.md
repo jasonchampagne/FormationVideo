@@ -2,8 +2,8 @@
 
 |TYPE|ACCÈS|DÉPLACEMENT|OPÉRATEURS SURCHARGÉS|
 |--:|:--:|:--:|:--:|
-|**Avant**|avant|||
-|**Entrée**|avant|||
-|**Sortie**|avant|||
-|**Bidirectionnel**|avant et arrière|||
-|**Aléatoire**|avant et arrière|||
+|**Avant**|lecture + écriture|avant||
+|**Entrée**|lecture|avant||
+|**Sortie**|écriture|avant||
+|**Bidirectionnel**|lecture + écriture|avant + arrière||
+|**Aléatoire**|lecture + écriture|avant + arrière||

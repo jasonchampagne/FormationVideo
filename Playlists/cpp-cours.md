@@ -32,3 +32,4 @@
 + [24. Listes](https://www.youtube.com/watch?v=Piwp2SICKzE)
 + [25. Cartes associatives](https://www.youtube.com/watch?v=d5KT20vQmQw)
 + [26. Ensembles](https://www.youtube.com/watch?v=fhX4zHN-_gY)
++ [27. ???](#)

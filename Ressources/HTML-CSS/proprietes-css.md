@@ -29,6 +29,10 @@
 > + [list-style-image](#-list-style-image)
 > + [list-style-position](#-list-style-position)
 > + [list-style-type](#-list-style-type)
+> + [max-height](#-max-height)
+> + [max-width](#-max-width)
+> + [min-height](#-min-height)
+> + [min-width](#-min-width)
 > + [text-align](#-text-align)
 > + [text-decoration](#-text-decoration)
 > + [text-decoration-color](#-text-decoration-color)
@@ -281,6 +285,42 @@ list-style-type: decimal;
 list-style-type: disc;
 list-style-type: georgian;
 list-style-type: square;
+```
+
+## 🔵 max-height
+
+```css
+max-height: auto;
+max-height: 50px;
+max-height: 75%;
+max-height: 8em;
+```
+
+## 🔵 max-width
+
+```css
+max-width: auto;
+max-width: 1200px;
+max-width: 100%;
+max-width: 16em;
+```
+
+## 🔵 min-height
+
+```css
+min-height: auto;
+min-height: 20px;
+min-height: 45%;
+min-height: 4em;
+```
+
+## 🔵 min-width
+
+```css
+min-width: auto;
+min-width: 600px;
+min-width: 50%;
+min-width: 8em;
 ```
 
 ## 🔵 text-align

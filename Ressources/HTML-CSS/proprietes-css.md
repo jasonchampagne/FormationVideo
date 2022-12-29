@@ -25,6 +25,7 @@
 > + [text-transform](#-text-transform)
 > + [vertical-align](#-vertical-align)
 > + [white-space](#-white-space)
+> + [word-break](#-word-break)
 > + [word-spacing](#-word-spacing)
 
 ---
@@ -226,6 +227,14 @@ white-space: normal;
 white-space: nowrap;
 white-space: pre;
 white-space: break-spaces;
+```
+
+## 🔵 word-break
+
+```css
+word-break: normal;
+word-break: break-all;
+word-break: keep-all;
 ```
 
 ## 🔵 word-spacing

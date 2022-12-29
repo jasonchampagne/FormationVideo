@@ -48,6 +48,7 @@
 ```css
 background: #000 url(images/bg.jpg) repeat;
 background: url(images/motif.jpg) no-repeat top;
+background: transparent url(images/fond.jpg) top center cover no-repeat scroll;
 ```
 
 ## 🔵 background-attachment

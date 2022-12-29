@@ -17,6 +17,8 @@
 > + [text-decoration-color](#-text-decoration-color)
 > + [text-decoration-line](#-text-decoration-line)
 > + [text-decoration-style](#-text-decoration-style)
+> + [text-shadow](#-text-shadow)
+> + [text-transform](#-text-transform)
 
 ---
 
@@ -147,4 +149,18 @@ text-decoration-style: dashed;
 text-decoration-style: dotted;
 text-decoration-style: solid;
 text-decoration-style: wavy;
+```
+
+## 🔵 text-shadow
+
+```css
+text-shadow: 2px 2px 5px #DDD;
+```
+
+## 🔵 text-transform
+
+```css
+text-transform: capitalize;
+text-transform: uppercase;
+text-transform: lowercase;
 ```

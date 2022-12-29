@@ -134,4 +134,17 @@ text-decoration-color: rgb(255, 0, 0);
 
 ## 🔵 text-decoration-line
 
+```css
+text-decoration-line: underline;
+text-decoration-line: overline;
+text-decoration-line: line-through;
+```
+
 ## 🔵 text-decoration-style
+
+```css
+text-decoration-style: dashed;
+text-decoration-style: dotted;
+text-decoration-style: solid;
+text-decoration-style: wavy;
+```

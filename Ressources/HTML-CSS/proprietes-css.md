@@ -42,7 +42,7 @@ display: grid;
 ## 🔵 font
 
 ```css
-font: italic small-caps bold 20px 20px Tahoma
+font: italic small-caps bold 20px 20px Tahoma;
 ```
 
 ## 🔵 font-family

@@ -43,7 +43,7 @@
 
 ## 🔵 background
 
-+ Association de `background-color`, `background-image`, `background-position`, `background-repeat` et `background-size`.
++ Association de `background-attachment`, `background-clip`, `background-color`, `background-image`, `background-origin`, `background-position`, `background-repeat` et `background-size`.
 
 ```css
 background: #000 url(images/bg.jpg) repeat;

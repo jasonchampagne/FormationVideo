@@ -4,7 +4,7 @@
 
 ---
 > **SOMMAIRE**
-> + [background-color](#-color)
+> + [background-color](#-background-color)
 > + [color](#-color)
 > + [direction](#-direction)
 > + [display](#-display)

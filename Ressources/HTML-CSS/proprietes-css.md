@@ -231,6 +231,7 @@ font-weight: 800;
 height: auto;
 height: 50px;
 height: 75%;
+width: 8em;
 ```
 
 ## 🔵 letter-spacing
@@ -395,8 +396,10 @@ white-space: break-spaces;
 ## 🔵 width
 
 ```css
+width: auto;
 width: 1200px;
 width: 100%;
+width: 16em;
 ```
 
 ## 🔵 word-break

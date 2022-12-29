@@ -13,6 +13,7 @@
 > + [font-variant](#-font-variant)
 > + [font-weight](#-font-weight)
 > + [line-height](#-line-height)
+> + [text-decoration](#-text-decoration)
 
 ---
 
@@ -107,4 +108,12 @@ font-weight: 800;
 line-height: 16px;
 line-height: 160%;
 line-height: 2em;
+```
+
+## 🔵 text-decoration
+
+```css
+text-decoration: underline;
+text-decoration: wavy #FF00AA;
+text-decoration: overline dotted;
 ```

@@ -6,6 +6,8 @@
 > **SOMMAIRE**
 > + [color](#-color)
 > + [display](#-display)
+> + [font-style](#-font-style)
+> + [font-variant](#-font-variant)
 
 ---
 
@@ -30,4 +32,16 @@ display: inline-block;
 
 display: flex;
 display: grid;
+```
+
+## 🔵 font-style
+
+```css
+font-style: italic;
+```
+
+## 🔵 font-variant
+
+```css
+font-variant: small-caps;
 ```

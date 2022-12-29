@@ -4,6 +4,7 @@
 
 ---
 > **SOMMAIRE**
+> + [background](#-background)
 > + [background-color](#-background-color)
 > + [background-image](#-background-image)
 > + [background-position](#-background-position)
@@ -36,6 +37,15 @@
 > + [word-spacing](#-word-spacing)
 
 ---
+
+## 🔵 background
+
++ Association de `background-color`, `background-image`, `background-position`, `background-repeat` et `background-size`.
+
+```css
+background: #000 url(images/bg.jpg) repeat;
+background: url(images/motif.jpg) no-repeat top;
+```
 
 ## 🔵 background-color
 

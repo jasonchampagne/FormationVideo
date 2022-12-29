@@ -7,6 +7,7 @@
 > + [background-color](#-background-color)
 > + [background-image](#-background-image)
 > + [background-position](#-background-position)
+> + [background-repeat](#-background-repeat)
 > + [color](#-color)
 > + [direction](#-direction)
 > + [display](#-display)
@@ -60,6 +61,18 @@ background-position: bottom;
 
 background-position: 25% 75%;
 background-position: top left 8px;
+```
+
+## 🔵 background-repeat
+
+```css
+background-repeat: no-repeat;
+background-repeat: repeat-x;
+background-repeat: repeat-y;
+background-repeat: repeat;
+
+background-repeat: round;
+background-repeat: space;
 ```
 
 ## 🔵 color

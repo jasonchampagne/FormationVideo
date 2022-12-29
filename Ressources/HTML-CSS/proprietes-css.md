@@ -22,6 +22,7 @@
 > + [font-style](#-font-style)
 > + [font-variant](#-font-variant)
 > + [font-weight](#-font-weight)
+> + [height](#-height)
 > + [letter-spacing](#-letter-spacing)
 > + [line-height](#-line-height)
 > + [list-style](#-list-style)
@@ -40,6 +41,7 @@
 > + [text-transform](#-text-transform)
 > + [vertical-align](#-vertical-align)
 > + [white-space](#-white-space)
+> + [width](#-width)
 > + [word-break](#-word-break)
 > + [word-spacing](#-word-spacing)
 
@@ -223,6 +225,14 @@ font-weight: 600;
 font-weight: 800;
 ```
 
+## 🔵 height
+
+```css
+height: auto;
+height: 50px;
+height: 75%;
+```
+
 ## 🔵 letter-spacing
 
 ```css
@@ -380,6 +390,13 @@ white-space: normal;
 white-space: nowrap;
 white-space: pre;
 white-space: break-spaces;
+```
+
+## 🔵 width
+
+```css
+width: 1200px;
+width: 100%;
 ```
 
 ## 🔵 word-break

@@ -10,6 +10,7 @@
 > + [font-style](#-font-style)
 > + [font-variant](#-font-variant)
 > + [font-weight](#-font-weight)
+> + [line-height](#-line-height)
 
 ---
 
@@ -79,4 +80,12 @@ font-weight: bolder;
 font-weight: 400;
 font-weight: 600;
 font-weight: 800;
+```
+
+## 🔵 line-height
+
+```css
+line-height: 16px;
+line-height: 160%;
+line-height: 2em;
 ```

@@ -4,21 +4,10 @@
 
 ---
 > **SOMMAIRE**
-> + [Commentaire](#--)
-> + [Couleur du texte](#-color)
-> + [Type d'affichage](#-display)
+> + [color](#-color)
+> + [display](#-display)
+
 ---
-
-## 🔵 /* */
-
-```css
-/* Un commentaire */
-
-/*
-    Un autre commentaire
-    écrit sur plusieurs lignes
-*/
-```
 
 ## 🔵 color
 

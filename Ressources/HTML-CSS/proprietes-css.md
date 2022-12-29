@@ -6,6 +6,7 @@
 > **SOMMAIRE**
 > + [background-color](#-background-color)
 > + [background-image](#-background-image)
+> + [background-position](#-background-position)
 > + [color](#-color)
 > + [direction](#-direction)
 > + [display](#-display)
@@ -47,6 +48,18 @@ color: hsl(271, 76%, 53%);
 
 ```css
 background-image: url(images/bg.jpg);
+```
+
+## 🔵 background-position
+
+```css
+background-position: top;
+background-position: right;
+background-position: left;
+background-position: bottom;
+
+background-position: 25% 75%;
+background-position: top left 8px;
 ```
 
 ## 🔵 color

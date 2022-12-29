@@ -6,6 +6,7 @@
 > **SOMMAIRE**
 > + [color](#-color)
 > + [display](#-display)
+> + [font](#-font)
 > + [font-family](#-font-family)
 > + [font-size](#-font-size)
 > + [font-style](#-font-style)
@@ -36,6 +37,12 @@ display: inline-block;
 
 display: flex;
 display: grid;
+```
+
+## 🔵 font
+
+```css
+font: italic small-caps bold 20px 20px Tahoma
 ```
 
 ## 🔵 font-family

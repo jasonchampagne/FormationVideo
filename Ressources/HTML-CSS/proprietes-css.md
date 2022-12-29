@@ -5,6 +5,7 @@
 ---
 > **SOMMAIRE**
 > + [color](#-color)
+> + [direction](#-direction)
 > + [display](#-display)
 > + [font](#-font)
 > + [font-family](#-font-family)
@@ -37,6 +38,13 @@ color: red;
 color: #FF0000;
 color: rgb(255, 0, 0);
 color: hsl(0, 100%, 50%);
+```
+
+## 🔵 direction
+
+```css
+direction: ltr;
+direction: rtl;
 ```
 
 ## 🔵 display
@@ -136,8 +144,12 @@ line-height: 2em;
 ```css
 text-align: left;
 text-align: right;
+
 text-align: center;
 text-align: justify;
+
+text-align: start;
+text-align: end;
 ```
 
 ## 🔵 text-decoration

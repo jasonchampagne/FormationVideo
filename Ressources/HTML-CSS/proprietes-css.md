@@ -39,7 +39,15 @@ display: grid;
 ## 🔵 font-size
 
 ```css
+font-size: xx-small;
 font-size: x-small;
+font-size: small;
+font-size: medium;
+font-size: large;
+font-size: x-large;
+font-size: xx-large;
+
+font-size: larger;
 font-size: smaller;
 
 font-size: 14px;

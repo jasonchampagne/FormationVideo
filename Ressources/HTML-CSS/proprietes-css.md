@@ -6,6 +6,7 @@
 > **SOMMAIRE**
 > + [color](#-color)
 > + [display](#-display)
+> + [font-family](#-font-family)
 > + [font-size](#-font-size)
 > + [font-style](#-font-style)
 > + [font-variant](#-font-variant)
@@ -35,6 +36,17 @@ display: inline-block;
 
 display: flex;
 display: grid;
+```
+
+## 🔵 font-family
+
+```css
+font-family: cursive;
+font-family: monospace;
+font-family: sans-serif;
+
+font-family: Arial, sans-serif;
+font-family: 'Open Sans', Arial, sans-serif;
 ```
 
 ## 🔵 font-size

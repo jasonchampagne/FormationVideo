@@ -42,6 +42,8 @@ display: grid;
 
 ## 🔵 font
 
++ Association de `font-family`, `font-size`, `font-style`, `font-variant` et `font-weight`.
+
 ```css
 font: italic small-caps bold 20px 20px Tahoma;
 ```

@@ -4,7 +4,7 @@
 
 ---
 > **SOMMAIRE**
-> + [Commentaire](#-commentaire)
+> + [Commentaire](#--)
 > + [Couleur du texte](#-color)
 > + [Type d'affichage](#-display)
 ---

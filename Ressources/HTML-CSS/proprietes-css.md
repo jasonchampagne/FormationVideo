@@ -5,8 +5,10 @@
 ---
 > **SOMMAIRE**
 > + [background](#-background)
+> + [background-clip](#-background-clip)
 > + [background-color](#-background-color)
 > + [background-image](#-background-image)
+> + [background-origin](#-background-origin)
 > + [background-position](#-background-position)
 > + [background-repeat](#-background-repeat)
 > + [background-size](#-background-size)
@@ -47,6 +49,14 @@ background: #000 url(images/bg.jpg) repeat;
 background: url(images/motif.jpg) no-repeat top;
 ```
 
+## 🔵 background-clip
+
+```css
+background-clip: border-box;
+background-clip: content-box;
+background-clip: padding-box;
+```
+
 ## 🔵 background-color
 
 ```css
@@ -60,6 +70,14 @@ color: hsl(271, 76%, 53%);
 
 ```css
 background-image: url(images/bg.jpg);
+```
+
+## 🔵 background-origin
+
+```css
+background-origin: border-box;
+background-origin: content-box;
+background-origin: padding-box;
 ```
 
 ## 🔵 background-position

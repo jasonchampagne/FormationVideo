@@ -25,7 +25,6 @@
 ```css
 color: red;
 color: #FF0000;
-
 color: rgb(255, 0, 0);
 color: hsl(0, 100%, 50%);
 ```
@@ -126,6 +125,12 @@ text-decoration: overline dotted;
 ```
 
 ## 🔵 text-decoration-color
+
+```css
+text-decoration-color: red;
+text-decoration-color: #FF0000;
+text-decoration-color: rgb(255, 0, 0);
+```
 
 ## 🔵 text-decoration-line
 

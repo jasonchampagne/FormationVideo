@@ -6,6 +6,7 @@
 > **SOMMAIRE**
 > + [color](#-color)
 > + [display](#-display)
+> + [font-size](#-font-size)
 > + [font-style](#-font-style)
 > + [font-variant](#-font-variant)
 > + [font-weight](#-font-weight)
@@ -33,6 +34,17 @@ display: inline-block;
 
 display: flex;
 display: grid;
+```
+
+## 🔵 font-size
+
+```css
+font-size: x-small;
+font-size: smaller;
+
+font-size: 14px;
+font-size: 75%;
+font-size: 1.5rem;
 ```
 
 ## 🔵 font-style

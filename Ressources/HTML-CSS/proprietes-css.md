@@ -8,6 +8,7 @@
 > + [background-image](#-background-image)
 > + [background-position](#-background-position)
 > + [background-repeat](#-background-repeat)
+> + [background-size](#-background-size)
 > + [color](#-color)
 > + [direction](#-direction)
 > + [display](#-display)
@@ -73,6 +74,18 @@ background-repeat: repeat;
 
 background-repeat: round;
 background-repeat: space;
+```
+
+## 🔵 background-size
+
+```css
+background-size: cover;
+background-size: contain;
+
+background-size: auto;
+background-size: 50%;
+background-size: 2em;
+background-size: 24px;
 ```
 
 ## 🔵 color

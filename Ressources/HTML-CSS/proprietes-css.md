@@ -39,6 +39,8 @@
 > + [min-height](#-min-height)
 > + [min-width](#-min-width)
 > + [overflow](#-overflow)
+> + [overflow-x](#-overflow-x)
+> + [overflow-y](#-overflow-y)
 > + [padding](#-padding)
 > + [padding-bottom](#-padding-bottom)
 > + [padding-left](#-padding-left)
@@ -393,6 +395,26 @@ overflow: clip;
 overflow: hidden;
 overflow: scroll;
 overflow: visible;
+```
+
+## 🔵 overflow-x
+
+```css
+overflow-x: auto;
+overflow-x: clip;
+overflow-x: hidden;
+overflow-x: scroll;
+overflow-x: visible;
+```
+
+## 🔵 overflow-y
+
+```css
+overflow-y: auto;
+overflow-y: clip;
+overflow-y: hidden;
+overflow-y: scroll;
+overflow-y: visible;
 ```
 
 ## 🔵 padding

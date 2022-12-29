@@ -24,6 +24,10 @@
 > + [font-weight](#-font-weight)
 > + [letter-spacing](#-letter-spacing)
 > + [line-height](#-line-height)
+> + [list-style](#-list-style)
+> + [list-style-image](#-list-style-image)
+> + [list-style-position](#-list-style-position)
+> + [list-style-type](#-list-style-type)
 > + [text-align](#-text-align)
 > + [text-decoration](#-text-decoration)
 > + [text-decoration-color](#-text-decoration-color)
@@ -233,6 +237,20 @@ line-height: 16px;
 line-height: 160%;
 line-height: 2em;
 ```
+
+## 🔵 list-style
+
++ Association de `list-style-image`, `list-style-position` et `list-style-type`.
+
+```css
+dd
+```
+
+## 🔵 list-style-image
+
+## 🔵 list-style-position
+
+## 🔵 list-style-type
 
 ## 🔵 text-align
 

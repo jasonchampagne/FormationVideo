@@ -5,6 +5,7 @@
 ---
 > **SOMMAIRE**
 > + [background-color](#-background-color)
+> + [background-image](#-background-image)
 > + [color](#-color)
 > + [direction](#-direction)
 > + [display](#-display)
@@ -40,6 +41,12 @@ color: blueviolet;
 color: #8A2BE2;
 color: rgb(138, 44, 226);
 color: hsl(271, 76%, 53%);
+```
+
+## 🔵 background-image
+
+```css
+background-image: url(images/bg.jpg);
 ```
 
 ## 🔵 color

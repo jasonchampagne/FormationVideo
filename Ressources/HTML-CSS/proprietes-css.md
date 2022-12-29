@@ -243,7 +243,9 @@ line-height: 2em;
 + Association de `list-style-image`, `list-style-position` et `list-style-type`.
 
 ```css
-dd
+list-style: none;
+list-style: disc;
+list-style: url(puce.png) outside;
 ```
 
 ## 🔵 list-style-image

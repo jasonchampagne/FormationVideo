@@ -13,6 +13,7 @@
 > + [font-variant](#-font-variant)
 > + [font-weight](#-font-weight)
 > + [line-height](#-line-height)
+> + [text-align](#-text-align)
 > + [text-decoration](#-text-decoration)
 > + [text-decoration-color](#-text-decoration-color)
 > + [text-decoration-line](#-text-decoration-line)
@@ -114,6 +115,15 @@ font-weight: 800;
 line-height: 16px;
 line-height: 160%;
 line-height: 2em;
+```
+
+## 🔵 text-align
+
+```css
+text-align: left;
+text-align: right;
+text-align: center;
+text-align: justify;
 ```
 
 ## 🔵 text-decoration

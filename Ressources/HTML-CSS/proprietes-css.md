@@ -38,6 +38,7 @@
 > + [max-width](#-max-width)
 > + [min-height](#-min-height)
 > + [min-width](#-min-width)
+> + [overflow](#-overflow)
 > + [padding](#-padding)
 > + [padding-bottom](#-padding-bottom)
 > + [padding-left](#-padding-left)
@@ -382,6 +383,16 @@ min-width: auto;
 min-width: 600px;
 min-width: 50%;
 min-width: 8em;
+```
+
+## 🔵 overflow
+
+```css
+overflow: auto;
+overflow: clip;
+overflow: hidden;
+overflow: scroll;
+overflow: visible;
 ```
 
 ## 🔵 padding

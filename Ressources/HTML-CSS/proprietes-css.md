@@ -5,6 +5,7 @@
 ---
 > **SOMMAIRE**
 > + [background](#-background)
+> + [background-attachment](#-background-attachment)
 > + [background-clip](#-background-clip)
 > + [background-color](#-background-color)
 > + [background-image](#-background-image)
@@ -47,6 +48,14 @@
 ```css
 background: #000 url(images/bg.jpg) repeat;
 background: url(images/motif.jpg) no-repeat top;
+```
+
+## 🔵 background-attachment
+
+```css
+background-attachment: fixed;
+background-attachment: local;
+background-attachment: scroll;
 ```
 
 ## 🔵 background-clip

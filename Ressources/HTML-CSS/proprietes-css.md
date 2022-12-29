@@ -36,7 +36,7 @@
 ## 🔵 background-color
 
 ```css
-color: blue;
+color: blueviolet;
 color: #8A2BE2;
 color: rgb(138, 44, 226);
 color: hsl(271, 76%, 53%);

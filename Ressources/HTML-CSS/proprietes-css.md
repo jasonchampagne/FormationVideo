@@ -248,9 +248,27 @@ dd
 
 ## 🔵 list-style-image
 
+```css
+list-style-image: url(puce.png);
+list-style-image: linear-gradient(#FFF, #000);
+```
+
 ## 🔵 list-style-position
 
+```css
+list-style-position: inside;
+list-style-position: outside;
+```
+
 ## 🔵 list-style-type
+
+```css
+list-style-type: circle;
+list-style-type: decimal;
+list-style-type: disc;
+list-style-type: georgian;
+list-style-type: square;
+```
 
 ## 🔵 text-align
 

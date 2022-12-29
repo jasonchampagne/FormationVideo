@@ -14,6 +14,9 @@
 > + [font-weight](#-font-weight)
 > + [line-height](#-line-height)
 > + [text-decoration](#-text-decoration)
+> + [text-decoration-color](#-text-decoration-color)
+> + [text-decoration-line](#-text-decoration-line)
+> + [text-decoration-style](#-text-decoration-style)
 
 ---
 
@@ -121,3 +124,9 @@ text-decoration: underline;
 text-decoration: wavy #FF00AA;
 text-decoration: overline dotted;
 ```
+
+## 🔵 text-decoration-color
+
+## 🔵 text-decoration-line
+
+## 🔵 text-decoration-style

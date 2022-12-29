@@ -21,6 +21,7 @@
 > + [text-decoration-line](#-text-decoration-line)
 > + [text-decoration-style](#-text-decoration-style)
 > + [text-indent](#-text-indent)
+> + [text-justify](#-text-justify)
 > + [text-overflow](#-text-overflow)
 > + [text-shadow](#-text-shadow)
 > + [text-transform](#-text-transform)
@@ -192,6 +193,14 @@ text-decoration-style: wavy;
 ```css
 text-indent: 15%;
 text-indent: 2em;
+```
+
+## 🔵 text-justify
+
+```css
+text-justify: auto;
+text-justify: inter-character;
+text-justify: inter-word;
 ```
 
 ## 🔵 text-overflow

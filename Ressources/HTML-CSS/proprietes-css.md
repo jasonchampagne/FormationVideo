@@ -20,6 +20,7 @@
 > + [text-decoration-style](#-text-decoration-style)
 > + [text-shadow](#-text-shadow)
 > + [text-transform](#-text-transform)
+> + [vertical-align](#-vertical-align)
 
 ---
 
@@ -173,4 +174,19 @@ text-shadow: 2px 2px 5px #DDD;
 text-transform: capitalize;
 text-transform: uppercase;
 text-transform: lowercase;
+```
+
+## 🔵 vertical-align
+
+```css
+vertical-align: baseline;
+vertical-align: text-top;
+vertical-align: top;
+vertical-align: middle;
+vertical-align: bottom;
+vertical-align: text-bottom;
+
+vertical-align: 8px;
+vertical-align: 20%;
+vertical-align: 2.5em;
 ```

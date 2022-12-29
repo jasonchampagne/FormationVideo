@@ -18,6 +18,7 @@
 > + [text-decoration-color](#-text-decoration-color)
 > + [text-decoration-line](#-text-decoration-line)
 > + [text-decoration-style](#-text-decoration-style)
+> + [text-indent](#-text-indent)
 > + [text-shadow](#-text-shadow)
 > + [text-transform](#-text-transform)
 > + [vertical-align](#-vertical-align)
@@ -160,6 +161,13 @@ text-decoration-style: dashed;
 text-decoration-style: dotted;
 text-decoration-style: solid;
 text-decoration-style: wavy;
+```
+
+## 🔵 text-indent
+
+```css
+text-indent: 15%;
+text-indent: 2em;
 ```
 
 ## 🔵 text-shadow

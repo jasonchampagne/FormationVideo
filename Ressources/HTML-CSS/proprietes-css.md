@@ -114,6 +114,8 @@ line-height: 2em;
 
 ## 🔵 text-decoration
 
++ Association de `text-decoration-color`, `text-decoration-line` et `text-decoration-style`.
+
 ```css
 text-decoration: underline;
 text-decoration: wavy #FF00AA;

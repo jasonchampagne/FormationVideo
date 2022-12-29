@@ -29,6 +29,7 @@
 > + [list-style-image](#-list-style-image)
 > + [list-style-position](#-list-style-position)
 > + [list-style-type](#-list-style-type)
+> + [margin](#-margin)
 > + [margin-bottom](#-margin-bottom)
 > + [margin-left](#-margin-left)
 > + [margin-right](#-margin-right)
@@ -37,6 +38,7 @@
 > + [max-width](#-max-width)
 > + [min-height](#-min-height)
 > + [min-width](#-min-width)
+> + [padding](#-padding)
 > + [padding-bottom](#-padding-bottom)
 > + [padding-left](#-padding-left)
 > + [padding-right](#-padding-right)
@@ -295,6 +297,17 @@ list-style-type: georgian;
 list-style-type: square;
 ```
 
+## 🔵 margin
+
++ Association de `margin-top`, `margin-right`, `margin-bottom` et `margin-left`.
+
+```css
+margin: auto;
+margin: 15px auto;
+margin: 25px 5px 10px 5px;
+margin: 0;
+```
+
 ## 🔵 margin-bottom
 
 ```css
@@ -369,6 +382,17 @@ min-width: auto;
 min-width: 600px;
 min-width: 50%;
 min-width: 8em;
+```
+
+## 🔵 padding
+
++ Association de `padding-top`, `padding-right`, `padding-bottom` et `padding-left`.
+
+```css
+padding: auto;
+padding: 15px auto;
+padding: 25px 5px 10px 5px;
+padding: 0;
 ```
 
 ## 🔵 padding-bottom

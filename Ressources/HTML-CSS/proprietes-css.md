@@ -12,6 +12,7 @@
 > + [font-style](#-font-style)
 > + [font-variant](#-font-variant)
 > + [font-weight](#-font-weight)
+> + [letter-spacing](#-letter-spacing)
 > + [line-height](#-line-height)
 > + [text-align](#-text-align)
 > + [text-decoration](#-text-decoration)
@@ -110,6 +111,13 @@ font-weight: bolder;
 font-weight: 400;
 font-weight: 600;
 font-weight: 800;
+```
+
+## 🔵 letter-spacing
+
+```css
+letter-spacing: 4px;
+letter-spacing: 1.2em;
 ```
 
 ## 🔵 line-height

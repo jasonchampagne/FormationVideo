@@ -24,6 +24,7 @@
 > + [text-shadow](#-text-shadow)
 > + [text-transform](#-text-transform)
 > + [vertical-align](#-vertical-align)
+> + [white-space](#-white-space)
 
 ---
 
@@ -215,4 +216,13 @@ vertical-align: text-bottom;
 vertical-align: 8px;
 vertical-align: 20%;
 vertical-align: 2.5em;
+```
+
+## 🔵 white-space
+
+```css
+white-space: normal;
+white-space: nowrap;
+white-space: pre;
+white-space: break-spaces;
 ```

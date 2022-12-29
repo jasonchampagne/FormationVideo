@@ -19,6 +19,7 @@
 > + [text-decoration-line](#-text-decoration-line)
 > + [text-decoration-style](#-text-decoration-style)
 > + [text-indent](#-text-indent)
+> + [text-overflow](#-text-overflow)
 > + [text-shadow](#-text-shadow)
 > + [text-transform](#-text-transform)
 > + [vertical-align](#-vertical-align)
@@ -168,6 +169,15 @@ text-decoration-style: wavy;
 ```css
 text-indent: 15%;
 text-indent: 2em;
+```
+
+## 🔵 text-overflow
+
+```css
+text-overflow: clip;
+text-overflow: ellipsis;
+text-overflow: fade;
+text-overflow: "-";
 ```
 
 ## 🔵 text-shadow

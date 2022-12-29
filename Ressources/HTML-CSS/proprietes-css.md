@@ -8,6 +8,7 @@
 > + [display](#-display)
 > + [font-style](#-font-style)
 > + [font-variant](#-font-variant)
+> + [font-weight](#-font-weight)
 
 ---
 
@@ -44,4 +45,18 @@ font-style: italic;
 
 ```css
 font-variant: small-caps;
+```
+
+## 🔵 font-weight
+
+```css
+font-weight: normal;
+
+font-weight: lighter;
+font-weight: bold;
+font-weight: bolder;
+
+font-weight: 400;
+font-weight: 600;
+font-weight: 800;
 ```

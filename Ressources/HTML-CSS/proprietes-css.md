@@ -25,7 +25,6 @@ display: none;
 
 display: inline;
 display: block;
-
 display: inline-block;
 
 display: flex;

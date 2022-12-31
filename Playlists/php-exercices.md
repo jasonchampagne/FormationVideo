@@ -10,3 +10,4 @@
 + [2. Calculez-les tous !](https://www.youtube.com/watch?v=6-LnnMlxRto)
 + [3. Tic tac](https://www.youtube.com/watch?v=8zL7vZThq94)
 + [4. Flemme](https://www.youtube.com/watch?v=ICpiB-YVuK8)
++ [5. Abracadarray](https://www.youtube.com/watch?v=195dwnpoZYU)

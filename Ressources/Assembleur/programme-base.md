@@ -81,8 +81,7 @@ section .text
 		mov rcx, -11
 		call GetStdHandle
 
-		sub rsp, 32
-		sub rsp, 8
+		sub rsp, 40 ; 32 + 8
 
 		mov rcx, rax
 		mov rdx, message
@@ -91,7 +90,7 @@ section .text
 		mov qword [rsp+32], 0
 		call WriteConsoleA
 
-		add rsp, 32+8
+		add rsp, 40 ; 32 + 8
 
 		xor rcx, rcx
 		call ExitProcess

@@ -38,3 +38,4 @@
 + [29. Généricité](https://www.youtube.com/watch?v=QWn_KHeUKfA)
 + [30. Dates et durées](https://www.youtube.com/watch?v=SifudCti3pQ)
 + [31. Threads](https://www.youtube.com/watch?v=gYkgvTYSHM8)
++ [32. Bases de données](https://www.youtube.com/watch?v=TN_xTjbrzzc)

@@ -2,7 +2,7 @@
 
 > _Un **élément** peut être un répertoire, un fichier, un alias, une variable, une fonction, etc._
 
-|APPLET DE COMMANDE|ALIAS|DESCRIPTION|
+|POWERSHELL|BATCH|DESCRIPTION|
 |:--:|:--:|:--|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
 |`Copy-Item`|`copy`, `cp`, `cpi`|Copier un ou plusieurs éléments d'un emplacement à un autre|

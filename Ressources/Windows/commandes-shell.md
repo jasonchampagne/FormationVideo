@@ -6,4 +6,5 @@
 |:--:|:--:|:--|
 |`Clear-Host`|`clear`, `cls`|Effacer le terminal|
 |`Get-ChildItem`|`gci`, `ls`, `dir`|Lister le contenu d'un répertoire|
+|`Get-Help`|`help`, `man`|Afficher des informations sur une commande|
 |`Set-Location`|`cd`, `chdir`, `sl`|Changer de répertoire|

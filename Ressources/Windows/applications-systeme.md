@@ -1,7 +1,5 @@
 # Applications système
 
-> Ces commandes sont utilisables via la recherche, le menu Exécuter (`Win + R`) ou un terminal.
-
 ## Outils en console
 
 |COMMANDE|TYPE|APPLICATION ASSOCIÉE|

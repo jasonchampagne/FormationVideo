@@ -5,7 +5,7 @@
 ## Outils en console
 
 |COMMANDE|TYPE|APPLICATION ASSOCIÉE|
-|:--|:--:|:--|
+|--:|:--:|:--|
 |**bcedit**|exe|Éditeur de données de configuration de démarrage|
 |**bootcfg**|exe|Gestionnaire de configuration BOOT.INI|
 |**chkdsk**|exe|Utilitaire de vérification de disques|
@@ -23,7 +23,7 @@
 ## Outils graphiques
 
 |COMMANDE|TYPE|APPLICATION ASSOCIÉE|
-|:--|:--:|:--|
+|--:|:--:|:--|
 |**azman**|msc|Gestionnaire d'autorisations|
 |**calc**|exe|Calculatrice|
 |**certlm**|msc|Gestionnaire de certificats (local)|

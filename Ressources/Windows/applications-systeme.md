@@ -12,10 +12,12 @@
 |**diskpart**|exe|Outil de partitionnement de disques|
 |**dism**|exe|Maintenance et gestion des images de déploiement|
 |**format**|com|Utilitaire de formatage de volume|
+|**icacls**|exe|Gestion des permissions|
 |**ipconfig**|exe|Utilitaire de configuration IP|
 |**openfiles**|exe|Gestion des dossiers et fichiers partagés à distance|
 |**powercfg**|exe|Paramètres d'alimentation|
 |**reagentc**|exe|Agent de récupération Windows|
+|**takeown**|exe|Gestion de la propriété d'un fichier|
 |**wmic**|exe|Utilitaire de ligne de commande WMI|
 
 ## Outils graphiques

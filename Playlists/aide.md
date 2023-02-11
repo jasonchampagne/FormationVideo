@@ -36,5 +36,5 @@
 + [Rufus - créer une clé bootable](https://www.youtube.com/watch?v=-wffj0kEqQg) 🖍
 + [SSH - se connecter à distance](https://www.youtube.com/watch?v=XUE6v4ZgvJ8) 🖍
 + [VeraCrypt - chiffrer un support de stockage](https://www.youtube.com/watch?v=_hP3_vmVRWc) 🖍
-+ [Visual Studio Code - éditeur de code](https://www.youtube.com/watch?v=eQUsUq_2AQU) 🖍
++ [Visual Studio Code - éditeur de code](https://www.youtube.com/watch?v=eQUsUq_2AQU)
 + [Zeal - documentation hors-ligne](https://www.youtube.com/watch?v=PmgO42dod7E) 🖍

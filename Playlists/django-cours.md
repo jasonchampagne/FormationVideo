@@ -14,4 +14,4 @@
 + [6. Balises et filtres (1/2)](https://www.youtube.com/watch?v=xNPiqBCftc8)
 + [7. Balises et filtres (2/2)](https://www.youtube.com/watch?v=VYQwO7XctOQ)
 + [8. Modèles de données](https://www.youtube.com/watch?v=reQWTyobd8c)
-+ [9. ???](#)
++ [9. Gestionnaire de requêtes](https://www.youtube.com/watch?v=h3LrN7443XY)

@@ -71,7 +71,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
-||Django|[9](Playlists/django-cours.md)||
+||Django|[10](Playlists/django-cours.md)||
 
 ### Musique
 

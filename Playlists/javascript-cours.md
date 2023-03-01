@@ -25,3 +25,4 @@
 + [16. Ensembles](https://www.youtube.com/watch?v=0OO_JbiKQHA)
 + [17. Map](https://www.youtube.com/watch?v=UgyCb9_ytho)
 + [18. Modules](https://www.youtube.com/watch?v=uT80wq0TA98)
++ [19. Spécifications web](https://www.youtube.com/watch?v=GPuUHdFrREI)

@@ -28,3 +28,4 @@
 + [19. Spécifications web](https://www.youtube.com/watch?v=GPuUHdFrREI)
 + [20. Arbre DOM](https://www.youtube.com/watch?v=2EUbeU5zHXg)
 + [21. Parcours du DOM](https://www.youtube.com/watch?v=u0-om2nmilQ)
++ [22. Manipulation d'éléments](https://www.youtube.com/watch?v=JBWJDQN4GTQ)

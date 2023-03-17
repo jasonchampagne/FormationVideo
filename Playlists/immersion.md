@@ -1,4 +1,4 @@
-# Immersion ✔
+# Immersion
 
 > [PLAYLIST YOUTUBE](#)
 

@@ -1,6 +1,6 @@
 # Immersion
 
-> [PLAYLIST YOUTUBE](#)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA)
 
 ---
 

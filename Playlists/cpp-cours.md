@@ -33,4 +33,5 @@
 + [25. Cartes associatives](https://www.youtube.com/watch?v=d5KT20vQmQw)
 + [26. Ensembles](https://www.youtube.com/watch?v=fhX4zHN-_gY)
 + [27. Itérateurs](https://www.youtube.com/watch?v=fsNwdZL3XTY)
-+ [28. Algorithmes](#)
++ [28. Algorithmes](https://www.youtube.com/watch?v=2JwLAZuZ5Pw)
++ [29. Généricité](#)

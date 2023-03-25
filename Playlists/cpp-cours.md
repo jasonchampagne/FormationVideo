@@ -35,3 +35,4 @@
 + [27. Itérateurs](https://www.youtube.com/watch?v=fsNwdZL3XTY)
 + [28. Algorithmes](https://www.youtube.com/watch?v=2JwLAZuZ5Pw)
 + [29. Généricité](https://www.youtube.com/watch?v=uwPYPL5KY0Y)
++ [30. Surcharge d'opérateurs](https://www.youtube.com/watch?v=nYaAoFyUeH8)

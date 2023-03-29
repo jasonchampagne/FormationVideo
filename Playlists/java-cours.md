@@ -39,3 +39,4 @@
 + [30. Dates et durées](https://www.youtube.com/watch?v=SifudCti3pQ)
 + [31. Threads](https://www.youtube.com/watch?v=gYkgvTYSHM8)
 + [32. Bases de données](https://www.youtube.com/watch?v=TN_xTjbrzzc)
++ [33. Communication réseau (1/2)](https://www.youtube.com/watch?v=L55HmnzRSj0)

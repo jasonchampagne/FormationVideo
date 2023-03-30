@@ -27,4 +27,4 @@ Cherchez la ligne **Type du système** :
 
 |NOM_DU_PAQUET_WINDOWS|DESCRIPTION|LIEN|
 |:--|:--|:--:|
-|Visual C++ Build Tools|Installe des outils de génération autonomes nécessaires à certains programmes et/ou modules à compiler (_par exemple, des [modules Python installés avec PIP](https://www.youtube.com/watch?v=MxvLhp9xJo4)_)|[lien](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)|
+|Visual C++ Build Tools|Installe des outils de génération autonomes nécessaires à certains programmes et/ou modules à compiler (_par exemple, des [modules Python installés avec PIP](https://www.youtube.com/watch?v=MxvLhp9xJo4)_)|[🔽](https://visualstudio.microsoft.com/fr/visual-cpp-build-tools/)|

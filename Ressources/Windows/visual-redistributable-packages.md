@@ -15,6 +15,8 @@ Cherchez la ligne **Type du système** :
 
 ---
 
+> 🔴 _Installez de préférence le paquet 4 en 1 et redémarrez votre système. Si des erreurs persistent, installez les paquets des anciennes versions._
+
 |NOM_DU_PAQUET_WINDOWS|32 BITS (x86)|64 BITS (x64)|ARM64|
 |:--:|:--:|:--:|:--:|
 |Visual C++ 2022<br>Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(_4 en 1_)|[lien](https://aka.ms/vs/17/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/17/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/17/release/vc_redist.arm64.exe)|

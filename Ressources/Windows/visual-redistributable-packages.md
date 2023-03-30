@@ -23,6 +23,7 @@ Cherchez la ligne **Type du système** :
 |Visual C++ 2013|[lien](https://aka.ms/highdpimfc2013x86enu)|[lien](https://aka.ms/highdpimfc2013x64enu)|-|
 |Visual C++ 2012|[lien](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe)|[lien](https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe)|-|
 |Visual C++ 2010|[lien](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe)|[lien](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe)|-|
+|Visual C++ 2008|[lien](https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe)|[lien](https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe)|-|
 
 |NOM_DU_PAQUET_WINDOWS|DESCRIPTION|LIEN|
 |:--|:--|:--:|

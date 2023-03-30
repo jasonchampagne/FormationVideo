@@ -20,6 +20,7 @@ Cherchez la ligne **Type du système** :
 |NOM_DU_PAQUET_WINDOWS|32 BITS (x86)|64 BITS (x64)|ARM64|
 |:--:|:--:|:--:|:--:|
 |Visual C++ 2022<br>Visual C++ 2019<br>Visual C++ 2017<br>Visual C++ 2015<br>(_4 en 1_)|[lien](https://aka.ms/vs/17/release/vc_redist.x86.exe)|[lien](https://aka.ms/vs/17/release/vc_redist.x64.exe)|[lien](https://aka.ms/vs/17/release/vc_redist.arm64.exe)|
+|Visual C++ 2013|[lien](https://aka.ms/highdpimfc2013x86enu)|[lien](https://aka.ms/highdpimfc2013x64enu)|
 
 |NOM_DU_PAQUET_WINDOWS|DESCRIPTION|LIEN|
 |:--|:--|:--:|

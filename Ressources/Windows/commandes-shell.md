@@ -3,7 +3,7 @@
 > _Un **élément** peut être un répertoire, un fichier, un alias, une variable, une fonction, etc._
 
 |POWERSHELL|BATCH|DESCRIPTION|
-|--:|:--:|:--|
+|:--|:--|:--|
 |[**Add-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/add-localgroupmember)|`algm`|Ajouter un utilisateur à un groupe local|
 |[**Clear-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/clear-host)|`clear`, `cls`|Effacer le terminal|
 |[**Copy-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/copy-item)|`copy`, `cp`, `cpi`|Copier un élément d'un emplacement à un autre|

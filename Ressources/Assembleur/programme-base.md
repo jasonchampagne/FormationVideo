@@ -17,16 +17,14 @@ section .data
 section .text
     global _start
     _start:
-        ; write(unsigned int fd, char* buf, size_t count)
-        mov rax, 1
-        mov rdi, 1
-        mov rsi, message
-        mov rdx, 13+1
+        mov rax, 1       ; sys_write
+        mov rdi, 1       ; unsigned int fd
+        mov rsi, message ; char* buf
+        mov rdx, 13+1    ; size_t count
         syscall
         
-        ; exit(int error_code)
-        mov rax, 60
-        mov rdi, 0
+        mov rax, 60      ; sys_exit
+        mov rdi, 0       ; int error_code
         syscall
 ```
 ```bash

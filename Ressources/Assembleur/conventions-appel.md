@@ -29,6 +29,9 @@
 ```c
 // (RCX, RDX) -> RAX
 int sum(int a, int b);
+
+// (RCX, RDX, R8, R9, pile) -> RAX
+int max(int a, int b, int c, int d, int e)
 ```
 
 + Les registres conservés sont RBX, RBP, RDI, RSI, RSP, R12, R13, R14, R15 et XMM6-XMM15

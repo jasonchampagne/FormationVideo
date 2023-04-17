@@ -10,8 +10,6 @@
 
 ## Windows
 
-> [Calling Conventions](https://learn.microsoft.com/en-us/cpp/cpp/calling-conventions)
-
 ### 64 bits (VectorCall)
 
 ### 32 bits (StdCall)

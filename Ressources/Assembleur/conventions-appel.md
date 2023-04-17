@@ -2,7 +2,7 @@
 
 ## GNU/Linux
 
-### 64 bits (System V AMD64)
+### 64 bits
 
 |/|DESCRIPTION|
 |--:|:--|
@@ -16,7 +16,7 @@
 
 ## Windows
 
-### 64 bits (Microsoft x64)
+### 64 bits
 
 |/|DESCRIPTION|
 |--:|:--|

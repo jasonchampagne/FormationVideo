@@ -27,8 +27,8 @@
 + La valeur de retour est stockée dans `RAX`.
 
 ```c
-int sum(int a, int b);
-//RAX     RCX     RDX
+  int sum(int a, int b);
+//RAX       RCX    RDX
 ```
 
 + Les registres conservés sont RBX, RBP, RDI, RSI, RSP, R12, R13, R14, R15 et XMM6-XMM15

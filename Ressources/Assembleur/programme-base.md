@@ -87,7 +87,7 @@ section .text
 		mov rdx, message
 		mov r8, 13
 		mov r9, written
-		mov qword [rsp+32], 0
+		mov qword [rsp + 32], 0
 		call WriteConsoleA
 
 		add rsp, 40 ; 32 + 8

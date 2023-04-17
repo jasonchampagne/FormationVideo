@@ -8,7 +8,8 @@
 + Les éventuels paramètres supplémentaires sont passés sur la pile (dans l'ordre inverse)
     + ces derniers peuvent être modifiés par la fonction appelée
 + Les registres conservés sont RBX, RSP, RBP, R12, R13, R14 et R15
-+ Les registres non conservés (volatiles) sont RAX, RDI, RSI, RDX, RCX, R8, R9, R10 et R11 
++ Les registres non conservés (volatiles) sont RAX, RDI, RSI, RDX, RCX, R8, R9, R10 et R11
++ La valeur de retour est stockée dans RAX (si 64 bits) ou RAX + RBX (si 128 bits)
 
 ### 32 bits (System V i386)
 

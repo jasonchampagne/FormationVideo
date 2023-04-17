@@ -12,18 +12,18 @@ L'assembleur utilisé est [NASM](https://nasm.us/) et les lieurs sont [ld](https
 bits 64
 
 section .data
-	message db 'Hello World !', 10
+    message db 'Hello World !', 10
 
 section .text
-	global _start
-	_start:
+    global _start
+    _start:
         ;sys_write(unsigned int fd, char* buf, size_t count)
         mov rax, 1
         mov rdi, 1
         mov rsi, message
         mov rdx, 13+1
         syscall
-
+        
         ;sys_exit(int error_code)
         mov rax, 60
         mov rdi, 0

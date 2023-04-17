@@ -22,7 +22,7 @@
 
 ### 64 bits (Microsoft x64)
 
-+ Les paramètres des fonctions sont passés (de droite à gauche) dans les registres `RCX`, `RDX`, `R8`, `R9`.
++ Les paramètres des fonctions sont passés (de gauche à droite) dans les registres `RCX`, `RDX`, `R8`, `R9`.
 + Les paramètres supplémentaires sont poussés sur la pile.
 + La valeur de retour est stockée dans `RAX`.
 

@@ -26,6 +26,14 @@
 + Les paramètres supplémentaires sont poussés sur la pile.
 + La valeur de retour est stockée dans `RAX`.
 
+```c
+// Paramère a dans RCX et b dans RDX
+// Valeur de retour dans RAX
+int sum(int a, int b);
+```
+
++ Les registres conservés sont RBX, RBP, RDI, RSI, RSP, R12, R13, R14, R15 et XMM6-XMM15
+
 ### 32 bits (StdCall)
 
 + Les paramètres des fonctions sont poussés (de gauche à droite) sur la pile.

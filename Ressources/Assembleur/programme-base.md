@@ -9,6 +9,9 @@ L'assembleur utilisé est [NASM](https://nasm.us/) et les lieurs sont [ld](https
 ### 64 bits
 
 ```asm
+; sys_write(unsigned int fd, char* buf, size_t count)
+; sys_exit(int error_code)
+
 bits 64
 
 section .data

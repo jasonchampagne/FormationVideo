@@ -1,5 +1,19 @@
 # Conventions d'appel
 
+## GNU/Linux
+
+### 64 bits (System V AMD64)
+
+|/|DESCRIPTION|
+|--:|:--|
+|Paramères<br>(de droite à gauche)|`RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9` (entiers)|
+|Paramètres supplémentaires|pile|
+|Valeur de retour|`RAX` (64 bits)<br>`RAX` + `RBX` (128 bits)|
+|Registres conservés|`RBX`, `RBP`, `RSP`, `R12`, `R13`, `R14`, `R15`|
+|Registres volatiles|`RAX`, `RDI`, `RSI`, `RCX`, `RDX`, `R8`, `R9`, `R10`, `R11`|
+
+---
+
 ## Windows
 
 ### 64 bits (Microsoft x64)

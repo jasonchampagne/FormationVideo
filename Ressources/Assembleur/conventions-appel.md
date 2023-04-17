@@ -25,7 +25,9 @@
 + Les paramètres des fonctions sont passés (de gauche à droite) dans les registres `RCX`, `RDX`, `R8`, `R9`.
 + Les paramètres supplémentaires sont poussés sur la pile.
 + La valeur de retour est stockée dans `RAX`.
-+ Les registres conservés sont RBX, RBP, RDI, RSI, RSP, R12 à R15 et XMM6 à XMM15
++ Les registres conservés sont :
+    + `RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12`, `R13`, `R14`, `R15`
+    + `XMM6`, `XMM7`, `XMM8`, `XMM9`, `XMM10`, `XMM11`, `XMM12`, `XMM13`, `XMM14`, `XMM15`
 
 ### 32 bits (StdCall)
 

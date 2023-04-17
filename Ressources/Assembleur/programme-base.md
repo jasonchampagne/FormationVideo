@@ -20,7 +20,7 @@ section .text
         mov rax, 1       ; sys_write
         mov rdi, 1       ; unsigned int fd
         mov rsi, message ; char* buf
-        mov rdx, 13+1    ; size_t count
+        mov rdx, 13 + 1  ; size_t count
         syscall
         
         mov rax, 60      ; sys_exit

@@ -23,7 +23,7 @@ section .text
         mov rsi, message
         mov rdx, 13+1
         syscall
-        
+
         ;sys_exit(int error_code)
         mov rax, 60
         mov rdi, 0

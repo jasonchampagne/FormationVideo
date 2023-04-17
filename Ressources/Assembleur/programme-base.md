@@ -12,7 +12,7 @@ L'assembleur utilisé est [NASM](https://nasm.us/) et les lieurs sont [ld](https
 bits 64
 
 section .data
-    message db 'Hello World !', 10
+    message: db 'Hello World !', 10
 
 section .text
     global _start
@@ -38,7 +38,7 @@ $ ld <file>.o -o <file>
 bits 32
 
 section .data
-	message db 'Hello World !', 10
+	message: db 'Hello World !', 10
 
 section .text
 	global _start
@@ -70,10 +70,10 @@ extern WriteConsoleA
 extern ExitProcess
 
 section .data
-	message db 'Hello World !', 10
+	message: db 'Hello World !', 10
 
 section .bss
-	written resq 1
+	written: resq 1
 
 section .text
 	global main
@@ -110,10 +110,10 @@ extern _WriteConsoleA@20
 extern _ExitProcess@4
 
 section .data
-	message db 'Hello World !', 10
+	message: db 'Hello World !', 10
 
 section .bss
-	written resd 1
+	written: resd 1
 
 section .text
 	global main

@@ -1,3 +1,15 @@
 # Conventions d'appel
 
-A venir...
+## GNU/Linux
+
+### 64 bits (System V AMD64)
+
+### 32 bits (System V i386)
+
+---
+
+## Windows
+
+### 64 bits (VectorCall)
+
+### 32 bits (StdCall)

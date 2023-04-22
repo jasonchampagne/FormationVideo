@@ -65,7 +65,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |✅|GNU/Linux|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
-||Windows|[23](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
+||Windows|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
 ### Frameworks
 

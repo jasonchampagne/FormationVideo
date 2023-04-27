@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|surcharge-operateurs|Opérateurs surchargeables|
 |types-donnees|Types de données utilisables en C#|

@@ -44,8 +44,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Langages
 
-> _Le dernier chapitre du cours C aborde la bibliothèque SDL (Simple DirectMedia Layer)_<br>
-> _Le dernier chapitre du cours Python aborde la bibliothèque pygame_
+> _Un chapitre du cours C aborde la bibliothèque SDL (Simple DirectMedia Layer)_<br>
+> _Un chapitre du cours Python aborde la bibliothèque pygame_
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

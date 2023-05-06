@@ -33,3 +33,4 @@
 + [24. Dates et heures (2/2)](https://www.youtube.com/watch?v=9E42GFO1bVs)
 + [25. Généricité](https://www.youtube.com/watch?v=39BlqHYxDFo)
 + [26. Piles](https://www.youtube.com/watch?v=HZjKa5wJM30)
++ [27. Listes](https://www.youtube.com/watch?v=IXK-6hTZy0g)

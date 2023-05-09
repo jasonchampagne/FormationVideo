@@ -243,7 +243,7 @@ L'autre contenu après le séparateur.
 ### \<img\>
 
 ```html
-<img src="http://lien-vers-image.jpg" alt="Texte alternatif si l'image ne s'affiche pas">
+<img src="http://lien-vers-image.jpg" alt="Texte alternatif">
 ```
 
 ### \<input\>

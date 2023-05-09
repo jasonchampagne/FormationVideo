@@ -133,7 +133,7 @@ Code machine : <code>printf("Bonjour tout le monde !\n");</code>
 ### \<del\>
 
 ```html
-Dans quelques jours sortira un <del>nouvel article</del> nouveau comparatif.
+Dans quelques jours sortira un <del>nouvel article</del> <ins>nouveau comparatif</ins> sur notre blog.
 ```
 
 ### \<details\>
@@ -268,7 +268,7 @@ Autres types de champ : color, date, datetime-local, email, file, hidden, image,
 ### \<ins\>
 
 ```html
-Ce jour sort <ins>le nouveau Assassin's Creed sur PS4 !</ins>
+Dans quelques jours sortira un <del>nouvel article</del> <ins>nouveau comparatif</ins> sur notre blog.
 ```
 
 ### \<kbd\>
@@ -382,7 +382,7 @@ William Penn a dit <q>Si tu reçois une injure, que cela ne te pousse pas à en 
 ### \<s\>
 
 ```html
-HTML est un langage de <s>programmation</s> balisage pour concevoir des sites web.
+<s>Profitez de -25 % sur l'ensemble de nos articles toute la semaine !</s>
 ```
 
 ### \<samp\>

@@ -49,12 +49,12 @@ Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 
 ```html
 <article>
-   <header>
-      <h2>Un premier titre</h2>
-   </header>
-   <section>
-      <p>bla bla bla...</p>
-   </section>
+    <h2>Un premier titre</h2>
+    <p>Le contenu de ce bloc autonome...</p>
+</article>
+<article>
+    <h2>Un second titre</h2>
+    <p>Le contenu de ce bloc autonome...</p>
 </article>
 ```
 

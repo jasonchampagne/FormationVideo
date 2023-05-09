@@ -525,7 +525,7 @@ En mathématiques : équation <var>x</var> + 5 = 13
 ### \<wbr\>
 
 ```html
-Ce long mot sera tronqué : aaaaaaaaaaaaaaa<wbr>aaaaaaaaaaa
+Ce long mot sera tronqué s'il ne tient pas dans son conteneur : aaaaaaaaaaaaaaa<wbr>aaaaaaaaaaa
 ```
 
 ## Balises obsolètes

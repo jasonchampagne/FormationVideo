@@ -171,7 +171,7 @@ Dans quelques jours sortira un <del>nouvel article</del> <ins>nouveau comparatif
 ### \<em\>
 
 ```html
-On veut insister <em>sur cet extrait du texte</em> et pas le reste !
+Pour créer des sites web, vous pouvez utiliser <em>Django</em>.
 ```
 
 ### \<fieldset\>, \<legend\>

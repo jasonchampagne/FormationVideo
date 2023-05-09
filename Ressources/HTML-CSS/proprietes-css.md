@@ -2,6 +2,8 @@
 
 🔗 [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
 
+> 🔴 Liste encore incomplète par rapport à ce qui a été abordé en cours
+
 ---
 > **SOMMAIRE**
 > + [background](#-background)

@@ -40,7 +40,7 @@ Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 ```html
 <address>
    Chuck NORRIS
-   8 Rue des potiers
+   8 RUE DES POTIERS
    75000 PARIS
 </address>
 ```

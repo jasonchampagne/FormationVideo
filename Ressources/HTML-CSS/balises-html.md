@@ -81,7 +81,7 @@ Créer une page web en <abbr title="Hypertext Markup Language">HTML</abbr>
 ### \<b\>
 
 ```html
-Une mise <b>en évidence</b> d'un peu de texte
+<b>Ce texte est mis en évidence mais n'a pas d'importance.</b>
 ```
 
 ### \<bdi\>

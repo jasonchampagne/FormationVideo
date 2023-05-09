@@ -426,7 +426,7 @@ Texte normal <small>Copyright 2017</small>
 ### \<strong\>
 
 ```html
-<p>Lorsque est sorti le jeu PimpMyChuckNorris, il a été <strong>vendu à plus de 15 millions d'exemplaires</strong>. Les gens ont particulièrement apprécié le gameplay.</p>
+<p>Lorsque est sorti le jeu <em>PimpMyChuckNorris</em>, il a été <strong>vendu à plus de 15 millions d'exemplaires</strong>. Les gens ont particulièrement apprécié le gameplay.</p>
 ```
 
 ### \<sub\>

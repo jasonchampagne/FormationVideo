@@ -30,3 +30,4 @@
 + [21. Parcours du DOM](https://www.youtube.com/watch?v=u0-om2nmilQ)
 + [22. Manipulation d'éléments](https://www.youtube.com/watch?v=JBWJDQN4GTQ)
 + [23. Manipulation du design](https://www.youtube.com/watch?v=BZDZ5WArRYU)
++ [24. Évènements](https://www.youtube.com/watch?v=uqqbVX37-vs)

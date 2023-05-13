@@ -21,4 +21,5 @@
 |queue|Code source d'une File (entiers)|
 |stack-int|Code source d'une Pile (entiers)|
 |stack-player|Code source d'une Pile (joueurs)|
+|tree-int|Code source d'un arbre binaire (entiers)|
 |types-donnees|Liste des types de données (simples et étendus)|

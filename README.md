@@ -38,7 +38,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |:--:|:--:|:--:|:--:|:--:|
 ||Algorithmie|[1](Playlists/algorithmie-cours.md)|-||
 ||Architecture|[7](Playlists/architecture.md)|-|-|
-|🆕|Immersion|[1](Playlists/immersion.md)|-|-|
+||Immersion|[1](Playlists/immersion.md)|-|-|
 |🚧|Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)|||
 ||Réseaux||||
 
@@ -70,11 +70,12 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |✅|GNU/Linux|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
 ||Windows|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
-### Frameworks
+### API / Bibliothèques / Frameworks
 
 |/|NOM|COURS|TUTORIELS|
 |:--:|:--:|:--:|:--:|
 ||Django|[12](Playlists/django-cours.md)||
+|➡|JavaFX|||
 
 ### Musique
 

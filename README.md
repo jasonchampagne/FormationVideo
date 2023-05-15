@@ -108,7 +108,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |CMS|Joomla, PHPBoost, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
 |Langages|LaTeX, Lua, Ruby, Rust, XML|
-|Langues|anglais, français, chinois, coréen|
+|Langues|français, anglais, japonais, chinois, coréen|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD, MacOS, iOS|
 |Techniques|Analyse : UML<br>Infographie : 3D, calligraphie, dessin, imagerie, pixel-art<br>Jeu vidéo : _character design_, _game design_, _level design_, ...<br>Son : montage, mixage, masterisation<br>Vidéo : montage, effets spéciaux<br>Écriture<br>Chant|

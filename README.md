@@ -72,10 +72,10 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### API / Bibliothèques / Cadriciels
 
-|/|NOM|COURS|TUTORIELS|
-|:--:|:--:|:--:|:--:|
-||Django|[12](Playlists/django-cours.md)||
-||JavaFX|[1](Playlists/javafx-cours.md)||
+|/|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|:--:|
+||Django|[12](Playlists/django-cours.md)||-|
+||JavaFX|[1](Playlists/javafx-cours.md)|||
 
 ### Musique
 

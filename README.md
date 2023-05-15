@@ -42,6 +42,16 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |🚧|Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)|||
 ||Réseaux||||
 
+### Systèmes
+
+> _Un chapitre du cours GNU/Linux aborde l'écriture de scripts Bash_<br>
+> _Un chapitre du cours Windows aborde la programmation PowerShell_
+
+|/|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|:--:|
+|✅|GNU/Linux|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
+||Windows|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
+
 ### Langages
 
 > _Un chapitre du cours C aborde la bibliothèque SDL (Simple DirectMedia Layer)_<br>
@@ -59,16 +69,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
 |✅|Python|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
 |✅|SQL|[22](Playlists/sql-cours.md)|||
-
-### Systèmes
-
-> _Un chapitre du cours GNU/Linux aborde l'écriture de scripts Bash_<br>
-> _Un chapitre du cours Windows aborde la programmation PowerShell_
-
-|/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
-|✅|GNU/Linux|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
-||Windows|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
 ### API / Bibliothèques / Cadriciels
 

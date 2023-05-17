@@ -1,6 +1,6 @@
 # JavaFX - cours
 
-> [PLAYLIST YOUTUBE](#)
+> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGPyx7UHfsJtrdnpa_ix0ah)
 
 ---
 

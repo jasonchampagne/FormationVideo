@@ -64,7 +64,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||C++|[31](Playlists/cpp-cours.md)|||
 ||C#|[27](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)||
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
-||Java|[34](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
+|✅|Java|[35](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
 ||JavaScript|[24](Playlists/javascript-cours.md)|||
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
 |✅|Python|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|

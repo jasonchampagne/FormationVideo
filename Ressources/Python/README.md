@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|exo-6|Fichiers pour réaliser l'exercice n°6|
 |exo-9|Fichier pour réaliser l'exercice n°9|
 |fonctions-integrees|Fonctions intégrées|
 |methodes-speciales|Méthodes spéciales|

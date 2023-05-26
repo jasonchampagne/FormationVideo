@@ -44,8 +44,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Systèmes
 
-> _Un chapitre du cours GNU/Linux aborde l'écriture de scripts Bash_<br>
-> _Un chapitre du cours Windows aborde la programmation PowerShell_
+> _Le cours GNU/Linux aborde l'écriture de scripts Bash_<br>
+> _Le cours Windows aborde la programmation PowerShell_
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
@@ -54,8 +54,8 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Langages
 
-> _Un chapitre du cours C aborde la bibliothèque SDL (Simple DirectMedia Layer)_<br>
-> _Un chapitre du cours Python aborde la bibliothèque pygame_
+> _Le dernier chapitre de C aborde la bibliothèque SDL_<br>
+> _Le dernier chapitre de Python aborde la bibliothèque pygame_
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

@@ -35,7 +35,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Concepts
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 ||Algorithmie|[1](Playlists/algorithmie-cours.md)|-||
 ||Architecture|[7](Playlists/architecture.md)|-|-|
 ||Immersion|[1](Playlists/immersion.md)|-|-|
@@ -52,35 +52,35 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Langages
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 ||Assembleur|[9](Playlists/assembleur-cours.md)|||
-|✅|C + SDL|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
+|✅|C<br>(dont SDL)|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
 ||C++|[31](Playlists/cpp-cours.md)|||
 ||C#|[27](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)||
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
 |✅|Java|[35](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
 ||JavaScript|[24](Playlists/javascript-cours.md)|||
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
-|✅|Python + pygame|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
+|✅|Python<br>(dont pygame)|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
 |✅|SQL|[22](Playlists/sql-cours.md)|||
 
 ### API / Bibliothèques / Cadriciels
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 ||Django|[12](Playlists/django-cours.md)||-|
 ||JavaFX|[1](Playlists/javafx-cours.md)|||
 
 ### Musique
 
 |/|NOM|COURS|TUTORIELS|
-|:--:|--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |🔁|Piano|[8](Playlists/piano-cours.md)||
 
 ### Langues
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 ||Anglais||||
 ||Français||||
 ||Japonais||||

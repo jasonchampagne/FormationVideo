@@ -44,13 +44,10 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Systèmes
 
-> _Le cours GNU/Linux aborde l'écriture de scripts Bash_<br>
-> _Le cours Windows aborde la programmation PowerShell_
-
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|✅|GNU/Linux|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
-||Windows|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
+|✅|GNU/Linux + Bash|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
+||Windows + PowerShell|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
 ### Langages
 

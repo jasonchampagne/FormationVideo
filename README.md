@@ -25,7 +25,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Guides et dépannage
 
 |NOM|DESCRIPTION|CONTENU|
-|:--:|:--:|:--:|
+|--:|:--:|:--:|
 |Aide|Guides et vidéos explicatives sur des sujets généraux|[31](Playlists/aide.md)|
 |Blabla|Réaction à des commentaires d'abonnés|[1](Playlists/blabla.md)|
 |Partenariats|Vidéos promotionnelles et sponsors|[1](Playlists/partenariats.md)|
@@ -35,7 +35,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Concepts
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|--:|:--:|:--:|:--:|
 ||Algorithmie|[1](Playlists/algorithmie-cours.md)|-||
 ||Architecture|[7](Playlists/architecture.md)|-|-|
 ||Immersion|[1](Playlists/immersion.md)|-|-|
@@ -45,14 +45,14 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Systèmes
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|--:|:--:|:--:|:--:|
 |✅|GNU/Linux + Bash|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
 ||Windows + PowerShell|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
 ### Langages
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|--:|:--:|:--:|:--:|
 ||Assembleur|[9](Playlists/assembleur-cours.md)|||
 |✅|C + SDL|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
 ||C++|[31](Playlists/cpp-cours.md)|||
@@ -67,20 +67,20 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### API / Bibliothèques / Cadriciels
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|--:|:--:|:--:|:--:|
 ||Django|[12](Playlists/django-cours.md)||-|
 ||JavaFX|[1](Playlists/javafx-cours.md)|||
 
 ### Musique
 
 |/|NOM|COURS|TUTORIELS|
-|:--:|:--:|:--:|:--:|
+|:--:|--:|:--:|:--:|
 |🔁|Piano|[8](Playlists/piano-cours.md)||
 
 ### Langues
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|--:|:--:|:--:|:--:|
 ||Anglais||||
 ||Français||||
 ||Japonais||||

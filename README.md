@@ -45,7 +45,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Systèmes
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 |✅|GNU/Linux<br>(+ Bash)|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
 ||Windows<br>(+ PowerShell)|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 

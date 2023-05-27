@@ -47,7 +47,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |✅|GNU/Linux<br>(+ Bash)|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
-||Windows<br>(+ PowerShell)|[24](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
+||Windows<br>(+ PowerShell)|[25](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
 
 ### Langages
 

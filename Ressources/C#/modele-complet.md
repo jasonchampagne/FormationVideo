@@ -33,3 +33,37 @@ Mais, pour les besoins du cours, vous pouvez créer un projet avec cette command
 ```powershell
 dotnet new console --use-program-main -o Main
 ```
+
+Le fichier `Program.cs` est quasiment complet, à l'exception des inclusions. On va donc désactiver les inclusions implicites, en supprimant la ligne `<ImplicitUsings>enable</ImplicitUsings>` (ou en changeant sa valeur à `disable`) dans le fichier `Main.csproj`, puis en ajoutant les inclusions nécessaires (`using System`).
+
+Le code final sera donc celui-ci :
+
+```csharp
+using System;
+namespace MyFuckingApp;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+```
+
+Et le fichier de projet (pour les plus étourdis) :
+
+```xml
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+```
+
+> **NOTE** : le `namespace` n'occupe qu'une seule ligne et n'englobe pas dans des accolades la classe `Program`, mais cela est juste une autre syntaxe des espaces de noms, que vous apprendrez à utiliser plus tard dans le cours.

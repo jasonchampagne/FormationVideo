@@ -34,7 +34,7 @@ Mais, pour les besoins du cours, vous pouvez créer un projet avec cette command
 dotnet new console --use-program-main -o Main
 ```
 
-Le fichier `Program.cs` est quasiment complet, à l'exception des inclusions. On va donc désactiver les inclusions implicites, en supprimant la ligne `<ImplicitUsings>enable</ImplicitUsings>` (ou en changeant sa valeur à `disable`) dans le fichier `Main.csproj`, puis en ajoutant les inclusions nécessaires (`using System`).
+Le fichier `Program.cs` est quasiment complet, à l'exception des inclusions. On va donc désactiver les inclusions implicites, en supprimant la ligne `<ImplicitUsings>enable</ImplicitUsings>` (ou en changeant sa valeur à `disable`) dans le fichier `Main.csproj`, puis en ajoutant l'inclusion de `System` dans le code source.
 
 Le code final sera donc celui-ci :
 

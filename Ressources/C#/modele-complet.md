@@ -9,7 +9,7 @@ Vous suivez les premières vidéos, créez votre premier projet C# en console, o
 Console.WriteLine("Hello, World!");
 ```
 
-Au lieu du code plus complet montré en vidéo :
+Alors que vous devriez avoir ce code (correspondant à celui montré en vidéo) :
 
 ```csharp
 using System;

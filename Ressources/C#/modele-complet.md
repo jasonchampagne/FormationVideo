@@ -67,3 +67,5 @@ Et le fichier de projet (pour les plus étourdis) :
 
 </Project>
 ```
+
+Bon courage dans votre apprentissage de C#, vous êtes parés ! ⚔

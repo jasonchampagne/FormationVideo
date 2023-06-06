@@ -25,3 +25,11 @@ namespace Main
     }
 }
 ```
+
+Ce changement est due à un nouveau modèle (_template_) utilisé à partir de .NET 6, et un système d'**inclusions implicites**. En d'autres termes, les espaces de noms principaux sont inclus implicitement dans le programme et n'ont plus besoin d'être écrits par le développeur.
+
+Mais, pour les besoins du cours et pouvoir créer un projet avec cette commande légèrement modifiée (l'argument `--use-program-main` va permettre de générer le code complet du fichier où se trouve la méthode `Main()`) :
+
+```powershell
+dotnet new console --use-program-main -o Main
+```

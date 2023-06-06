@@ -1,6 +1,6 @@
 # Modèle complet
 
-> Expliqué en détails dans la [séance n°21 de C#](https://www.youtube.com/watch?v=rM5BbdxR9pk), mais s'adresse à celles et ceux qui débutent tout juste le cours.
+> Ce changement apporté à **dotnet** est expliqué en détails dans la [séance n°21 de C#](https://www.youtube.com/watch?v=rM5BbdxR9pk), mais je fais ce petit guide pour celles et ceux qui débutent tout juste le cours.
 
 Vous suivez les premières vidéos, créez votre premier projet C# en console, ouvrez le fichier source `Program.cs`, qui contient ce code :
 

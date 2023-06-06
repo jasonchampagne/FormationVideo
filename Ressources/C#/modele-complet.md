@@ -38,6 +38,8 @@ Le fichier `Program.cs` est quasiment complet, à l'exception des inclusions. On
 
 Le code final sera donc celui-ci :
 
+> **NOTE** : par rapport à ce que je vous ai montré en vidéo, vous aurez remarqué que le `namespace` n'occupe qu'une seule ligne et n'englobe pas dans des accolades la classe `Program`, mais cela est juste une autre syntaxe des espaces de noms, que vous apprendrez à utiliser plus tard dans le cours.
+
 ```csharp
 using System;
 namespace MyFuckingApp;
@@ -65,5 +67,3 @@ Et le fichier de projet (pour les plus étourdis) :
 
 </Project>
 ```
-
-> **NOTE** : le `namespace` n'occupe qu'une seule ligne et n'englobe pas dans des accolades la classe `Program`, mais cela est juste une autre syntaxe des espaces de noms, que vous apprendrez à utiliser plus tard dans le cours.

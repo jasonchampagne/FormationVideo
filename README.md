@@ -62,6 +62,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 |✅|JavaScript|[26](Playlists/javascript-cours.md)|||
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
 |✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
+|🚧|Rust|_à venir_|_à venir_|_à venir_|
 |✅|SQL|[22](Playlists/sql-cours.md)|||
 
 ### API / Bibliothèques / Cadriciels
@@ -101,7 +102,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
 |CMS|Joomla, PHPBoost, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
-|Langages|LaTeX, Lua, Ruby, Rust, XML|
+|Langages|LaTeX, Lua, Ruby, XML|
 |Langues|français, anglais, japonais, chinois, coréen|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD, MacOS, iOS|

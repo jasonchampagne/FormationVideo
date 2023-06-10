@@ -36,41 +36,41 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Algorithmie|[1](Playlists/algorithmie-cours.md)|-||
+||Algorithmie|[1](Playlists/algorithmie-cours.md)|-|_à venir_|
 ||Architecture|[7](Playlists/architecture.md)|-|-|
 ||Immersion|[1](Playlists/immersion.md)|-|-|
-|🚧|Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)||-|
-||Réseaux|||-|
+|🚧|Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)|_à venir_|-|
+||Réseaux|_à venir_|_à venir_|-|
 
 ### Systèmes
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-|✅|GNU/Linux<br>(+ Bash)|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)||
-||Windows<br>(+ PowerShell)|[25](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)||
+|✅|GNU/Linux<br>(+ Bash)|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)|_à venir_|
+||Windows<br>(+ PowerShell)|[25](Playlists/windows-cours.md)|[5](Playlists/windows-tutoriels.md)|_à venir_|
 
 ### Langages
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Assembleur|[9](Playlists/assembleur-cours.md)|||
+||Assembleur|[9](Playlists/assembleur-cours.md)|_à venir_|_à venir_|
 |✅|C<br>(+ SDL)|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
-||C++|[31](Playlists/cpp-cours.md)|||
-||C#|[28](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)||
+||C++|[31](Playlists/cpp-cours.md)|_à venir_|_à venir_|
+||C#|[28](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)|_à venir_|
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
-|✅|Java|[35](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)||
-|✅|JavaScript|[26](Playlists/javascript-cours.md)|||
+|✅|Java|[35](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)|_à venir_|
+|✅|JavaScript|[26](Playlists/javascript-cours.md)|_à venir_|_à venir_|
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
 |✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[9](Playlists/python-exercices.md)|
 |🚧|Rust|_à venir_|_à venir_|_à venir_|
-|✅|SQL|[22](Playlists/sql-cours.md)|||
+|✅|SQL|[22](Playlists/sql-cours.md)|_à venir_|_à venir_|
 
 ### API / Bibliothèques / Cadriciels
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Django|[13](Playlists/django-cours.md)||-|
-||JavaFX|[1](Playlists/javafx-cours.md)|||
+||Django|[13](Playlists/django-cours.md)|_à venir_|-|
+||JavaFX|[1](Playlists/javafx-cours.md)|_à venir_|_à venir_|
 
 ### Musique
 
@@ -80,11 +80,11 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Langues
 
-|/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
-||Anglais||||
-||Français||||
-||Japonais||||
+|/|NOM|COURS|TUTORIELS|
+|:--:|:--:|:--:|
+||Anglais|_à venir_|_à venir_|
+||Français|_à venir_|_à venir_|
+||Japonais|_à venir_|_à venir_|
 
 ### Les restes du monde
 

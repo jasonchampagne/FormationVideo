@@ -74,17 +74,17 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 ### Musique
 
-|/|NOM|COURS|TUTORIELS|
-|:--:|:--:|:--:|:--:|
-|🔁|Piano|[8](Playlists/piano-cours.md)||
+|/|NOM|COURS|
+|:--:|:--:|:--:|
+|🔁|Piano|[8](Playlists/piano-cours.md)|
 
 ### Langues
 
-|/|NOM|COURS|TUTORIELS|
-|:--:|:--:|:--:|
-||Anglais|_à venir_|_à venir_|
-||Français|_à venir_|_à venir_|
-||Japonais|_à venir_|_à venir_|
+|/|NOM|COURS|
+|:--:|:--:|
+||Anglais|_à venir_|
+||Français|_à venir_|
+||Japonais|_à venir_|
 
 ### Les restes du monde
 

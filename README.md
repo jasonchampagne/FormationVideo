@@ -81,7 +81,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ### Langues
 
 |/|NOM|COURS|
-|:--:|:--:|
+|:--:|:--:|:--:|
 ||Anglais|_à venir_|
 ||Français|_à venir_|
 ||Japonais|_à venir_|

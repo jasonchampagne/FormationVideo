@@ -86,10 +86,6 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 ||Français|_à venir_|
 ||Japonais|_à venir_|
 
-### Les restes du monde
-
-+ [Vidéos archivées](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGv7PbZ66B09ewF6kVSEwE_)
-
 ---
 
 ## Idées de contenus à venir

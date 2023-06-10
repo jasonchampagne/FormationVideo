@@ -32,4 +32,4 @@
 + [23. Manipulation du design](https://www.youtube.com/watch?v=BZDZ5WArRYU)
 + [24. Évènements](https://www.youtube.com/watch?v=uqqbVX37-vs)
 + [25. Code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
-+ [26. Conclusion](#)
++ [26. Conclusion](https://www.youtube.com/watch?v=x65IyueCABg)

@@ -12,6 +12,6 @@
 + [4. Conventions d'appel](https://www.youtube.com/watch?v=ZpeMivhWuic)
 + [5. Variables](https://www.youtube.com/watch?v=CIzKfH8Jtco)
 + [6. Lecture au clavier](https://www.youtube.com/watch?v=Pq1kWf2lUpk)
-+ [7. Conditions](https://www.youtube.com/watch?v=aTR5giX57Aw)
++ [7. Conditions](https://www.youtube.com/watch?v=KYMt8tA_fe0)
 + [8. Boucles](https://www.youtube.com/watch?v=lBp9guUoA0A)
 + [9. Opérations](https://www.youtube.com/watch?v=8E8vOQuFQzQ)

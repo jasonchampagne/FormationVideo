@@ -1,4 +1,4 @@
-# Java - cours
+# Java - cours ✔
 
 > [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv)
 

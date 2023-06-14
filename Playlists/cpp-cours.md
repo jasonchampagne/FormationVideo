@@ -37,3 +37,4 @@
 + [29. Généricité](https://www.youtube.com/watch?v=uwPYPL5KY0Y)
 + [30. Surcharge d'opérateurs](https://www.youtube.com/watch?v=nYaAoFyUeH8)
 + [31. Pointeurs](https://www.youtube.com/watch?v=lsNNwz-NJ-g)
++ [32. Dates et temps](https://www.youtube.com/watch?v=D777DhhoxE4)

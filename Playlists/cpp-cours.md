@@ -39,3 +39,4 @@
 + [31. Pointeurs](https://www.youtube.com/watch?v=lsNNwz-NJ-g)
 + [32. Dates et temps](https://www.youtube.com/watch?v=D777DhhoxE4)
 + [33. Threads](https://www.youtube.com/watch?v=8dvbFWrmCws)
++ [34. Promesses et futures](https://www.youtube.com/watch?v=_nogDC2XpJM)

@@ -1,4 +1,4 @@
-# C++ - cours
+# C++ - cours ✅
 
 > [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFKOzlm5iCBeXDTLxXdmxpx)
 

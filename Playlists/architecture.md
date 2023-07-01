@@ -15,8 +15,8 @@ Puis (sans ordre particulier, sauf exception, précisé en vidéo) :
 
 + [Conversion de base numérique](https://www.youtube.com/watch?v=RdBNK43JK5c) 🖍
 + [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY) 🖍
-+ [Modèle vue contrôleur](https://www.youtube.com/watch?v=NhFTswve-8o)
-+ [???](#)
++ [Patron MVC](https://www.youtube.com/watch?v=NhFTswve-8o)
++ [Patro MVVM](#)
 + [Processeur](https://www.youtube.com/watch?v=2jFBKfXxeZw) 🖍
 + [Registres](https://www.youtube.com/watch?v=met394KmyZ4) 🖍
 + [Systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU) 🖍

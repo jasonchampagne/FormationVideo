@@ -35,4 +35,4 @@
 + [26. Piles](https://www.youtube.com/watch?v=HZjKa5wJM30)
 + [27. Listes](https://www.youtube.com/watch?v=IXK-6hTZy0g)
 + [28. Files](https://www.youtube.com/watch?v=Liv9TIVAK6A)
-+ [29. Dictionnaires](#)
++ [29. Dictionnaires](https://www.youtube.com/watch?v=iMTuFvhkFpg)

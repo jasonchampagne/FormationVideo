@@ -1,0 +1,23 @@
+[
+    {
+        "q1": "Qui est le créateur du langage Python ?",
+        "r1": "Guido van Rossum"
+    },
+    {
+        "q2": "Combien font 2 + 2 x 4 ?",
+        "r2": "10"
+    },
+    {
+        "q3": "Quelle est la botte secrète quand on manque de vocabulaire ?",
+        "r3": "C'est pas faux"
+    },
+    {
+        "q4": "Aime-t-on la canicule ?",
+        "r4": "Non"
+    }
+    ,
+    {
+        "q5": "Quelle est votre chaîne YouTube préférée ?",
+        "r5": "FormationVidéo"
+    }
+]

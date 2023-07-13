@@ -8,7 +8,7 @@
 **🖍 indique que la vidéo doit encore être chapitrée**
 
 + [1. Affichage simple](https://www.youtube.com/watch?v=HVN4qv6Dxdk)
-+ [2. Variables (QCM)](https://www.youtube.com/watch?v=7o3y47LYFvE) 🖍
++ [2. Variables (QCM)](https://www.youtube.com/watch?v=7o3y47LYFvE)
 + [3. L'attaque des titans](https://www.youtube.com/watch?v=2VhWLJ_TQ0U) 🖍
 + [4. Terminal de commandes](https://www.youtube.com/watch?v=-3v4_AoCeKM) 🖍
 + [5. Damn geoshape !](https://www.youtube.com/watch?v=mJwjyE5HSEA) 🖍

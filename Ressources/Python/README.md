@@ -7,6 +7,7 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |evenements-pygame|Référence des évènements pygame|
+|exo-3|Fichier pour réaliser l'exercice n°3|
 |exo-6|Fichiers pour réaliser l'exercice n°6|
 |exo-9|Fichier pour réaliser l'exercice n°9|
 |exo-10|Fichier JSON pour réaliser l'exercice n°10|

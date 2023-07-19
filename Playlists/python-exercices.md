@@ -16,3 +16,4 @@
 + [8. Where is Bryan ?](https://www.youtube.com/watch?v=gmQp9F1oMIE)
 + [9. Tuple or not tuple](https://www.youtube.com/watch?v=FWTezV5QjNk)
 + [10. Quizz](https://www.youtube.com/watch?v=ulSPoAM7DCc)
++ [11. Prenez note](https://www.youtube.com/watch?v=W1gKlpXE2hs)

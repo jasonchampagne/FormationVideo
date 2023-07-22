@@ -206,6 +206,7 @@
 + [Tutoriel C - gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
 + [Tutoriel C - lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
 + [Tutoriel C - récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)
++ [Tutoriel CSharp - projets et solutions](https://www.youtube.com/watch?v=HaDML4J3Wzg)
 + [Tutoriel GNU/Linux - identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo)
 + [Tutoriel GNU/Linux - installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ)
 + [Tutoriel GNU/Linux - quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)

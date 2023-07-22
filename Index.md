@@ -3,6 +3,16 @@
 > Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste TOUTES les vidéos publiées sur YouTube (par ordre alphabétique). Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
 
 + [Algorithmie : présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
++ [Architecture : conversion de base numérique](https://www.youtube.com/watch?v=RdBNK43JK5c)
++ [Architecture : format JSON](https://www.youtube.com/watch?v=UjV4XZotT_o)
++ [Architecture : mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
++ [Architecture : patron MVC](https://www.youtube.com/watch?v=NhFTswve-8o)
++ [Architecture : patron MVVM](https://www.youtube.com/watch?v=UzGYdZSuL7Q)
++ [Architecture : présentation](https://www.youtube.com/watch?v=x4yzYMZ5ZNo)
++ [Architecture : principes SOLID](https://www.youtube.com/watch?v=N0-8jXHbG3Q)
++ [Architecture : processeur](https://www.youtube.com/watch?v=2jFBKfXxeZw)
++ [Architecture : registres](https://www.youtube.com/watch?v=met394KmyZ4)
++ [Architecture : systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Bibliothèque dynamique](https://www.youtube.com/watch?v=pKOJFZN_HUk)
 + [Bibliothèque statique](https://www.youtube.com/watch?v=osxzRLjHDNY)

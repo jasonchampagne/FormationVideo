@@ -1,3 +1,32 @@
 # Index
 
-> Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste TOUTES les vidéos publiées sur YouTube. Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander sur Discord 😉
+> Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste TOUTES les vidéos publiées sur YouTube (par ordre alphabétique). Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
+
++ [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
++ [Bibliothèque dynamique](https://www.youtube.com/watch?v=pKOJFZN_HUk)
++ [Bibliothèque statique](https://www.youtube.com/watch?v=osxzRLjHDNY)
++ [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
++ [C'est quoi le meilleur ?](https://www.youtube.com/watch?v=YLR_rMc0Rps)
++ [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
++ [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)
++ [Débuter en programmation](https://www.youtube.com/watch?v=aBJ8wYiV9FQ)
++ [Doxygen - générer de la documentation](https://www.youtube.com/watch?v=3uAuexgarD4)
++ [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
++ [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
++ [GCC - compilation en C/C++](https://www.youtube.com/watch?v=gr44z0Fyx_Y)
++ [Git - gérer plusieurs versions de fichiers](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
++ [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
++ [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
++ [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
++ [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
++ [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
++ [Optimiser un SSD](https://www.youtube.com/watch?v=6k3f72d9UXQ)
++ [Paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q)
++ [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0)
++ [Pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
++ [Programmation fonctionnelle](https://www.youtube.com/watch?v=UA7JdE7Z28I)
++ [Programmation impérative](https://www.youtube.com/watch?v=UlQObyHkfGo)
++ [Programmation orientée objet](https://www.youtube.com/watch?v=5j5z9BJCAW8)
++ [Programmation par contrat](https://www.youtube.com/watch?v=VpMawX9jIj0)
++ [Programmation procédurale](https://www.youtube.com/watch?v=vLw3YfIwpgU)
++ [Rufus - créer une clé bootable](https://www.youtube.com/watch?v=-wffj0kEqQg)

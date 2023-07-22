@@ -59,5 +59,3 @@
 + [Tutoriel Windows - récupérer sa clé de licence](https://www.youtube.com/watch?v=wAqUPpgpN2M)
 + [Tutoriel Windows - réduire latence sur les jeux](https://www.youtube.com/watch?v=TCTpKPolAH4)
 + [Tutoriel Windows - variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)
-+ [Tutoriel Windows - tkinter has no attribute Tk](https://www.youtube.com/watch?v=PJympjnm2L8)
-+ [Tutoriel Windows - undefined reference to WinMain](https://www.youtube.com/watch?v=RNAdJW2J-wA)

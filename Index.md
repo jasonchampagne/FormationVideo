@@ -71,6 +71,8 @@
 + [Immersion #1 - introduction](https://www.youtube.com/watch?v=tkId1al9Q04)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Intérêt pour l'informatique](https://www.youtube.com/watch?v=DkTFQ4t6igA)
++ [JavaFX #1 - introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
++ [JavaFX #2 - architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
 + [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)

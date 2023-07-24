@@ -26,6 +26,6 @@
 |--:|:--|
 |Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0` à `XMM3` (flottants)|
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
-|Valeur de retour|`RAX`|
+|Valeur de retour|`RAX` (entier)<br>`XMM0` (flottant)|
 |Registres conservés|`RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12`, `R13`, `R14`, `R15`<br>`XMM6` à `XMM15`|
 |Registres volatiles|`RAX`, `RCX`, `RDX`, `R8`, `R9`, `R10`, `R11`<br>`XMM0` à `XMM5`|

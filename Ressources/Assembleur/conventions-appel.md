@@ -1,6 +1,6 @@
 # Conventions d'appel
 
-📛 **Veillez à vérifier les conventions d'appel qui sont prises en charge par votre compilateur et/ou votre environnement de développement**
+> 📛 **Attention à bien vérifier les conventions d'appel qui sont prises en charge par votre compilateur et/ou votre environnement de développement**
 
 ## GNU/Linux
 

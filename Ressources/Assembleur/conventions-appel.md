@@ -18,6 +18,8 @@
 
 ### 32 bits
 
+> [SystemV Intel386](https://refspecs.linuxbase.org/elf/abi386-4.pdf)
+
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères||

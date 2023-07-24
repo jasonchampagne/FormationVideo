@@ -14,6 +14,16 @@
 |Registres conservés|`RBX`, `RBP`, `RSP`, `R12` à `R15`|
 |Registres volatiles|`RAX`, `RDI`, `RSI`, `RCX`, `RDX`, `R8` à `R11`<br>`XMM0` à `XMM15`|
 
+### 32 bits
+
+|/|DESCRIPTION|
+|--:|:--|
+|Paramères||
+|Paramètres supplémentaires||
+|Valeur de retour||
+|Registres conservés||
+|Registres volatiles||
+
 ---
 
 ## Windows
@@ -29,3 +39,13 @@
 |Valeur de retour|`RAX` (64 bits)<br>`XMM0` (128 bits)|
 |Registres conservés|`RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12` à `R15`<br>`XMM6` à `XMM15`|
 |Registres volatiles|`RAX`, `RCX`, `RDX`, `R8` à `R11`<br>`XMM0` à `XMM5`|
+
+### 32 bits
+
+|/|DESCRIPTION|
+|--:|:--|
+|Paramères||
+|Paramètres supplémentaires||
+|Valeur de retour||
+|Registres conservés||
+|Registres volatiles||

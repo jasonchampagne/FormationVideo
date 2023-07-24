@@ -18,6 +18,15 @@
 
 ### 32 bits
 
+> i386 Linux System Call
+
+|/|DESCRIPTION|
+|--:|:--|
+|Paramères|`EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`|
+|Paramètres supplémentaires||
+|Valeur de retour|`EAX`|
+|Registres conservés|Tous|
+
 > [SystemV Intel386](https://refspecs.linuxbase.org/elf/abi386-4.pdf)
 
 |/|DESCRIPTION|

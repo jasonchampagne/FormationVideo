@@ -1,6 +1,6 @@
 # Index
 
-> Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste TOUTES les vidéos publiées sur YouTube (par ordre alphabétique). Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
+> Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste TOUTES les vidéos publiées sur YouTube (par ordre alphabétique), hormis les news/annonces. Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
 
 + [Algorithmie - présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)

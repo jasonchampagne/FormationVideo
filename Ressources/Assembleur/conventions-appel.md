@@ -42,6 +42,8 @@
 
 ### 32 bits
 
+> [stdcall](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
+
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères||

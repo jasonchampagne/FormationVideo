@@ -51,7 +51,7 @@
 
 ### 32 bits
 
-> [stdcall](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
+> [Microsoft StdCall](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 
 |/|DESCRIPTION|
 |--:|:--|

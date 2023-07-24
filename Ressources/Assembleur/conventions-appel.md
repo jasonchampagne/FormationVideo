@@ -8,7 +8,7 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|`RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9` (entiers)<br>`XMM0` à `XMM7`(flottants)|
+|Paramères|`RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9` (entiers)<br>`XMM0` à `XMM7` (flottants)|
 |Paramètres supplémentaires|pile|
 |Ordre sur la pile|droite à gauche|
 |Valeur de retour|`RAX` (64 bits)<br>`RAX` + `RBX` (128 bits)|

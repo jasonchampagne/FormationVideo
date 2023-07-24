@@ -23,7 +23,6 @@
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères|`EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`|
-|Paramètres supplémentaires||
 |Valeur de retour|`EAX`|
 |Registres conservés|Tous|
 

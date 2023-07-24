@@ -46,8 +46,5 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères||
-|Paramètres supplémentaires||
-|Valeur de retour||
-|Registres conservés||
-|Registres volatiles||
+|Paramères|pile (_de droite à gauche_)|
+|Valeur de retour|`EAX`|

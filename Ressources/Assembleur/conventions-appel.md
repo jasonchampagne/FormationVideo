@@ -18,20 +18,13 @@
 
 ### 32 bits
 
-> i386 Linux System Call
+> [SystemV Intel386](https://www.sco.com/developers/devspecs/abi386-4.pdf)
 
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères|`EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`|
 |Valeur de retour|`EAX`|
-|Registres conservés|Tous|
-
-> [SystemV Intel386](https://www.sco.com/developers/devspecs/abi386-4.pdf)
-
-|/|DESCRIPTION|
-|--:|:--|
-|Paramères||
-|Valeur de retour||
+|Registres volatiles|`EAX`, `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`|
 
 ---
 

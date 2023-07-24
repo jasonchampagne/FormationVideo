@@ -27,7 +27,7 @@
 |--:|:--|
 |Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0`, `XMM1`, `XMM2`, `XMM3` (nombres à virgule flottante)|
 |Paramètres supplémentaires|pile|
-|Ordre sur la pile|gauche à droite|
+|Ordre sur la pile|droite à gauche|
 |Valeur de retour|`RAX`|
 |Registres conservés|`RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12`, `R13`, `R14`, `R15`<br>`XMM6` à `XMM15`|
 |Registres volatiles|`RAX`, `RCX`, `RDX`, `R8`, `R9`, `R10`, `R11`<br>`XMM0` à `XMM5`|

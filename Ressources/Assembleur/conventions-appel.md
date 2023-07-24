@@ -6,7 +6,7 @@
 
 ### 64 bits
 
-> [SystemV AMD64 ABI](https://www.uclibc.org/docs/psABI-x86_64.pdf)
+> [SystemV AMD64](https://www.uclibc.org/docs/psABI-x86_64.pdf)
 
 |/|DESCRIPTION|
 |--:|:--|
@@ -39,7 +39,7 @@
 
 ### 64 bits
 
-> [Microsoft x64 Calling Convention](https://learn.microsoft.com/en-us/cpp/build/x64-calling-convention)
+> [Microsoft x64](https://learn.microsoft.com/en-us/cpp/build/x64-calling-convention)
 
 |/|DESCRIPTION|
 |--:|:--|

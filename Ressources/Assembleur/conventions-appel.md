@@ -25,7 +25,7 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0`, `XMM1`, `XMM2`, `XMM3` (nombres à virgule flottante)|
+|Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0` à `XMM3` (flottants)|
 |Paramètres supplémentaires|pile|
 |Ordre sur la pile|droite à gauche|
 |Valeur de retour|`RAX`|

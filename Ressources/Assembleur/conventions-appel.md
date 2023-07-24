@@ -21,6 +21,8 @@
 
 ### 64 bits
 
+> [Microsoft x64](https://learn.microsoft.com/en-us/cpp/build/x64-calling-convention)
+
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0`, `XMM1`, `XMM2`, `XMM3` (nombres à virgule flottante)|

@@ -6,7 +6,7 @@
 
 ### 64 bits
 
-> [SystemV AMD64 ABI](https://refspecs.linuxbase.org/elf/x86_64-abi-0.98.pdf)
+> [SystemV AMD64 ABI](https://www.uclibc.org/docs/psABI-x86_64.pdf)
 
 |/|DESCRIPTION|
 |--:|:--|
@@ -26,15 +26,12 @@
 |Valeur de retour|`EAX`|
 |Registres conservés|Tous|
 
-> [SystemV Intel386](https://refspecs.linuxbase.org/elf/abi386-4.pdf)
+> [SystemV Intel386](https://www.sco.com/developers/devspecs/abi386-4.pdf)
 
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères||
-|Paramètres supplémentaires||
 |Valeur de retour||
-|Registres conservés||
-|Registres volatiles||
 
 ---
 

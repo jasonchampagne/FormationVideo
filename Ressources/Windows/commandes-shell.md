@@ -20,6 +20,7 @@
 |[**Get-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process)|`gps`, `ps`|Lister les processus en cours d'exécution|
 |[**Get-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-service)|`gsv`|Lister tous les services|
 |[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume?view=windowsserver2022-ps)|-|Lister les volumes|
+|[**Invoke-Expression**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression)|`iex`|Exécuter des commandes ou des expressions|
 |[**New-Item**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item)|`ni`|Créer un nouvel élément|
 |[**New-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localgroup)|`nlg`|Créer un groupe local|
 |[**New-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser)|`nlu`|Créer un utilisateur local|

@@ -462,6 +462,7 @@
 + [Tutoriel PHP - système d'authentification](https://www.youtube.com/watch?v=u5HqEgBxtss)
 + [Tutoriel Python - base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)
 + [Tutoriel Python - calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA)
++ [Tutoriel Python - classes abstraites](https://www.youtube.com/watch?v=zY4WnyEV_Ao)
 + [Tutoriel Python - créer un exécutable](https://www.youtube.com/watch?v=Jji2ik_AQOg)
 + [Tutoriel Python - décorateurs](https://www.youtube.com/watch?v=LiBsVCXAgXI)
 + [Tutoriel Python - différences 2.X et 3.X](https://www.youtube.com/watch?v=LU7FSqzVrdc)

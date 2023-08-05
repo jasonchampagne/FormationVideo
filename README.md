@@ -63,7 +63,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |✅|Java|[35](Playlists/java-cours.md)|[2](Playlists/java-tutoriels.md)|_à venir_|
 |✅|JavaScript|[26](Playlists/javascript-cours.md)|_à venir_|_à venir_|
 |✅|PHP|[32](Playlists/php-cours.md)|[5](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
-|✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[16](Playlists/python-tutoriels.md)|[11](Playlists/python-exercices.md)|
+|✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[17](Playlists/python-tutoriels.md)|[11](Playlists/python-exercices.md)|
 |🚧|Rust|_à venir_|_à venir_|_à venir_|
 |✅|SQL|[22](Playlists/sql-cours.md)|_à venir_|_à venir_|
 

@@ -9,6 +9,7 @@
 
 + [Base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so) 🖍
 + [Calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA) 🖍
++ [Classes abstraites](https://www.youtube.com/watch?v=zY4WnyEV_Ao)
 + [Créer un exécutable](https://www.youtube.com/watch?v=Jji2ik_AQOg) 🖍
 + [Décorateurs](https://www.youtube.com/watch?v=LiBsVCXAgXI) 🖍
 + [Différences 2.X et 3.X](https://www.youtube.com/watch?v=LU7FSqzVrdc) 🖍

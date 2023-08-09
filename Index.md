@@ -217,6 +217,7 @@
 + [GNU/Linux #37 - fonctions](https://www.youtube.com/watch?v=Bye1ez_7K4E)
 + [GNU/Linux #38 - conclusion](https://www.youtube.com/watch?v=ddaUjHt7amc)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
++ [Hostinger : créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)
 + [Hostinger : hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
 + [HTML/CSS #1 - introduction](https://www.youtube.com/watch?v=u5W2NWItytc)
 + [HTML/CSS #2 - première page web](https://www.youtube.com/watch?v=Fi8fj_JY91o)

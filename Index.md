@@ -459,6 +459,7 @@
 + [Tutoriel PHP - envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY)
 + [Tutoriel PHP - inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI)
 + [Tutoriel PHP - installer phpMyAdmin](https://www.youtube.com/watch?v=S0mR_Gl7Rg4)
++ [Tutoriel PHP - introspection et réflexion (1/2](https://www.youtube.com/watch?v=DWLynPX8yiM)
 + [Tutoriel PHP - mettre à jour l'interpréteur](https://www.youtube.com/watch?v=wPFqy_QvWjs)
 + [Tutoriel PHP - système d'authentification](https://www.youtube.com/watch?v=u5HqEgBxtss)
 + [Tutoriel Python - base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)

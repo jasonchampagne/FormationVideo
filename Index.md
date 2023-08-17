@@ -480,7 +480,7 @@
 + [Tutoriel Python - méthodes spéciales](https://www.youtube.com/watch?v=XxUasK8f-s0)
 + [Tutoriel Python - portée des variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
 + [Tutoriel Python - tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)
-+ [Tutoriel SQL - ???](#)
++ [Tutoriel SQL - Relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)
 + [Tutoriel Windows - afficher extension des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw)
 + [Tutoriel Windows - installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A)
 + [Tutoriel Windows - mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)

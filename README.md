@@ -71,7 +71,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Django|[13](Playlists/django-cours.md)|_à venir_|-|
+||Django|[14](Playlists/django-cours.md)|_à venir_|-|
 ||JavaFX|[2](Playlists/javafx-cours.md)|_à venir_|_à venir_|
 
 ### Musique

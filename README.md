@@ -64,7 +64,6 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |✅|JavaScript|[26](Playlists/javascript-cours.md)|_à venir_|_à venir_|
 |✅|PHP|[32](Playlists/php-cours.md)|[7](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
 |✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[17](Playlists/python-tutoriels.md)|[11](Playlists/python-exercices.md)|
-|🚧|Rust|_à venir_|_à venir_|_à venir_|
 |✅|SQL|[22](Playlists/sql-cours.md)|[1](Playlists/sql-tutoriels.md)|_à venir_|
 
 ### API / Bibliothèques / Cadriciels
@@ -100,7 +99,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
 |CMS|Joomla, PHPBoost, PrestaShop, WordPress|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
-|Langages|LaTeX, Lua, Ruby, XML|
+|Langages|LaTeX, Lua, Ruby, Rust, XML|
 |Langues|français, anglais, japonais, chinois, coréen|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD, MacOS, iOS|

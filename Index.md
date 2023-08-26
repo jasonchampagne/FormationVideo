@@ -139,6 +139,7 @@
 + [Django #12 - formulaires (2/2)](https://www.youtube.com/watch?v=9NFXJFbkosM)
 + [Django #13 - authentification](https://www.youtube.com/watch?v=ZpiokBHjPtA)
 + [Django #14 - permissions et groupes](https://www.youtube.com/watch?v=jdKvHTtjF3I)
++ [Django #15 - tests](https://www.youtube.com/watch?v=7tIIsGA0wlg)
 + [Doxygen - générer de la documentation](https://www.youtube.com/watch?v=3uAuexgarD4)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
 + [Exercice C #1 - affichage formaté](https://www.youtube.com/watch?v=JpKaxVCjAMw)

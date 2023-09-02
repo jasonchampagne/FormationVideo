@@ -459,6 +459,7 @@
 + [Tutoriel HTML/CSS - variables](https://www.youtube.com/watch?v=XFYqxcChwO4)
 + [Tutoriel Java - annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
 + [Tutoriel Java - créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)
++ [Tutoriel Java - Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
 + [Tutoriel PHP - envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY)
 + [Tutoriel PHP - inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI)
 + [Tutoriel PHP - installer phpMyAdmin](https://www.youtube.com/watch?v=S0mR_Gl7Rg4)

@@ -9,3 +9,4 @@
 
 + [Annotations](https://www.youtube.com/watch?v=cno_XpZB8To) 🖍
 + [Créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY) 🖍
++ [Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)

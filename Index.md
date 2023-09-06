@@ -288,6 +288,7 @@
 + [Java #35 - conclusion](https://www.youtube.com/watch?v=6f3RQN9jdBU)
 + [JavaFX #1 - introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
 + [JavaFX #2 - architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
++ [JavaFX #3 - préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)
 + [JavaScript #1 - introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs)
 + [JavaScript #2 - hello world !](https://www.youtube.com/watch?v=PsosD3WyFfI)
 + [JavaScript #3 - variables](https://www.youtube.com/watch?v=r_ylc4StEeo)

@@ -291,6 +291,7 @@
 + [JavaFX #3 - préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)
 + [JavaFX #4 - éléments de texte](https://www.youtube.com/watch?v=TmSIutrOk14)
 + [JavaFX #5 - éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
++ [JavaFX #6 - éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
 + [JavaScript #1 - introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs)
 + [JavaScript #2 - hello world !](https://www.youtube.com/watch?v=PsosD3WyFfI)
 + [JavaScript #3 - variables](https://www.youtube.com/watch?v=r_ylc4StEeo)

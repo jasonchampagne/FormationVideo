@@ -12,3 +12,4 @@
 + [4. Éléments de texte](https://www.youtube.com/watch?v=TmSIutrOk14)
 + [5. Éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
 + [6. Éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
++ [7. Éléments de menu](https://www.youtube.com/watch?v=qoMbUdzdKZQ)

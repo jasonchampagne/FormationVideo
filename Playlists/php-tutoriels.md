@@ -9,6 +9,7 @@
 
 + [Dates et temps](https://www.youtube.com/watch?v=DsxEDTF66TY)
 + [Envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY) 🖍
++ [Espaces de noms](https://www.youtube.com/watch?v=K1Q4ZkJUfEg)
 + [Inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI) 🖍
 + [Installer phpMyAdmin](https://www.youtube.com/watch?v=S0mR_Gl7Rg4) 🖍
 + [Introspection et réflexion (1/2)](https://www.youtube.com/watch?v=DWLynPX8yiM)

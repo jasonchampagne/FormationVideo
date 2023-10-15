@@ -41,7 +41,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ||Algorithmie|[1](Playlists/algorithmie-cours.md)|-|_à venir_|
 ||Architecture|[10](Playlists/architecture.md)|-|-|
 ||Immersion|[1](Playlists/immersion.md)|-|-|
-|🚧|Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)|_à venir_|-|
+||Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)|_à venir_|-|
 ||Réseaux|_à venir_|_à venir_|-|
 
 ### Systèmes

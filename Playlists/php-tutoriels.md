@@ -7,6 +7,7 @@
 **🌐 indicates that the video is subtitled in English**<br>
 **🖍 indique que la vidéo doit encore être chapitrée**
 
++ [Auto-chargement de classes](https://www.youtube.com/watch?v=27f-oNDCz7E)
 + [Dates et temps](https://www.youtube.com/watch?v=DsxEDTF66TY)
 + [Énumérations](https://www.youtube.com/watch?v=_DqoawWIN8w)
 + [Envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY) 🖍

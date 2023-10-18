@@ -466,6 +466,7 @@
 + [Tutoriel Java - annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
 + [Tutoriel Java - créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)
 + [Tutoriel Java - Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
++ [Tutoriel PHP - auto-chargement de classes](https://www.youtube.com/watch?v=27f-oNDCz7E)
 + [Tutoriel PHP - dates et temps](https://www.youtube.com/watch?v=DsxEDTF66TY)
 + [Tutoriel PHP - énumérations](https://www.youtube.com/watch?v=_DqoawWIN8w)
 + [Tutoriel PHP - envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY)

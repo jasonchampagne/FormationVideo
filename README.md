@@ -14,7 +14,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre apprentissage. Enfin, un répertoire des **Projets** autonomes proposés à la communauté et ceux organisés de manière interactive en direct sur [Twitch](https://www.twitch.tv/jachampagne).
 
 > [!NOTE]
-> Pensez aussi à utiliser l'[index](Index.md) qui permet sur une seule page de lister l'ensemble des vidéos que j'ai publiées sur YouTube, très pratique si vous cherchez un contenu en particulier ou à retrouver une vidéo visionnée auparavant !
+> Pensez aussi à utiliser l'[index](Index.md) qui permet sur une seule page de lister l'ensemble des vidéos que j'ai publiées sur YouTube, très pratique si vous cherchez un contenu en particulier ou à retrouver une vidéo visionnée auparavant.
 
 ---
 

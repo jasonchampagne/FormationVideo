@@ -527,4 +527,4 @@
 + [Windows #25 - disques et volumes](https://www.youtube.com/watch?v=-UuGL03f0m4)
 + [Windows #26 - processus](https://www.youtube.com/watch?v=MqxqT2Uw8mQ)
 + [Windows #27 - services](https://www.youtube.com/watch?v=mvXQxvZKdA8)
-+ [Windows #28 - planification de tâches](#)
++ [Windows #28 - planification de tâches](https://www.youtube.com/watch?v=rHDkIAu3gqc)

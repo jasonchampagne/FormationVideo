@@ -61,6 +61,7 @@
 |[**Start-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)|`saps`, `start`|Démarre un ou plusieurs processus|
 |[**Start-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/start-scheduledtask)|-|Démarrer une ou plusieurs instances d'une tâche planifiée|
 |[**Start-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-service)|`sasv`|Démarrer un ou plusieurs services stoppés|
+|[**Start-Sleep**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/start-sleep)|`sleep`|Suspendre l'activité dans un script ou une session pendant une période spécifiée|
 |[**Stop-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/stop-job)|`spjb`|Arrêter un travail en arrière-plan PowerShell|
 |[**Stop-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process)|`kill`, `spps`|Stopper un ou plusieurs processus en cours d'exécution|
 |[**Stop-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/stop-scheduledtask)|-|Arrêter toutes les instances en cours d'exécution d'une tâche planifiée|

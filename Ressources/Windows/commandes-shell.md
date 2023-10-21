@@ -55,10 +55,13 @@
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
 |[**Sort-Object**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/sort-object)|`sort`|Trier des éléments|
 |[**Start-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)|`saps`, `start`|Démarre un ou plusieurs processus|
+|[**Start-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/start-scheduledtask)|-|Démarrer une ou plusieurs instances d'une tâche planifiée|
 |[**Start-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-service)|`sasv`|Démarrer un ou plusieurs services stoppés|
-|[**Stop-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process)|`kill`, `spps`|Stoppe un ou plusieurs processus en cours d'exécution|
-|[**Stop-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service)|`spsv`|Stoppe un ou plusieurs services en cours d'exécution|
-|[**Suspend-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/suspend-service)|-|Met en pause un ou plusieurs services en cours d'exécution|
+|[**Stop-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process)|`kill`, `spps`|Stopper un ou plusieurs processus en cours d'exécution|
+|[**Stop-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/stop-scheduledtask)|-|Arrêter toutes les instances en cours d'exécution d'une tâche planifiée|
+|[**Stop-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service)|`spsv`|Stopper un ou plusieurs services en cours d'exécution|
+|[**Suspend-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/suspend-service)|-|Mettre en pause un ou plusieurs services en cours d'exécution|
+|[**Unregister-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/unregister-scheduledtask)|-|Supprimer une tâche planifiée|
 |[**Write-Debug**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/write-debug)|-|Écrire un message de débogage dans la console|
 |[**Write-Error**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/write-error)|-|Écrire un objet dans le flux d'erreurs|
 |[**Write-Host**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/write-host)|-|Écrire la sortie personnalisée sur un hôte|

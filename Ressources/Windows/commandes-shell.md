@@ -13,6 +13,7 @@
 |[**Get-Disk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-disk?view=windowsserver2022-ps)|-|Lister les disques (physiques et virtuels)|
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|
+|[**Get-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-job)|`gjb`|Récupérer les travaux en arrière-plan PowerShell en cours d’exécution|
 |[**Get-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/get-localgroup)|`glg`|Récupérer les groupes locaux|
 |[**Get-LocalGroupMember**](https://learn.microsoft.com/th-th/powershell/module/microsoft.powershell.localaccounts/get-localgroupmember)|`glgm`|Récupérer les membres d'un groupe local spécifique|
 |[**Get-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/get-localuser)|`glu`|Récupérer les utilisateurs locaux|
@@ -32,8 +33,10 @@
 |[**New-ScheduledTaskTrigger**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtasktrigger)|-|Créer un déclencheur pour une tâche planifiée|
 |[**New-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-service)|-|Créée un nouveau service|
 |[**New-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2022-ps)|-|Créer un volume avec un système de fichiers spécifique|
+|[**Receive-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/receive-job)|`rcjb`|Récupérer les résultats des travaux en arrière-plan PowerShell dans la session active|
 |[**Register-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/register-scheduledtask)|-|Enregistrer une tâche planifiée|
 |[**Remove-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/remove-item)|`del`, `erase`, `rd`, `ri`, `rm`, `rmdir`|Supprimer un élément|
+|[**Remove-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/remove-job)|`rjb`|Supprimer un travail en arrière-plan PowerShell|
 |[**Remove-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localgroup)|`rlg`|Supprimer un groupe local|
 |[**Remove-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localgroupmember)|`rlgm`|Retirer un utilisateur d'un groupe local|
 |[**Remove-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localuser)|`rlu`|Supprimer un utilisateur local|
@@ -54,14 +57,17 @@
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
 |[**Sort-Object**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/sort-object)|`sort`|Trier des éléments|
+|[**Start-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/start-job)|`sajb`|Démarrer un travail en arrière-plan PowerShell|
 |[**Start-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)|`saps`, `start`|Démarre un ou plusieurs processus|
 |[**Start-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/start-scheduledtask)|-|Démarrer une ou plusieurs instances d'une tâche planifiée|
 |[**Start-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-service)|`sasv`|Démarrer un ou plusieurs services stoppés|
+|[**Stop-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/stop-job)|`spjb`|Arrêter un travail en arrière-plan PowerShell|
 |[**Stop-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-process)|`kill`, `spps`|Stopper un ou plusieurs processus en cours d'exécution|
 |[**Stop-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/stop-scheduledtask)|-|Arrêter toutes les instances en cours d'exécution d'une tâche planifiée|
 |[**Stop-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service)|`spsv`|Stopper un ou plusieurs services en cours d'exécution|
 |[**Suspend-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/suspend-service)|-|Mettre en pause un ou plusieurs services en cours d'exécution|
 |[**Unregister-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/unregister-scheduledtask)|-|Supprimer une tâche planifiée|
+|[**Wait-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/wait-job)|`wjb`|Attendre que l’un ou l’ensemble des travaux PowerShell en cours d’exécution dans la session soient à l’état de fin|
 |[**Write-Debug**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/write-debug)|-|Écrire un message de débogage dans la console|
 |[**Write-Error**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/write-error)|-|Écrire un objet dans le flux d'erreurs|
 |[**Write-Host**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/write-host)|-|Écrire la sortie personnalisée sur un hôte|

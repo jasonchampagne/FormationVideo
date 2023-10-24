@@ -85,3 +85,4 @@ Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolète
 + bitsadmin
 + debug
 + ftp
++ Get-EventLog

@@ -322,6 +322,7 @@
 + [JavaScript #25 - code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
 + [JavaScript #26 - conclusion](https://www.youtube.com/watch?v=x65IyueCABg)
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
++ [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)
 + [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw)
 + [Optimiser un SSD](https://www.youtube.com/watch?v=6k3f72d9UXQ)

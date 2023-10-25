@@ -222,6 +222,8 @@
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Hostinger : créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)
 + [Hostinger : hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
++ [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
++ [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
 + [HTML/CSS #1 - introduction](https://www.youtube.com/watch?v=u5W2NWItytc)
 + [HTML/CSS #2 - première page web](https://www.youtube.com/watch?v=Fi8fj_JY91o)
 + [HTML/CSS #3 - fonctionnement balises](https://www.youtube.com/watch?v=1sPjNkKGMsY)

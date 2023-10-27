@@ -85,6 +85,7 @@ Ces commandes ne sont pas sécurisées, plus maintenues et/ou devenues obsolète
 
 + append
 + bitsadmin
++ Clear-EventLog
 + debug
 + ftp
 + Get-EventLog

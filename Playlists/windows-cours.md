@@ -35,4 +35,4 @@
 + [26. Processus](https://www.youtube.com/watch?v=MqxqT2Uw8mQ)
 + [27. Services](https://www.youtube.com/watch?v=mvXQxvZKdA8)
 + [28. Planification de tâches](https://www.youtube.com/watch?v=rHDkIAu3gqc)
-+ [29. ???](#)
++ [29. Observateur d'évènements](https://www.youtube.com/watch?v=5rOA9NK3FO0)

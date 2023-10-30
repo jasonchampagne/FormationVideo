@@ -7,6 +7,7 @@
 |[**Add-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/add-localgroupmember)|`algm`|Ajouter un utilisateur à un groupe local|
 |[**Clear-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/clear-host)|`clear`, `cls`|Effacer le terminal|
 |[**Copy-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/copy-item)|`copy`, `cp`, `cpi`|Copier un élément d'un emplacement à un autre|
+|[**Disable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/disable-netfirewallrule)|-|Désactiver une règle de pare-feu|
 |[**Enable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/enable-netfirewallrule)|-|Activer une règle de pare-feu|
 |[**Get-ChildItem**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-childitem)|`gci`, `ls`, `dir`|Lister ou rechercher des répertoires et fichiers|
 |[**Get-Command**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-command)|`gcm`|Lister des commandes PowerShell|

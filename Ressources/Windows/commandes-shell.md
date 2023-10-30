@@ -17,6 +17,8 @@
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|
 |[**Get-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-item)|`gi`|Obtenir l'élément d'un emplacement spécifié|
+|[**Get-ItemProperty**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-itemproperty)|`gp`|Obtenir les propriétés de l'élément spécifié|
+|[**Get-ItemPropertyValue**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-itempropertyvalue)|`gpv`|Obtenir la valeur des propriétés d'un élément spécifié|
 |[**Get-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-job)|`gjb`|Récupérer les travaux en arrière-plan PowerShell en cours d’exécution|
 |[**Get-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/get-localgroup)|`glg`|Récupérer les groupes locaux|
 |[**Get-LocalGroupMember**](https://learn.microsoft.com/th-th/powershell/module/microsoft.powershell.localaccounts/get-localgroupmember)|`glgm`|Récupérer les membres d'un groupe local spécifique|

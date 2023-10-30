@@ -28,6 +28,7 @@
 |[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume?view=windowsserver2022-ps)|-|Lister les volumes|
 |[**Get-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Obtenir les événements des journaux sur les ordinateurs locaux et distants|
 |[**Invoke-Expression**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression)|`iex`|Exécuter des commandes ou des expressions|
+|[**New-FirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule)|-|Créer une nouvelle règle de pare-feu entrant ou sortant et l'ajouter à l'ordinateur cible|
 |[**New-Item**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item)|`ni`|Créer un nouvel élément|
 |[**New-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localgroup)|`nlg`|Créer un groupe local|
 |[**New-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser)|`nlu`|Créer un utilisateur local|

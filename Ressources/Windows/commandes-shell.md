@@ -58,6 +58,7 @@
 |[**Set-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localgroup)|`slg`|Modifier un groupe local|
 |[**Set-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localuser)|`slu`|Modifier un utilisateur local|
 |[**Set-Location**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-location)|`cd`, `chdir`, `sl`|Changer de répertoire|
+|[**Set-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallprofile)|-|Configurer les paramètres des profils du pare-feu|
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
 |[**Sort-Object**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/sort-object)|`sort`|Trier des éléments|

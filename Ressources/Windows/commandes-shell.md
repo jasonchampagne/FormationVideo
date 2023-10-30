@@ -16,6 +16,7 @@
 |[**Get-Disk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-disk?view=windowsserver2022-ps)|-|Lister les disques (physiques et virtuels)|
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|
+|[**Get-Item**|`gi`|Obtenir l'élément d'un emplacement spécifié|
 |[**Get-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-job)|`gjb`|Récupérer les travaux en arrière-plan PowerShell en cours d’exécution|
 |[**Get-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/get-localgroup)|`glg`|Récupérer les groupes locaux|
 |[**Get-LocalGroupMember**](https://learn.microsoft.com/th-th/powershell/module/microsoft.powershell.localaccounts/get-localgroupmember)|`glgm`|Récupérer les membres d'un groupe local spécifique|

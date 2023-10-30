@@ -64,6 +64,7 @@
 |[**Restart-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-service)|-|Stoppe puis démarre un ou plusieurs services|
 |[**Resume-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/resume-service)|-|Reprend un ou plusieurs services suspendus|
 |[**Set-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-item)|`si`|Remplacer la valeur d'un élément|
+|[**Set-ItemProperty**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-itemproperty)|`sp`|Créer ou modifier la valeur d'une propriété d'un élément|
 |[**Set-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localgroup)|`slg`|Modifier un groupe local|
 |[**Set-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localuser)|`slu`|Modifier un utilisateur local|
 |[**Set-Location**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-location)|`cd`, `chdir`, `sl`|Changer de répertoire|

@@ -532,3 +532,4 @@
 + [Windows #27 - services](https://www.youtube.com/watch?v=mvXQxvZKdA8)
 + [Windows #28 - planification de tâches](https://www.youtube.com/watch?v=rHDkIAu3gqc)
 + [Windows #29 - observateur d'évènements](https://www.youtube.com/watch?v=5rOA9NK3FO0)
++ [Windows #30 - pare-feu](https://www.youtube.com/watch?v=wn6UQSbXpI8)

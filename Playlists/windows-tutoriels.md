@@ -11,4 +11,5 @@
 + [Mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)
 + [Récupérer sa clé de licence](https://www.youtube.com/watch?v=wAqUPpgpN2M)
 + [Réduire latence sur les jeux](https://www.youtube.com/watch?v=TCTpKPolAH4)
++ [Registre](https://www.youtube.com/watch?v=DuwRCZiB8QE)
 + [Variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)

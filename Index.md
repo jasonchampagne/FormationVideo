@@ -502,6 +502,7 @@
 + [Tutoriel Windows - mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)
 + [Tutoriel Windows - récupérer sa clé de licence](https://www.youtube.com/watch?v=wAqUPpgpN2M)
 + [Tutoriel Windows - réduire latence sur les jeux](https://www.youtube.com/watch?v=TCTpKPolAH4)
++ [Tutoriel Windows - registre](https://www.youtube.com/watch?v=DuwRCZiB8QE)
 + [Tutoriel Windows - variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)
 + [Windows #1 - introduction](https://www.youtube.com/watch?v=llfX-7RNwDM)
 + [Windows #2 - installer le système](https://www.youtube.com/watch?v=kKoOjrNzhtQ)

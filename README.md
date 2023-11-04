@@ -50,7 +50,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 |✅|GNU/Linux<br>(+ Bash)|[38](Playlists/gnu-linux-cours.md)|[3](Playlists/gnu-linux-tutoriels.md)|_à venir_|
-||Windows<br>(+ PowerShell)|[30](Playlists/windows-cours.md)|[6](Playlists/windows-tutoriels.md)|_à venir_|
+||Windows<br>(+ PowerShell)|[30](Playlists/windows-cours.md)|[7](Playlists/windows-tutoriels.md)|_à venir_|
 
 ### Langages
 

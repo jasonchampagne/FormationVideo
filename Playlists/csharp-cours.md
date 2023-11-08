@@ -37,3 +37,4 @@
 + [28. Files](https://www.youtube.com/watch?v=Liv9TIVAK6A)
 + [29. Dictionnaires](https://www.youtube.com/watch?v=iMTuFvhkFpg)
 + [30. Itérateurs](https://www.youtube.com/watch?v=2jjL1H6nKPo)
++ [31. Programmation asynchrone](https://www.youtube.com/watch?v=SnhppD6T1aM)

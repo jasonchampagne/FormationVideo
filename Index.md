@@ -121,6 +121,7 @@
 + [CSharp #28 - files](https://www.youtube.com/watch?v=Liv9TIVAK6A)
 + [CSharp #29 - dictionnaires](https://www.youtube.com/watch?v=iMTuFvhkFpg)
 + [CSharp #30 - itérateurs](https://www.youtube.com/watch?v=2jjL1H6nKPo)
++ [CSharp #31 - programmation asynchrone](https://www.youtube.com/watch?v=SnhppD6T1aM)
 + [C'est quoi le meilleur ?](https://www.youtube.com/watch?v=YLR_rMc0Rps)
 + [Choisir un langage de programmation](https://www.youtube.com/watch?v=h8I7vhChquw)
 + [Comprendre la documentation](https://www.youtube.com/watch?v=ogo4_Y1fvT0)

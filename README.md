@@ -59,7 +59,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ||Assembleur|[9](Playlists/assembleur-cours.md)|_à venir_|_à venir_|
 |✅|C<br>(+ SDL)|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[11](Playlists/c-exercices.md)|
 |✅|C++|[35](Playlists/cpp-cours.md)|_à venir_|_à venir_|
-||C#|[31](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)|_à venir_|
+||C#|[32](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)|_à venir_|
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
 |✅|Java|[35](Playlists/java-cours.md)|[3](Playlists/java-tutoriels.md)|_à venir_|
 |✅|JavaScript|[26](Playlists/javascript-cours.md)|_à venir_|_à venir_|

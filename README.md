@@ -48,7 +48,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ### Systèmes
 
 > [!NOTE]
-> Les exercices sur GNU/Linux se concentrent uniquement sur la programmation de scripts Bash, tandis que les exercices sur Windows sont dédiés à la programmation de scripts Bat ou PowerShell.
+> _Les exercices sur GNU/Linux se concentrent uniquement sur la programmation de scripts Bash, tandis que les exercices sur Windows sont dédiés à la programmation de scripts Bat ou PowerShell._
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

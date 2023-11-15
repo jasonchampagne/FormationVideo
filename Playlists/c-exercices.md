@@ -18,4 +18,4 @@
 + [9. Entrez dans la matrice](https://www.youtube.com/watch?v=M_GufgQqztA) 🖍
 + [10. Un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs) 🖍
 + [11. Dans ta stack](https://www.youtube.com/watch?v=yBaaLPBsRPM) 🖍
-+ [12. Mise au point](#)
++ [12. Mise au point](https://www.youtube.com/watch?v=Y4BN9pO_isY)

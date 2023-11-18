@@ -60,7 +60,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 ||Assembleur|[9](Playlists/assembleur-cours.md)|_à venir_|_à venir_|
-|✅|C<br>(+ SDL)|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[12](Playlists/c-exercices.md)|
+|✅|C<br>(+ SDL)|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[13](Playlists/c-exercices.md)|
 |✅|C++|[35](Playlists/cpp-cours.md)|_à venir_|_à venir_|
 ||C#|[32](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)|_à venir_|
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|

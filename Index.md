@@ -157,6 +157,7 @@
 + [Exercice C #10 - un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs)
 + [Exercice C #11 - dans ta stack](https://www.youtube.com/watch?v=yBaaLPBsRPM)
 + [Exercice C #12 - mise au point](https://www.youtube.com/watch?v=Y4BN9pO_isY)
++ [Exercice C #13 - bisou je manvol](https://www.youtube.com/watch?v=ahlKl7Svn1Y)
 + [Exercice HTML/CSS #1 - article de blog](https://www.youtube.com/watch?v=fzjar4drY-c)
 + [Exercice HTML/CSS #2 - tableau de données](https://www.youtube.com/watch?v=jqNCf_NRXnc)
 + [Exercice HTML/CSS #3 - formulaire saisie patient](https://www.youtube.com/watch?v=mQB-f2scL3M)

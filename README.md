@@ -70,6 +70,12 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[17](Playlists/python-tutoriels.md)|[11](Playlists/python-exercices.md)|
 |✅|SQL|[22](Playlists/sql-cours.md)|[1](Playlists/sql-tutoriels.md)|_à venir_|
 
+### Applications
+
+|/|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|:--:|
+||WordPress|à venir||-|
+
 ### API / Bibliothèques / Cadriciels
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|

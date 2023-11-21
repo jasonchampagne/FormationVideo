@@ -101,7 +101,7 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |:--|:--|
 |Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Développement : Visual Studio, Netbeans, Eclipse<br>Infographie : Krita, Photoshop, GIMP, Inkscape<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, OBS Studio, Podman, Wireshark|
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
-|CMS|Joomla, PHPBoost, PrestaShop, WordPress|
+|CMS|Joomla, PHPBoost, PrestaShop|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
 |Langages|LaTeX, Lua, Ruby, Rust, XML|
 |Langues|français, anglais, japonais, chinois, coréen|

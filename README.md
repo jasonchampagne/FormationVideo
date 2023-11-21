@@ -74,7 +74,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||WordPress|à venir||-|
+||WordPress|_à venir_||-|
 
 ### API / Bibliothèques / Cadriciels
 

@@ -74,7 +74,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||WordPress|_à venir_||-|
+||WordPress|[1](Playlists/wodpress-cours.md)||-|
 
 ### API / Bibliothèques / Cadriciels
 

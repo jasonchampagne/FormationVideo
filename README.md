@@ -113,6 +113,6 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |Langues|français, anglais, japonais, chinois, coréen|
 |Plateformes|Nginx, NodeJS, Twitch, YouTube|
 |Systèmes|Android, BSD, MacOS, iOS|
-|Techniques|Analyse : UML<br>Infographie : 3D, calligraphie, dessin, imagerie, pixel-art<br>Jeu vidéo : _character design_, _game design_, _level design_, ...<br>Son : mixage, masterisation<br>Vidéo : montage, effets spéciaux<br>Écriture<br>Chant|
+|Techniques|Analyse : UML<br>Infographie : 3D, calligraphie, dessin, photographie et montage/retouche, pixel-art<br>Jeu vidéo : _character design_, _game design_, _level design_, ...<br>Son : mixage, masterisation<br>Vidéo : montage, effets spéciaux<br>Écriture<br>Chant|
 
 Bon apprentissage et bon courage ! 👍

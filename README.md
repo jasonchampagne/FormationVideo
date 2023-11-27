@@ -89,14 +89,6 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |:--:|:--:|:--:|
 |🔁|Piano|[8](Playlists/piano-cours.md)|
 
-### Langues
-
-|/|NOM|COURS|
-|:--:|:--:|:--:|
-||Anglais|_à venir_|
-||Français|_à venir_|
-||Japonais|_à venir_|
-
 ---
 
 ## Idées de contenus à venir

@@ -163,6 +163,7 @@
 + [Exercice HTML/CSS #3 - formulaire saisie patient](https://www.youtube.com/watch?v=mQB-f2scL3M)
 + [Exercice HTML/CSS #4 - un peu de style](https://www.youtube.com/watch?v=Rbt9amRWfm4)
 + [Exercice HTML/CSS #5 - strange news](https://www.youtube.com/watch?v=gagqaBk3GXo)
++ [Exercice Java #1 - ça fait le café ?](https://www.youtube.com/watch?v=XQ7CSHi0Yt4)
 + [Exercice PHP #1 - écho !](https://www.youtube.com/watch?v=nDYD1MCKlGU)
 + [Exercice PHP #2 - calculez-les tous !](https://www.youtube.com/watch?v=6-LnnMlxRto)
 + [Exercice PHP #3 - tic tac](https://www.youtube.com/watch?v=8zL7vZThq94)

@@ -64,7 +64,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |✅|C++|[35](Playlists/cpp-cours.md)|_à venir_|_à venir_|
 ||C#|[32](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)|_à venir_|
 |✅|HTML/CSS|[26](Playlists/html-css-cours.md)|[6](Playlists/html-css-tutoriels.md)|[5](Playlists/html-css-exercices.md)|
-|✅|Java|[35](Playlists/java-cours.md)|[3](Playlists/java-tutoriels.md)|[1](Playlists/java-exercices.md)|
+|✅|Java|[35](Playlists/java-cours.md)|[3](Playlists/java-tutoriels.md)|[2](Playlists/java-exercices.md)|
 |✅|JavaScript|[26](Playlists/javascript-cours.md)|_à venir_|_à venir_|
 |✅|PHP|[32](Playlists/php-cours.md)|[11](Playlists/php-tutoriels.md)|[7](Playlists/php-exercices.md)|
 |✅|Python<br>(+ pygame)|[43](Playlists/python-cours.md)|[17](Playlists/python-tutoriels.md)|[11](Playlists/python-exercices.md)|

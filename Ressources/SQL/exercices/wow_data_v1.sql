@@ -101,7 +101,7 @@ ENGINE = InnoDB;
 CREATE TABLE `items`
 (
     `item_id` INT NOT NULL,
-    `item_name` VARCHAR(32) NOT NULL COLLATE utf8mb4_unicode_ci,
+    `item_name` VARCHAR(48) NOT NULL COLLATE utf8mb4_unicode_ci,
     `item_sellable` BOOLEAN DEFAULT NULL,
     `item_tradeable` BOOLEAN DEFAULT NULL,
     `item_vendor_price` INT DEFAULT NULL,

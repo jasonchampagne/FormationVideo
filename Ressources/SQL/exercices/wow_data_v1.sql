@@ -231,7 +231,7 @@ INSERT INTO `guilds`(`guild_id`, `guild_name`, `guild_leader_fkid`) VALUES
 INSERT INTO `players`(`player_id`, `player_name`, `player_level`, `race_fkid`, `class_fkid`, `faction_fkid`, `realm_fkid`, `guild_fkid`) VALUES
 (1, 'Arthur', 70, 1, 1, 1, 19, 1),
 (2, 'Tontino', 70, 12, 7, 2, 13, 8),
-(3, 'Mama', 70, 5, 10, 1, 25, 2),
+(3, 'Lapoulette', 70, 5, 10, 1, 25, 2),
 (4, 'Bigboss', 67, 16, 8, 2, 25, 2),
 (5, 'Kadoc', 70, 1, 1, 1, 19, 1),
 (6, 'Blizzy', 10, 8, 5, 1, 11, NULL),

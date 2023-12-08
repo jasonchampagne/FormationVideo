@@ -21,4 +21,4 @@
 |fonctions-securite|Fonctions de chiffrement et hashage|
 |schema-jointures-tables|Schéma des jointures de tables|
 |types-donnees|Types de données utilisables|
-|wow_data_v1|Fichier SQL (v1) pour les exercices|
+|wow_data_v1|Fichier SQL (1ère version) pour les exercices|

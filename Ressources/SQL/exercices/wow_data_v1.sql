@@ -84,16 +84,16 @@ CREATE TABLE `guilds`
 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci
 ENGINE = InnoDB;
 
-CREATE TABLE `players`
+CREATE TABLE `characters`
 (
-    `player_id` INT NOT NULL,
-    `player_name` VARCHAR(12) NOT NULL COLLATE utf8mb4_unicode_ci,
-    `player_level` INT DEFAULT '1',
-    `race_fkid` INT NOT NULL,
-    `class_fkid` INT NOT NULL,
-    `faction_fkid` INT DEFAULT NULL,
-    `realm_fkid` INT NOT NULL,
-    `guild_fkid` INT DEFAULT NULL
+    `character_id` INT NOT NULL,
+    `character_name` VARCHAR(12) NOT NULL COLLATE utf8mb4_unicode_ci,
+    `character_level` INT DEFAULT '1',
+    `character_race_fkid` INT NOT NULL,
+    `character_class_fkid` INT NOT NULL,
+    `character_faction_fkid` INT DEFAULT NULL,
+    `character_realm_fkid` INT NOT NULL,
+    `character_guild_fkid` INT DEFAULT NULL
 )
 CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci
 ENGINE = InnoDB;
@@ -113,7 +113,7 @@ ENGINE = InnoDB;
 
 CREATE TABLE `inventories`
 (
-    `inventory_player_fkid` INT NOT NULL,
+    `inventory_character_fkid` INT NOT NULL,
     `inventory_item_fkid` INT NOT NULL,
     `inventory_quantity` INT NOT NULL
 )
@@ -228,7 +228,7 @@ INSERT INTO `guilds`(`guild_id`, `guild_name`, `guild_leader_fkid`) VALUES
 (8, 'cazas del caos', 25),
 (9, 'Die Blutgruppe', 43);
 
-INSERT INTO `players`(`player_id`, `player_name`, `player_level`, `race_fkid`, `class_fkid`, `faction_fkid`, `realm_fkid`, `guild_fkid`) VALUES
+INSERT INTO `characters`(`character_id`, `character_name`, `character_level`, `character_race_fkid`, `character_class_fkid`, `character_faction_fkid`, `character_realm_fkid`, `character_guild_fkid`) VALUES
 (1, 'Arthur', 70, 1, 1, 1, 19, 1),
 (2, 'Tontino', 70, 12, 7, 2, 13, 8),
 (3, 'Lapoulette', 70, 5, 10, 1, 25, 2),
@@ -305,7 +305,7 @@ INSERT INTO `items`(`item_id`, `item_name`, `item_sellable`, `item_tradeable`, `
 (22, 'Graine onirique ronde', NULL, NULL, NULL, 1, NULL),
 (23, 'Fyr''alath le Pourfendeur de rêve', 1, NULL, 2465089, 496, NULL);
 
-INSERT INTO `inventories`(`inventory_player_fkid`, `inventory_item_fkid`, `inventory_quantity`) VALUES
+INSERT INTO `inventories`(`inventory_character_fkid`, `inventory_item_fkid`, `inventory_quantity`) VALUES
 (2, 1, 1),
 (6, 1, 1),
 (10, 1, 1),
@@ -471,20 +471,20 @@ ADD PRIMARY KEY(`guild_id`),
 ADD UNIQUE KEY `guild_name`(`guild_name`),
 ADD KEY `guild_leader_fkid`(`guild_leader_fkid`);
 
-ALTER TABLE `players`
-ADD PRIMARY KEY(`player_id`),
-ADD UNIQUE KEY `player_name`(`player_name`),
-ADD KEY `race_fkid`(`race_fkid`),
-ADD KEY `class_fkid`(`class_fkid`),
-ADD KEY `faction_fkid`(`faction_fkid`),
-ADD KEY `realm_fkid`(`realm_fkid`),
-ADD KEY `guild_fkid`(`guild_fkid`);
+ALTER TABLE `characters`
+ADD PRIMARY KEY(`character_id`),
+ADD UNIQUE KEY `character_name`(`character_name`),
+ADD KEY `character_race_fkid`(`character_race_fkid`),
+ADD KEY `character_class_fkid`(`character_class_fkid`),
+ADD KEY `character_faction_fkid`(`character_faction_fkid`),
+ADD KEY `character_realm_fkid`(`character_realm_fkid`),
+ADD KEY `character_guild_fkid`(`character_guild_fkid`);
 
 ALTER TABLE `items`
 ADD PRIMARY KEY(`item_id`);
 
 ALTER TABLE `inventories`
-ADD PRIMARY KEY(`inventory_player_fkid`, `inventory_item_fkid`);
+ADD PRIMARY KEY(`inventory_character_fkid`, `inventory_item_fkid`);
 
 
 -- ///////////////////////////////////////////////////////////////////////////////
@@ -498,7 +498,7 @@ ALTER TABLE `races` MODIFY `race_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT
 ALTER TABLE `classes` MODIFY `class_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 14;
 ALTER TABLE `factions` MODIFY `faction_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 3;
 ALTER TABLE `guilds` MODIFY `guild_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 10;
-ALTER TABLE `players` MODIFY `player_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 51;
+ALTER TABLE `characters` MODIFY `character_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 51;
 ALTER TABLE `items` MODIFY `item_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 24;
 
 
@@ -511,17 +511,17 @@ ADD CONSTRAINT `realms_ibfk_2` FOREIGN KEY(`realm_type_fkid`) REFERENCES `types`
 ADD CONSTRAINT `realms_ibfk_3` FOREIGN KEY(`realm_population_fkid`) REFERENCES `populations`(`population_id`);
 
 ALTER TABLE `guilds`
-ADD CONSTRAINT `guilds_ibfk_1` FOREIGN KEY(`guild_leader_fkid`) REFERENCES `players`(`player_id`);
+ADD CONSTRAINT `guilds_ibfk_1` FOREIGN KEY(`guild_leader_fkid`) REFERENCES `characters`(`character_id`);
 
-ALTER TABLE `players`
-ADD CONSTRAINT `players_ibfk_1` FOREIGN KEY(`race_fkid`) REFERENCES `races`(`race_id`),
-ADD CONSTRAINT `players_ibfk_2` FOREIGN KEY(`class_fkid`) REFERENCES `classes`(`class_id`),
-ADD CONSTRAINT `players_ibfk_3` FOREIGN KEY(`faction_fkid`) REFERENCES `factions`(`faction_id`),
-ADD CONSTRAINT `players_ibfk_4` FOREIGN KEY(`realm_fkid`) REFERENCES `realms`(`realm_id`),
-ADD CONSTRAINT `players_ibfk_5` FOREIGN KEY(`guild_fkid`) REFERENCES `guilds`(`guild_id`);
+ALTER TABLE `characters`
+ADD CONSTRAINT `characters_ibfk_1` FOREIGN KEY(`character_race_fkid`) REFERENCES `races`(`race_id`),
+ADD CONSTRAINT `characters_ibfk_2` FOREIGN KEY(`character_class_fkid`) REFERENCES `classes`(`class_id`),
+ADD CONSTRAINT `characters_ibfk_3` FOREIGN KEY(`character_faction_fkid`) REFERENCES `factions`(`faction_id`),
+ADD CONSTRAINT `characters_ibfk_4` FOREIGN KEY(`character_realm_fkid`) REFERENCES `realms`(`realm_id`),
+ADD CONSTRAINT `characters_ibfk_5` FOREIGN KEY(`character_guild_fkid`) REFERENCES `guilds`(`guild_id`);
 
 ALTER TABLE `inventories`
-ADD CONSTRAINT `inventories_ibfk_2` FOREIGN KEY(`inventory_player_fkid`) REFERENCES `players`(`player_id`),
+ADD CONSTRAINT `inventories_ibfk_2` FOREIGN KEY(`inventory_character_fkid`) REFERENCES `characters`(`character_id`),
 ADD CONSTRAINT `inventories_ibfk_3` FOREIGN KEY(`inventory_item_fkid`) REFERENCES `items`(`item_id`);
 
 

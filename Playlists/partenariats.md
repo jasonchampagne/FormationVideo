@@ -4,8 +4,6 @@
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
-
 ## Hostinger
 
 > _Voir aussi la playlist de cours sur WordPress_

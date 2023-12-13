@@ -28,7 +28,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ### Guides et dépannage
 
 |NOM|DESCRIPTION|
-|--:|:--:|
+|--:|:--|
 |[Aide](Playlists/aide.md)|Guides et vidéos explicatives sur des sujets généraux|
 |[Blabla](Playlists/blabla.md)|Réaction à des commentaires d'abonnés|
 |[Partenariats](Playlists/partenariats.md)|Vidéos promotionnelles et sponsors|

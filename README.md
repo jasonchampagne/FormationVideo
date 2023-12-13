@@ -27,13 +27,13 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ### Guides et dépannage
 
-|NOM|DESCRIPTION|CONTENU|
-|--:|:--:|:--:|
-|Aide|Guides et vidéos explicatives sur des sujets généraux|[31](Playlists/aide.md)|
-|Blabla|Réaction à des commentaires d'abonnés|[1](Playlists/blabla.md)|
-|Partenariats|Vidéos promotionnelles et sponsors|[6](Playlists/partenariats.md)|
-|SAV|Dépannage sur des problèmes récurrents|[9](Playlists/sav.md)|
-|Témoignages|Appels à témoins sur des problèmes d'internautes|[2](Playlists/temoignages.md)|
+|NOM|DESCRIPTION|
+|--:|:--:|
+|[Aide](Playlists/aide.md)|Guides et vidéos explicatives sur des sujets généraux|
+|[Blabla](Playlists/blabla.md)|Réaction à des commentaires d'abonnés|
+|[Partenariats](Playlists/partenariats.md)|Vidéos promotionnelles et sponsors|
+|[SAV](Playlists/sav.md)|Dépannage sur des problèmes récurrents|
+|[Témoignages](Playlists/temoignages.md)|Appels à témoins sur des problèmes d'internautes|
 
 ### Concepts
 

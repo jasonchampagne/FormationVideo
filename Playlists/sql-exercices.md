@@ -7,3 +7,4 @@
 **🌐 indicates that the video is subtitled in English**<br>
 
 + [1. Pour Azeroth !](https://www.youtube.com/watch?v=qkxVqr4qpFw)
++ [2. Espionnage virtuel](https://www.youtube.com/watch?v=tPydQHUFFic)

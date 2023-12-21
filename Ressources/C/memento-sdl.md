@@ -85,7 +85,7 @@ Uint32 SDL_GetTicks(void);
 
 |NOM DRAPEAU (FLAG)|UTILISATION|
 |:--|:--|
-|SDL_RENDERER_ACCELERATED|Utilise une solution logicielle (processeur)|
-|SDL_RENDERER_SOFTWARE|Utilise l'accélaration matérielle (carte graphique)|
+|SDL_RENDERER_ACCELERATED|Utilise une solution logicielle|
+|SDL_RENDERER_SOFTWARE|Utilise l'accélaration matérielle|
 |SDL_RENDERER_PRESENTVSYNC|Utilise la synchronisation verticale|
 |SDL_RENDERER_TARGETTEXTURE|Prise en charge du rendu vers la texture|

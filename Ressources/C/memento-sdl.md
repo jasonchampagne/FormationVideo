@@ -10,6 +10,8 @@ int SDL_VideoInit(const char* driver_name);
 
 SDL_Window* SDL_CreateWindow(const char* title, int x, int y, int w, int h, Uint32 flags);
 
+void SDL_DestroyWindow(SDL_Window* window);
+
 void SDL_Quit(void);
 void SDL_QuitSubSystem(Uint32 flags);
 void SDL_AudioQuit(void);
@@ -24,8 +26,10 @@ void SDL_Delay(Uint32 ms);
 ## Types abordés dans le cours
 
 + [SDL_Rect](https://wiki.libsdl.org/SDL2/SDL_Rect)
++ [SDL_Renderer](https://wiki.libsdl.org/SDL2/SDL_Renderer)
 + [SDL_WindowFlags](https://wiki.libsdl.org/SDL2/SDL_WindowFlags)
 + [SDL_version](https://wiki.libsdl.org/SDL2/SDL_version)
++ SDL_Window
 
 ### Arguments (`SDL_WindowFlags`) pour la création de fenêtre
 

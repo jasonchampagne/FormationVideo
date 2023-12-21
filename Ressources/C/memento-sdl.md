@@ -18,8 +18,13 @@ int SDL_RenderDrawLine(SDL_Renderer* renderer, int x1, int y1, int x2, int y2);
 int SDL_RenderDrawRect(SDL_Renderer* renderer, const SDL_Rect* rect);
 void SDL_RenderPresent(SDL_Renderer* renderer);
 
+SDL_Surface* SDL_LoadBMP(const char* file);
+SDL_Texture* SDL_CreateTextureFromSurface(SDL_Renderer* renderer, SDL_Surface* surface);
+int SDL_QueryTexture(SDL_Texture* texture, Uint32* format, int* access, int* w, int* h);
+
 void SDL_DestroyWindow(SDL_Window* window);
 void SDL_DestroyRenderer(SDL_Renderer* renderer);
+void SDL_FreeSurface(SDL_Surface* surface);
 
 void SDL_Quit(void);
 void SDL_QuitSubSystem(Uint32 flags);
@@ -37,6 +42,8 @@ void SDL_Delay(Uint32 ms);
 + [SDL_Rect](https://wiki.libsdl.org/SDL2/SDL_Rect)
 + [SDL_Renderer](https://wiki.libsdl.org/SDL2/SDL_Renderer)
 + [SDL_RenderFlags](https://wiki.libsdl.org/SDL2/SDL_RendererFlags)
++ [SDL_Surface](https://wiki.libsdl.org/SDL2/SDL_Surface)
++ [SDL_Texture](https://wiki.libsdl.org/SDL2/SDL_Texture)
 + [SDL_version](https://wiki.libsdl.org/SDL2/SDL_version)
 + [SDL_Window](https://wiki.libsdl.org/SDL2/SDL_Window)
 + [SDL_WindowFlags](https://wiki.libsdl.org/SDL2/SDL_WindowFlags)

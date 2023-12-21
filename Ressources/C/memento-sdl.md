@@ -87,5 +87,5 @@ Uint32 SDL_GetTicks(void);
 |:--|:--|
 |SDL_RENDERER_ACCELERATED|Utilise une solution logicielle|
 |SDL_RENDERER_SOFTWARE|Utilise l'accélaration matérielle|
-|SDL_RENDERER_PRESENTVSYNC|Utilise la synchronisation verticale|
+|SDL_RENDERER_PRESENTVSYNC|Active la synchronisation verticale|
 |SDL_RENDERER_TARGETTEXTURE|Prend en charge du rendu vers la texture|

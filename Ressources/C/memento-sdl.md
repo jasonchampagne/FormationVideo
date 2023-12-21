@@ -23,6 +23,8 @@ SDL_Texture* SDL_CreateTextureFromSurface(SDL_Renderer* renderer, SDL_Surface* s
 int SDL_QueryTexture(SDL_Texture* texture, Uint32* format, int* access, int* w, int* h);
 int SDL_RenderCopy(SDL_Renderer* renderer, SDL_Texture* texture, const SDL_Rect* srcrect, const SDL_Rect* dstrect);
 
+int SDL_PollEvent(SDL_Event* event);
+
 void SDL_DestroyWindow(SDL_Window* window);
 void SDL_DestroyRenderer(SDL_Renderer* renderer);
 void SDL_DestroyTexture(SDL_Texture* texture);
@@ -42,7 +44,7 @@ void SDL_Delay(Uint32 ms);
 ## Types abordés dans le cours
 
 + [SDL_bool](https://wiki.libsdl.org/SDL2/SDL_bool)
-+ [SDL_Event](https://wiki.libsdl.org/SDL2/SDL_Event)
++ [SDL_Event](https://wiki.libsdl.org/SDL2/SDL_Event) et ses sous-évènements (keyboard, mouse, window, ...)
 + [SDL_Rect](https://wiki.libsdl.org/SDL2/SDL_Rect)
 + [SDL_Renderer](https://wiki.libsdl.org/SDL2/SDL_Renderer)
 + [SDL_RenderFlags](https://wiki.libsdl.org/SDL2/SDL_RendererFlags)

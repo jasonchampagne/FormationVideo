@@ -10,8 +10,16 @@ int SDL_VideoInit(const char* driver_name);
 
 SDL_Window* SDL_CreateWindow(const char* title, int x, int y, int w, int h, Uint32 flags);
 SDL_Renderer* SDL_CreateRenderer(SDL_Window* window, int index, Uint32 flags);
+int SDL_CreateWindowAndRenderer(int width, int height, Uint32 window_flags, SDL_Window** window, SDL_Renderer** renderer);
+
+int SDL_SetRenderDrawColor(SDL_Renderer* renderer, Uint8 r, Uint8 g, Uint8 b, Uint8 a);
+int SDL_RenderDrawPoint(SDL_Renderer* renderer, int x, int y);
+int SDL_RenderDrawLine(SDL_Renderer* renderer, int x1, int y1, int x2, int y2);
+int SDL_RenderDrawRect(SDL_Renderer* renderer, const SDL_Rect* rect);
+void SDL_RenderPresent(SDL_Renderer* renderer);
 
 void SDL_DestroyWindow(SDL_Window* window);
+void SDL_DestroyRenderer(SDL_Renderer* renderer);
 
 void SDL_Quit(void);
 void SDL_QuitSubSystem(Uint32 flags);

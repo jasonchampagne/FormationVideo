@@ -40,7 +40,7 @@ struct SDL_Rect
 };
 ```
 
-## Arguments d'initialisation de la SDL
+## Arguments d'initialisation (_flags_) de la SDL
 
 |NOM DRAPEAU (FLAG)|UTILISATION|
 |:--|:--|

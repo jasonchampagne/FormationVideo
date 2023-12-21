@@ -1,6 +1,6 @@
 # Mémento SDL
 
-## Prototypes fonctions
+## Fonctions abordées dans le cours
 
 ```c
 int SDL_Init(Uint32 flags);

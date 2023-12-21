@@ -21,9 +21,11 @@ void SDL_RenderPresent(SDL_Renderer* renderer);
 SDL_Surface* SDL_LoadBMP(const char* file);
 SDL_Texture* SDL_CreateTextureFromSurface(SDL_Renderer* renderer, SDL_Surface* surface);
 int SDL_QueryTexture(SDL_Texture* texture, Uint32* format, int* access, int* w, int* h);
+int SDL_RenderCopy(SDL_Renderer* renderer, SDL_Texture* texture, const SDL_Rect* srcrect, const SDL_Rect* dstrect);
 
 void SDL_DestroyWindow(SDL_Window* window);
 void SDL_DestroyRenderer(SDL_Renderer* renderer);
+void SDL_DestroyTexture(SDL_Texture* texture);
 void SDL_FreeSurface(SDL_Surface* surface);
 
 void SDL_Quit(void);
@@ -39,6 +41,8 @@ void SDL_Delay(Uint32 ms);
 
 ## Types abordés dans le cours
 
++ [SDL_bool](https://wiki.libsdl.org/SDL2/SDL_bool)
++ [SDL_Event](https://wiki.libsdl.org/SDL2/SDL_Event)
 + [SDL_Rect](https://wiki.libsdl.org/SDL2/SDL_Rect)
 + [SDL_Renderer](https://wiki.libsdl.org/SDL2/SDL_Renderer)
 + [SDL_RenderFlags](https://wiki.libsdl.org/SDL2/SDL_RendererFlags)

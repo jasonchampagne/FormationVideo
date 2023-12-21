@@ -23,7 +23,14 @@ void SDL_Delay(Uint32 ms);
 
 ## Structures abordées dans le cours
 
-à venir...
+```c
+struct SDL_version
+{
+    Uint8 major;
+    Uint8 minor;
+    Uint8 patch;
+};
+```
 
 ## Arguments d'initialisation de la SDL
 

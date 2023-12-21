@@ -9,6 +9,7 @@ int SDL_AudioInit(const char* driver_name);
 int SDL_VideoInit(const char* driver_name);
 
 SDL_Window* SDL_CreateWindow(const char* title, int x, int y, int w, int h, Uint32 flags);
+SDL_Renderer* SDL_CreateRenderer(SDL_Window* window, int index, Uint32 flags);
 
 void SDL_DestroyWindow(SDL_Window* window);
 

@@ -58,3 +58,12 @@ void SDL_Delay(Uint32 ms);
 |SDL_WINDOW_TOOLTIP|Devrait être traitée comme une info-bulle|
 |SDL_WINDOW_UTILITY|Devrait être traitée comme une fenêtre utilitaiire|
 |SDL_WINDOW_VULKAN|Utilisable dans une instance Vulkan|
+
+### Arguments (`SDL_RenderFlags`) pour la création du rendu
+
+|NOM DRAPEAU (FLAG)|UTILISATION|
+|:--|:--|
+|SDL_RENDERER_ACCELERATED|Utilise une solution logicielle (processeur)|
+|SDL_RENDERER_SOFTWARE|Utilise l'accélaration matérielle (carte graphique)|
+|SDL_RENDERER_PRESENTVSYNC|Utilise la synchronisation verticale|
+|SDL_RENDERER_TARGETTEXTURE|Prise en charge du rendu vers la texture|

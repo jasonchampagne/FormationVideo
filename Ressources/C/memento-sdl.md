@@ -39,6 +39,7 @@ void SDL_Log(const char* format);
 const char* SDL_GetError(void);
 
 void SDL_Delay(Uint32 ms);
+Uint32 SDL_GetTicks(void);
 ```
 
 ## Types abordés dans le cours

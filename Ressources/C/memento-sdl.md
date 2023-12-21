@@ -21,13 +21,13 @@ const char* SDL_GetError(void);
 void SDL_Delay(Uint32 ms);
 ```
 
-## Types abordes dans le cours
+## Types abordés dans le cours
 
 + [SDL_Rect](https://wiki.libsdl.org/SDL2/SDL_Rect)
 + [SDL_WindowFlags](https://wiki.libsdl.org/SDL2/SDL_WindowFlags)
 + [SDL_version](https://wiki.libsdl.org/SDL2/SDL_version)
 
-## Arguments (`SDL_WindowFlags`) pour la création de fenêtre
+### Arguments (`SDL_WindowFlags`) pour la création de fenêtre
 
 |NOM DRAPEAU (FLAG)|UTILISATION|
 |:--|:--|

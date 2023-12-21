@@ -21,6 +21,10 @@ const char* SDL_GetError(void);
 void SDL_Delay(Uint32 ms);
 ```
 
+## Structures abordées dans le cours
+
+à venir...
+
 ## Arguments d'initialisation de la SDL
 
 |NOM DRAPEAU (FLAG)|UTILISATION|

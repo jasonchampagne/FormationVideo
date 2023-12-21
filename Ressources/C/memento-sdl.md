@@ -40,7 +40,7 @@ struct SDL_Rect
 };
 ```
 
-## Arguments d'initialisation (_flags_) de la SDL
+## Arguments (_flags_) pour la création de fenêtre
 
 |NOM DRAPEAU (FLAG)|UTILISATION|
 |:--|:--|

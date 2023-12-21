@@ -30,6 +30,14 @@ struct SDL_version
     Uint8 minor;
     Uint8 patch;
 };
+
+struct SDL_Rect
+{
+    int x;
+    int y;
+    int w;
+    int h;
+};
 ```
 
 ## Arguments d'initialisation de la SDL

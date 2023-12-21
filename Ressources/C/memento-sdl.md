@@ -28,9 +28,10 @@ void SDL_Delay(Uint32 ms);
 
 + [SDL_Rect](https://wiki.libsdl.org/SDL2/SDL_Rect)
 + [SDL_Renderer](https://wiki.libsdl.org/SDL2/SDL_Renderer)
-+ [SDL_WindowFlags](https://wiki.libsdl.org/SDL2/SDL_WindowFlags)
++ [SDL_RenderFlags](https://wiki.libsdl.org/SDL2/SDL_RendererFlags)
 + [SDL_version](https://wiki.libsdl.org/SDL2/SDL_version)
 + [SDL_Window](https://wiki.libsdl.org/SDL2/SDL_Window)
++ [SDL_WindowFlags](https://wiki.libsdl.org/SDL2/SDL_WindowFlags)
 
 ### Arguments (`SDL_WindowFlags`) pour la création de fenêtre
 

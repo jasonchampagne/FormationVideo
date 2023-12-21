@@ -21,7 +21,7 @@ const char* SDL_GetError(void);
 void SDL_Delay(Uint32 ms);
 ```
 
-## Initialisation de la SDL
+## Arguments d'initialisation de la SDL
 
 |NOM DRAPEAU (FLAG)|UTILISATION|
 |:--|:--|

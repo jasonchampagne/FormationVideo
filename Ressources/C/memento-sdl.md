@@ -21,23 +21,12 @@ const char* SDL_GetError(void);
 void SDL_Delay(Uint32 ms);
 ```
 
-## Structures abordées dans le cours
+## Types abordes dans le cours
 
 ```c
-struct SDL_version
-{
-    Uint8 major;
-    Uint8 minor;
-    Uint8 patch;
-};
-
-struct SDL_Rect
-{
-    int x;
-    int y;
-    int w;
-    int h;
-};
+struct SDL_version { ... };
+enum SDL_WindowFlags  { ... };
+struct SDL_Rect { ... };
 ```
 
 ## Arguments (`SDL_WindowFlags`) pour la création de fenêtre

@@ -503,7 +503,7 @@ ALTER TABLE `items` MODIFY `item_id` INT NOT NULL AUTO_INCREMENT, AUTO_INCREMENT
 
 
 -- ///////////////////////////////////////////////////////////////////////////////
--- Contraintes
+-- Clés étrangères
 -- ///////////////////////////////////////////////////////////////////////////////
 ALTER TABLE `realms`
 ADD CONSTRAINT `realms_ibfk_1` FOREIGN KEY(`realm_zone_fkid`) REFERENCES `zones`(`zone_id`),

@@ -186,6 +186,7 @@
 + [Exercice SQL #1 - pour Azeroth !](https://www.youtube.com/watch?v=qkxVqr4qpFw)
 + [Exercice SQL #2 - espionnage virtuel](https://www.youtube.com/watch?v=tPydQHUFFic)
 + [Exercice SQL #3 - le changement, c'est maintenant](https://www.youtube.com/watch?v=c_5HpHja4u0)
++ [Exercice SQL #4 - travail terminé !](https://www.youtube.com/watch?v=cem3UGra0uU)
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [GCC - compilation en C/C++](https://www.youtube.com/watch?v=gr44z0Fyx_Y)

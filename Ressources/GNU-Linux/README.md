@@ -10,5 +10,6 @@
 |fichiers-config-systeme|Fichiers de configuration du système|
 |fonctions-systeme|Fonctions du noyau Linux|
 |linux-timeline|Chronologie des distributions Linux|
+|presentation|Introduction du cours en PDF|
 |quelle-distribution-choisir|Diaporama de présentation des distributions Linux|
 |virtualbox-addons|Installation des additions invité de VirtualBox|

@@ -28,6 +28,8 @@
 |MAX|Valeur maximale d'une colonne|
 |SUM|Somme des valeurs d'une colonne|
 
++ [Autres fonctions...](https://docs.postgresql.fr/16/functions-aggregate.html)
+
 ## SQLite
 
 |NOM|DESCRIPTION|

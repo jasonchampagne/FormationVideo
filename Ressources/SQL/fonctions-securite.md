@@ -8,13 +8,13 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**AES_DECRYPT()**|Déchiffrement AES à l'aide d'une clé|`AES_ENCRYPT(crypt_data, key)`|
-|**AES_ENCRYPT()**|Chiffrement AES à l'aide d'une clé|`AES_ENCRYPT(str, key)`|
-|**CREATE_DIGEST()**|Génération d'un hash sous forme de chaîne binaire|`CREATE_DIGEST(algorithm, str)`|
-|**MD5()**|Génération d'un hash MD5 (128 bits)|`MD5(str)`|
-|**SHA()**|Génération d'un hash SHA-1 (160 bits)|`SHA(str)`|
+|**AES_DECRYPT**|Déchiffrement AES à l'aide d'une clé|`AES_ENCRYPT(crypt_data, key)`|
+|**AES_ENCRYPT**|Chiffrement AES à l'aide d'une clé|`AES_ENCRYPT(str, key)`|
+|**CREATE_DIGEST**|Génération d'un hash sous forme de chaîne binaire|`CREATE_DIGEST(algorithm, str)`|
+|**MD5**|Génération d'un hash MD5 (128 bits)|`MD5(str)`|
+|**SHA**|Génération d'un hash SHA-1 (160 bits)|`SHA(str)`|
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|
-|**SHA2()**|Génération d'un hash SHA-2 (256 bits par défaut)|`SHA2(str, length)`|
+|**SHA2**|Génération d'un hash SHA-2 (256 bits par défaut)|`SHA2(str, length)`|
 
 ## Oracle Database & PL/SQL
 
@@ -22,7 +22,7 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**STANDARD_HASH()**|Génération d'un hash (SHA1 par défaut)|`STANDARD_HASH(str, algorithm)`|
+|**STANDARD_HASH**|Génération d'un hash (SHA1 par défaut)|`STANDARD_HASH(str, algorithm)`|
 
 ## PostgreSQL
 
@@ -30,10 +30,10 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**DIGEST()**|Génération d'un hash (via le module **pgcrypto**)|`digest(str, algorithm)`|
-|**MD5()**|Génération d'un hash MD5|`md5(str)`|
-|**PGP_SYM_DECRYPT()**|Déchiffrement avec clé PGP|`pgp_sym_decrypt(crypt_data, key)`|
-|**PGP_SYM_ENCRYPT()**|Chiffrement avec clé PGP|`pgp_sym_encrypt(str, key)`|
+|**DIGEST**|Génération d'un hash (via le module **pgcrypto**)|`digest(str, algorithm)`|
+|**MD5**|Génération d'un hash MD5|`md5(str)`|
+|**PGP_SYM_DECRYPT**|Déchiffrement avec clé PGP|`pgp_sym_decrypt(crypt_data, key)`|
+|**PGP_SYM_ENCRYPT**|Chiffrement avec clé PGP|`pgp_sym_encrypt(str, key)`|
 
 ## SQLite
 
@@ -45,4 +45,4 @@
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
-|**HASHBYTES()**|Génération d'un hash|`HASHBYTES(algorithm, str)`|
+|**HASHBYTES**|Génération d'un hash|`HASHBYTES(algorithm, str)`|

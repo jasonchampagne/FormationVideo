@@ -6,7 +6,11 @@
 
 |NOM|DESCRIPTION|
 |:--|:--|
-|||
+|AVG|Moyenne d'une colonne|
+|COUNT|Nombre d'enregistrements (au total ou d'une colonne)|
+|MIN|Valeur minimale d'une colonne|
+|MAX|Valeur maximale d'une colonne|
+|SUM|Somme des valeurs d'une colonne|
 
 ## Oracle Database
 

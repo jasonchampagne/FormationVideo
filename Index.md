@@ -448,7 +448,7 @@
 + [SQL #10 - filtrer requêtes](https://www.youtube.com/watch?v=jLQ7r6a9aiA)
 + [SQL #11 - enregistrer données](https://www.youtube.com/watch?v=ETBhek3AklE)
 + [SQL #12 - modifier et supprimer](https://www.youtube.com/watch?v=7gMgsSrFgaw)
-+ [SQL #13 - fonctions d'agrégation](https://www.youtube.com/watch?v=TnPLdAuGCzU)
++ [SQL #13 - fonctions d'agrégat](https://www.youtube.com/watch?v=TnPLdAuGCzU)
 + [SQL #14 - grouper résultats](https://www.youtube.com/watch?v=5RFdXGicu1o)
 + [SQL #15 - unions et intersections](https://www.youtube.com/watch?v=tIP_bQeFeXg)
 + [SQL #16 - sous-requêtes](https://www.youtube.com/watch?v=n2y6DZAM_fM)

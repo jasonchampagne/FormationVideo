@@ -2,7 +2,7 @@
 
 > [SQL #21 - fonctions de sécurité](https://www.youtube.com/watch?v=VTkhWoQ4QPA)
 
-## [MySQL](https://dev.mysql.com/doc/)
+## MySQL
 
 > Algorithmes de hash disponibles : MD5, SHA-2 (224, 256, 384, 512)
 
@@ -16,7 +16,7 @@
 |**SHA1**|_Alias de sha()_|`SHA1(str)`|
 |**SHA2()**|Génération d'un hash SHA-2 (256 bits par défaut)|`SHA2(str, length)`|
 
-## [Oracle Database & PL/SQL](https://docs.oracle.com/cd/B19306_01/index.htm)
+## Oracle Database & PL/SQL
 
 > Algorithmes de hash disponibles : MD5, SHA1, SHA256, SHA384, SHA512 
 
@@ -24,7 +24,7 @@
 |:--|:--|:--|
 |**STANDARD_HASH()**|Génération d'un hash (SHA1 par défaut)|`STANDARD_HASH(str, algorithm)`|
 
-## [PostgreSQL](https://docs.postgresql.fr/)
+## PostgreSQL
 
 > Algorithmes de hash disponibles : md5, sha1, sha224, sha256, sha384, sha512
 
@@ -35,11 +35,11 @@
 |**PGP_SYM_DECRYPT()**|Déchiffrement avec clé PGP|`pgp_sym_decrypt(crypt_data, key)`|
 |**PGP_SYM_ENCRYPT()**|Chiffrement avec clé PGP|`pgp_sym_encrypt(str, key)`|
 
-## [SQLite](https://sqlite.org/docs.html)
+## SQLite
 
 + _Aucune fonction de sécurité disponible (à vous de les définir)_
 
-## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
+## SQL Server
 
 > Algorithmes de hash disponibles : MD2, MD4, MD5, SHA, SHA1, SHA2_256, SHA2_512  
 

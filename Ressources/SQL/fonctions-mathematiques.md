@@ -2,7 +2,7 @@
 
 > [SQL #20 - fonctions mathématiques](https://www.youtube.com/watch?v=9Y20_0MQzEE)
 
-## [MySQL](https://dev.mysql.com/doc/)
+## MySQL
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -35,7 +35,7 @@
 |**TAN()**|Tangente|`TAN(n)`|
 |**TRUNCATE()**|Troncature sur décimales|`TRUNCATE(n, decimals)`|
 
-## [Oracle Database](https://docs.oracle.com/cd/B19306_01/index.htm)
+## Oracle Database
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -58,7 +58,7 @@
 |**TAN()**|Tangente|`TAN(n)`|
 |**TRUNC()**|Troncature sur décimales|`TRUNC(n)`<br>`TRUNC(n, decimals)`|
 
-## [PostgreSQL](https://docs.postgresql.fr/)
+## PostgreSQL
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -89,7 +89,7 @@
 |**TAN()**|Tangente|`tan(n)`|
 |**TRUNC()**|Troncature sur décimales|`trunc(n)`<br>`trunc(n, decimals)`|
 
-## [SQLite](https://sqlite.org/docs.html)
+## SQLite
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|
@@ -97,7 +97,7 @@
 |**RANDOM()**|Nombre entier aléatoire (positif ou négatif)|`RANDOM()`|
 |**ROUND()**|Arrondi sur décimales|`ROUND(n)`<br>`ROUND(n, decimals)`|
 
-## [SQL Server (Microsoft)](https://docs.microsoft.com/fr-fr/sql)
+## SQL Server
 
 |NOM|DESCRIPTION|USAGE|
 |:--|:--|:--|

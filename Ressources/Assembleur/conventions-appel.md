@@ -23,7 +23,7 @@
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères|`EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`|
-|Valeur de retour|`EAX`|
+|Valeur de retour|`EAX` (entier : 32 bits)<br>`EAX` + `EDX` (entier : 64 bits)|
 |Registres volatiles|`EAX`, `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`|
 
 ---

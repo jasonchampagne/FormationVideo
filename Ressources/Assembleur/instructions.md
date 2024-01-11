@@ -32,6 +32,11 @@ mov rdx, [rdi]           ; Copie la valeur à l'adresse mémoire contenue dans l
 
 ## PUSH
 
+```asm
+push eax ; Pousse le contenu du regstre EAX sur la pile
+push A8h ; Pousse la valeur 168 (hexadécimale) sur la pile
+```
+
 ## SUB
 
 ## XOR

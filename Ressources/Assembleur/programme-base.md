@@ -62,6 +62,7 @@ $ ld <file>.o -o <file>
 
 ### 64 bits
 
+[!NOTE]
 À propos de l'espace d'ombre (_shadow space_) :
 
 - la fonction appelée (_callee_) suppose que la pile contient un espace suffisant pour stocker quatre registres de 64 bits.

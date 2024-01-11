@@ -2,8 +2,10 @@
 
 |NOM|DESCRIPTION|
 |--:|:--|
-|`ADD`||
-|`CALL`||
+|`ADD`|Additionne deux entiers|
+|`CALL`|Appelle une procédure/fonction|
+|`CMP`|Compare deux entiers|
+|`JMP`|Saut (inconditionnel) vers une étiquette|
 |`MOV`|Déplacer une donnée dans un emplacement (adresse mémoire, registre, ...)|
-|`SUB`||
+|`SUB`|Soustrait deux entiers|
 |`XOR`||

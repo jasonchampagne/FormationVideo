@@ -78,21 +78,21 @@ section .bss
 section .text
 	global main
 	main:
-		mov rcx, -11
+		mov rcx, -11            ; _In_ DWORD nStdHandle
 		call GetStdHandle
 
-		sub rsp, 40 ; 32 + 8
+		sub rsp, 40             ; "Shadow space"
 
-		mov rcx, rax
-		mov rdx, message
-		mov r8, 13
-		mov r9, written
-		mov qword [rsp + 32], 0
+		mov rcx, rax            ; _In_ HANDLE hConsoleOutput
+		mov rdx, message        ; _In_ const VOID *lpBuffer
+		mov r8, 13              ; _In_ DWORD nNumberOfCharsToWrite
+		mov r9, written         ; _Out_opt_ LPDWORD lpNumberOfCharsWritten
+		mov qword [rsp + 32], 0 ; _Reserved_ LPVOID lpReserved
 		call WriteConsoleA
 
 		add rsp, 40 ; 32 + 8
 
-		xor rcx, rcx
+		xor rcx, rcx            ; [in] UINT uExitCode
 		call ExitProcess
 ```
 ```powershell

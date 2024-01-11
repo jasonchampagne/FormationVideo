@@ -19,6 +19,8 @@ mov rbx, rax ; Copie le contenu du registre RAX dans le registre RBX
 
 ## SUB
 
-## SYSCALL
-
 ## XOR
+
+```asm
+xor rax, rax ; Effectue un OU exclusif sur le registre RAX (affecte la valeur 0)
+```

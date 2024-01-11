@@ -8,6 +8,10 @@
 
 ## INT
 
+```asm
+int 0x80 ; Appelle l'interruption ayant pour code 80 (hexadécimal)
+```
+
 ## JMP
 
 ## MOV

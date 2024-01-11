@@ -81,7 +81,7 @@ section .text
 		mov rcx, -11            ; _In_ DWORD nStdHandle
 		call GetStdHandle
 
-		sub rsp, 40             ; "Shadow space"
+		sub rsp, 40             ; Réservation du "Shadow space"
 
 		mov rcx, rax            ; _In_ HANDLE hConsoleOutput
 		mov rdx, message        ; _In_ const VOID *lpBuffer
@@ -90,7 +90,7 @@ section .text
 		mov qword [rsp + 32], 0 ; _Reserved_ LPVOID lpReserved
 		call WriteConsoleA
 
-		add rsp, 40 ; 32 + 8
+		add rsp, 40             ; Libération du "Shadow space"
 
 		xor rcx, rcx            ; [in] UINT uExitCode
 		call ExitProcess

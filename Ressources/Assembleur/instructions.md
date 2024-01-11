@@ -10,4 +10,4 @@
 |`MOV`|Déplacer une donnée dans un emplacement (adresse mémoire, registre, ...)|
 |`SUB`|Soustrait deux entiers|
 |`SYSCALL`|Appelle une fonction système Linux|
-|`XOR`||
+|`XOR`|Effectuer un OU logique exclusif|

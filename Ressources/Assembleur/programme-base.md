@@ -19,7 +19,7 @@ section .text
     _start:
         mov rax, 1       ; sys_write
         mov rdi, 1       ; unsigned int fd
-        mov rsi, message ; char* buf
+        mov rsi, message ; const char* buf
         mov rdx, 13 + 1  ; size_t count
         syscall
         
@@ -43,14 +43,14 @@ section .data
 section .text
     global _start
     _start:
-        mov eax, 4
-        mov ebx, 1
-        mov ecx, message
-        mov edx, 13 + 1
+        mov eax, 4       ; sys_write
+        mov ebx, 1       ; unsigned int fd
+        mov ecx, message ; const char* buf
+        mov edx, 13 + 1  ; size_t count
         int 0x80
         
-        mov eax, 1
-        mov ebx, 0
+        mov eax, 1       ; sys_exit
+        mov ebx, 0       ; int error_code
         int 0x80
 ```
 ```bash

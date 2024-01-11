@@ -62,13 +62,13 @@ $ ld <file>.o -o <file>
 
 ### 64 bits
 
-> À propos de l'espace d'ombre (_shadow space_) :
->
-> - la fonction appelée (_callee_) suppose que la pile contient un espace suffisant pour stocker quatre registres de 64 bits.
-> - L'instruction `call` pousse son adresse de retour sur la pile.
-> - le pointeur de pile (RSP) doit être aligné sur une limite d'adresse de 128 bits.
->
-> L'ensemble constitue donc en un espace à réserver de 40 octets (32 octets pour les quatre registres + 8 octets pour le retour de l'instruction `call`)
+À propos de l'espace d'ombre (_shadow space_) :
+
+- la fonction appelée (_callee_) suppose que la pile contient un espace suffisant pour stocker quatre registres de 64 bits.
+- L'instruction `call` pousse son adresse de retour sur la pile.
+- le pointeur de pile (RSP) doit être aligné sur une limite d'adresse de 128 bits.
+
+L'ensemble constitue donc en un espace à réserver de 40 octets (32 octets pour les quatre registres + 8 octets pour le retour de l'instruction `call`)
 
 ```asm
 bits 64

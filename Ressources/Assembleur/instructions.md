@@ -28,6 +28,10 @@ mov qword ptr [rdi], 155 ; Copie la valeur 123 à l'adresse mémoire contenue da
 mov rdx, [rdi]           ; Copie la valeur à l'adresse mémoire contenue dans le registre RDI dans le registre RDX
 ```
 
+## POP
+
+## PUSH
+
 ## SUB
 
 ## XOR

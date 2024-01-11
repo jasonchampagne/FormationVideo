@@ -87,10 +87,10 @@ section .bss
 section .text
 	global main
 	main:
+        sub rsp, 40             ; Réservation du "Shadow space"
+
 		mov rcx, -11            ; _In_ DWORD nStdHandle
 		call GetStdHandle
-
-		sub rsp, 40             ; Réservation du "Shadow space"
 
 		mov rcx, rax            ; _In_ HANDLE hConsoleOutput
 		mov rdx, message        ; _In_ const VOID* lpBuffer

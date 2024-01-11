@@ -118,17 +118,17 @@ section .bss
 section .text
 	global main
 	main:
-		push -11
+		push -11               ; _In_ DWORD nStdHandle
 		call _GetStdHandle@4
 
-		push 0
-		push written
-		push 13
-		push message
-		push eax
+		push 0                 ; _Reserved_ LPVOID lpReserved
+		push written           ; _Out_opt_ LPDWORD lpNumberOfCharsWritten
+		push 13                ; _In_ DWORD nNumberOfCharsToWrite
+		push message           ; _In_ const VOID* lpBuffer
+		push eax               ; _In_ HANDLE hConsoleOutput
 		call _WriteConsoleA@20
 
-		push 0
+		push 0                 ; [in] UINT uExitCode
 		call _ExitProcess@4
 ```
 ```powershell

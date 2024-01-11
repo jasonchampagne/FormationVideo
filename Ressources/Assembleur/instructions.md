@@ -2,7 +2,7 @@
 
 |NOM|DESCRIPTION|USAGE(S)|
 |--:|:--|:--|
-|`ADD`|Additionne deux entiers|```asm add rbx, 2```|
+|`ADD`|Additionne deux entiers|`add rbx, 2`|
 |`CALL`|Appelle une procédure/fonction|`call WriteConsoleA`|
 |`CMP`|Compare deux entiers||
 |`INT`|Appelle une interruption|`int 0x80`|

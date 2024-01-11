@@ -36,11 +36,11 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0` à `XMM3` (flottants)|
+|Paramères|`RCX`, `RDX`, `R8`, `R9` (entiers)<br>`XMM0`, `XMM1`, `XMM2`, `XMM3` (flottants)|
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
 |Valeur de retour|`RAX` (entier : 64 bits)<br>`XMM0` (flottant : 128 bits)|
-|Registres conservés|`RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12` à `R15`<br>`XMM6` à `XMM15`|
-|Registres volatiles|`RAX`, `RCX`, `RDX`, `R8` à `R11`<br>`XMM0` à `XMM5`|
+|Registres conservés|`RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12`, `R13`, `R14`, `R15`<br>`XMM6`, `XMM7`, `XMM8`, `XMM9`, `XMM10`, `XMM11`, `XMM12`, `XMM13`, `XMM14`, `XMM15`|
+|Registres volatiles|`RAX`, `RCX`, `RDX`, `R8`, `R9`, `R10`, `R11`<br>`XMM0`, `XMM1`, `XMM2`, `XMM3`, `XMM4`, `XMM5`|
 
 ### 32 bits
 

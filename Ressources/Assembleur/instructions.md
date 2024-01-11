@@ -4,6 +4,10 @@
 
 ## CALL
 
+```asm
+call WriteConsoleA ; Appelle la fonction WriteConsoleA
+```
+
 ## CMP
 
 ## INT

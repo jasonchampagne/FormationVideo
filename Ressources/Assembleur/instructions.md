@@ -2,4 +2,8 @@
 
 |NOM|DESCRIPTION|
 |--:|:--|
+|`ADD`||
+|`CALL`||
 |`MOV`|Déplacer une donnée dans un emplacement (adresse mémoire, registre, ...)|
+|`SUB`||
+|`XOR`||

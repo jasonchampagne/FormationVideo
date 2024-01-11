@@ -7,7 +7,7 @@
 |`CMP`|Compare deux entiers|
 |`INT`|Appelle une interruption|
 |`JMP`|Saut (inconditionnel) vers une étiquette|
-|`MOV`|Déplacer une donnée dans un emplacement (adresse mémoire, registre, ...)|
+|`MOV`|Déplace une donnée dans un emplacement (adresse mémoire, registre, ...)|
 |`SUB`|Soustrait deux entiers|
 |`SYSCALL`|Appelle une fonction système Linux|
-|`XOR`|Effectuer un OU logique exclusif|
+|`XOR`|Effectue un OU logique exclusif|

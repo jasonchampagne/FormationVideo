@@ -84,7 +84,7 @@ section .text
 		sub rsp, 40             ; Réservation du "Shadow space"
 
 		mov rcx, rax            ; _In_ HANDLE hConsoleOutput
-		mov rdx, message        ; _In_ const VOID *lpBuffer
+		mov rdx, message        ; _In_ const VOID* lpBuffer
 		mov r8, 13              ; _In_ DWORD nNumberOfCharsToWrite
 		mov r9, written         ; _Out_opt_ LPDWORD lpNumberOfCharsWritten
 		mov qword [rsp + 32], 0 ; _Reserved_ LPVOID lpReserved

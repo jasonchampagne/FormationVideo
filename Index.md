@@ -477,6 +477,7 @@
 + [Tutoriel HTML/CSS - valider page HTML](https://www.youtube.com/watch?v=qaSFdlICoOo)
 + [Tutoriel HTML/CSS - variables](https://www.youtube.com/watch?v=XFYqxcChwO4)
 + [Tutoriel Java - annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
++ [Tutoriel Java - comparer et trier des objets](https://www.youtube.com/watch?v=rmwqHf2ZaeQ)
 + [Tutoriel Java - créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)
 + [Tutoriel Java - Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
 + [Tutoriel PHP - auto-chargement de classes](https://www.youtube.com/watch?v=27f-oNDCz7E)

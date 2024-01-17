@@ -548,3 +548,4 @@
 + [Windows #30 - pare-feu](https://www.youtube.com/watch?v=wn6UQSbXpI8)
 + [WordPress #1 - introduction](https://www.youtube.com/watch?v=0Z-_vxOuKdk)
 + [WordPress #2 - création du site](https://www.youtube.com/watch?v=SVEy2lowH6o)
++ [WordPress #3 - premier article](https://www.youtube.com/watch?v=sQ8z41KYxo8)

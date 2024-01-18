@@ -37,6 +37,7 @@ plusieurs lignes...
 |:--:|:--|:--|
 |`BOOL`|Boléen|`vrai`, `faux`, `V`, `F`|
 |`CHAR`|Caractère|`'A'`, `'%'`|
+|`GENERIC`|Type générique|-|
 |`INT`|Entier|`452`, `100_000`, `-3`|
 |`REAL`|Nombre à virgule flottante|`3.14`, `-126.019`|
 |`STR`|Chaîne de caractères|`"Bienvenue sur FormationVidéo"`, `"Ah !"`|

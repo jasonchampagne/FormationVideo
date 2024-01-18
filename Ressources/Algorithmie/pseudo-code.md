@@ -53,3 +53,10 @@ est_gratuit = vrai
 ```
 
 ## Affichage et saisie
+
+```
+STR nom := "Alicia"
+afficher("Bonjour {nom}, comment allez-vous ?")
+
+INT age := lire("Quel âge avez-vous ? ")
+```

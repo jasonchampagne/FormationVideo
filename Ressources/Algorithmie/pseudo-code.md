@@ -78,12 +78,12 @@ INT age := lire("Quel âge avez-vous ? ")
 
 |/|USAGE|EXEMPLE|
 |:--:|:--|:--|
-|`==`|Est égal à|`nnnn`|
-|`!=`|Est différent de|`nnnn`|
-|`<`|Est strictement inférieur à|`nnnn`|
-|`<=`|Est inférieur ou égal à|`nnnn`|
-|`>`|Est strictement supérieur à|`nnnn`|
-|`>=`|Est supérieur ou égal à|`nnnn`|
+|`==`|Est égal à|`nombre_elements == 20`|
+|`!=`|Est différent de|`mot_de_passe != passe_session`|
+|`<`|Est strictement inférieur à|`age < 18`|
+|`<=`|Est inférieur ou égal à|`age <= 18`|
+|`>`|Est strictement supérieur à|`solde > 0`|
+|`>=`|Est supérieur ou égal à|`montant_commande >= 1_000`|
 
 ### logiques
 

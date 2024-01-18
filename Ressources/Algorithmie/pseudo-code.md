@@ -52,9 +52,9 @@ STR nom_joueur := "Marc MARTIN"
 REAL TVA := 20.0
 BOOL est_gratuit
 
-//-----------------------------------------------------------------------------------------------------------
-// Changement de valeur d'un variable ou constante (nouvelle affectation après déclaration et initialisation)
-//-----------------------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------
+// Changement de valeur d'un variable ou constante (nouvelle affectation)
+//-----------------------------------------------------------------------
 TVA = 19.6
 est_gratuit = vrai
 ```

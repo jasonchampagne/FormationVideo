@@ -46,7 +46,7 @@ plusieurs lignes...
 
 + Nommage d'une variable : `prix` ou `prix_vente`
 + Nommage d'une constante : `TVA` ou `NOMBRE_JOUEURS`
-+ Nommage d'une collection (tableau, liste, ...) : `joueurs[x]` où `x` est la capacité de stockage
++ Nommage d'une collection (tableau, liste, ...) : `<TYPE_DONNEE>[x] joueurs` où `x` est le nombre fixé d'éléments
 
 ```
 //-----------------------------------------------

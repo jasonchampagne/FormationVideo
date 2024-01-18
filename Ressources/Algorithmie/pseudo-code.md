@@ -223,7 +223,7 @@ afficher("Il est au niveau {j.niveau}")
 // Définition d'une classe
 //-------------------------
 CLASSE Position2D
-    METHODES :
+    METHODES
         CONSTRUCTEUR Position2D(INT x, INT y)
             Position2D.x = x
             Position2D.y = y
@@ -232,9 +232,12 @@ CLASSE Position2D
         FONCTION x()
             RETOURNER Position2D.x
         FIN FONCTION
-    ATTRIBUTS :
+    FIN METHODES
+
+    ATTRIBUTS
         INT x
         INT y
+    FIN ATTRIBUTS
 FIN CLASSE
 
 //----------------------------

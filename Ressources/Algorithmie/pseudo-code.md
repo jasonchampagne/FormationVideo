@@ -6,6 +6,7 @@
 > + [Types de données](#types-de-données)
 > + [Variables et constantes](#variables-et-constantes)
 > + [Affichage et saisie](#affichage-et-saisie)
+> + [Opérateurs](#opérateurs)
 
 ---
 
@@ -60,3 +61,35 @@ afficher("Bonjour {nom}, comment allez-vous ?")
 
 INT age := lire("Quel âge avez-vous ? ")
 ```
+
+## Opérateurs
+
+### arithmétiques
+
+|/|USAGE|EXEMPLE|
+|:--:|:--|:--|
+|`+`|Addition|`a + b`|
+|`-`|Soustraction|`a - b`|
+|`*`|Multiplication|`a * b`|
+|`/`|Division|`a / b`|
+|`%`|Modulo|`a % 2`|
+
+### comparatifs
+
+|/|USAGE|EXEMPLE|
+|:--:|:--|:--|
+|`==`|Est égal à|`nnnn`|
+|`!=`|Est différent de|`nnnn`|
+|`<`|Est strictement inférieur à|`nnnn`|
+|`<=`|Est inférieur ou égal à|`nnnn`|
+|`>`|Est strictement supérieur à|`nnnn`|
+|`>=`|Est supérieur ou égal à|`nnnn`|
+
+### logiques
+
+|/|USAGE|EXEMPLE|
+|:--:|:--|:--|
+|`NOT`|NÉGATION|`NOT est_gratuit`|
+|`AND`|ET|`est_gratuit AND est_disponible`|
+|`OR`|OU|`a == 1 OR a == -1`|
+|`XOR`|OU exclusif|`vrai XOR vrai`|

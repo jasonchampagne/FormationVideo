@@ -8,6 +8,7 @@
 > + [Affichage et saisie](#affichage-et-saisie)
 > + [Opérateurs](#opérateurs)
 > + [Conditions](#conditions)
+> + [Boucles](#boucles)
 
 ---
 
@@ -45,11 +46,13 @@ plusieurs lignes...
 
 ```
 // Déclaration d'une variable ou d'une constante
+
 STR nom_joueur := "Marc MARTIN"
 REAL TVA := 20.0
 BOOL est_gratuit
 
 // Changement de valeur d'un variable ou constante (nouvelle affectation après déclaration et initialisation)
+
 TVA = 19.6
 est_gratuit = vrai
 ```
@@ -101,11 +104,13 @@ INT age := lire("Quel âge avez-vous ? ")
 INT solde_compte := 1_500
 
 // Condition simple
+
 SI solde_compte > 0 ALORS
     afficher("Compte positif")
 FIN SI
 
 // Condition avec traitement par défaut
+
 SI solde_compte > 0 ALORS
     afficher("Compte positif")
 SINON
@@ -113,6 +118,7 @@ SINON
 FIN SI
 
 // Conditions imbriquées
+
 SI solde_compte > 100_000 ALORS
     afficher("Vous êtes riches !")
 SINON SI solde_compte >= 10_000 ALORS
@@ -122,4 +128,32 @@ SINON SI solde_compte >= 5_000 ALORS
 SINON
     afficher("Vos revenus sont modestes")
 FIN SI
+```
+
+## Boucles
+
+```
+// Boucle classique avec compteur explicite
+
+INT i := 0
+
+TANT QUE i < 10 FAIRE
+    afficher("{i}")
+    i = i + 1
+FIN TANT QUE
+
+// Boucle avec initialisation (auto-incrémentation par défaut de 1)
+
+INT i
+
+POUR i ALLANT DE 0 A 10 FAIRE // ou POUR i ALLANT DE 0 A 10 PAR SAUT DE 1 FAIRE
+    afficher("{i}")
+FIN POUR
+
+// Boucle de parcours (auto-incrémentée)
+STR nom_chaine := "FormationVidéo"
+
+POUR CHAQUE lettre DE nom_chaine FAIRE
+    afficher(lettre)
+FIN POUR CHAQUE
 ```

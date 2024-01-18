@@ -56,6 +56,12 @@ STR nom_joueur := "Marc MARTIN"
 REAL TVA := 20.0
 BOOL est_gratuit
 
+//----------------------------------------
+// Déclaration d'un tableau
+//----------------------------------------
+INT[10] entiers
+BOOL[3] valeurs := {V, F, F}
+
 //------------------------------------------------------------------------
 // Changement de valeur d'un variable ou constante (nouvelle affectation)
 //------------------------------------------------------------------------

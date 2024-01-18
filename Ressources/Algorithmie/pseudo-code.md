@@ -7,6 +7,7 @@
 > + [Variables et constantes](#variables-et-constantes)
 > + [Affichage et saisie](#affichage-et-saisie)
 > + [Opérateurs](#opérateurs)
+> + [Conditions](#conditions)
 
 ---
 
@@ -93,3 +94,32 @@ INT age := lire("Quel âge avez-vous ? ")
 |`AND`|ET|`est_gratuit AND est_disponible`|
 |`OR`|OU|`a == 1 OR a == -1`|
 |`XOR`|OU exclusif|`vrai XOR vrai`|
+
+## Conditions
+
+```
+INT solde_compte := 1_500
+
+// Condition simple
+SI solde_compte > 0 ALORS
+    afficher("Compte positif")
+FIN SI
+
+// Condition avec traitement par défaut
+SI solde_compte > 0 ALORS
+    afficher("Compte positif")
+SINON
+    afficher("Compte à découvert")
+FIN SI
+
+// Conditions imbriquées
+SI solde_compte > 100_000 ALORS
+    afficher("Vous êtes riches !")
+SINON SI solde_compte >= 10_000 ALORS
+    afficher("Vous avez de la ressource")
+SINON SI solde_compte >= 5_000 ALORS
+    afficher("Vous avez un peu d'argent")
+SINON
+    afficher("Vos revenus sont modestes")
+FIN SI
+```

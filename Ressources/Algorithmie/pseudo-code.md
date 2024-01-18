@@ -3,6 +3,7 @@
 > **SOMMAIRE**
 > + [Commentaires](#commentaires)
 > + [Caractères d'échappement](#caractères-déchappement)
+> + [Types de données](#types-de-données)
 
 ---
 
@@ -21,3 +22,13 @@ plusieurs lignes...
 
 + Retour à la ligne : `\n`
 + Tabulation : `\t`
+
+## Types de données
+
+|TYPE|USAGE|EXEMPLES|
+|:--:|:--|:--|
+|`BOOL`|Boléen|`vrai`, `faux`, `V`, `F`|
+|`CHAR`|Caractère|`'A'`, `'%'`|
+|`INT`|Entier|`452`, `100_000`, `-3`|
+|`REAL`|Nombre à virgule flottante|`3.14`, `-126.019`|
+|`STR`|Chaîne de caractères|`"Hello World"`, `"Ah !"`|

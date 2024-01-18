@@ -210,7 +210,6 @@ FIN STRUCTURE
 // Déclarer et utiliser une structure
 //------------------------------------
 Monnaie m := {2, 50, 0}
-
 Joueur j := {"Huguette", 1, m}
 
 afficher(j.nom)
@@ -218,3 +217,29 @@ afficher("Il est au niveau {j.niveau}")
 ```
 
 ## Classes
+
+```
+//-------------------------
+// Définition d'une classe
+//-------------------------
+CLASSE Position2D
+    METHODES :
+        CONSTRUCTEUR Position2D(INT x, INT y)
+            Position2D.x = x
+            Position2D.y = y
+        FIN CONSTRUCTEUR
+
+        FONCTION x()
+            RETOURNER Position2D.x
+        FIN FONCTION
+    ATTRIBUTS :
+        INT x
+        INT y
+FIN CLASSE
+
+//----------------------------
+// Instanciation d'une classe
+//----------------------------
+Position2D pos := Position2D(145, 23)
+afficher("Position en X : {pos.x()}")
+```

@@ -147,7 +147,7 @@ FIN SI
 INT i := 0
 
 TANT QUE i < 10 FAIRE
-    afficher("{i}")
+    afficher(i)
     i = i + 1
 FIN TANT QUE
 
@@ -157,7 +157,7 @@ FIN TANT QUE
 INT i
 
 POUR i ALLANT DE 0 A 10 FAIRE // ou POUR i ALLANT DE 0 A 10 PAR SAUT DE 1 FAIRE
-    afficher("{i}")
+    afficher(i)
 FIN POUR
 
 //-----------------------------------------------------
@@ -172,6 +172,49 @@ FIN POUR CHAQUE
 
 ## Procédures et fonctions
 
+```
+//---------------------------------------------------
+// Quand elle ne renvoie pas de résultat (procédure)
+//---------------------------------------------------
+PROCEDURE afficher_message(STR message)
+    afficher(message)
+FIN PROCEDURE
+
+//-------------------------------------------
+// Quand elle renvoie un résultat (fonction)
+//-------------------------------------------
+FONCTION somme_entiers(INT a, INT b) -> INT
+    retourner a + b
+FIN FONCTION
+```
+
 ## Structures
+
+```
+//------------------------
+// Définir des structures
+//------------------------
+STRUCTURE Monnaie
+    INT or
+    INT argent
+    INT cuivre
+FIN STRUCTURE
+
+STRUCTURE Joueur
+    STR nom
+    INT niveau
+    MONNAIE argent
+FIN STRUCTURE
+
+//------------------------------------
+// Déclarer et utiliser une structure
+//------------------------------------
+Monnaie m := {2, 50, 0}
+
+Joueur j := {"Huguette", 1, m}
+
+afficher(j.nom)
+afficher("Il est au niveau {j.niveau}")
+```
 
 ## Classes

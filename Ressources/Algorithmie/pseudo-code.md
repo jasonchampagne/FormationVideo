@@ -9,6 +9,9 @@
 > + [Opérateurs](#opérateurs)
 > + [Conditions](#conditions)
 > + [Boucles](#boucles)
+> + [Procédures et fonctions](#procédures-et-fonctions)
+> + [Structures](#structures)
+> + [Classes](#classes)
 
 ---
 
@@ -166,3 +169,9 @@ POUR CHAQUE lettre DE nom_chaine FAIRE
     afficher(lettre)
 FIN POUR CHAQUE
 ```
+
+## Procédures et fonctions
+
+## Structures
+
+## Classes

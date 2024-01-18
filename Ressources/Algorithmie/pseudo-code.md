@@ -5,6 +5,7 @@
 > + [Caractères d'échappement](#caractères-déchappement)
 > + [Types de données](#types-de-données)
 > + [Variables et constantes](#variables-et-constantes)
+> + [Affichage et saisie](#affichage-et-saisie)
 
 ---
 
@@ -44,10 +45,11 @@ plusieurs lignes...
 // Déclaration d'une variable ou d'une constante
 STR nom_joueur := "Marc MARTIN"
 REAL TVA := 20.0
+BOOL est_gratuit
 
-// Nouvelle affectation de valeur (après déclaration)
+// Changement de valeur d'un variable ou constante (nouvelle affectation après déclaration et initialisation)
 TVA = 19.6
-
-// Affichage intégré dans une chaîne
-"Bonjour {nom_joueur} !"
+est_gratuit = vrai
 ```
+
+## Affichage et saisie

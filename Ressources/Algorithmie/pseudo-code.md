@@ -1,7 +1,7 @@
 # Pseudo-code
 
 > **SOMMAIRE**
-> + [ddd](#d)
+> + [Commentaires](#commentaires)
 
 ---
 
@@ -15,3 +15,8 @@ Commentaire écrit sur
 plusieurs lignes...
 //
 ```
+
+## Caractères d'échappement
+
++ Retour à la ligne : `\n`
++ Tabulation : `\t`

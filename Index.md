@@ -506,6 +506,7 @@
 + [Tutoriel Python - itérateurs](https://www.youtube.com/watch?v=H9FIOc-bIHU)
 + [Tutoriel Python - liste en compréhension](https://www.youtube.com/watch?v=Vf9Wwa1CGgk)
 + [Tutoriel Python - méthodes spéciales](https://www.youtube.com/watch?v=XxUasK8f-s0)
++ [Tutoriel Python - opérations systèmes](https://www.youtube.com/watch?v=Zx3J6lzfbOI)
 + [Tutoriel Python - portée des variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
 + [Tutoriel Python - tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)
 + [Tutoriel SQL - relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)

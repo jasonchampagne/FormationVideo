@@ -334,7 +334,7 @@
 + [25. Code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
 + [26. Conclusion](https://www.youtube.com/watch?v=x65IyueCABg)
 
-### JavaFX (JFX)
+### JavaFX
 
 + [1. Introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
 + [2. Architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)

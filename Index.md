@@ -290,6 +290,45 @@
 + [34. Communication réseau (2/2)](https://www.youtube.com/watch?v=0kHi1qO0vmQ)
 + [35. Conclusion](https://www.youtube.com/watch?v=6f3RQN9jdBU)
 
+### JavaScript
+
++ [1. Introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs)
++ [2. Hello world !](https://www.youtube.com/watch?v=PsosD3WyFfI)
++ [3. Variables](https://www.youtube.com/watch?v=r_ylc4StEeo)
++ [4. Opérateurs](https://www.youtube.com/watch?v=lThLyuv2_JM)
++ [5. Conditions](https://www.youtube.com/watch?v=C3z7Ijv_gho)
++ [6. Boucles](https://www.youtube.com/watch?v=mYXaFHKXku0)
++ [7. Fonctions](https://www.youtube.com/watch?v=RUT2fr28YYg)
++ [8. Programmation objet](https://www.youtube.com/watch?v=cnnhogixcI0)
++ [9. Prototypes et classes](https://www.youtube.com/watch?v=_Ilj_unoqvA)
++ [10. Héritage](https://www.youtube.com/watch?v=2BoeW9J-Hso)
++ [11. Exceptions](https://www.youtube.com/watch?v=oAbmzi_2AWo)
++ [12. Nombres](https://www.youtube.com/watch?v=t2nPQyJkQlI)
++ [13. Chaînes de caractères](https://www.youtube.com/watch?v=x87WIDfPtG8)
++ [14. Tableaux](https://www.youtube.com/watch?v=8JosoQnWbag)
++ [15. Dates](https://www.youtube.com/watch?v=hibxWv9vrvc)
++ [16. Ensembles](https://www.youtube.com/watch?v=0OO_JbiKQHA)
++ [17. Map](https://www.youtube.com/watch?v=UgyCb9_ytho)
++ [18. Modules](https://www.youtube.com/watch?v=uT80wq0TA98)
++ [19. Spécifications web](https://www.youtube.com/watch?v=GPuUHdFrREI)
++ [20. Arbre DOM](https://www.youtube.com/watch?v=2EUbeU5zHXg)
++ [21. Parcours du DOM](https://www.youtube.com/watch?v=u0-om2nmilQ)
++ [22. Manipulation d'éléments](https://www.youtube.com/watch?v=JBWJDQN4GTQ)
++ [23. Manipulation du design](https://www.youtube.com/watch?v=BZDZ5WArRYU)
++ [24. Évènements](https://www.youtube.com/watch?v=uqqbVX37-vs)
++ [25. Code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
++ [26. Conclusion](https://www.youtube.com/watch?v=x65IyueCABg)
+
+### JavaFX (JFX)
+
++ [1. Introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
++ [2. Architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
++ [3. Préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)
++ [4. Éléments de texte](https://www.youtube.com/watch?v=TmSIutrOk14)
++ [5. Éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
++ [6. Éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
++ [7. Éléments de menu](https://www.youtube.com/watch?v=qoMbUdzdKZQ)
+
 ### Windows
 
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM)
@@ -332,6 +371,10 @@
 ---
 
 ## 🔵 Tutoriels
+
+### SQL
+
++ [Tutoriel SQL - relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)
 
 ---
 
@@ -414,39 +457,6 @@
 ---
 ---
 
-+ [JavaFX #1 - introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
-+ [JavaFX #2 - architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
-+ [JavaFX #3 - préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)
-+ [JavaFX #4 - éléments de texte](https://www.youtube.com/watch?v=TmSIutrOk14)
-+ [JavaFX #5 - éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
-+ [JavaFX #6 - éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
-+ [JavaFX #7 - éléments de menu](https://www.youtube.com/watch?v=qoMbUdzdKZQ)
-+ [JavaScript #1 - introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs)
-+ [JavaScript #2 - hello world !](https://www.youtube.com/watch?v=PsosD3WyFfI)
-+ [JavaScript #3 - variables](https://www.youtube.com/watch?v=r_ylc4StEeo)
-+ [JavaScript #4 - opérateurs](https://www.youtube.com/watch?v=lThLyuv2_JM)
-+ [JavaScript #5 - conditions](https://www.youtube.com/watch?v=C3z7Ijv_gho)
-+ [JavaScript #6 - boucles](https://www.youtube.com/watch?v=mYXaFHKXku0)
-+ [JavaScript #7 - fonctions](https://www.youtube.com/watch?v=RUT2fr28YYg)
-+ [JavaScript #8 - programmation objet](https://www.youtube.com/watch?v=cnnhogixcI0)
-+ [JavaScript #9 - prototypes et classes](https://www.youtube.com/watch?v=_Ilj_unoqvA)
-+ [JavaScript #10 - héritage](https://www.youtube.com/watch?v=2BoeW9J-Hso)
-+ [JavaScript #11 - exceptions](https://www.youtube.com/watch?v=oAbmzi_2AWo)
-+ [JavaScript #12 - nombres](https://www.youtube.com/watch?v=t2nPQyJkQlI)
-+ [JavaScript #13 - chaînes de caractères](https://www.youtube.com/watch?v=x87WIDfPtG8)
-+ [JavaScript #14 - tableaux](https://www.youtube.com/watch?v=8JosoQnWbag)
-+ [JavaScript #15 - dates](https://www.youtube.com/watch?v=hibxWv9vrvc)
-+ [JavaScript #16 - ensembles](https://www.youtube.com/watch?v=0OO_JbiKQHA)
-+ [JavaScript #17 - map](https://www.youtube.com/watch?v=UgyCb9_ytho)
-+ [JavaScript #18 - modules](https://www.youtube.com/watch?v=uT80wq0TA98)
-+ [JavaScript #19 - spécifications web](https://www.youtube.com/watch?v=GPuUHdFrREI)
-+ [JavaScript #20 - arbre DOM](https://www.youtube.com/watch?v=2EUbeU5zHXg)
-+ [JavaScript #21 - parcours du DOM](https://www.youtube.com/watch?v=u0-om2nmilQ)
-+ [JavaScript #22 - manipulation d'éléments](https://www.youtube.com/watch?v=JBWJDQN4GTQ)
-+ [JavaScript #23 - manipulation du design](https://www.youtube.com/watch?v=BZDZ5WArRYU)
-+ [JavaScript #24 - évènements](https://www.youtube.com/watch?v=uqqbVX37-vs)
-+ [JavaScript #25 - code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
-+ [JavaScript #26 - conclusion](https://www.youtube.com/watch?v=x65IyueCABg)
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)
 + [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)
 + [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU)
@@ -624,7 +634,6 @@
 + [Tutoriel Python - opérations systèmes](https://www.youtube.com/watch?v=Zx3J6lzfbOI)
 + [Tutoriel Python - portée des variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
 + [Tutoriel Python - tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)
-+ [Tutoriel SQL - relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)
 + [Tutoriel Windows - afficher extension des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw)
 + [Tutoriel Windows - installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A)
 + [Tutoriel Windows - mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)

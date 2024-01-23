@@ -377,6 +377,18 @@
 + [31. Sécuriser requêtes SQL](https://www.youtube.com/watch?v=Vr6wfvlXPkw)
 + [32. Conclusion](https://www.youtube.com/watch?v=U0N78jTc0Ss)
 
+### SAV
+
++ [CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80)
++ [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE)
++ [No such file or directory](https://www.youtube.com/watch?v=ymzo7cGvxlo)
++ [Serveur mysqld ne démarre pas](https://www.youtube.com/watch?v=JvyM_mZqYrc)
++ [Table mysql.plugin doesn't exist](https://www.youtube.com/watch?v=ISNpuRRqqww)
++ [Tkinter has no attribute Tk](https://www.youtube.com/watch?v=PJympjnm2L8)
++ [Undefined reference to WinMain](https://www.youtube.com/watch?v=RNAdJW2J-wA)
++ [Unindent does not match any outer indentation level](https://www.youtube.com/watch?v=O3kBSsGir_M)
++ [VSCode est en anglais](https://www.youtube.com/watch?v=WSdKlAqXh3o)
+
 ### Windows
 
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM)
@@ -556,15 +568,6 @@
 + [Python #41 - mesurer le temps](https://www.youtube.com/watch?v=04Unwn9stCM)
 + [Python #42 - jouer du son](https://www.youtube.com/watch?v=qq8W5tMYb4w)
 + [Python #43 - conclusion](https://www.youtube.com/watch?v=Miw3Y131nsw)
-+ [SAV - CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80)
-+ [SAV - mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE)
-+ [SAV - no such file or directory](https://www.youtube.com/watch?v=ymzo7cGvxlo)
-+ [SAV - serveur mysqld ne démarre pas](https://www.youtube.com/watch?v=JvyM_mZqYrc)
-+ [SAV - table mysql.plugin doesn't exist](https://www.youtube.com/watch?v=ISNpuRRqqww)
-+ [SAV - tkinter has no attribute Tk](https://www.youtube.com/watch?v=PJympjnm2L8)
-+ [SAV - undefined reference to WinMain](https://www.youtube.com/watch?v=RNAdJW2J-wA)
-+ [SAV - unindent does not match any outer indentation level](https://www.youtube.com/watch?v=O3kBSsGir_M)
-+ [SAV - VSCode est en anglais](https://www.youtube.com/watch?v=WSdKlAqXh3o)
 + [SQL #1 - introduction](https://www.youtube.com/watch?v=3KwmNNucIjA)
 + [SQL #2 - installation mysql](https://www.youtube.com/watch?v=9azCzs322NU)
 + [SQL #3 - configuration encodage](https://www.youtube.com/watch?v=bkrNOyo1gYk)

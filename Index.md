@@ -211,33 +211,44 @@
 
 ## Exercices
 
-+ [Exercice C #1 - affichage formaté](https://www.youtube.com/watch?v=JpKaxVCjAMw)
-+ [Exercice C #2 - rendez l'argent !](https://www.youtube.com/watch?v=OQP3kgexXtU)
-+ [Exercice C #3 - somme de nombres](https://www.youtube.com/watch?v=aXHroKdj_mI)
-+ [Exercice C #4 - p'tite calculette](https://www.youtube.com/watch?v=CTuqMr6F59Q)
-+ [Exercice C #5 - pointeurs (QCM)](https://www.youtube.com/watch?v=BZXkTNPWHRQ)
-+ [Exercice C #6 - ballade en T](https://www.youtube.com/watch?v=udgS8xh_FD8)
-+ [Exercice C #7 - tout compte fait](https://www.youtube.com/watch?v=W1cNlw2H2xg)
-+ [Exercice C #8 - à fond la caisse](https://www.youtube.com/watch?v=cY79sEvkEQc)
-+ [Exercice C #9 - entrez dans la matrice](https://www.youtube.com/watch?v=M_GufgQqztA)
-+ [Exercice C #10 - un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs)
-+ [Exercice C #11 - dans ta stack](https://www.youtube.com/watch?v=yBaaLPBsRPM)
-+ [Exercice C #12 - mise au point](https://www.youtube.com/watch?v=Y4BN9pO_isY)
-+ [Exercice C #13 - bisou je manvol](https://www.youtube.com/watch?v=ahlKl7Svn1Y)
-+ [Exercice HTML/CSS #1 - article de blog](https://www.youtube.com/watch?v=fzjar4drY-c)
-+ [Exercice HTML/CSS #2 - tableau de données](https://www.youtube.com/watch?v=jqNCf_NRXnc)
-+ [Exercice HTML/CSS #3 - formulaire saisie patient](https://www.youtube.com/watch?v=mQB-f2scL3M)
-+ [Exercice HTML/CSS #4 - un peu de style](https://www.youtube.com/watch?v=Rbt9amRWfm4)
-+ [Exercice HTML/CSS #5 - strange news](https://www.youtube.com/watch?v=gagqaBk3GXo)
-+ [Exercice Java #1 - ça fait le café ?](https://www.youtube.com/watch?v=XQ7CSHi0Yt4)
-+ [Exercice Java #2 - sous conditions](https://www.youtube.com/watch?v=yfq9qPi3PcY)
-+ [Exercice PHP #1 - écho !](https://www.youtube.com/watch?v=nDYD1MCKlGU)
-+ [Exercice PHP #2 - calculez-les tous !](https://www.youtube.com/watch?v=6-LnnMlxRto)
-+ [Exercice PHP #3 - tic tac](https://www.youtube.com/watch?v=8zL7vZThq94)
-+ [Exercice PHP #4 - flemme](https://www.youtube.com/watch?v=ICpiB-YVuK8)
-+ [Exercice PHP #5 - abracadarray](https://www.youtube.com/watch?v=195dwnpoZYU)
-+ [Exercice PHP #6 - une histoire de goûts](https://www.youtube.com/watch?v=SUi2dvr68qI)
-+ [Exercice PHP #7 - netflex](https://www.youtube.com/watch?v=Wj8Fdyn61oM)
+### C
+
++ [1. Affichage formaté](https://www.youtube.com/watch?v=JpKaxVCjAMw)
++ [2. Rendez l'argent !](https://www.youtube.com/watch?v=OQP3kgexXtU)
++ [3. Somme de nombres](https://www.youtube.com/watch?v=aXHroKdj_mI)
++ [4. P'tite calculette](https://www.youtube.com/watch?v=CTuqMr6F59Q)
++ [5. Pointeurs (QCM)](https://www.youtube.com/watch?v=BZXkTNPWHRQ)
++ [6. Ballade en T](https://www.youtube.com/watch?v=udgS8xh_FD8)
++ [7. Tout compte fait](https://www.youtube.com/watch?v=W1cNlw2H2xg)
++ [8. À fond la caisse](https://www.youtube.com/watch?v=cY79sEvkEQc)
++ [9. Entrez dans la matrice](https://www.youtube.com/watch?v=M_GufgQqztA)
++ [10. Un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs)
++ [11. Dans ta stack](https://www.youtube.com/watch?v=yBaaLPBsRPM)
++ [12. Mise au point](https://www.youtube.com/watch?v=Y4BN9pO_isY)
++ [13. Bisou je manvol](https://www.youtube.com/watch?v=ahlKl7Svn1Y)
+
+### HTML/CSS
+
++ [1. Article de blog](https://www.youtube.com/watch?v=fzjar4drY-c)
++ [2. Tableau de données](https://www.youtube.com/watch?v=jqNCf_NRXnc)
++ [3. Formulaire saisie patient](https://www.youtube.com/watch?v=mQB-f2scL3M)
++ [4. Un peu de style](https://www.youtube.com/watch?v=Rbt9amRWfm4)
++ [5. Strange news](https://www.youtube.com/watch?v=gagqaBk3GXo)
+
+### Java
+
++ [1. Ça fait le café ?](https://www.youtube.com/watch?v=XQ7CSHi0Yt4)
++ [2. Sous conditions](https://www.youtube.com/watch?v=yfq9qPi3PcY)
+
+### PHP
+
++ [1. Écho !](https://www.youtube.com/watch?v=nDYD1MCKlGU)
++ [2. Calculez-les tous !](https://www.youtube.com/watch?v=6-LnnMlxRto)
++ [3. Tic tac](https://www.youtube.com/watch?v=8zL7vZThq94)
++ [4. Flemme](https://www.youtube.com/watch?v=ICpiB-YVuK8)
++ [5. Abracadarray](https://www.youtube.com/watch?v=195dwnpoZYU)
++ [6. Une histoire de goûts](https://www.youtube.com/watch?v=SUi2dvr68qI)
++ [7. Netflex](https://www.youtube.com/watch?v=Wj8Fdyn61oM)
 
 ### Python
 
@@ -261,12 +272,14 @@
 + [4. Travail terminé !](https://www.youtube.com/watch?v=cem3UGra0uU)
 + [5. Ptdr c ki l'elfe ?](https://www.youtube.com/watch?v=gY4petb_SDM)
 
+---
+
 ## Les restes du monde...
 
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
 
----
+
 
 
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)

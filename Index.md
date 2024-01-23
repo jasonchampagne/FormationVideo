@@ -4,6 +4,13 @@
 
 ## 🔵 Cours
 
+
+### Immersion
+
+> _Cette playlist sera le point de départ de l'ensemble du contenu de la chaîne !_
+
++ [Immersion #1 - introduction](https://www.youtube.com/watch?v=tkId1al9Q04)
+
 ### Aide
 
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
@@ -19,6 +26,7 @@
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [GCC - compilation en C/C++](https://www.youtube.com/watch?v=gr44z0Fyx_Y)
 + [Git - gérer plusieurs versions de fichiers](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
++ [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 
 ### Algorithmie
 
@@ -244,6 +252,44 @@
 + [25. Media queries](https://www.youtube.com/watch?v=_p8abfdp_Co)
 + [26. Conclusion](https://www.youtube.com/watch?v=yQDqF9IxhIU)
 
+### Java
+
++ [1. Introduction](https://www.youtube.com/watch?v=_l4pJ7HCrl4)
++ [2. Premier programme](https://www.youtube.com/watch?v=cvpkw2ZN4Ps)
++ [3. Types de données](https://www.youtube.com/watch?v=7Buk7i_RGok)
++ [4. Variables et constantes](https://www.youtube.com/watch?v=ilJGviAXoTM)
++ [5. Opérateurs](https://www.youtube.com/watch?v=OgPU8mFAgro)
++ [6. Conditions](https://www.youtube.com/watch?v=0rANfWRfc_c)
++ [7. Boucles](https://www.youtube.com/watch?v=ws0JqA7bPN0)
++ [8. Construction d'une classe](https://www.youtube.com/watch?v=IZ8wKErw0_Y)
++ [9. Attributs](https://www.youtube.com/watch?v=48wGbUfFtfM)
++ [10. Méthodes](https://www.youtube.com/watch?v=FkB7N0w81Dk)
++ [11. Encapsulation données](https://www.youtube.com/watch?v=zM_Qf07fEyc)
++ [12. Tableaux](https://www.youtube.com/watch?v=VdvUYGs17Ek)
++ [13. Chaînes de caractères (1/2)](https://www.youtube.com/watch?v=wvQQ5263pvI)
++ [14. Chaînes de caractères (2/2)](https://www.youtube.com/watch?v=EphmNLfZ2hM)
++ [15. Paquets](https://www.youtube.com/watch?v=8xVLSfM5UhY)
++ [16. Lecture au clavier](https://www.youtube.com/watch?v=fa84_nrUrMw)
++ [17. Exceptions](https://www.youtube.com/watch?v=UEISfoJaOyk)
++ [18. Héritage](https://www.youtube.com/watch?v=8TSVW7SV0KA)
++ [19. Classes abstraites](https://www.youtube.com/watch?v=dd0_nYhtaKQ)
++ [20. Interfaces](https://www.youtube.com/watch?v=M0hkhOoOIHg)
++ [21. Polymorphisme](https://www.youtube.com/watch?v=CPxrEntMxsQ)
++ [22. Introduction collections](https://www.youtube.com/watch?v=ov3d4s5w_m0)
++ [23. Listes](https://www.youtube.com/watch?v=eXYLsxQvIF4)
++ [24. Files](https://www.youtube.com/watch?v=TLPqZ6QOeBo)
++ [25. Ensembles](https://www.youtube.com/watch?v=lBa9_JzgBEE)
++ [26. Cartes (clé-valeur)](https://www.youtube.com/watch?v=l1pXrZByaAM)
++ [27. Énumérations](https://www.youtube.com/watch?v=7cdTn1bvNJc)
++ [28. Fichiers](https://www.youtube.com/watch?v=RYsa_zEe4Xs)
++ [29. Généricité](https://www.youtube.com/watch?v=QWn_KHeUKfA)
++ [30. Dates et durées](https://www.youtube.com/watch?v=SifudCti3pQ)
++ [31. Threads](https://www.youtube.com/watch?v=gYkgvTYSHM8)
++ [32. Bases de données](https://www.youtube.com/watch?v=TN_xTjbrzzc)
++ [33. Communication réseau (1/2)](https://www.youtube.com/watch?v=L55HmnzRSj0)
++ [34. Communication réseau (2/2)](https://www.youtube.com/watch?v=0kHi1qO0vmQ)
++ [35. Conclusion](https://www.youtube.com/watch?v=6f3RQN9jdBU)
+
 ### Windows
 
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM)
@@ -363,46 +409,11 @@
 + [Hostinger : hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
-
-
-+ [Immersion #1 - introduction](https://www.youtube.com/watch?v=tkId1al9Q04)
-+ [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Intérêt pour l'informatique](https://www.youtube.com/watch?v=DkTFQ4t6igA)
-+ [Java #1 - introduction](https://www.youtube.com/watch?v=_l4pJ7HCrl4)
-+ [Java #2 - premier programme](https://www.youtube.com/watch?v=cvpkw2ZN4Ps)
-+ [Java #3 - types de données](https://www.youtube.com/watch?v=7Buk7i_RGok)
-+ [Java #4 - variables et constantes](https://www.youtube.com/watch?v=ilJGviAXoTM)
-+ [Java #5 - opérateurs](https://www.youtube.com/watch?v=OgPU8mFAgro)
-+ [Java #6 - conditions](https://www.youtube.com/watch?v=0rANfWRfc_c)
-+ [Java #7 - boucles](https://www.youtube.com/watch?v=ws0JqA7bPN0)
-+ [Java #8 - construction d'une classe](https://www.youtube.com/watch?v=IZ8wKErw0_Y)
-+ [Java #9 - attributs](https://www.youtube.com/watch?v=48wGbUfFtfM)
-+ [Java #10 - méthodes](https://www.youtube.com/watch?v=FkB7N0w81Dk)
-+ [Java #11 - encapsulation données](https://www.youtube.com/watch?v=zM_Qf07fEyc)
-+ [Java #12 - tableaux](https://www.youtube.com/watch?v=VdvUYGs17Ek)
-+ [Java #13 - chaînes de caractères (1/2)](https://www.youtube.com/watch?v=wvQQ5263pvI)
-+ [Java #14 - chaînes de caractères (2/2)](https://www.youtube.com/watch?v=EphmNLfZ2hM)
-+ [Java #15 - paquets](https://www.youtube.com/watch?v=8xVLSfM5UhY)
-+ [Java #16 - lecture au clavier](https://www.youtube.com/watch?v=fa84_nrUrMw)
-+ [Java #17 - exceptions](https://www.youtube.com/watch?v=UEISfoJaOyk)
-+ [Java #18 - héritage](https://www.youtube.com/watch?v=8TSVW7SV0KA)
-+ [Java #19 - classes abstraites](https://www.youtube.com/watch?v=dd0_nYhtaKQ)
-+ [Java #20 - interfaces](https://www.youtube.com/watch?v=M0hkhOoOIHg)
-+ [Java #21 - polymorphisme](https://www.youtube.com/watch?v=CPxrEntMxsQ)
-+ [Java #22 - introduction collections](https://www.youtube.com/watch?v=ov3d4s5w_m0)
-+ [Java #23 - listes](https://www.youtube.com/watch?v=eXYLsxQvIF4)
-+ [Java #24 - files](https://www.youtube.com/watch?v=TLPqZ6QOeBo)
-+ [Java #25 - ensembles](https://www.youtube.com/watch?v=lBa9_JzgBEE)
-+ [Java #26 - cartes (clé-valeur)](https://www.youtube.com/watch?v=l1pXrZByaAM)
-+ [Java #27 - énumérations](https://www.youtube.com/watch?v=7cdTn1bvNJc)
-+ [Java #28 - fichiers](https://www.youtube.com/watch?v=RYsa_zEe4Xs)
-+ [Java #29 - généricité](https://www.youtube.com/watch?v=QWn_KHeUKfA)
-+ [Java #30 - dates et durées](https://www.youtube.com/watch?v=SifudCti3pQ)
-+ [Java #31 - threads](https://www.youtube.com/watch?v=gYkgvTYSHM8)
-+ [Java #32 - bases de données](https://www.youtube.com/watch?v=TN_xTjbrzzc)
-+ [Java #33 - communication réseau (1/2)](https://www.youtube.com/watch?v=L55HmnzRSj0)
-+ [Java #34 - communication réseau (2/2)](https://www.youtube.com/watch?v=0kHi1qO0vmQ)
-+ [Java #35 - conclusion](https://www.youtube.com/watch?v=6f3RQN9jdBU)
+
+---
+---
+
 + [JavaFX #1 - introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
 + [JavaFX #2 - architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
 + [JavaFX #3 - préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)

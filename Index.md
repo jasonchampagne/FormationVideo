@@ -215,6 +215,41 @@
 + [37. Fonctions](https://www.youtube.com/watch?v=Bye1ez_7K4E)
 + [38. Conclusion](https://www.youtube.com/watch?v=ddaUjHt7amc)
 
+### HTML/CSS
+
++ [1. Introduction](https://www.youtube.com/watch?v=u5W2NWItytc)
++ [2. Première page web](https://www.youtube.com/watch?v=Fi8fj_JY91o)
++ [3. Fonctionnement balises](https://www.youtube.com/watch?v=1sPjNkKGMsY)
++ [4. Formatage texte (1/2)](https://www.youtube.com/watch?v=w2knKi0ZQps)
++ [5. Formatage texte (2/2)](https://www.youtube.com/watch?v=HSWzav5yc6Y)
++ [6. Formatage technique](https://www.youtube.com/watch?v=ce2mpuSTz0E)
++ [7. Listes](https://www.youtube.com/watch?v=zKgNS-m572U)
++ [8. Tableaux](https://www.youtube.com/watch?v=yTp_qgvM1LU)
++ [9. Fomulaires (1/2)](https://www.youtube.com/watch?v=L6ld1B2Q98Y)
++ [10. Fomulaires (2/2)](https://www.youtube.com/watch?v=zmJ2rHL5UfM)
++ [11. Images](https://www.youtube.com/watch?v=VXZ5mP8jUWw)
++ [12. Sons et vidéos](https://www.youtube.com/watch?v=XSJj1uKF1RU)
++ [13. Structurer page web](https://www.youtube.com/watch?v=kvjz6GyiQsE)
++ [14. Introduction design](https://www.youtube.com/watch?v=l10hhz0VJj4)
++ [15. Styliser texte (1/2)](https://www.youtube.com/watch?v=n4H0nod_gHY)
++ [16. Styliser texte (2/2)](https://www.youtube.com/watch?v=K9UciHsxieI)
++ [17. Couleur et fond](https://www.youtube.com/watch?v=txiwOU0gUlw)
++ [18. Styliser liste](https://www.youtube.com/watch?v=yMFEqm_8D5k)
++ [19. Modèle de boîte](https://www.youtube.com/watch?v=ByUtms52CGc)
++ [20. Bordures et contours](https://www.youtube.com/watch?v=9GWjxAcGzVQ)
++ [21. Affichage et positionnement](https://www.youtube.com/watch?v=uT9hw2wpL9c)
++ [22. Modèle avancé de boîte](https://www.youtube.com/watch?v=E-AphbscmP8)
++ [23. Flexbox](https://www.youtube.com/watch?v=_RiiOPQ5CcU)
++ [24. Grid](https://www.youtube.com/watch?v=wItB9sia1rg)
++ [25. Media queries](https://www.youtube.com/watch?v=_p8abfdp_Co)
++ [26. Conclusion](https://www.youtube.com/watch?v=yQDqF9IxhIU)
+
+### WordPress
+
++ [1. Introduction](https://www.youtube.com/watch?v=0Z-_vxOuKdk)
++ [2. Création du site](https://www.youtube.com/watch?v=SVEy2lowH6o)
++ [3. Premier article](https://www.youtube.com/watch?v=sQ8z41KYxo8)
+
 ---
 
 ## 🔵 Tutoriels
@@ -290,41 +325,13 @@
 
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
-
-
-
-
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Hostinger : créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)
 + [Hostinger : hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
-+ [HTML/CSS #1 - introduction](https://www.youtube.com/watch?v=u5W2NWItytc)
-+ [HTML/CSS #2 - première page web](https://www.youtube.com/watch?v=Fi8fj_JY91o)
-+ [HTML/CSS #3 - fonctionnement balises](https://www.youtube.com/watch?v=1sPjNkKGMsY)
-+ [HTML/CSS #4 - formatage texte (1/2)](https://www.youtube.com/watch?v=w2knKi0ZQps)
-+ [HTML/CSS #5 - formatage texte (2/2)](https://www.youtube.com/watch?v=HSWzav5yc6Y)
-+ [HTML/CSS #6 - formatage technique](https://www.youtube.com/watch?v=ce2mpuSTz0E)
-+ [HTML/CSS #7 - listes](https://www.youtube.com/watch?v=zKgNS-m572U)
-+ [HTML/CSS #8 - tableaux](https://www.youtube.com/watch?v=yTp_qgvM1LU)
-+ [HTML/CSS #9 - fomulaires (1/2)](https://www.youtube.com/watch?v=L6ld1B2Q98Y)
-+ [HTML/CSS #10 - fomulaires (2/2)](https://www.youtube.com/watch?v=zmJ2rHL5UfM)
-+ [HTML/CSS #11 - images](https://www.youtube.com/watch?v=VXZ5mP8jUWw)
-+ [HTML/CSS #12 - sons et vidéos](https://www.youtube.com/watch?v=XSJj1uKF1RU)
-+ [HTML/CSS #13 - structurer page web](https://www.youtube.com/watch?v=kvjz6GyiQsE)
-+ [HTML/CSS #14 - introduction design](https://www.youtube.com/watch?v=l10hhz0VJj4)
-+ [HTML/CSS #15 - styliser texte (1/2)](https://www.youtube.com/watch?v=n4H0nod_gHY)
-+ [HTML/CSS #16 - styliser texte (2/2)](https://www.youtube.com/watch?v=K9UciHsxieI)
-+ [HTML/CSS #17 - couleur et fond](https://www.youtube.com/watch?v=txiwOU0gUlw)
-+ [HTML/CSS #18 - styliser liste](https://www.youtube.com/watch?v=yMFEqm_8D5k)
-+ [HTML/CSS #19 - modèle de boîte](https://www.youtube.com/watch?v=ByUtms52CGc)
-+ [HTML/CSS #20 - bordures et contours](https://www.youtube.com/watch?v=9GWjxAcGzVQ)
-+ [HTML/CSS #21 - affichage et positionnement](https://www.youtube.com/watch?v=uT9hw2wpL9c)
-+ [HTML/CSS #22 - modèle avancé de boîte](https://www.youtube.com/watch?v=E-AphbscmP8)
-+ [HTML/CSS #23 - flexbox](https://www.youtube.com/watch?v=_RiiOPQ5CcU)
-+ [HTML/CSS #24 - grid](https://www.youtube.com/watch?v=wItB9sia1rg)
-+ [HTML/CSS #25 - media queries](https://www.youtube.com/watch?v=_p8abfdp_Co)
-+ [HTML/CSS #26 - conclusion](https://www.youtube.com/watch?v=yQDqF9IxhIU)
+
+
 + [Immersion #1 - introduction](https://www.youtube.com/watch?v=tkId1al9Q04)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [Intérêt pour l'informatique](https://www.youtube.com/watch?v=DkTFQ4t6igA)
@@ -611,6 +618,3 @@
 + [Windows #28 - planification de tâches](https://www.youtube.com/watch?v=rHDkIAu3gqc)
 + [Windows #29 - observateur d'évènements](https://www.youtube.com/watch?v=5rOA9NK3FO0)
 + [Windows #30 - pare-feu](https://www.youtube.com/watch?v=wn6UQSbXpI8)
-+ [WordPress #1 - introduction](https://www.youtube.com/watch?v=0Z-_vxOuKdk)
-+ [WordPress #2 - création du site](https://www.youtube.com/watch?v=SVEy2lowH6o)
-+ [WordPress #3 - premier article](https://www.youtube.com/watch?v=sQ8z41KYxo8)

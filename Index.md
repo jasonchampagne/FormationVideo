@@ -146,7 +146,7 @@
 + [27. Listes](https://www.youtube.com/watch?v=IXK-6hTZy0g)
 + [28. Files](https://www.youtube.com/watch?v=Liv9TIVAK6A)
 + [29. Dictionnaires](https://www.youtube.com/watch?v=iMTuFvhkFpg)
-+ [C30. Itérateurs](https://www.youtube.com/watch?v=2jjL1H6nKPo)
++ [30. Itérateurs](https://www.youtube.com/watch?v=2jjL1H6nKPo)
 + [31. Programmation asynchrone](https://www.youtube.com/watch?v=SnhppD6T1aM)
 + [32. Bases de données](https://www.youtube.com/watch?v=wp7b5QSYQKw)
 

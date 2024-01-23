@@ -514,6 +514,35 @@
 
 ## 🔵 Tutoriels
 
+### C
+
++ [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8)
++ [Arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)
++ [Fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E)
++ [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk)
++ [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
++ [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
++ [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)
+
+### C#
+
++ [Projets et solutions](https://www.youtube.com/watch?v=HaDML4J3Wzg)
+
+### GNU/Linux
+
++ [Identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo)
++ [Installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ)
++ [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)
+
+### HTML/CSS
+
++ [Accessibilité web](https://www.youtube.com/watch?v=bLPONCBPDeQ)
++ [Attributs universels](https://www.youtube.com/watch?v=TZwvw5niU7Q)
++ [Balises obsolètes](https://www.youtube.com/watch?v=23Kcs7AW-18)
++ [Thème sombre](https://www.youtube.com/watch?v=UmnzAkE6DJQ)
++ [Valider page HTML](https://www.youtube.com/watch?v=qaSFdlICoOo)
++ [Variables](https://www.youtube.com/watch?v=XFYqxcChwO4)
+
 ### SQL
 
 + [Tutoriel SQL - relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)
@@ -599,23 +628,6 @@
 ---
 ---
 
-+ [Tutoriel C - afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8)
-+ [Tutoriel C - arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)
-+ [Tutoriel C - fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E)
-+ [Tutoriel C - généricité](https://www.youtube.com/watch?v=v19K2jHXsQk)
-+ [Tutoriel C - gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
-+ [Tutoriel C - lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
-+ [Tutoriel C - récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)
-+ [Tutoriel CSharp - projets et solutions](https://www.youtube.com/watch?v=HaDML4J3Wzg)
-+ [Tutoriel GNU/Linux - identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo)
-+ [Tutoriel GNU/Linux - installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ)
-+ [Tutoriel GNU/Linux - quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)
-+ [Tutoriel HTML/CSS - accessibilité web](https://www.youtube.com/watch?v=bLPONCBPDeQ)
-+ [Tutoriel HTML/CSS - attributs universels](https://www.youtube.com/watch?v=TZwvw5niU7Q)
-+ [Tutoriel HTML/CSS - balises obsolètes](https://www.youtube.com/watch?v=23Kcs7AW-18)
-+ [Tutoriel HTML/CSS - thème sombre](https://www.youtube.com/watch?v=UmnzAkE6DJQ)
-+ [Tutoriel HTML/CSS - valider page HTML](https://www.youtube.com/watch?v=qaSFdlICoOo)
-+ [Tutoriel HTML/CSS - variables](https://www.youtube.com/watch?v=XFYqxcChwO4)
 + [Tutoriel Java - annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
 + [Tutoriel Java - comparer et trier des objets](https://www.youtube.com/watch?v=rmwqHf2ZaeQ)
 + [Tutoriel Java - créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)

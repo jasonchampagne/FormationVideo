@@ -203,7 +203,11 @@
 + [GNU/Linux #37 - fonctions](https://www.youtube.com/watch?v=Bye1ez_7K4E)
 + [GNU/Linux #38 - conclusion](https://www.youtube.com/watch?v=ddaUjHt7amc)
 
+---
+
 ## Tutoriels
+
+---
 
 ## Exercices
 
@@ -234,22 +238,28 @@
 + [Exercice PHP #5 - abracadarray](https://www.youtube.com/watch?v=195dwnpoZYU)
 + [Exercice PHP #6 - une histoire de goûts](https://www.youtube.com/watch?v=SUi2dvr68qI)
 + [Exercice PHP #7 - netflex](https://www.youtube.com/watch?v=Wj8Fdyn61oM)
-+ [Exercice Python #1 - affichage simple](https://www.youtube.com/watch?v=HVN4qv6Dxdk)
-+ [Exercice Python #2 - variables (QCM)](https://www.youtube.com/watch?v=7o3y47LYFvE)
-+ [Exercice Python #3 - l'attaque des titans](https://www.youtube.com/watch?v=2VhWLJ_TQ0U)
-+ [Exercice Python #4 - terminal de commandes](https://www.youtube.com/watch?v=-3v4_AoCeKM)
-+ [Exercice Python #5 - damn geoshape !](https://www.youtube.com/watch?v=mJwjyE5HSEA)
-+ [Exercice Python #6 - jeu de l'étudiant](https://www.youtube.com/watch?v=mvWBlzDPcjQ)
-+ [Exercice Python #7 - famille bouftou](https://www.youtube.com/watch?v=gUXFoGzCzLE)
-+ [Exercice Python #8 - where is Bryan ?](https://www.youtube.com/watch?v=gmQp9F1oMIE)
-+ [Exercice Python #9 - tuple or not tuple](https://www.youtube.com/watch?v=FWTezV5QjNk)
-+ [Exercice Python #10 - quizz](https://www.youtube.com/watch?v=ulSPoAM7DCc)
-+ [Exercice Python #11 - prenez note](https://www.youtube.com/watch?v=W1gKlpXE2hs)
-+ [Exercice SQL #1 - pour Azeroth !](https://www.youtube.com/watch?v=qkxVqr4qpFw)
-+ [Exercice SQL #2 - espionnage virtuel](https://www.youtube.com/watch?v=tPydQHUFFic)
-+ [Exercice SQL #3 - le changement, c'est maintenant](https://www.youtube.com/watch?v=c_5HpHja4u0)
-+ [Exercice SQL #4 - travail terminé !](https://www.youtube.com/watch?v=cem3UGra0uU)
-+ [Exercice SQL #5 - ptdr c ki l'elfe ?](https://www.youtube.com/watch?v=gY4petb_SDM)
+
+### Python
+
++ [1. Affichage simple](https://www.youtube.com/watch?v=HVN4qv6Dxdk)
++ [2. Variables (QCM)](https://www.youtube.com/watch?v=7o3y47LYFvE)
++ [3. L'attaque des titans](https://www.youtube.com/watch?v=2VhWLJ_TQ0U)
++ [4. Terminal de commandes](https://www.youtube.com/watch?v=-3v4_AoCeKM)
++ [5. Damn geoshape !](https://www.youtube.com/watch?v=mJwjyE5HSEA)
++ [6. Jeu de l'étudiant](https://www.youtube.com/watch?v=mvWBlzDPcjQ)
++ [7. Famille bouftou](https://www.youtube.com/watch?v=gUXFoGzCzLE)
++ [8. Where is Bryan ?](https://www.youtube.com/watch?v=gmQp9F1oMIE)
++ [9. Tuple or not tuple](https://www.youtube.com/watch?v=FWTezV5QjNk)
++ [10. Quizz](https://www.youtube.com/watch?v=ulSPoAM7DCc)
++ [11. Prenez note](https://www.youtube.com/watch?v=W1gKlpXE2hs)
+
+### SQL
+
++ [1. Pour Azeroth !](https://www.youtube.com/watch?v=qkxVqr4qpFw)
++ [2. Espionnage virtuel](https://www.youtube.com/watch?v=tPydQHUFFic)
++ [3. Le changement, c'est maintenant](https://www.youtube.com/watch?v=c_5HpHja4u0)
++ [4. Travail terminé !](https://www.youtube.com/watch?v=cem3UGra0uU)
++ [5. Ptdr c ki l'elfe ?](https://www.youtube.com/watch?v=gY4petb_SDM)
 
 ## Les restes du monde...
 

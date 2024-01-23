@@ -543,9 +543,61 @@
 + [Valider page HTML](https://www.youtube.com/watch?v=qaSFdlICoOo)
 + [Variables](https://www.youtube.com/watch?v=XFYqxcChwO4)
 
+### Java
+
++ [Annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
++ [Comparer et trier des objets](https://www.youtube.com/watch?v=rmwqHf2ZaeQ)
++ [Créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)
++ [Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
+
+### PHP
+
++ [Auto-chargement de classes](https://www.youtube.com/watch?v=27f-oNDCz7E)
++ [Dates et temps](https://www.youtube.com/watch?v=DsxEDTF66TY)
++ [Énumérations](https://www.youtube.com/watch?v=_DqoawWIN8w)
++ [Envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY)
++ [Espaces de noms](https://www.youtube.com/watch?v=K1Q4ZkJUfEg)
++ [Inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI)
++ [Installer phpMyAdmin](https://www.youtube.com/watch?v=S0mR_Gl7Rg4)
++ [Introspection et réflexion (1/2)](https://www.youtube.com/watch?v=DWLynPX8yiM)
++ [Introspection et réflexion (2/2)](https://www.youtube.com/watch?v=ShCuryJFUPs)
++ [Mettre à jour l'interpréteur](https://www.youtube.com/watch?v=wPFqy_QvWjs)
++ [Système d'authentification](https://www.youtube.com/watch?v=u5HqEgBxtss)
+
+### Python
+
++ [Base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)
++ [Calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA)
++ [Classes abstraites](https://www.youtube.com/watch?v=zY4WnyEV_Ao)
++ [Créer un exécutable](https://www.youtube.com/watch?v=Jji2ik_AQOg)
++ [Décorateurs](https://www.youtube.com/watch?v=LiBsVCXAgXI)
++ [Différences 2.X et 3.X](https://www.youtube.com/watch?v=LU7FSqzVrdc)
++ [Distribuer un projet](https://www.youtube.com/watch?v=9Sy3AXavfJg)
++ [Environnements virtuels](https://www.youtube.com/watch?v=zW0yI3m7Ydg)
++ [Événements tkinter](https://www.youtube.com/watch?v=yZp6958SkVI)
++ [Formatage de texte](https://www.youtube.com/watch?v=4ApZ80RegNI)
++ [Installer des paquets](https://www.youtube.com/watch?v=MxvLhp9xJo4)
++ [Introspection](https://www.youtube.com/watch?v=JKrpRtHBZRk)
++ [Itérateurs](https://www.youtube.com/watch?v=H9FIOc-bIHU)
++ [Liste en compréhension](https://www.youtube.com/watch?v=Vf9Wwa1CGgk)
++ [Méthodes spéciales](https://www.youtube.com/watch?v=XxUasK8f-s0)
++ [Opérations systèmes](https://www.youtube.com/watch?v=Zx3J6lzfbOI)
++ [Portée des variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
++ [Tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)
+
 ### SQL
 
 + [Tutoriel SQL - relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)
+
+### Windows
+
++ [Afficher extension des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw)
++ [Installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A)
++ [Mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)
++ [Récupérer sa clé de licence](https://www.youtube.com/watch?v=wAqUPpgpN2M)
++ [Réduire latence sur les jeux](https://www.youtube.com/watch?v=TCTpKPolAH4)
++ [Registre](https://www.youtube.com/watch?v=DuwRCZiB8QE)
++ [Variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)
 
 ---
 
@@ -624,47 +676,3 @@
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
 + [Intérêt pour l'informatique](https://www.youtube.com/watch?v=DkTFQ4t6igA)
-
----
----
-
-+ [Tutoriel Java - annotations](https://www.youtube.com/watch?v=cno_XpZB8To)
-+ [Tutoriel Java - comparer et trier des objets](https://www.youtube.com/watch?v=rmwqHf2ZaeQ)
-+ [Tutoriel Java - créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY)
-+ [Tutoriel Java - Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
-+ [Tutoriel PHP - auto-chargement de classes](https://www.youtube.com/watch?v=27f-oNDCz7E)
-+ [Tutoriel PHP - dates et temps](https://www.youtube.com/watch?v=DsxEDTF66TY)
-+ [Tutoriel PHP - énumérations](https://www.youtube.com/watch?v=_DqoawWIN8w)
-+ [Tutoriel PHP - envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY)
-+ [Tutoriel PHP - espaces de noms](https://www.youtube.com/watch?v=K1Q4ZkJUfEg)
-+ [Tutoriel PHP - inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI)
-+ [Tutoriel PHP - installer phpMyAdmin](https://www.youtube.com/watch?v=S0mR_Gl7Rg4)
-+ [Tutoriel PHP - introspection et réflexion (1/2)](https://www.youtube.com/watch?v=DWLynPX8yiM)
-+ [Tutoriel PHP - introspection et réflexion (2/2)](https://www.youtube.com/watch?v=ShCuryJFUPs)
-+ [Tutoriel PHP - mettre à jour l'interpréteur](https://www.youtube.com/watch?v=wPFqy_QvWjs)
-+ [Tutoriel PHP - système d'authentification](https://www.youtube.com/watch?v=u5HqEgBxtss)
-+ [Tutoriel Python - base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)
-+ [Tutoriel Python - calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA)
-+ [Tutoriel Python - classes abstraites](https://www.youtube.com/watch?v=zY4WnyEV_Ao)
-+ [Tutoriel Python - créer un exécutable](https://www.youtube.com/watch?v=Jji2ik_AQOg)
-+ [Tutoriel Python - décorateurs](https://www.youtube.com/watch?v=LiBsVCXAgXI)
-+ [Tutoriel Python - différences 2.X et 3.X](https://www.youtube.com/watch?v=LU7FSqzVrdc)
-+ [Tutoriel Python - distribuer un projet](https://www.youtube.com/watch?v=9Sy3AXavfJg)
-+ [Tutoriel Python - environnements virtuels](https://www.youtube.com/watch?v=zW0yI3m7Ydg)
-+ [Tutoriel Python - événements tkinter](https://www.youtube.com/watch?v=yZp6958SkVI)
-+ [Tutoriel Python - formatage de texte](https://www.youtube.com/watch?v=4ApZ80RegNI)
-+ [Tutoriel Python - installer des paquets](https://www.youtube.com/watch?v=MxvLhp9xJo4)
-+ [Tutoriel Python - introspection](https://www.youtube.com/watch?v=JKrpRtHBZRk)
-+ [Tutoriel Python - itérateurs](https://www.youtube.com/watch?v=H9FIOc-bIHU)
-+ [Tutoriel Python - liste en compréhension](https://www.youtube.com/watch?v=Vf9Wwa1CGgk)
-+ [Tutoriel Python - méthodes spéciales](https://www.youtube.com/watch?v=XxUasK8f-s0)
-+ [Tutoriel Python - opérations systèmes](https://www.youtube.com/watch?v=Zx3J6lzfbOI)
-+ [Tutoriel Python - portée des variables](https://www.youtube.com/watch?v=50HJA4KpPqU)
-+ [Tutoriel Python - tests unitaires](https://www.youtube.com/watch?v=apgReCCAQr4)
-+ [Tutoriel Windows - afficher extension des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw)
-+ [Tutoriel Windows - installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A)
-+ [Tutoriel Windows - mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)
-+ [Tutoriel Windows - récupérer sa clé de licence](https://www.youtube.com/watch?v=wAqUPpgpN2M)
-+ [Tutoriel Windows - réduire latence sur les jeux](https://www.youtube.com/watch?v=TCTpKPolAH4)
-+ [Tutoriel Windows - registre](https://www.youtube.com/watch?v=DuwRCZiB8QE)
-+ [Tutoriel Windows - variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)

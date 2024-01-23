@@ -4,30 +4,45 @@
 
 ## Cours
 
-+ [Algorithmie - présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
+### Aide
+
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
-+ [Architecture - conversion de base numérique](https://www.youtube.com/watch?v=RdBNK43JK5c)
-+ [Architecture - format JSON](https://www.youtube.com/watch?v=UjV4XZotT_o)
-+ [Architecture - mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
-+ [Architecture - patron MVC](https://www.youtube.com/watch?v=NhFTswve-8o)
-+ [Architecture - patron MVVM](https://www.youtube.com/watch?v=UzGYdZSuL7Q)
-+ [Architecture - présentation](https://www.youtube.com/watch?v=x4yzYMZ5ZNo)
-+ [Architecture - principes SOLID](https://www.youtube.com/watch?v=N0-8jXHbG3Q)
-+ [Architecture - processeur](https://www.youtube.com/watch?v=2jFBKfXxeZw)
-+ [Architecture - registres](https://www.youtube.com/watch?v=met394KmyZ4)
-+ [Architecture - systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)
-+ [Assembleur #1 - introduction](https://www.youtube.com/watch?v=fvtd2Ut3MHw)
-+ [Assembleur #2 - dis bonjour !](https://www.youtube.com/watch?v=22UPjfgyRzI)
-+ [Assembleur #3 - structure d'un programme](https://www.youtube.com/watch?v=sS_1SyDqVV8)
-+ [Assembleur #4 - conventions d'appel](https://www.youtube.com/watch?v=ZpeMivhWuic)
-+ [Assembleur #5 - variables](https://www.youtube.com/watch?v=CIzKfH8Jtco)
-+ [Assembleur #6 - lecture au clavier](https://www.youtube.com/watch?v=Pq1kWf2lUpk)
-+ [Assembleur #7 - conditions](https://www.youtube.com/watch?v=KYMt8tA_fe0)
-+ [Assembleur #8 - boucles](https://www.youtube.com/watch?v=lBp9guUoA0A)
-+ [Assembleur #9 - opérations](https://www.youtube.com/watch?v=8E8vOQuFQzQ)
 + [Bibliothèque dynamique](https://www.youtube.com/watch?v=pKOJFZN_HUk)
 + [Bibliothèque statique](https://www.youtube.com/watch?v=osxzRLjHDNY)
 + [Bien coder](https://www.youtube.com/watch?v=bcY5gF5byrg)
+
+### Algorithmie
+
++ [Présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
+
+### Architecture
+
++ [Présentation](https://www.youtube.com/watch?v=x4yzYMZ5ZNo)
++ ---
++ [Conversion de base numérique](https://www.youtube.com/watch?v=RdBNK43JK5c)
++ [Format JSON](https://www.youtube.com/watch?v=UjV4XZotT_o)
++ [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
++ [Patron MVC](https://www.youtube.com/watch?v=NhFTswve-8o)
++ [Patron MVVM](https://www.youtube.com/watch?v=UzGYdZSuL7Q)
++ [Principes SOLID](https://www.youtube.com/watch?v=N0-8jXHbG3Q)
++ [Processeur](https://www.youtube.com/watch?v=2jFBKfXxeZw)
++ [Registres](https://www.youtube.com/watch?v=met394KmyZ4)
++ [Systèmes de numération](https://www.youtube.com/watch?v=GEW_PYZEdNU)
+
+### Assembleur
+
++ [1. Introduction](https://www.youtube.com/watch?v=fvtd2Ut3MHw)
++ [2. Dis bonjour !](https://www.youtube.com/watch?v=22UPjfgyRzI)
++ [3. Structure d'un programme](https://www.youtube.com/watch?v=sS_1SyDqVV8)
++ [4. Conventions d'appel](https://www.youtube.com/watch?v=ZpeMivhWuic)
++ [5. Variables](https://www.youtube.com/watch?v=CIzKfH8Jtco)
++ [6. Lecture au clavier](https://www.youtube.com/watch?v=Pq1kWf2lUpk)
++ [7. Conditions](https://www.youtube.com/watch?v=KYMt8tA_fe0)
++ [8. Boucles](https://www.youtube.com/watch?v=lBp9guUoA0A)
++ [9. Opérations](https://www.youtube.com/watch?v=8E8vOQuFQzQ)
+
+### C
+
 + [C #1 - introduction](https://www.youtube.com/watch?v=90hGCMC3Chc)
 + [C #2 - compiler programme](https://www.youtube.com/watch?v=6E-zrVV2tSg)
 + [C #3 - variables](https://www.youtube.com/watch?v=kKeGTDyvi1o)

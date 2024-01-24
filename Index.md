@@ -575,6 +575,7 @@
 + [Décorateurs](https://www.youtube.com/watch?v=LiBsVCXAgXI)
 + [Différences 2.X et 3.X](https://www.youtube.com/watch?v=LU7FSqzVrdc)
 + [Distribuer un projet](https://www.youtube.com/watch?v=9Sy3AXavfJg)
++ [Énumérations](https://www.youtube.com/watch?v=HJI5ETooMso)
 + [Environnements virtuels](https://www.youtube.com/watch?v=zW0yI3m7Ydg)
 + [Événements tkinter](https://www.youtube.com/watch?v=yZp6958SkVI)
 + [Formatage de texte](https://www.youtube.com/watch?v=4ApZ80RegNI)

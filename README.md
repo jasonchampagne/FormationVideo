@@ -8,7 +8,7 @@
 La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invite à aborder plusieurs domaines techniques et artistiques. Des sujets qui me passionnent et que je tiens à vous partager. L'ensemble des contenus est réparti sur 3 catégories (sauf quelques exceptions) sous forme de **playlists** sur la plateforme de Google :
 
 + Une playlist de **cours** est progressive et permet d'aborder des notions essentielles, en partant de la base jusqu'aux concepts avancés.
-+ Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (_si vous n'en avez jamais assez_ 😉).
++ Une playlist de **tutoriels** vient en annexe du cours pour apporter des cas spéficiques, un complément d'informations (_si vous n'en avez jamais assez_).
 + Une playlist d'**exercices** suit la progression du cours et est conçue pour tester vos connaissances et mettre en pratique ce que vous avez appris.
 
 Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre apprentissage. Enfin, un répertoire des **Projets** autonomes proposés à la communauté et ceux organisés de manière interactive en direct sur [Twitch](https://www.twitch.tv/jachampagne).

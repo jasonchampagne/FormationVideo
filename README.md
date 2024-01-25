@@ -93,6 +93,8 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ## Idées de contenus à venir
 
++ Voir la [feuille de route](https://jasonchampagne.fr/annonces) (mise à jour régulièrement) 😉
+
 Ici, une liste (non complète et non définitive) des contenus que j'aimerais aborder sur la chaîne :
 
 |TYPE|CONTENUS|

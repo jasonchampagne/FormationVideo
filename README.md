@@ -91,7 +91,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ---
 
-## Idées de contenus à venir
+## Contenus à venir
 
 + Voir la [feuille de route](https://jasonchampagne.fr/annonces) (mise à jour régulièrement) 😉
 

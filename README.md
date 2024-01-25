@@ -9,7 +9,7 @@ La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invit
 
 + Une playlist de **cours**, progressive, permet d'aborder des notions essentielles, de la base jusqu'aux concepts avancés.
 + Une playlist de **tutoriels** vient en annexe du cours pour présenter des concepts supplémentaires.
-+ Une playlist d'**exercices** suit la progression du cours, pour tester vos connaissances et mettre en pratique ce que vous avez appris.
++ Une playlist d'**exercices** suit la progression du cours, pour mettre en pratique ce que vous avez appris.
 
 Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre apprentissage. Enfin, un répertoire des **Projets** autonomes proposés à la communauté et ceux organisés de manière interactive en direct sur [Twitch](https://www.twitch.tv/jachampagne).
 

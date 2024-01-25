@@ -94,5 +94,3 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ## Contenus à venir
 
 + Voir la [feuille de route](https://jasonchampagne.fr/annonces) (mise à jour régulièrement) 😉
-
-Bon apprentissage et bon courage ! 👍

@@ -99,14 +99,11 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 
 |TYPE|CONTENUS|
 |:--|:--|
-|Applications|3D : Blender<br>Bureautique : LibreOffice, Microsoft Office<br>Développement : Visual Studio, Netbeans, Eclipse<br>Infographie : Krita, Photoshop, GIMP, Inkscape<br>Jeu-vidéo : CryENGINE, Unreal Engine, Godot Engine, Unity, Ren'Py<br>Musique : Audacity, REAPER, LMMS<br>Vidéo : DaVinci Resolve<br>Autres : Docker, OBS Studio, Podman, Wireshark|
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
 |CMS|Joomla, PHPBoost, PrestaShop|
 |Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
-|Langages|Dart, Go, LaTeX, Lua, Ruby, Rust, XML|
+|Langages|Dart, Go, LaTeX, XML|
 |Langues|français, anglais, japonais, chinois, coréen|
-|Plateformes|Nginx, NodeJS, Twitch, YouTube|
-|Systèmes|Android, BSD, MacOS, iOS|
-|Techniques|Analyse : UML<br>Infographie : 3D, calligraphie, dessin, photographie et montage/retouche, pixel-art<br>Jeu vidéo : _character design_, _game design_, _level design_, ...<br>Son : mixage, masterisation<br>Vidéo : montage, effets spéciaux<br>Écriture<br>Chant|
+|Plateformes|Nginx, NodeJS|
 
 Bon apprentissage et bon courage ! 👍

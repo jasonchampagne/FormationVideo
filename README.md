@@ -101,6 +101,6 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 |:--|:--|
 |Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
 |CMS|Joomla, PHPBoost, PrestaShop|
-|Frameworks|Angular, Boostrap, CodeIgniter, Electron, Flutter, Laravel, Metasploit, Ruby on Rails, Symfony, Vue|
+|Frameworks|CodeIgniter, Metasploit, Ruby on Rails, Symfony|
 
 Bon apprentissage et bon courage ! 👍

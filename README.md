@@ -99,7 +99,6 @@ Ici, une liste (non complète et non définitive) des contenus que j'aimerais ab
 
 |TYPE|CONTENUS|
 |:--|:--|
-|Bibliothèques|DirectX, GTK+, Kivy, LÖVE, OpenGL, Qt, React, SFML, Vulkan, wxWidgets|
 |CMS|Joomla, PHPBoost, PrestaShop|
 |Frameworks|CodeIgniter, Metasploit, Ruby on Rails, Symfony|
 

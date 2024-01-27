@@ -9,7 +9,7 @@
 > + [Opérateurs](#opérateurs)
 > + [Conditions](#conditions)
 > + [Boucles](#boucles)
-> + [Procédures et fonctions](#procédures-et-fonctions)
+> + [Fonctions](#fonctions)
 > + [Structures](#structures)
 > + [Classes](#classes)
 
@@ -178,20 +178,20 @@ POUR CHAQUE lettre DE nom_chaine FAIRE
 FIN POUR CHAQUE
 ```
 
-## Procédures et fonctions
+## Fonctions
 
 ```
 //---------------------------------------------------
 // Quand elle ne renvoie pas de résultat (procédure)
 //---------------------------------------------------
-PROCEDURE afficher_message(STR message)
+FONCTION afficher_message(CHAINE message)
     afficher(message)
-FIN PROCEDURE
+FIN FONCTION
 
 //-------------------------------------------
-// Quand elle renvoie un résultat (fonction)
+// Quand elle renvoie un résultat
 //-------------------------------------------
-FONCTION somme_entiers(INT a, INT b) -> INT
+FONCTION somme_entiers(ENTIER a, ENTIER b) -> ENTIER
     retourner a + b
 FIN FONCTION
 ```

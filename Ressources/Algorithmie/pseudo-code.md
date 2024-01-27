@@ -230,21 +230,21 @@ afficher("Il est au niveau {j.niveau}")
 // Définition d'une classe
 //-------------------------
 CLASSE Position2D
-    METHODES
-        CONSTRUCTEUR Position2D(ENTIER x, ENTIER y)
-            Position2D.x = x
-            Position2D.y = y
-        FIN CONSTRUCTEUR
+    FONCTION Position2D(ENTIER x, ENTIER y) // Constructeur
+        _x = x
+        _y = y
+    FIN FONCTION
 
-        FONCTION x() -> ENTIER
-            RETOURNER Position2D.x
-        FIN FONCTION
-    FIN METHODES
+    FONCTION x() -> ENTIER
+        RETOURNER Position2D.x
+    FIN FONCTION
 
-    ATTRIBUTS
-        ENTIER x
-        ENTIER y
-    FIN ATTRIBUTS
+    // Attributs d'instance (préfixés par un tiret du bas)
+    ENTIER _x
+    ENTIER _y
+
+    // Attribut(s) de classe
+    STR nom_classe := "Position2D"
 FIN CLASSE
 
 //----------------------------

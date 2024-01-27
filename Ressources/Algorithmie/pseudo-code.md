@@ -249,7 +249,7 @@ CLASSE Position2D
     ENTIER _y
 
     // Attribut(s) de classe
-    STR nom_classe := "Position2D"
+    CHAINE nom_classe := "Position2D"
 FIN CLASSE
 
 // Usage avec instance

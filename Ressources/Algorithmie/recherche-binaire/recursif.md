@@ -30,6 +30,41 @@ int binarySearch(int collection[], int begin_index, int end_index, int value)
 
 ## C++
 
+```cpp
+class value_not_found : public std::exception
+{
+    public:
+        const char* what() const noexcept override
+        {
+            return "La valeur n'a pas ete trouvee.";
+        }
+};
+
+template <typename T, std::size_t ARRAY_SIZE>
+int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, const T& value, int begin_index, int end_index)
+{
+    if(begin_index <= end_index)
+    {
+        int middle_index{(begin_index + end_index) / 2};
+
+        if(collection[middle_index] == value)
+            return middle_index;
+        else if(collection[middle_index] < value)
+            return binarySearchRecursive(collection, value, middle_index + 1, end_index);
+        else
+            return binarySearchRecursive(collection, value, begin_index, middle_index - 1);
+    }
+
+    throw value_not_found();
+}
+
+template <typename T, std::size_t ARRAY_SIZE>
+int binarySearch(const std::array<int, ARRAY_SIZE>& collection, const T& value)
+{
+    return binarySearchRecursive(collection, value, 0, ARRAY_SIZE - 1);
+}
+```
+
 ## C#
 
 ## Dart

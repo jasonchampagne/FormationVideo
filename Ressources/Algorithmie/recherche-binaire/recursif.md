@@ -85,10 +85,6 @@ public class BinarySearch
 }
 ```
 
-## Dart
-
-## Go
-
 ## Java
 
 ```java
@@ -117,8 +113,6 @@ public class BinarySearch
 ```
 
 ## JavaScript
-
-## Lua
 
 ## PHP
 
@@ -155,7 +149,3 @@ def binary_search(collection : list, value : int):
     else:
         return binary_search(collection[:middle_index], value)
 ```
-
-## Ruby
-
-## Rust

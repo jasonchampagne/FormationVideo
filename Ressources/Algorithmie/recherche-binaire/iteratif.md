@@ -16,19 +16,19 @@ Les conditions d'usage de cet algorithme :
 
 int binarySearch(int collection[], int value)
 {
-    int begin_index = 0;
-    int end_index = ARRAY_SIZE - 1;
+    int beginIndex = 0;
+    int endIndex = ARRAY_SIZE - 1;
 
-    while(begin_index <= end_index)
+    while(beginIndex <= endIndex)
     {
-        int middle_index = (begin_index + end_index) / 2;
+        int middleIndex = (beginIndex + endIndex) / 2;
 
-        if(collection[middle_index] == value)
-            return middle_index;
-        else if(collection[middle_index] < value)
-            begin_index = middle_index + 1;
+        if(collection[middleIndex] == value)
+            return middleIndex;
+        else if(collection[middleIndex] < value)
+            beginIndex = middleIndex + 1;
         else
-            end_index = middle_index - 1;
+            endIndex = middleIndex - 1;
     }
 
     return -1;
@@ -50,19 +50,19 @@ class value_not_found : public std::exception
 template <typename T, std::size_t ARRAY_SIZE>
 int binarySearch(const std::array<int, ARRAY_SIZE>& collection, const T& value)
 {
-    int begin_index{0};
-    int end_index{ARRAY_SIZE - 1};
+    int beginIndex{0};
+    int endIndex{ARRAY_SIZE - 1};
 
-    while(begin_index <= end_index)
+    while(beginIndex <= endIndex)
     {
-        int middle_index{(begin_index + end_index) / 2};
+        int middleIndex{(beginIndex + endIndex) / 2};
 
-        if(collection[middle_index] == value)
-            return middle_index;
-        else if(collection[middle_index] < value)
-            begin_index = middle_index + 1;
+        if(collection[middleIndex] == value)
+            return middleIndex;
+        else if(collection[middleIndex] < value)
+            beginIndex = middleIndex + 1;
         else
-            end_index = middle_index - 1;
+            endIndex = middleIndex - 1;
     }
 
     throw value_not_found();

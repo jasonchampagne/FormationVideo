@@ -3,7 +3,7 @@
 ## C
 
 ```c
-int binarySearchRecursive(int collection[], int begin_index, int end_index, int value)
+int binarySearch(int collection[], int begin_index, int end_index, int value)
 {
     if(begin_index > end_index)
         return -1;

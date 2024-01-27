@@ -15,6 +15,8 @@ Les conditions d'usage de cet algorithme :
 > + [PHP](#php)
 > + [Python](#python)
 
+---
+
 ## C
 
 ### Version itérative
@@ -29,7 +31,11 @@ ddd
 ddd
 ```
 
+---
+
 ## C++
+
+### Version itérative
 
 ```cpp
 ddd
@@ -40,9 +46,13 @@ ddd
 ```cpp
 ddd
 ```
+
+---
 
 ## C#
 
+### Version itérative
+
 ```csharp
 ddd
 ```
@@ -52,9 +62,13 @@ ddd
 ```csharp
 ddd
 ```
+
+---
 
 ## Java
 
+### Version itérative
+
 ```java
 ddd
 ```
@@ -64,9 +78,13 @@ ddd
 ```java
 ddd
 ```
+
+---
 
 ## JavaScript
 
+### Version itérative
+
 ```js
 ddd
 ```
@@ -76,9 +94,13 @@ ddd
 ```js
 ddd
 ```
+
+---
 
 ## PHP
 
+### Version itérative
+
 ```php
 ddd
 ```
@@ -89,7 +111,11 @@ ddd
 ddd
 ```
 
+---
+
 ## Python
+
+### Version itérative
 
 ```python
 ddd

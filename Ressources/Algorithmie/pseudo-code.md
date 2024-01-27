@@ -76,6 +76,7 @@ CHAINE nom := "Alicia"
 afficher("Bonjour {nom}, comment allez-vous ?")
 
 ENTIER age := lire("Quel âge avez-vous ? ")
+afficher("Vous avez {age} ans.")
 ```
 
 ## Opérateurs

@@ -11,6 +11,30 @@ Les conditions d'usage de cet algorithme :
 
 ## C
 
+```c
+#define ARRAY_SIZE 10
+
+int binarySearch(int collection[], int value)
+{
+    int begin_index = 0;
+    int end_index = ARRAY_SIZE - 1;
+
+    while(begin_index <= end_index)
+    {
+        int middle_index = (begin_index + end_index) / 2;
+
+        if(collection[middle_index] == value)
+            return middle_index;
+        else if(collection[middle_index] < value)
+            begin_index = middle_index + 1;
+        else
+            end_index = middle_index - 1;
+    }
+
+    return -1;
+}
+```
+
 ## C++
 
 ## C#

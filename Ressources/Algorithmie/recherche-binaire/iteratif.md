@@ -96,10 +96,6 @@ public class BinarySearch
 }
 ```
 
-## Dart
-
-## Go
-
 ## Java
 
 ```java
@@ -128,8 +124,6 @@ public class BinarySearch
 ```
 
 ## JavaScript
-
-## Lua
 
 ## PHP
 
@@ -173,30 +167,4 @@ def binary_search(collection : list, value : int):
             end_index = middle_index - 1
 
     raise ValueError("La valeur n'a pas ete trouvée.")
-```
-
-## Ruby
-
-## Rust
-
-```rust
-fn binary_search<T: Ord>(collection: &[T], value: &T) -> Option<usize>
-{
-    let mut begin_index = 0;
-    let mut end_index = collection.len() - 1;
-
-    while begin_index <= end_index
-    {
-        let middle_index = (begin_index + end_index) / 2;
-
-        match value.cmp(&collection[middle_index])
-        {
-            std::cmp::Ordering::Equal => return Some(middle_index),
-            std::cmp::Ordering::Greater => begin_index = middle_index + 1,
-            std::cmp::Ordering::Less => end_index = middle_index - 1,
-        }
-    }
-
-    None
-}
 ```

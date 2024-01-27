@@ -108,7 +108,7 @@ ENTIER age := lire("Quel âge avez-vous ? ")
 |`PAS`|NÉGATION|`PAS gratuit`|
 |`ET`|ET|`est_gratuit ET est_disponible`|
 |`OU`|OU|`a == 1 OU a == -1`|
-|`OUEX`|OU exclusif|`vrai OUEX vrai`|
+|`OUX`|OU exclusif|`vrai OUEX vrai`|
 
 ## Conditions
 

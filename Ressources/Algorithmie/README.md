@@ -7,4 +7,4 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |pseudo-code|Notation du pseudo-code choisie pour le cours|
-|recherche-binaire|Exemples d'implémentation de la recherche binaire (ou dichotomique)|
+|recherche-binaire|Exemples d'implémentation de la recherche binaire (dichotomique)|

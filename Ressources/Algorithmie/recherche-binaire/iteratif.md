@@ -71,6 +71,31 @@ int binarySearch(const std::array<int, ARRAY_SIZE>& collection, const T& value)
 
 ## C#
 
+```csharp
+public class BinarySearch
+{
+    public static int Search<T>(T[] collection, T value) where T : IComparable<T>
+    {
+        int startIndex = 0;
+        int endIndex = collection.Length - 1;
+
+        while(startIndex <= endIndex)
+        {
+            int middleIndex = (startIndex + endIndex) / 2;
+
+            if(collection[middleIndex].Equals(value))
+                return middleIndex;
+            else if(collection[middleIndex].CompareTo(value) < 0)
+                startIndex = middleIndex + 1;
+            else
+                endIndex = middleIndex - 1;
+        }
+
+        throw new Exception("La valeur n'a pas ete trouvee.");
+    }
+}
+```
+
 ## Dart
 
 ## Go

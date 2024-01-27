@@ -114,6 +114,31 @@ public class BinarySearch
 
 ## JavaScript
 
+```js
+class BinarySearch
+{
+    static search(collection, value)
+    {
+        return this.searchRecursive(collection, 0, collection.length - 1, value);
+    }
+
+    static searchRecursive(collection, beginIndex, endIndex, value)
+    {
+        if(beginIndex > endIndex)
+            throw new Error("La valeur n'a pas été trouvée.");
+
+        const middleIindex = Math.floor((beginIndex + endIndex) / 2);
+
+        if(collection[middleIindex] === value)
+            return middleIindex;
+        else if(collection[middleIindex] < value)
+            return this.searchRecursive(collection, middleIindex + 1, endIndex, value);
+        else
+            return this.searchRecursive(collection, beginIndex, middleIindex - 1, value);
+    }
+}
+```
+
 ## PHP
 
 ```php

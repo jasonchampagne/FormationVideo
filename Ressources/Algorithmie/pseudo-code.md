@@ -1,5 +1,8 @@
 # Pseudo-code
 
+> [!NOTE]
+> Cette page peut être sujette à des modifications ultérieures !
+
 > **SOMMAIRE**
 > + [Commentaires](#commentaires)
 > + [Caractères d'échappement](#caractères-déchappement)

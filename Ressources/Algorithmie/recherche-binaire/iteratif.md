@@ -3,7 +3,7 @@
 Les conditions d'usage de cet algorithme :
 
 + La collection est triée
-+ La collection indexable (tableau, liste chaînée, ...)
++ La collection est indexable (tableau, liste chaînée, ...)
 + Les éléments sont comparables entre eux
 + La taille de la collection est fixe (de préférence)
 

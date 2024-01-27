@@ -236,7 +236,7 @@ CLASSE Position2D
     FIN FONCTION
 
     FONCTION x() -> ENTIER
-        RETOURNER Position2D.x
+        RETOURNER _x
     FIN FONCTION
 
     // Attributs d'instance (préfixés par un tiret du bas)

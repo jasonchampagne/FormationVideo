@@ -160,7 +160,7 @@ TANT QUE i < 10 FAIRE
 FIN TANT QUE
 
 //--------------------------------------------------------------------------------
-// Boucle avec initialisation (auto-incrémentation par défaut de 1)
+// Boucle avec initialisation (par défaut : compteur incrémenté de 1)
 //--------------------------------------------------------------------------------
 ENTIER i
 

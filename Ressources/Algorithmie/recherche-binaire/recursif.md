@@ -91,6 +91,31 @@ public class BinarySearch
 
 ## Java
 
+```java
+public class BinarySearch
+{
+    public static <T extends Comparable<T>> int binarySearch(List<T> collection, T value)
+    {
+        return binarySearchRecursive(collection, 0, collection.size() - 1, value);
+    }
+
+    private static <T extends Comparable<T>> int binarySearchRecursive(List<T> collection, int beginIndex, int endIndex, T value)
+    {
+        if(beginIndex > endIndex)
+            throw new IllegalArgumentException("La valeur n'a pas été trouvée.");
+
+        int middleIndex = beginIndex + (endIndex - beginIndex) / 2;
+
+        if(collection.get(middleIndex).equals(value))
+            return middleIndex;
+        else if(collection.get(middleIndex).compareTo(value) < 0)
+            return binarySearchRecursive(collection, middleIndex + 1, endIndex, value);
+        else
+            return binarySearchRecursive(collection, beginIndex, middleIndex - 1, value);
+    }
+}
+```
+
 ## JavaScript
 
 ## Lua

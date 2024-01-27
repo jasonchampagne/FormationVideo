@@ -12,19 +12,19 @@ Les conditions d'usage de cet algorithme :
 ## C
 
 ```c
-int binarySearch(int collection[], int begin_index, int end_index, int value)
+int binarySearch(int collection[], int beginIndex, int endIndex, int value)
 {
-    if(begin_index > end_index)
+    if(beginIndex > endIndex)
         return -1;
 
-    int middle_index = (begin_index + end_index) / 2;
+    int middle_index = (beginIndex + endIndex) / 2;
 
     if(collection[middle_index] == value)
         return middle_index;
     else if(collection[middle_index] < value)
-        return binarySearchRecursive(collection, middle_index + 1, end_index, value);
+        return binarySearchRecursive(collection, middle_index + 1, endIndex, value);
     else
-        return binarySearchRecursive(collection, begin_index, middle_index - 1, value);
+        return binarySearchRecursive(collection, beginIndex, middle_index - 1, value);
 }
 ```
 
@@ -41,19 +41,19 @@ class value_not_found : public std::exception
 };
 
 template <typename T, std::size_t ARRAY_SIZE>
-int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, const T& value, int begin_index, int end_index)
+int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, int beginIndex, int endIndex, const T& value)
 {
-    if(begin_index > end_index)
+    if(beginIndex > endIndex)
         throw value_not_found();
 
-    int middle_index{(begin_index + end_index) / 2};
+    int middleIndex{(beginIndex + endIndex) / 2};
 
-    if(collection[middle_index] == value)
-        return middle_index;
-    else if(collection[middle_index] < value)
-        return binarySearchRecursive(collection, value, middle_index + 1, end_index);
+    if(collection[middleIndex] == value)
+        return middleIndex;
+    else if(collection[middleIndex] < value)
+        return binarySearchRecursive(collection, value, middleIndex + 1, endIndex);
     else
-        return binarySearchRecursive(collection, value, begin_index, middle_index - 1);
+        return binarySearchRecursive(collection, value, beginIndex, middleIndex - 1);
 }
 
 template <typename T, std::size_t ARRAY_SIZE>

@@ -240,6 +240,10 @@ CLASSE Position2D
         RETOURNER _x
     FIN FONCTION
 
+    FONCTION STATIQUE test()
+        afficher("Test !")
+    FIN FONCTION STATIQUE
+
     // Attributs d'instance (préfixés par un tiret du bas)
     ENTIER _x
     ENTIER _y
@@ -248,9 +252,10 @@ CLASSE Position2D
     STR nom_classe := "Position2D"
 FIN CLASSE
 
-//----------------------------
-// Instanciation d'une classe
-//----------------------------
+// Usage avec instance
 Position2D pos := Position2D(145, 23)
 afficher("Position en X : {pos.x()}")
+
+// Usage statique
+Position2D.test()
 ```

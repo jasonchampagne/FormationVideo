@@ -188,12 +188,19 @@ FONCTION afficher_message(CHAINE message)
     afficher(message)
 FIN FONCTION
 
-//-------------------------------------------
+//---------------------------------
 // Quand elle renvoie un résultat
-//-------------------------------------------
+//---------------------------------
 FONCTION somme_entiers(ENTIER a, ENTIER b) -> ENTIER
     retourner a + b
 FIN FONCTION
+
+//-------------------------
+// Quand elle est statique
+//-------------------------
+FONCTION STATIQUE nom()
+    // code...
+FIN FONCTION STATIQUE
 ```
 
 ## Structures

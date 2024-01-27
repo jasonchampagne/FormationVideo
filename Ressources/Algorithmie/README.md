@@ -6,4 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|caracteristiques|Caractéristiques des algorithmes (complexité, stabilité, ...)|
 |pseudo-code|Notation du pseudo-code choisie pour le cours|

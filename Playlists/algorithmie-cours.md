@@ -7,3 +7,7 @@
 **🌐 indicates that the video is subtitled in English**
 
 + [Présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
+
+---
+
++ [Recherche binaire](https://www.youtube.com/watch?v=gsaQRO0cU7Q)

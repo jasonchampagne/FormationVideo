@@ -41,12 +41,6 @@ class value_not_found : public std::exception
 };
 
 template <typename T, std::size_t ARRAY_SIZE>
-int binarySearch(const std::array<int, ARRAY_SIZE>& collection, const T& value)
-{
-    return binarySearchRecursive(collection, value, 0, ARRAY_SIZE - 1);
-}
-
-template <typename T, std::size_t ARRAY_SIZE>
 int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, int beginIndex, int endIndex, const T& value)
 {
     if(beginIndex > endIndex)
@@ -60,6 +54,12 @@ int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, int beg
         return binarySearchRecursive(collection, value, middleIndex + 1, endIndex);
     else
         return binarySearchRecursive(collection, value, beginIndex, middleIndex - 1);
+}
+
+template <typename T, std::size_t ARRAY_SIZE>
+int binarySearch(const std::array<int, ARRAY_SIZE>& collection, const T& value)
+{
+    return binarySearchRecursive(collection, value, 0, ARRAY_SIZE - 1);
 }
 ```
 

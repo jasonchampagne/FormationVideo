@@ -17,14 +17,86 @@ Les conditions d'usage de cet algorithme :
 
 ## C
 
+### Version itérative
+
+```c
+ddd
+```
+
+### Version récursive
+
+```c
+ddd
+```
+
 ## C++
+
+```cpp
+ddd
+```
+
+### Version récursive
+
+```cpp
+ddd
+```
 
 ## C#
 
+```csharp
+ddd
+```
+
+### Version récursive
+
+```csharp
+ddd
+```
+
 ## Java
+
+```java
+ddd
+```
+
+### Version récursive
+
+```java
+ddd
+```
 
 ## JavaScript
 
+```js
+ddd
+```
+
+### Version récursive
+
+```js
+ddd
+```
+
 ## PHP
 
+```php
+ddd
+```
+
+### Version récursive
+
+```php
+ddd
+```
+
 ## Python
+
+```python
+ddd
+```
+
+### Version récursive
+
+```python
+ddd
+```

@@ -43,19 +43,17 @@ class value_not_found : public std::exception
 template <typename T, std::size_t ARRAY_SIZE>
 int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, const T& value, int begin_index, int end_index)
 {
-    if(begin_index <= end_index)
-    {
-        int middle_index{(begin_index + end_index) / 2};
+    if(begin_index > end_index)
+        throw value_not_found();
 
-        if(collection[middle_index] == value)
-            return middle_index;
-        else if(collection[middle_index] < value)
-            return binarySearchRecursive(collection, value, middle_index + 1, end_index);
-        else
-            return binarySearchRecursive(collection, value, begin_index, middle_index - 1);
-    }
+    int middle_index{(begin_index + end_index) / 2};
 
-    throw value_not_found();
+    if(collection[middle_index] == value)
+        return middle_index;
+    else if(collection[middle_index] < value)
+        return binarySearchRecursive(collection, value, middle_index + 1, end_index);
+    else
+        return binarySearchRecursive(collection, value, begin_index, middle_index - 1);
 }
 
 template <typename T, std::size_t ARRAY_SIZE>

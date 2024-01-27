@@ -101,7 +101,7 @@ public class BinarySearch
 ```java
 public class BinarySearch
 {
-    public static <T extends Comparable<T>> int binarySearch(List<T> collection, T value)
+    public static <T extends Comparable<T>> int search(List<T> collection, T value)
     {
         int beginIndex = 0;
         int endIndex = collection.size() - 1;

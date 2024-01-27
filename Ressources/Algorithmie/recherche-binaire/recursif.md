@@ -90,12 +90,12 @@ public class BinarySearch
 ```java
 public class BinarySearch
 {
-    public static <T extends Comparable<T>> int binarySearch(List<T> collection, T value)
+    public static <T extends Comparable<T>> int search(List<T> collection, T value)
     {
-        return binarySearchRecursive(collection, 0, collection.size() - 1, value);
+        return searchRecursive(collection, 0, collection.size() - 1, value);
     }
 
-    private static <T extends Comparable<T>> int binarySearchRecursive(List<T> collection, int beginIndex, int endIndex, T value)
+    private static <T extends Comparable<T>> int searchRecursive(List<T> collection, int beginIndex, int endIndex, T value)
     {
         if(beginIndex > endIndex)
             throw new IllegalArgumentException("La valeur n'a pas été trouvée.");
@@ -105,9 +105,9 @@ public class BinarySearch
         if(collection.get(middleIndex).equals(value))
             return middleIndex;
         else if(collection.get(middleIndex).compareTo(value) < 0)
-            return binarySearchRecursive(collection, middleIndex + 1, endIndex, value);
+            return searchRecursive(collection, middleIndex + 1, endIndex, value);
         else
-            return binarySearchRecursive(collection, beginIndex, middleIndex - 1, value);
+            return searchRecursive(collection, beginIndex, middleIndex - 1, value);
     }
 }
 ```

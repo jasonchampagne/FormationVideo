@@ -132,6 +132,24 @@ function binarySearch(array $collection, int $value): int
 
 ## Python
 
+```python
+def binary_search(collection : list, value : int):
+    begin_index = 0
+    end_index = len(collection) - 1
+
+    while begin_index <= end_index:
+        middle_index = (begin_index + end_index) // 2
+
+        if collection[middle_index] == value:
+            return middle_index
+        elif collection[middle_index] < value:
+            begin_index = middle_index + 1
+        else:
+            end_index = middle_index - 1
+
+    raise ValueError("La valeur n'a pas ete trouvée.")
+```
+
 ## Ruby
 
 ## Rust

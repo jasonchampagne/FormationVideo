@@ -102,6 +102,31 @@ public class BinarySearch
 
 ## Java
 
+```java
+public class BinarySearch
+{
+    public static <T extends Comparable<T>> int binarySearch(List<T> collection, T value)
+    {
+        int beginIndex = 0;
+        int endIndex = collection.size() - 1;
+
+        while(beginIndex <= endIndex)
+        {
+            int middleIndex = beginIndex + (endIndex - beginIndex) / 2;
+
+            if(collection.get(middleIndex).equals(value))
+                return middleIndex;
+            else if(collection.get(middleIndex).compareTo(value) < 0)
+                beginIndex = middleIndex + 1;
+            else
+                endIndex = middleIndex - 1;
+        }
+
+        throw new IllegalArgumentException("La valeur n'a pas été trouvée.");
+    }
+}
+```
+
 ## JavaScript
 
 ## Lua

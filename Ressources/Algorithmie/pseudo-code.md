@@ -52,15 +52,15 @@ plusieurs lignes...
 //-----------------------------------------------
 // Déclaration d'une variable ou d'une constante
 //-----------------------------------------------
-STR nom_joueur := "Marc MARTIN"
-REAL TVA := 20.0
-BOOL est_gratuit
+CHAINE nom_joueur := "Marc MARTIN"
+FLOTTANT TVA := 20.0
+BOOLEEN est_gratuit
 
 //----------------------------------------
 // Déclaration d'un tableau
 //----------------------------------------
-INT[10] entiers
-BOOL[3] valeurs := {V, F, F}
+ENTIER[10] entiers
+BOOLEEN[3] valeurs := {V, F, F}
 
 //------------------------------------------------------------------------
 // Changement de valeur d'un variable ou constante (nouvelle affectation)
@@ -72,10 +72,10 @@ est_gratuit = vrai
 ## Affichage et saisie
 
 ```
-STR nom := "Alicia"
+CHAINE nom := "Alicia"
 afficher("Bonjour {nom}, comment allez-vous ?")
 
-INT age := lire("Quel âge avez-vous ? ")
+ENTIER age := lire("Quel âge avez-vous ? ")
 ```
 
 ## Opérateurs
@@ -113,7 +113,7 @@ INT age := lire("Quel âge avez-vous ? ")
 ## Conditions
 
 ```
-INT solde_compte := 1_500
+ENTIER solde_compte := 1_500
 
 //------------------
 // Condition simple
@@ -151,7 +151,7 @@ FIN SI
 //------------------------------------------
 // Boucle classique avec compteur explicite
 //------------------------------------------
-INT i := 0
+ENTIER i := 0
 
 TANT QUE i < 10 FAIRE
     afficher(i)
@@ -161,7 +161,7 @@ FIN TANT QUE
 //------------------------------------------------------------------
 // Boucle avec initialisation (auto-incrémentation par défaut de 1)
 //------------------------------------------------------------------
-INT i
+ENTIER i
 
 POUR i ALLANT DE 0 A 10 FAIRE // ou POUR i ALLANT DE 0 A 10 PAR SAUT DE 1 FAIRE
     afficher(i)
@@ -170,7 +170,7 @@ FIN POUR
 //-----------------------------------------------------
 // Boucle de parcours de collection (auto-incrémentée)
 //-----------------------------------------------------
-STR nom_chaine := "FormationVidéo"
+CHAINE nom_chaine := "FormationVidéo"
 
 POUR CHAQUE lettre DE nom_chaine FAIRE
     afficher(lettre)
@@ -202,15 +202,15 @@ FIN FONCTION
 // Définir des structures
 //------------------------
 STRUCTURE Monnaie
-    INT or
-    INT argent
-    INT cuivre
+    ENTIER or
+    ENTIER argent
+    ENTIER cuivre
 FIN STRUCTURE
 
 STRUCTURE Joueur
-    STR nom
-    INT niveau
-    MONNAIE argent
+    CHAINE nom
+    ENTIER niveau
+    Monnaie argent
 FIN STRUCTURE
 
 //------------------------------------
@@ -231,19 +231,19 @@ afficher("Il est au niveau {j.niveau}")
 //-------------------------
 CLASSE Position2D
     METHODES
-        CONSTRUCTEUR Position2D(INT x, INT y)
+        CONSTRUCTEUR Position2D(ENTIER x, ENTIER y)
             Position2D.x = x
             Position2D.y = y
         FIN CONSTRUCTEUR
 
-        FONCTION x()
+        FONCTION x() -> ENTIER
             RETOURNER Position2D.x
         FIN FONCTION
     FIN METHODES
 
     ATTRIBUTS
-        INT x
-        INT y
+        ENTIER x
+        ENTIER y
     FIN ATTRIBUTS
 FIN CLASSE
 

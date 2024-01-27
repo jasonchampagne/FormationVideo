@@ -125,6 +125,42 @@ public class BinarySearch
 
 ## JavaScript
 
+```js
+class BinarySearch
+{
+    static search(collection, value)
+    {
+        let beginIndex = 0;
+        let endIndex = collection.length - 1;
+
+        while(beginIndex <= endIndex)
+        {
+            const middleIndex = Math.floor((beginIndex + endIndex) / 2);
+            const comparison = this.compare(collection[middleIndex], value);
+
+            if(comparison === 0)
+                return middleIndex;
+            else if(comparison > 0)
+                beginIndex = middleIndex + 1;
+            else
+                endIndex = middleIndex - 1;
+        }
+
+        throw new Error("La valeur n'a pas été trouvée.");
+    }
+
+    static compare(obj, other)
+    {
+        if(obj === other)
+            return 0;
+        else if(obj > other)
+            return 1;
+        else
+            return -1;
+    }
+}
+```
+
 ## PHP
 
 ```php

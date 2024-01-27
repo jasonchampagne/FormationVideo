@@ -109,8 +109,6 @@ public class BinarySearch
 ## PHP
 
 ```php
-<?php
-
 function binarySearch(array $collection, int $value): int
 {
     $beginIndex = 0;

@@ -108,6 +108,30 @@ public class BinarySearch
 
 ## PHP
 
+```php
+<?php
+
+function binarySearch(array $collection, int $value): int
+{
+    $beginIndex = 0;
+    $endIndex = count($collection) - 1;
+
+    while($beginIndex <= $endIndex)
+    {
+        $middleIndex = ($endIndex + $beginIndex) >> 1;
+
+        if($collection[$middleIndex] == $value)
+            return $middleIndex;
+        elseif($collection[$middleIndex] < $value)
+            $beginIndex = $middleIndex + 1;
+        else
+            $endIndex = $middleIndex - 1;
+    }
+
+    throw new Exception("La valeur n'a pas ete trouvée.");
+}
+```
+
 ## Python
 
 ## Ruby

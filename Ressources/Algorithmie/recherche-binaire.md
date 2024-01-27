@@ -7,6 +7,7 @@ Les conditions d'usage de cet algorithme :
 + Les éléments doivent être comparables entre eux (notamment vous utilisez des types génériques)
 + La taille de la collection doit être fixe de préférence
 
+> **SOMMAIRE**
 > + [C](#c)
 > + [C++](#c-1)
 > + [C#](#c-2)

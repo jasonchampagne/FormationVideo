@@ -17,14 +17,14 @@ int binarySearch(int collection[], int beginIndex, int endIndex, int value)
     if(beginIndex > endIndex)
         return -1;
 
-    int middle_index = (beginIndex + endIndex) / 2;
+    int middleIndex = (beginIndex + endIndex) / 2;
 
-    if(collection[middle_index] == value)
-        return middle_index;
-    else if(collection[middle_index] < value)
-        return binarySearchRecursive(collection, middle_index + 1, endIndex, value);
+    if(collection[middleIndex] == value)
+        return middleIndex;
+    else if(collection[middleIndex] < value)
+        return binarySearchRecursive(collection, middleIndex + 1, endIndex, value);
     else
-        return binarySearchRecursive(collection, beginIndex, middle_index - 1, value);
+        return binarySearchRecursive(collection, beginIndex, middleIndex - 1, value);
 }
 ```
 

@@ -35,12 +35,12 @@ plusieurs lignes...
 
 |TYPE|USAGE|EXEMPLES|
 |:--:|:--|:--|
-|`BOOL`|Boléen|`vrai`, `faux`, `V`, `F`|
-|`CHAR`|Caractère|`'A'`, `'%'`|
-|`GENERIC`|Type générique|-|
-|`INT`|Entier|`452`, `100_000`, `-3`|
-|`REAL`|Nombre à virgule flottante|`3.14`, `-126.019`|
-|`STR`|Chaîne de caractères|`"Bienvenue sur FormationVidéo"`, `"Ah !"`|
+|`BOOLEEN`|Boléen|`vrai`, `faux`, `V`, `F`|
+|`CARACTERE`|Caractère|`'A'`, `'%'`|
+|`GENERIQUE`|Type générique|-|
+|`ENTIER`|Entier|`452`, `100_000`, `-3`|
+|`FLOTTANT`|Nombre à virgule flottante|`3.14`, `-126.019`|
+|`CHAINE`|Chaîne de caractères|`"Bienvenue sur FormationVidéo"`, `"Ah !"`|
 
 ## Variables et constantes
 

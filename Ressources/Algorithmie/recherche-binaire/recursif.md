@@ -22,9 +22,9 @@ int binarySearch(int collection[], int beginIndex, int endIndex, int value)
     if(collection[middleIndex] == value)
         return middleIndex;
     else if(collection[middleIndex] < value)
-        return binarySearchRecursive(collection, middleIndex + 1, endIndex, value);
+        return binarySearch(collection, middleIndex + 1, endIndex, value);
     else
-        return binarySearchRecursive(collection, beginIndex, middleIndex - 1, value);
+        return binarySearch(collection, beginIndex, middleIndex - 1, value);
 }
 ```
 

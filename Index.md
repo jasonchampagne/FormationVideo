@@ -680,3 +680,4 @@
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
 + [Intérêt pour l'informatique](https://www.youtube.com/watch?v=DkTFQ4t6igA)
++ [TOP 3 des meilleurs logiciels de montage vidéo en 2024](https://www.youtube.com/watch?v=nLRzXLZFVJI)

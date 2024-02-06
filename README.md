@@ -20,7 +20,9 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ## Contenus disponibles
 
-> Les contenus en cours de publication sont marqués d'une icône 🔁 tandis que les contenus terminés sont marqués d'une icône ✅.
++ ✅ Contenu terminé
++ 🔄 Contenu avec publication occasionnelle
++ ⏫ Contenu en cours de publication
 
 ### Guides et dépannage
 
@@ -36,9 +38,9 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
-|[Algorithmie](Playlists/algorithmie.md)|🔁|-|_à venir_|
-|[Architecture](Playlists/architecture.md)|🔁|-|-|
-|[Immersion](Playlists/immersion.md)|🔁|-|-|
+|[Algorithmie](Playlists/algorithmie.md)|🔄|-|_à venir_|
+|[Architecture](Playlists/architecture.md)|🔄|-|-|
+|[Immersion](Playlists/immersion.md)|⏫|-|-|
 
 ### Systèmes
 
@@ -47,14 +49,14 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
-|[GNU/Linux (+ Bash)](Playlists/gnu-linux.md)|✅|🔁|_à venir_|
-|[Windows (+ PowerShell)](Playlists/windows.md)|🔁|🔁|_à venir_|
+|[GNU/Linux (+ Bash)](Playlists/gnu-linux.md)|✅|🔄|_à venir_|
+|[Windows (+ PowerShell)](Playlists/windows.md)|⏫|🔄|_à venir_|
 
 ### Langages
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
-|[Assembleur](Playlists/assembleur.md)|🔁|_à venir_|_à venir_|
+|[Assembleur](Playlists/assembleur.md)|⏫|_à venir_|_à venir_|
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

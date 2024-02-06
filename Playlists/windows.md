@@ -1,4 +1,4 @@
-# Windows - cours
+# Windows
 
 > [!NOTE]
 > **🌐 indicates that the video is subtitled in English**<br>

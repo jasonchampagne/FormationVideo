@@ -1,11 +1,12 @@
-# JavaScript - cours ✔
+# JavaScript
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_)
 
 + [1. Introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs) 🖍
 + [2. Hello world !](https://www.youtube.com/watch?v=PsosD3WyFfI) 🖍
@@ -33,3 +34,7 @@
 + [24. Évènements](https://www.youtube.com/watch?v=uqqbVX37-vs)
 + [25. Code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
 + [26. Conclusion](https://www.youtube.com/watch?v=x65IyueCABg)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF7bLqaP09oo21ACP3Oc3I7)
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFETtpWV28hfv8X1X7ynelW)

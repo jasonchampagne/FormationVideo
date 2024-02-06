@@ -6,7 +6,7 @@
 
 ---
 
-## [Playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
 
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM) 🖍
 + [2. Installer le système](https://www.youtube.com/watch?v=kKoOjrNzhtQ) 🖍

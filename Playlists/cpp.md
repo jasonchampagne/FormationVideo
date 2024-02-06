@@ -1,10 +1,12 @@
-# C++ - cours ✔
+# C++
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFKOzlm5iCBeXDTLxXdmxpx)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFKOzlm5iCBeXDTLxXdmxpx)
 
 + [1. Introduction](https://www.youtube.com/watch?v=f3UVQPbw32w)
 + [2. Premier programme](https://www.youtube.com/watch?v=FjG4HYo-Jm0)
@@ -41,3 +43,7 @@
 + [33. Threads](https://www.youtube.com/watch?v=8dvbFWrmCws)
 + [34. Promesses et futures](https://www.youtube.com/watch?v=_nogDC2XpJM)
 + [35. Conclusion](https://www.youtube.com/watch?v=it_MkLecxRM)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEZIG6-XD4NYj3zljGQ6F1D)
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH4WGXPg_DxvXTCvAW8lvRW)

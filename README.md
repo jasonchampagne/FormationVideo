@@ -37,7 +37,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ### Concepts
 
 |NOM|COURS|TUTORIELS|EXERCICES|
-|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |[Algorithmie](Playlists/algorithmie.md)|🔄|-|_à venir_|
 |[Architecture](Playlists/architecture.md)|🔄|-|-|
 |[Immersion](Playlists/immersion.md)|⏫|-|-|
@@ -48,14 +48,14 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 > _Les exercices sur GNU/Linux se concentrent uniquement sur la programmation de scripts Bash, tandis que les exercices sur Windows sont dédiés à la programmation de scripts PowerShell._
 
 |NOM|COURS|TUTORIELS|EXERCICES|
-|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |[GNU/Linux](Playlists/gnu-linux.md)|✅|🔄|_à venir_|
 |[Windows](Playlists/windows.md)|⏫|🔄|_à venir_|
 
 ### Langages
 
 |NOM|COURS|TUTORIELS|EXERCICES|
-|--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |[Assembleur](Playlists/assembleur.md)|⏫|_à venir_|_à venir_|
 |[C](Playlists/c.md)|✅|🔄|🔄|
 

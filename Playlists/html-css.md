@@ -1,11 +1,12 @@
-# HTML/CSS - cours ✔
+# HTML/CSS
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO)
 
 + [1. Introduction](https://www.youtube.com/watch?v=u5W2NWItytc) 🖍
 + [2. Première page web](https://www.youtube.com/watch?v=Fi8fj_JY91o) 🖍
@@ -33,3 +34,20 @@
 + [24. Grid](https://www.youtube.com/watch?v=wItB9sia1rg) 🖍
 + [25. Media queries](https://www.youtube.com/watch?v=_p8abfdp_Co) 🖍
 + [26. Conclusion](https://www.youtube.com/watch?v=yQDqF9IxhIU) 🖍
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL)
+
++ [Accessibilité web](https://www.youtube.com/watch?v=bLPONCBPDeQ)
++ [Attributs universels](https://www.youtube.com/watch?v=TZwvw5niU7Q) 🖍
++ [Balises obsolètes](https://www.youtube.com/watch?v=23Kcs7AW-18) 🖍
++ [Thème sombre](https://www.youtube.com/watch?v=UmnzAkE6DJQ) 🖍
++ [Valider page HTML](https://www.youtube.com/watch?v=qaSFdlICoOo) 🖍
++ [Variables](https://www.youtube.com/watch?v=XFYqxcChwO4) 🖍
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb)
+
++ [1. Article de blog](https://www.youtube.com/watch?v=fzjar4drY-c) 🖍
++ [2. Tableau de données](https://www.youtube.com/watch?v=jqNCf_NRXnc) 🖍
++ [3. Formulaire saisie patient](https://www.youtube.com/watch?v=mQB-f2scL3M) 🖍
++ [4. Un peu de style](https://www.youtube.com/watch?v=Rbt9amRWfm4) 🖍
++ [5. Strange news](https://www.youtube.com/watch?v=gagqaBk3GXo) 🖍

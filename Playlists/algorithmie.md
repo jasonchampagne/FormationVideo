@@ -11,4 +11,4 @@
 + ///
 + [Recherche binaire](https://www.youtube.com/watch?v=gsaQRO0cU7Q)
 
-## Exercices
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHzupAh7gJWX6GocGsJXrwK)

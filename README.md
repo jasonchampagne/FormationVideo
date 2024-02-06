@@ -21,9 +21,8 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ## Contenus disponibles
 
 > **INDICATEURS**
-> + Cours terminés : ✅
-> + Cours à mettre à jour/ré-enregistrer : 🔁
-> + Cours en préparation : 🚧
+> + Terminé : ✅
+> + En cours : 🔁
 
 ### Guides et dépannage
 
@@ -59,7 +58,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
-|[Assembleur](Playlists/assembleur.md)||_à venir_|_à venir_|
+|[Assembleur](Playlists/assembleur.md)|🔁|_à venir_|_à venir_|
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

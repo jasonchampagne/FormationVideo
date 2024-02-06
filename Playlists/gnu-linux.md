@@ -53,4 +53,4 @@
 + [Installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ)
 + [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)
 
-## [Exercices](#)
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFFcUOjQXo2PmiVuTPevgGx)

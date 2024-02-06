@@ -1,11 +1,12 @@
 # C# - cours
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7)
 
 + [1. Introduction](https://www.youtube.com/watch?v=uHUkndqnHAg) 🖍
 + [2. Afficher du texte](https://www.youtube.com/watch?v=T1ghHTJtdGQ) 🖍
@@ -39,3 +40,9 @@
 + [30. Itérateurs](https://www.youtube.com/watch?v=2jjL1H6nKPo)
 + [31. Programmation asynchrone](https://www.youtube.com/watch?v=SnhppD6T1aM)
 + [32. Bases de données](https://www.youtube.com/watch?v=wp7b5QSYQKw)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFkVDbvfAYgIs4S936sq652)
+
++ [Projets et solutions](https://www.youtube.com/watch?v=HaDML4J3Wzg)
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFLq-b4zmlgPSKlDvexLTxG)

@@ -1,6 +1,7 @@
 # Blabla
 
-> **🌐 indicates that the video is subtitled in English**<br>
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**
 
 ---
 

@@ -57,6 +57,10 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ### Langages
 
+|NOM|COURS|TUTORIELS|EXERCICES|
+|--:|:--:|:--:|:--:|
+|[Assembleur](Playlists/assembleur.md)||_à venir_|_à venir_|
+
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 ||Assembleur|[9](Playlists/assembleur-cours.md)|_à venir_|_à venir_|

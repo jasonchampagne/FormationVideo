@@ -34,6 +34,10 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ### Concepts
 
+|NOM|COURS|TUTORIELS|EXERCICES|
+|--:|:--:|:--:|:--:|
+|[Algorithmie](Playlists/algorithmie.md)|🔁|-|_à venir_|
+
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
 ||Algorithmie|[2](Playlists/algorithmie-cours.md)|-|_à venir_|

@@ -1,11 +1,12 @@
 # SAV
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr)
 
 + [CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80) 🖍
 + [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE) 🖍

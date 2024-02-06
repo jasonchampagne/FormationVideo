@@ -1,11 +1,12 @@
-# PHP - cours ✔
+# PHP
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc)
 
 + [1. Introduction](https://www.youtube.com/watch?v=7lMXMLeawug) 🖍
 + [2. Installer serveur HTTP](https://www.youtube.com/watch?v=79XwZrJdzho) 🖍
@@ -39,3 +40,27 @@
 + [30. Interroger base de données](https://www.youtube.com/watch?v=W1g01wKWVv4) 🖍
 + [31. Sécuriser requêtes SQL](https://www.youtube.com/watch?v=Vr6wfvlXPkw) 🖍
 + [32. Conclusion](https://www.youtube.com/watch?v=U0N78jTc0Ss) 🖍
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2)
+
++ [Auto-chargement de classes](https://www.youtube.com/watch?v=27f-oNDCz7E)
++ [Dates et temps](https://www.youtube.com/watch?v=DsxEDTF66TY)
++ [Énumérations](https://www.youtube.com/watch?v=_DqoawWIN8w)
++ [Envoi mail() en local](https://www.youtube.com/watch?v=Fywr8gIVdLY) 🖍
++ [Espaces de noms](https://www.youtube.com/watch?v=K1Q4ZkJUfEg)
++ [Inclure code dans HTML](https://www.youtube.com/watch?v=n6nid7YgvxI) 🖍
++ [Installer phpMyAdmin](https://www.youtube.com/watch?v=S0mR_Gl7Rg4) 🖍
++ [Introspection et réflexion (1/2)](https://www.youtube.com/watch?v=DWLynPX8yiM)
++ [Introspection et réflexion (2/2)](https://www.youtube.com/watch?v=ShCuryJFUPs)
++ [Mettre à jour l'interpréteur](https://www.youtube.com/watch?v=wPFqy_QvWjs) 🖍
++ [Système d'authentification](https://www.youtube.com/watch?v=u5HqEgBxtss) 🖍
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGrcaFuQwVlcxUItjgl1cbj)
+
++ [1. Écho !](https://www.youtube.com/watch?v=nDYD1MCKlGU)
++ [2. Calculez-les tous !](https://www.youtube.com/watch?v=6-LnnMlxRto)
++ [3. Tic tac](https://www.youtube.com/watch?v=8zL7vZThq94)
++ [4. Flemme](https://www.youtube.com/watch?v=ICpiB-YVuK8)
++ [5. Abracadarray](https://www.youtube.com/watch?v=195dwnpoZYU)
++ [6. Une histoire de goûts](https://www.youtube.com/watch?v=SUi2dvr68qI)
++ [7. Netflex](https://www.youtube.com/watch?v=Wj8Fdyn61oM)

@@ -1,4 +1,4 @@
-# C# - cours
+# C#
 
 > [!NOTE]
 > **🌐 indicates that the video is subtitled in English**<br>

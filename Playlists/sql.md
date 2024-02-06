@@ -1,11 +1,12 @@
-# SQL - cours ✔
+# SQL
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg)
 
 + [1. Introduction](https://www.youtube.com/watch?v=3KwmNNucIjA) 🖍
 + [2. Installation mysql](https://www.youtube.com/watch?v=9azCzs322NU) 🖍
@@ -29,3 +30,15 @@
 + [20. Fonctions mathématiques](https://www.youtube.com/watch?v=9Y20_0MQzEE) 🖍
 + [21. Fonctions de sécurité](https://www.youtube.com/watch?v=VTkhWoQ4QPA) 🖍
 + [22. Conclusion](https://www.youtube.com/watch?v=TgvBXMaZULk) 🖍
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHxLnX_BvHrcKkLh8sBRcHe)
+
++ [Relations](https://www.youtube.com/watch?v=jxSgB4UQiY0)
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGfbglN3LQ6RmgCOd4eR4ZD)
+
++ [1. Pour Azeroth !](https://www.youtube.com/watch?v=qkxVqr4qpFw)
++ [2. Espionnage virtuel](https://www.youtube.com/watch?v=tPydQHUFFic)
++ [3. Le changement, c'est maintenant](https://www.youtube.com/watch?v=c_5HpHja4u0)
++ [4. Travail terminé !](https://www.youtube.com/watch?v=cem3UGra0uU)
++ [5. Ptdr c ki l'elfe ?](https://www.youtube.com/watch?v=gY4petb_SDM)

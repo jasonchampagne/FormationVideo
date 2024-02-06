@@ -1,11 +1,12 @@
-# Java - cours ✔
+# Java
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv)
 
 + [1. Introduction](https://www.youtube.com/watch?v=_l4pJ7HCrl4) 🖍
 + [2. Premier programme](https://www.youtube.com/watch?v=cvpkw2ZN4Ps) 🖍
@@ -42,3 +43,15 @@
 + [33. Communication réseau (1/2)](https://www.youtube.com/watch?v=L55HmnzRSj0)
 + [34. Communication réseau (2/2)](https://www.youtube.com/watch?v=0kHi1qO0vmQ)
 + [35. Conclusion](https://www.youtube.com/watch?v=6f3RQN9jdBU)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ)
+
++ [Annotations](https://www.youtube.com/watch?v=cno_XpZB8To) 🖍
++ [Comparer et trier des objets](https://www.youtube.com/watch?v=rmwqHf2ZaeQ)
++ [Créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY) 🖍
++ [Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGfwasBSNmhx0egKfahfvIq)
+
++ [1. Ça fait le café ?](https://www.youtube.com/watch?v=XQ7CSHi0Yt4)
++ [2. Sous conditions](https://www.youtube.com/watch?v=yfq9qPi3PcY)

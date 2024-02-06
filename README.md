@@ -47,8 +47,8 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
-|[GNU/Linux](Playlists/gnu-linux.md)<br>(+ Bash)|✅|🔁|_à venir_|
-|[Windows](Playlists/windows.md)<br>(+ PowerShell)|🔁|🔁|_à venir_|
+|[GNU/Linux (+ Bash)](Playlists/gnu-linux.md)|✅|🔁|_à venir_|
+|[Windows (+ PowerShell)](Playlists/windows.md)|🔁|🔁|_à venir_|
 
 ### Langages
 

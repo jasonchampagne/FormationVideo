@@ -1,10 +1,8 @@
 # Partenariats
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)
+## [Playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)
 
----
-
-## Hostinger
+### Hostinger
 
 > _Voir aussi la playlist du [cours sur WordPress](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/wordpress-cours.md)_
 
@@ -13,7 +11,7 @@
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
 
-## Wondershare
+### Wondershare
 
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Le meilleur de la conversion vidéo avec Wondershare Uniconverter](https://www.youtube.com/watch?v=qe6oXyDVQik)

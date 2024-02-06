@@ -20,9 +20,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ## Contenus disponibles
 
-> **INDICATEURS**
-> + Terminé : ✅
-> + En cours : 🔁
+> Les contenus en cours de publication sont marqués d'une icône 🔁 tandis que les contenus terminés sont marqués d'une icône ✅.
 
 ### Guides et dépannage
 

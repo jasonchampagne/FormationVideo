@@ -1,11 +1,12 @@
-# GNU/Linux - cours ✔
+# GNU/Linux
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 
 + [1. Introduction](https://www.youtube.com/watch?v=py1E14pXfAM) 🖍
 + [2. Installer système](https://www.youtube.com/watch?v=0i2WTmKktbE) 🖍
@@ -45,3 +46,9 @@
 + [36. Tableaux](https://www.youtube.com/watch?v=VgJvbiVLLBA) 🖍
 + [37. Fonctions](https://www.youtube.com/watch?v=Bye1ez_7K4E) 🖍
 + [38. Conclusion](https://www.youtube.com/watch?v=ddaUjHt7amc) 🖍
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFqy8rly2PTIhzKHVOOucPo)
+
++ [Identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo)
++ [Installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ)
++ [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)

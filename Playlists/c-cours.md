@@ -1,11 +1,12 @@
-# C - cours ✔
+# C
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j)
 
 + [1. Introduction](https://www.youtube.com/watch?v=90hGCMC3Chc) 🖍
 + [2. Compiler programme](https://www.youtube.com/watch?v=6E-zrVV2tSg) 🖍
@@ -36,3 +37,29 @@
 + [27. Gestion événements (1/2)](https://www.youtube.com/watch?v=k7ZkeqrbnwA) 🖍
 + [28. Gestion événements (2/2)](https://www.youtube.com/watch?v=oY-xietZTig) 🖍
 + [29. Conclusion](https://www.youtube.com/watch?v=eTxODY-dkDI) 🖍
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N)
+
++ [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8) 🖍
++ [Arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI) 🖍
++ [Fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E) 🖍
++ [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk) 🖍
++ [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw) 🖍
++ [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc) 🖍
++ [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0) 🖍
+
+## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ)
+
++ [1. Affichage formaté](https://www.youtube.com/watch?v=JpKaxVCjAMw) 🖍
++ [2. Rendez l'argent !](https://www.youtube.com/watch?v=OQP3kgexXtU) 🖍
++ [3. Somme de nombres](https://www.youtube.com/watch?v=aXHroKdj_mI) 🖍
++ [4. P'tite calculette](https://www.youtube.com/watch?v=CTuqMr6F59Q) 🖍
++ [5. Pointeurs (QCM)](https://www.youtube.com/watch?v=BZXkTNPWHRQ) 🖍
++ [6. Ballade en T](https://www.youtube.com/watch?v=udgS8xh_FD8) 🖍
++ [7. Tout compte fait](https://www.youtube.com/watch?v=W1cNlw2H2xg) 🖍
++ [8. À fond la caisse](https://www.youtube.com/watch?v=cY79sEvkEQc) 🖍
++ [9. Entrez dans la matrice](https://www.youtube.com/watch?v=M_GufgQqztA) 🖍
++ [10. Un poti fichier](https://www.youtube.com/watch?v=7MzC5MIGyEs) 🖍
++ [11. Dans ta stack](https://www.youtube.com/watch?v=yBaaLPBsRPM) 🖍
++ [12. Mise au point](https://www.youtube.com/watch?v=Y4BN9pO_isY)
++ [13. Bisou je manvol](https://www.youtube.com/watch?v=ahlKl7Svn1Y)

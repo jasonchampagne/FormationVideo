@@ -1,11 +1,11 @@
 # Aide
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
+**🌐 indicates that the video is subtitled in English**<br>
+**🖍 indique que la vidéo doit encore être chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
 
 + [Apache - certificat SSL auto-signé](https://www.youtube.com/watch?v=iamsyYFCH70)
 + [Bibliothèque dynamique](https://www.youtube.com/watch?v=pKOJFZN_HUk)

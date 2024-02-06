@@ -49,6 +49,8 @@
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFqy8rly2PTIhzKHVOOucPo)
 
+## [Exercices](#)
+
 + [Identifier périphériques](https://www.youtube.com/watch?v=MCCCxmfNTJo)
 + [Installer ArchLinux](https://www.youtube.com/watch?v=0RABLcmO4cQ)
 + [Quelle distribution choisir ?](https://www.youtube.com/watch?v=6w2jBj8m7-8)

@@ -49,15 +49,15 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
-|[GNU/Linux + Bash](Playlists/gnu-linux.md)|✅|🔄|_à venir_|
-|[Windows + PowerShell](Playlists/windows.md)|⏫|🔄|_à venir_|
+|[GNU/Linux](Playlists/gnu-linux.md)|✅|🔄|_à venir_|
+|[Windows](Playlists/windows.md)|⏫|🔄|_à venir_|
 
 ### Langages
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |--:|:--:|:--:|:--:|
 |[Assembleur](Playlists/assembleur.md)|⏫|_à venir_|_à venir_|
-|[C + SDL](Playlists/c.md)|✅|🔄|🔄|
+|[C](Playlists/c.md)|✅|🔄|🔄|
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|

@@ -1,11 +1,12 @@
 # Windows - cours
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
-**🖍 indique que la vidéo doit encore être chapitrée**
+## [Playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
 
 + [1. Introduction](https://www.youtube.com/watch?v=llfX-7RNwDM) 🖍
 + [2. Installer le système](https://www.youtube.com/watch?v=kKoOjrNzhtQ) 🖍
@@ -37,3 +38,13 @@
 + [28. Planification de tâches](https://www.youtube.com/watch?v=rHDkIAu3gqc)
 + [29. Observateur d'évènements](https://www.youtube.com/watch?v=5rOA9NK3FO0)
 + [30. Pare-feu](https://www.youtube.com/watch?v=wn6UQSbXpI8)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd)
+
++ [Afficher extension des fichiers](https://www.youtube.com/watch?v=ac1WdzSqatw)
++ [Installer MinGW](https://www.youtube.com/watch?v=y-i96kqT53A)
++ [Mettre à jour PowerShell](https://www.youtube.com/watch?v=AaIsQ8Y5AtY)
++ [Récupérer sa clé de licence](https://www.youtube.com/watch?v=wAqUPpgpN2M)
++ [Réduire latence sur les jeux](https://www.youtube.com/watch?v=TCTpKPolAH4)
++ [Registre](https://www.youtube.com/watch?v=DuwRCZiB8QE)
++ [Variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)

@@ -40,7 +40,6 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Algorithmie|[2](Playlists/algorithmie-cours.md)|-|_à venir_|
 ||Architecture|[10](Playlists/architecture.md)|-|-|
 ||Immersion|[1](Playlists/immersion.md)|-|-|
 ||Hacking|[_à venir_](https://jasonchampagne.fr/static/faq-youtube.html)|_à venir_|-|
@@ -64,7 +63,6 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 |/|NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|:--:|
-||Assembleur|[9](Playlists/assembleur-cours.md)|_à venir_|_à venir_|
 |✅|C<br>(+ SDL)|[29](Playlists/c-cours.md)|[7](Playlists/c-tutoriels.md)|[13](Playlists/c-exercices.md)|
 |✅|C++|[35](Playlists/cpp-cours.md)|_à venir_|_à venir_|
 ||C#|[32](Playlists/csharp-cours.md)|[1](Playlists/csharp-tutoriels.md)|_à venir_|

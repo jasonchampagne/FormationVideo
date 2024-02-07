@@ -1,10 +1,12 @@
-# JavaFX - cours
+# JavaFX
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGPyx7UHfsJtrdnpa_ix0ah)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**<br>
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGPyx7UHfsJtrdnpa_ix0ah)
 
 + [1. Introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
 + [2. Architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
@@ -13,3 +15,5 @@
 + [5. Éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
 + [6. Éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
 + [7. Éléments de menu](https://www.youtube.com/watch?v=qoMbUdzdKZQ)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1YTsSBwZ9KO8m7gk95MFV)

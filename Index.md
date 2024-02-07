@@ -569,6 +569,7 @@
 
 ### Python
 
++ [Annotations de type](https://www.youtube.com/watch?v=a5HGF_ELI1E)
 + [Base de données MySQL](https://www.youtube.com/watch?v=2R-BveCE-so)
 + [Calculs mathématiques](https://www.youtube.com/watch?v=uwLhuFd7ruA)
 + [Classes abstraites](https://www.youtube.com/watch?v=zY4WnyEV_Ao)

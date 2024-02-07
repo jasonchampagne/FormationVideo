@@ -75,16 +75,10 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ### API / Bibliothèques / Cadriciels
 
-|/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
-|✅|Django|[16](Playlists/django-cours.md)|_à venir_|-|
-||JavaFX|[7](Playlists/javafx-cours.md)|_à venir_|-|
-
-### Musique
-
-|/|NOM|COURS|
-|:--:|:--:|:--:|
-|🔁|Piano|[8](Playlists/piano-cours.md)|
+|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|
+|[Django](Playlists/django.md)|✅|_à venir_|-|
+|[JavaFX](Playlists/javafx.md)|⏫|_à venir_|-|
 
 ---
 

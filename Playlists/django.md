@@ -1,10 +1,12 @@
-# Django - cours
+# Django
 
-> [PLAYLIST YOUTUBE](https://www.youtube.com/playlist?list=PLrSOXFDHBtfED_VFTa6labxAOPh29RYiO)
+> [!NOTE]
+> **🌐 indicates that the video is subtitled in English**<br>
+> **🖍 indique que la vidéo n'est pas encore chapitrée**
 
 ---
 
-**🌐 indicates that the video is subtitled in English**
+## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfED_VFTa6labxAOPh29RYiO)
 
 + [1. Introduction](https://www.youtube.com/watch?v=iBGhDHtysAA)
 + [2. Structure d'un projet](https://www.youtube.com/watch?v=rMHSCeA8Bfw)
@@ -22,3 +24,5 @@
 + [14. Permissions et groupes](https://www.youtube.com/watch?v=jdKvHTtjF3I)
 + [15. Tests](https://www.youtube.com/watch?v=7tIIsGA0wlg)
 + [16. Conclusion](https://www.youtube.com/watch?v=QQVkMSsB_9Q)
+
+## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHNLW2f8SJC2OtjfIT_D0Ci)

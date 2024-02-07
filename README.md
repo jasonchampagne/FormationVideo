@@ -69,9 +69,9 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 ### Applications
 
-|/|NOM|COURS|TUTORIELS|EXERCICES|
-|:--:|:--:|:--:|:--:|:--:|
-||WordPress|[3](Playlists/wordpress-cours.md)||-|
+|NOM|COURS|TUTORIELS|EXERCICES|
+|:--:|:--:|:--:|:--:|
+|[WordPress](Playlists/wordpress.md)|⏫|_à venir_|-|
 
 ### API / Bibliothèques / Cadriciels
 

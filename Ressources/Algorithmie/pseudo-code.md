@@ -162,8 +162,6 @@ FIN TANT QUE
 //--------------------------------------------------------------------------------
 // Boucle avec initialisation (par défaut : compteur incrémenté de 1)
 //--------------------------------------------------------------------------------
-ENTIER i
-
 POUR i ALLANT DE 0 A 10 FAIRE // ou POUR i ALLANT DE 0 A 10 PAR SAUT DE 1 FAIRE
     afficher(i)
 FIN POUR

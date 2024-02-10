@@ -9,5 +9,6 @@
 
 + [Présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
     + [Recherche binaire](https://www.youtube.com/watch?v=gsaQRO0cU7Q)
+    + [Tri à bulles](https://www.youtube.com/watch?v=daATbeKXOhE)
 
 ## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHzupAh7gJWX6GocGsJXrwK)

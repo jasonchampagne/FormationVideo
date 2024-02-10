@@ -13,26 +13,98 @@
 
 ## C
 
+```c
+...
+```
+
+### Version optimisée
+
+```c
+...
+```
+
 ---
 
 ## C++
+
+```cpp
+...
+```
+
+### Version optimisée
+
+```cpp
+...
+```
 
 ---
 
 ## C#
 
+```csharp
+...
+```
+
+### Version optimisée
+
+```csharp
+...
+```
+
 ---
 
 ## Java
+
+```java
+...
+```
+
+### Version optimisée
+
+```java
+...
+```
 
 ---
 
 ## JavaScript
 
+```javascript
+...
+```
+
+### Version optimisée
+
+```javascript
+...
+```
+
 ---
 
 ## PHP
 
+```php
+...
+```
+
+### Version optimisée
+
+```php
+...
+```
+
 ---
 
 ## Python
+
+### Version de base
+
+```python
+...
+```
+
+### Version optimisée
+
+```python
+...
+```

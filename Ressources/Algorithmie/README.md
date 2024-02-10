@@ -7,4 +7,5 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |pseudo-code|Notation du pseudo-code choisie pour le cours|
-|recherche-binaire|Exemples d'implémentation de la recherche binaire (dichotomique)|
+|recherche-binaire|Exemples d'implémentation de la recherche binaire ou dichotomiquie (_binary search_)|
+|tri-bulles|Exemples d'implémentation du tri à bulles (_bubble sort_)|

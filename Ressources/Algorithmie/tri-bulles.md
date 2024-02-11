@@ -14,7 +14,17 @@
 ## C
 
 ```c
-...
+void bubbleSort(int collection[], int size)
+{
+    for(int i = size - 1 ; i >= 0 ; --i)
+        for(int j = 0 ; j < i ; ++j)
+            if(collection[j + 1] < collection[j])
+            {
+                int tempValue = collection[j + 1];
+                collection[j + 1] = collection[j];
+                collection[j] = tempValue;
+            }
+}
 ```
 
 ### Version optimisée

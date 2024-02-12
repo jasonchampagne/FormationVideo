@@ -93,7 +93,24 @@ void bubbleSort(int collection[], int size)
 ### Version de base
 
 ```java
-...
+public class BubbleSort
+{
+    public static <T extends Comparable<T>> T[] sort(T[] collection)
+    {
+        int size = collection.length;
+
+        for(int i = size - 1 ; i > 0 ; --i)
+            for(int j = 0 ; j < i ; ++j)
+                if(collection[j + 1].compareTo(collection[j]) < 0)
+                {
+                    T tempValue = collection[j + 1];
+                    collection[j + 1] = collection[j];
+                    collection[j] = tempValue;
+                }
+
+        return collection;
+    }
+}
 ```
 
 ### Version optimisée

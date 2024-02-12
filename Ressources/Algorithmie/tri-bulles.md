@@ -125,7 +125,21 @@ void bubbleSort(int collection[], int size)
 ### Version de base
 
 ```php
-...
+function bubbleSort(array $collection): array
+{
+    $size = count($collection);
+
+    for($i = $size - 1 ; $i > 0 ; --$i)
+        for($j = 0 ; $j < $i ; ++$j)
+            if($collection[$j + 1] < $collection[$j])
+            {
+                $tempValue = $collection[$j + 1];
+                $collection[$j + 1] = $collection[$j];
+                $collection[$j] = $tempValue;
+            }
+
+    return $collection;
+}
 ```
 
 ### Version optimisée

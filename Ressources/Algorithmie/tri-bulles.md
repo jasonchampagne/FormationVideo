@@ -153,5 +153,17 @@ def bubble_sort(collection):
 ### Version optimisée
 
 ```python
-...
+def bubble_sort(collection):
+    size = len(collection)
+
+    for i in range(size - 1, 0, -1):
+        is_sorted = True
+
+        for j in range(i):
+            if collection[j + 1] < collection[j]:
+                collection[j], collection[j + 1] = collection[j + 1], collection[j]
+                is_sorted = False
+
+        if is_sorted:
+            break
 ```

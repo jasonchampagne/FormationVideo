@@ -145,7 +145,30 @@ function bubbleSort(array $collection): array
 ### Version optimisée
 
 ```php
-...
+function bubbleSort(array $collection): array
+{
+    $size = count($collection);
+
+    for($i = $size - 1 ; $i > 0 ; --$i)
+    {
+        $sorted = true;
+
+        for($j = 0 ; $j < $i ; ++$j)
+            if($collection[$j + 1] < $collection[$j])
+            {
+                $tempValue = $collection[$j + 1];
+                $collection[$j + 1] = $collection[$j];
+                $collection[$j] = $tempValue;
+
+                $sorted = false;
+            }
+
+        if($sorted)
+            break;
+    }
+
+    return $collection;
+}
 ```
 
 ---

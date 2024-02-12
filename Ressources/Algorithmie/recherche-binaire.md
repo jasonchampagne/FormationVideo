@@ -361,7 +361,7 @@ function binarySearch(array $collection, int $beginIndex, int $endIndex, int $va
 ### Version itérative
 
 ```python
-def binary_search(collection : list, value : int):
+def binary_search(collection, value):
     begin_index = 0
     end_index = len(collection) - 1
 
@@ -381,7 +381,7 @@ def binary_search(collection : list, value : int):
 ### Version récursive
 
 ```python
-def binary_search(collection : list, value : int):
+def binary_search(collection, value):
     if not collection:
         raise ValueError("La valeur n'a pas ete trouvée.")
 

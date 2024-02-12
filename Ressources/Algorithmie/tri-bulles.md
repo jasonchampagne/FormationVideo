@@ -129,7 +129,7 @@ function bubbleSort(array $collection): array
 {
     $size = count($collection);
 
-    for($i = $size - 1 ; $i > 0 ; --$i)
+    for($i = $size - 1 ; $i >= 0 ; --$i)
         for($j = 0 ; $j < $i ; ++$j)
             if($collection[$j + 1] < $collection[$j])
             {

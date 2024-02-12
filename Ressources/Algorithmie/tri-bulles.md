@@ -141,7 +141,13 @@ void bubbleSort(int collection[], int size)
 ### Version de base
 
 ```python
-...
+def bubble_sort(collection):
+    size = len(collection)
+
+    for i in range(size - 1, 0, -1):
+        for j in range(i):
+            if collection[j + 1] < collection[j]:
+                collection[j], collection[j + 1] = collection[j + 1], collection[j]
 ```
 
 ### Version optimisée

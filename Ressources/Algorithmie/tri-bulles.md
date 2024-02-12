@@ -13,6 +13,8 @@
 
 ## C
 
+### Version de base
+
 ```c
 void bubbleSort(int collection[], int size)
 {
@@ -56,6 +58,8 @@ void bubbleSort(int collection[], int size)
 
 ## C++
 
+### Version de base
+
 ```cpp
 ...
 ```
@@ -69,6 +73,8 @@ void bubbleSort(int collection[], int size)
 ---
 
 ## C#
+
+### Version de base
 
 ```csharp
 ...
@@ -84,6 +90,8 @@ void bubbleSort(int collection[], int size)
 
 ## Java
 
+### Version de base
+
 ```java
 ...
 ```
@@ -98,6 +106,8 @@ void bubbleSort(int collection[], int size)
 
 ## JavaScript
 
+### Version de base
+
 ```javascript
 ...
 ```
@@ -111,6 +121,8 @@ void bubbleSort(int collection[], int size)
 ---
 
 ## PHP
+
+### Version de base
 
 ```php
 ...

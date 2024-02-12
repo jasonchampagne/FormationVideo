@@ -125,7 +125,28 @@ function bubbleSort(collection)
 ### Version optimisée
 
 ```javascript
-...
+function bubbleSort(collection)
+{
+    const size = collection.length;
+
+    for(let i = size - 1 ; i > 0 ; --i)
+    {
+        let sorted = true;
+
+        for (let j = 0 ; j < i ; ++j)
+            if(collection[j + 1] < collection[j])
+            {
+                [collection[j], collection[j + 1]] = [collection[j + 1], collection[j]];
+
+                sorted = false;
+            }
+
+        if(sorted)
+            break;
+    }
+
+    return collection;
+}
 ```
 
 ---

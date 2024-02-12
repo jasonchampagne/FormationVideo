@@ -18,7 +18,7 @@
 ```c
 void bubbleSort(int collection[], int size)
 {
-    for(int i = size - 1 ; i >= 0 ; --i)
+    for(int i = size - 1 ; i > 0 ; --i)
         for(int j = 0 ; j < i ; ++j)
             if(collection[j + 1] < collection[j])
             {
@@ -34,7 +34,7 @@ void bubbleSort(int collection[], int size)
 ```c
 void bubbleSort(int collection[], int size)
 {
-    for(int i = size - 1 ; i >= 0 ; --i)
+    for(int i = size - 1 ; i > 0 ; --i)
     {
         bool sorted = true;
 
@@ -129,7 +129,7 @@ function bubbleSort(array $collection): array
 {
     $size = count($collection);
 
-    for($i = $size - 1 ; $i >= 0 ; --$i)
+    for($i = $size - 1 ; $i > 0 ; --$i)
         for($j = 0 ; $j < $i ; ++$j)
             if($collection[$j + 1] < $collection[$j])
             {

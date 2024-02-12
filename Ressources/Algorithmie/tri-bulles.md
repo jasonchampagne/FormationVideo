@@ -109,7 +109,17 @@ void bubbleSort(int collection[], int size)
 ### Version de base
 
 ```javascript
-...
+function bubbleSort(collection)
+{
+    const size = collection.length;
+
+    for(let i = size - 1 ; i > 0 ; --i)
+        for (let j = 0 ; j < i ; ++j)
+            if(collection[j + 1] < collection[j])
+                [collection[j], collection[j + 1]] = [collection[j + 1], collection[j]];
+
+    return collection;
+}
 ```
 
 ### Version optimisée

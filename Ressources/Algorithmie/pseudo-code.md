@@ -149,8 +149,9 @@ FIN SI
 // Appartenance
 //---------------------------------------------
 CHAINE chaine := "FormationVidéo"
+CARACTERE caractere := 'F'
 
-SI 'F' DANS chaine ALORS
+SI caractere DANS chaine ALORS
     afficher("Le caractère existe")
 FIN SI
 ```

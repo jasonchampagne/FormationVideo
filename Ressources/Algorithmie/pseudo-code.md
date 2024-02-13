@@ -144,6 +144,15 @@ SINON SI solde_compte >= 5_000 ALORS
 SINON
     afficher("Vos revenus sont modestes")
 FIN SI
+
+//---------------------------------------------
+// Appartenance
+//---------------------------------------------
+CHAINE chaine := "FormationVidéo"
+
+SI 'F' DANS chaine ALORS
+    afficher("Le caractère existe")
+FIN SI
 ```
 
 ## Boucles

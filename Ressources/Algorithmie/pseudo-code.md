@@ -85,11 +85,21 @@ afficher("Vous avez {age} ans.")
 
 |/|USAGE|EXEMPLE|
 |:--:|:--|:--|
-|`+`|Addition|`a + b`|
+|`+`|Addition (ou concaténation)|`a + b`|
 |`-`|Soustraction|`a - b`|
 |`*`|Multiplication|`a * b`|
 |`/`|Division|`a / b`|
 |`%`|Modulo|`a % 2`|
+
+### assignation
+
+|/|USAGE|EXEMPLE|ÉQUIVALENT|
+|:--:|:--|:--|:--|
+|`+=`|Addition (ou concaténation) puis affectation|`a += b`|`a = a + b`|
+|`-=`|Soustraction puis affectation|`a -= b`|`a = a - b`|
+|`*=`|Multiplication puis affectation|`a *= b`|`a = a * b`|
+|`/=`|Division puis affectation|`a /= b`|`a = a / b`|
+|`%=`|Modulo puis affectation|`a %= b`|`a = a % b`|
 
 ### comparatifs
 

@@ -219,6 +219,13 @@ FIN FONCTION
 FONCTION STATIQUE nom()
     // code...
 FIN FONCTION STATIQUE
+
+//-----------------------------------------------------
+// Avec des paramètres par défaut
+//-----------------------------------------------------
+FONCTION creer_personnage(CHAINE nom, ENTIER niveau = 1)
+    // code...
+FIN FONCTION
 ```
 
 ## Structures

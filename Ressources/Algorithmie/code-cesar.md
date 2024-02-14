@@ -16,7 +16,6 @@
 ```c
 static const int ALPHABET_SIZE = 26;
 
-
 // Chiffrement
 void caesarCipherEncrypt(char* message, int shift)
 {
@@ -33,7 +32,6 @@ void caesarCipherEncrypt(char* message, int shift)
         }
 
 }
-
 
 // Déchiffrement
 void caesarCipherDecrypt(char* message, int shift)
@@ -59,6 +57,7 @@ public class CaesarCipher
 {
     private static final int ALPHABET_SIZE = 26;
 
+    // Chiffrement
     public static String encrypt(String message, int shift)
     {
         shift %= ALPHABET_SIZE;
@@ -87,6 +86,7 @@ public class CaesarCipher
         return encryptedMessage.toString();
     }
 
+    // Déchiffrement
     public static String decrypt(String message, int shift)
     {
         return encrypt(message, ALPHABET_SIZE - shift);
@@ -104,7 +104,6 @@ public class CaesarCipher
 
 ```php
 const ALPHABET_SIZE = 26;
-
 
 // Chiffrement
 function caesarCipherEncrypt(string $message, int $shift): string
@@ -132,7 +131,6 @@ function caesarCipherEncrypt(string $message, int $shift): string
     return $encryptedMessage;
 }
 
-
 // Déchiffrement
 function caesarCipherDecrypt(string $message, int $shift): string
 {
@@ -146,7 +144,6 @@ function caesarCipherDecrypt(string $message, int $shift): string
 
 ```python
 ALPHABET_SIZE = 26
-
 
 # Chiffrement
 def caesar_cipher_encrypt(message, shift):
@@ -166,7 +163,6 @@ def caesar_cipher_encrypt(message, shift):
             encrypted_message += character
 
     return encrypted_message
-
 
 # Déchiffrement
 def caesar_cipher_decrypt(message, shift):

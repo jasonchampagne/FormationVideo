@@ -20,6 +20,7 @@ Les conditions d'usage de cet algorithme :
 ```c
 static const int ALPHABET_SIZE = 26;
 
+// Chiffrement
 void caesarCipherEncrypt(char* message, int shift)
 {
     shift %= ALPHABET_SIZE;
@@ -36,6 +37,7 @@ void caesarCipherEncrypt(char* message, int shift)
 
 }
 
+// Déchiffrement
 void caesarCipherDecrypt(char* message, int shift)
 {
     caesarCipherEncrypt(message, ALPHABET_SIZE - shift);

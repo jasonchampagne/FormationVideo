@@ -78,17 +78,17 @@ def caesar_cipher_encrypt(message, shift):
     if shift < 0:
         shift += ALPHABET_SIZE
 
-    shifted_message = ""
+    encrypted_message = ""
 
     for character in message:
         if character.isalpha():
             base = ord('A') if character.isupper() else ord('a')
             c = chr((ord(character) - base + shift) % ALPHABET_SIZE + base)
-            shifted_message += c
+            encrypted_message += c
         else:
-            shifted_message += character
+            encrypted_message += character
 
-    return shifted_message
+    return encrypted_message
 
 # Déchiffrement
 def caesar_cipher_decrypt(message, shift):

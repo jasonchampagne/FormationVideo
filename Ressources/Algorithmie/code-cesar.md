@@ -16,6 +16,7 @@
 ```c
 static const int ALPHABET_SIZE = 26;
 
+
 // Chiffrement
 void caesarCipherEncrypt(char* message, int shift)
 {
@@ -32,6 +33,7 @@ void caesarCipherEncrypt(char* message, int shift)
         }
 
 }
+
 
 // Déchiffrement
 void caesarCipherDecrypt(char* message, int shift)
@@ -60,6 +62,45 @@ void caesarCipherDecrypt(char* message, int shift)
 
 ## PHP
 
+```php
+const ALPHABET_SIZE = 26;
+
+
+// Chiffrement
+function caesarCipherEncrypt(string $message, int $shift): string
+{
+    $shift %= ALPHABET_SIZE;
+
+    if($shift < 0)
+        $shift += ALPHABET_SIZE;
+
+    $encryptedMessage = "";
+    $messageLength = strlen($message);
+
+    for($i = 0 ; $i < $messageLength ; ++$i)
+    {
+        if(ctype_alpha($message[$i]))
+        {
+            // $base = ord('a') <= ord($message[i]) && ord($message[i]) <= ord('z') ? ord('a') : ord('A');
+            $base = ctype_upper($message[$i]) ? ord('A') : ord('a');
+            $c = chr(($shift + ord($message[$i]) - $base) % ALPHABET_SIZE + $base);
+            $encryptedMessage .= $c;
+        }
+        else
+            $encryptedMessage .= $message[$i];
+    }
+
+    return $encryptedMessage;
+}
+
+
+// Déchiffrement
+function caesarCipherDecrypt(string $message, int $shift): string
+{
+    return caesarCipherEncrypt($message, ALPHABET_SIZE - $shift);
+}
+```
+
 ---
 
 ## Python
@@ -85,6 +126,7 @@ def caesar_cipher_encrypt(message, shift):
             encrypted_message += character
 
     return encrypted_message
+
 
 # Déchiffrement
 def caesar_cipher_decrypt(message, shift):

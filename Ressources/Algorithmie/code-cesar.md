@@ -108,6 +108,7 @@ function caesarCipherDecrypt(string $message, int $shift): string
 ```python
 ALPHABET_SIZE = 26
 
+
 # Chiffrement
 def caesar_cipher_encrypt(message, shift):
     shift %= ALPHABET_SIZE

@@ -24,6 +24,8 @@
 Commentaire écrit sur
 plusieurs lignes...
 //
+
+// Ou même écrit sur une seule mais bien délimité //
 ```
 
 ## Caractères d'échappement

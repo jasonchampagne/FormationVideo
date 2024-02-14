@@ -54,6 +54,46 @@ void caesarCipherDecrypt(char* message, int shift)
 
 ## Java
 
+```java
+public class CaesarCipher
+{
+    private static final int ALPHABET_SIZE = 26;
+
+    public static String encrypt(String message, int shift)
+    {
+        shift %= ALPHABET_SIZE;
+
+        if(shift < 0)
+            shift += ALPHABET_SIZE;
+
+        StringBuilder encryptedMessage = new StringBuilder();
+        int messageLength = message.length();
+
+        for(int i = 0 ; i < messageLength ; ++i)
+        {
+            char character = message.charAt(i);
+            char lowerCharacter = Character.toLowerCase(character);
+
+            if(lowerCharacter >= 'a' && lowerCharacter <= 'z')
+            {
+                char base = Character.isUpperCase(character) ? 'A' : 'a';
+                char c = (char)((character - base + shift) % ALPHABET_SIZE + base);
+                encryptedMessage.append(c);
+            }
+            else
+                encryptedMessage.append(character);
+        }
+
+        return encryptedMessage.toString();
+    }
+
+    public static String decrypt(String message, int shift)
+    {
+        return encrypt(message, ALPHABET_SIZE - shift);
+    }
+}
+```
+
 ---
 
 ## JavaScript

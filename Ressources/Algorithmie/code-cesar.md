@@ -44,6 +44,34 @@ void caesarCipherDecrypt(char* message, int shift)
 
 ## C++
 
+```cpp
+constexpr int ALPHABET_SIZE = 26;
+
+// Chiffrement
+void caesarCipherEncrypt(std::string& message, int shift)
+{
+    shift %= ALPHABET_SIZE;
+
+    if(shift < 0)
+        shift += ALPHABET_SIZE;
+
+    for(char& character : message)
+    {
+        if(std::isalpha(character))
+        {
+            char base = (character >= 'a') ? 'a' : 'A';
+            character = (character - base + shift) % ALPHABET_SIZE + base;
+        }
+    }
+}
+
+// Déchiffrement
+void caesarCipherDecrypt(std::string& message, int shift)
+{
+    return caesarCipherEncrypt(message, ALPHABET_SIZE - shift);
+}
+```
+
 ---
 
 ## C#

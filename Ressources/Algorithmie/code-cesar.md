@@ -81,7 +81,6 @@ function caesarCipherEncrypt(string $message, int $shift): string
     {
         if(ctype_alpha($message[$i]))
         {
-            // $base = ord('a') <= ord($message[i]) && ord($message[i]) <= ord('z') ? ord('a') : ord('A');
             $base = ctype_upper($message[$i]) ? ord('A') : ord('a');
             $c = chr(($shift + ord($message[$i]) - $base) % ALPHABET_SIZE + $base);
             $encryptedMessage .= $c;

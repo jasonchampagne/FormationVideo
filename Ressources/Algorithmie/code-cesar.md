@@ -48,6 +48,44 @@ void caesarCipherDecrypt(char* message, int shift)
 
 ## C#
 
+```csharp
+public class CaesarCipher
+{
+    private const int ALPHABET_SIZE = 26;
+
+    // Chiffrement
+    public static string Encrypt(string message, int shift)
+    {
+        shift %= ALPHABET_SIZE;
+
+        if(shift < 0)
+            shift += ALPHABET_SIZE;
+
+        string encryptedMessage = "";
+
+        foreach(char character in message)
+        {
+            if(char.IsLetter(character))
+            {
+                char baseCharacter = char.IsUpper(character) ? 'A' : 'a';
+                char c = (char)(((character - baseCharacter + shift) % ALPHABET_SIZE) + baseCharacter);
+                encryptedMessage += c;
+            }
+            else
+                encryptedMessage += character;
+        }
+
+        return encryptedMessage;
+    }
+
+    // Déchiffrement
+    public static string Decrypt(string message, int shift)
+    {
+        return Encrypt(message, ALPHABET_SIZE - shift);
+    }
+}
+```
+
 ---
 
 ## Java

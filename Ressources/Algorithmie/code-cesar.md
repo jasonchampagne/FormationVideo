@@ -98,6 +98,42 @@ public class CaesarCipher
 
 ## JavaScript
 
+```js
+const ALPHABET_SIZE = 26;
+
+// Chiffrement
+function caesarCipherEncrypt(message, shift)
+{
+    shift %= ALPHABET_SIZE;
+
+    if(shift < 0)
+        shift += ALPHABET_SIZE;
+
+    let encryptedMessage = "";
+    let messageLength = message.length;
+
+    for(let i = 0 ; i < messageLength ; ++i)
+    {
+        if(/[a-zA-Z]/.test(message[i]))
+        {
+            const base = message[i].toUpperCase() === message[i] ? 'A'.charCodeAt(0) : 'a'.charCodeAt(0);
+            const c = String.fromCharCode(((message[i].charCodeAt(0) - base + shift) % ALPHABET_SIZE) + base);
+            encryptedMessage += c;
+        }
+        else
+        encryptedMessage += message[i];
+    }
+
+    return encryptedMessage;
+}
+
+// Déchiffrement
+function caesarCipherDecrypt(message, shift)
+{
+    return caesarCipherEncrypt(message, ALPHABET_SIZE - shift);
+}
+```
+
 ---
 
 ## PHP

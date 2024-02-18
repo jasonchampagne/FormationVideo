@@ -1,8 +1,7 @@
 # WordPress
 
 > [!NOTE]
-> **🌐 indicates that the video is subtitled in English**<br>
-> **🖍 indique que la vidéo n'est pas encore chapitrée**
+> **🌐 indicates that the video is subtitled in English**
 
 ---
 

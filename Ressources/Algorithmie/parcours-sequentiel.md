@@ -14,7 +14,25 @@
 ## C
 
 ```c
-// code...
+#define COLLECTION_SIZE 5
+
+//--------------------------------------------------------
+
+int collection[COLLECTION_SIZE] = {1, 2, 3, 4, 5};
+int i = 0;
+
+//--------------------------------------------------------
+
+// Parcours par indice
+while(i < COLLECTION_SIZE)
+{
+    printf("%d\n", collection[i]);
+    i += 1;
+}
+
+// Parcours par indice (auto-incrémenté)
+for(i = 0 ; i < COLLECTION_SIZE ; ++i)
+    printf("%d\n", collection[i]);
 ```
 
 ---

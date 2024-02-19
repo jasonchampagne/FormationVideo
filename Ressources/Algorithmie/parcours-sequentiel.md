@@ -22,7 +22,26 @@
 ## C++
 
 ```cpp
-// code...
+std::array<int, 5> collection{1, 2, 3, 4, 5};
+std::size_t collectionSize{collection.size()};
+auto i = 0;
+
+//--------------------------------------------------------
+
+// Parcours par indice
+while(i < collectionSize)
+{
+    std::cout << collection[i] << "\n";
+    i += 1;
+}
+
+// Parcours par indice (auto-incrémenté)
+for(i = 0 ; i < collectionSize ; ++i)
+    std::cout << collection[i] << "\n";
+
+// Parcours avec variable temporaire d'itération
+for(auto& value : collection)
+    std::cout << value << "\n";
 ```
 
 ---

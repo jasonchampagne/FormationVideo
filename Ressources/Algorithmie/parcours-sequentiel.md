@@ -30,7 +30,26 @@
 ## C#
 
 ```csharp
-// code...
+int[] collection = {1, 2, 3, 4, 5};
+int collectionSize = collection.Length;
+int i = 0;
+
+//--------------------------------------------------------
+
+// Parcours par indice
+while(i < collectionSize)
+{
+    Console.WriteLine(collection[i]);
+    i += 1;
+}
+
+// Parcours par indice (auto-incrémenté)
+for(i = 0 ; i < collectionSize ; ++i)
+    Console.WriteLine(collection[i]);
+
+// Parcours avec variable temporaire d'itération
+foreach(int value in collection)
+    Console.WriteLine(value);
 ```
 
 ---

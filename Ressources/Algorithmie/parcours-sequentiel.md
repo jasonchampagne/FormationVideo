@@ -54,7 +54,26 @@
 ## PHP
 
 ```php
-// code...
+$collection = [1, 2, 3, 4, 5];
+$collectionSize = count($collection);
+$i = 0;
+
+//--------------------------------------------------------
+
+// Parcours par indice
+while($i < $collectionSize)
+{
+    echo $collection[$i].'<br>';
+    $i += 1;
+}
+
+// Parcours par indice (auto-incrémenté)
+for($i = 0 ; $i < $collectionSize ; ++$i)
+    echo $collection[$i].'<br>';
+
+// Parcours avec variable temporaire d'itération
+foreach($collection as $value)
+    echo $value.'<br>';
 ```
 
 ---

@@ -74,7 +74,7 @@ while i < taille_collection:
     i += 1
 
 # Parcours par indice (auto-incrémenté)
-for i in range(0, taille_collection):
+for i in range(taille_collection):
     print(collection[i])
 
 # Parcours avec variable temporaire d'itération

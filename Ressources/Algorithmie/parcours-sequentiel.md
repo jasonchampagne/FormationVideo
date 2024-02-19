@@ -46,7 +46,28 @@
 ## JavaScript
 
 ```javascript
-// code...
+let collection = [1, 2, 3, 4, 5];
+let collectionSize = collection.length;
+let i = 0;
+
+//--------------------------------------------------------
+
+// Parcours par indice
+while(i < collectionSize)
+{
+    console.log(collection[i]);
+    i += 1;
+}
+
+// Parcours par indice (auto-incrémenté)
+for(i = 0 ; i < collectionSize ; ++i)
+    console.log(collection[i]);
+
+// Parcours avec variable temporaire d'itération
+collection.forEach(value =>
+{
+    console.log(value);
+});
 ```
 
 ---

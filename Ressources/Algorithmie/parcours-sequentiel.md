@@ -63,18 +63,18 @@
 
 ```python
 collection = [1, 2, 3, 4, 5]
-taille_collection = len(collection)
+collection_size = len(collection)
 i = 0
 
 #--------------------------------------------------------
 
 # Parcours par indice
-while i < taille_collection:
+while i < collection_size:
     print(collection[i])
     i += 1
 
 # Parcours par indice (auto-incrémenté)
-for i in range(taille_collection):
+for i in range(collection_size):
     print(collection[i])
 
 # Parcours avec variable temporaire d'itération

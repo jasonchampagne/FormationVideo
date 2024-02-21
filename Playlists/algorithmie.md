@@ -9,6 +9,7 @@
 
 + [Présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
     + [Code de César](https://www.youtube.com/watch?v=47-kKTbGSz0)
+    + [Parcours séquentiel](https://www.youtube.com/watch?v=h97sd-d0SLo)
     + [Recherche binaire](https://www.youtube.com/watch?v=gsaQRO0cU7Q)
     + [Tri à bulles](https://www.youtube.com/watch?v=daATbeKXOhE)
 

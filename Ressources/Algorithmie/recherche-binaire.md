@@ -200,7 +200,7 @@ public class BinarySearch
 ```java
 public class BinarySearch
 {
-    public static <T extends Comparable<T>> int search(List<T> collection, T value)
+    public static <T extends Comparable<T>> int search(List<T> collection, T value) throws IllegalArgumentException
     {
         int beginIndex = 0;
         int endIndex = collection.size() - 1;
@@ -232,7 +232,7 @@ public class BinarySearch
         return searchRecursive(collection, 0, collection.size() - 1, value);
     }
 
-    private static <T extends Comparable<T>> int searchRecursive(List<T> collection, int beginIndex, int endIndex, T value)
+    private static <T extends Comparable<T>> int searchRecursive(List<T> collection, int beginIndex, int endIndex, T value) throws IllegalArgumentException
     {
         if(beginIndex > endIndex)
             throw new IllegalArgumentException("La valeur n'a pas été trouvée.");

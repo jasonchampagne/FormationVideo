@@ -530,6 +530,7 @@
 + [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
 + [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
 + [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)
++ [Sockets](https://www.youtube.com/watch?v=oYBgV474Udc)
 
 ### C#
 

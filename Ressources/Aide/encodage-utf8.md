@@ -5,7 +5,6 @@
 >
 > L'Unicode prend en charge les différents caractères de plusieurs langues (accents en français, idéogrammes chinois, etc.). Voici comment définir le bon encodage à vos fichiers depuis votre éditeur favori.
 
-**SOMMAIRE**
 + [Atom](#atom)
 + [Brackets](#brackets)
 + [Code::Blocks](#codeblocks)

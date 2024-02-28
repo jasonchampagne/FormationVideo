@@ -22,7 +22,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 
 + ✅ Contenu terminé
 + 🔄 Contenu avec publication occasionnelle
-+ ⏫ Contenu en cours de publication
++ 🔜 Contenu en cours de publication
 
 ### Guides et dépannage
 
@@ -40,7 +40,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |:--:|:--:|:--:|:--:|
 |[Algorithmie](Playlists/algorithmie.md)|🔄|-|_à venir_|
 |[Architecture](Playlists/architecture.md)|🔄|-|-|
-|[Immersion](Playlists/immersion.md)|⏫|-|-|
+|[Immersion](Playlists/immersion.md)|🔜|-|-|
 
 ### Systèmes
 
@@ -50,35 +50,35 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|
 |[GNU/Linux](Playlists/gnu-linux.md)|✅|🔄|_à venir_|
-|[Windows](Playlists/windows.md)|⏫|🔄|_à venir_|
+|[Windows](Playlists/windows.md)|🔜|🔄|_à venir_|
 
 ### Langages
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|
-|[Assembleur](Playlists/assembleur.md)|⏫|_à venir_|_à venir_|
-|[C](Playlists/c.md)|✅|🔄|⏫|
+|[Assembleur](Playlists/assembleur.md)|🔜|_à venir_|_à venir_|
+|[C](Playlists/c.md)|✅|🔄|🔜|
 |[C++](Playlists/cpp.md)|✅|_à venir_|_à venir_|
-|[C#](Playlists/csharp.md)|⏫|🔄|_à venir_|
-|[HTML/CSS](Playlists/html-css.md)|✅|🔄|⏫|
-|[Java](Playlists/java.md)|✅|🔄|⏫|
+|[C#](Playlists/csharp.md)|🔜|🔄|_à venir_|
+|[HTML/CSS](Playlists/html-css.md)|✅|🔄|🔜|
+|[Java](Playlists/java.md)|✅|🔄|🔜|
 |[JavaScript](Playlists/javascript.md)|✅|_à venir_|_à venir_|
-|[PHP](Playlists/php.md)|✅|🔄|⏫|
-|[Python](Playlists/python.md)|✅|🔄|⏫|
-|[SQL](Playlists/sql.md)|✅|🔄|⏫|
+|[PHP](Playlists/php.md)|✅|🔄|🔜|
+|[Python](Playlists/python.md)|✅|🔄|🔜|
+|[SQL](Playlists/sql.md)|✅|🔄|🔜|
 
 ### Applications
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|
-|[WordPress](Playlists/wordpress.md)|⏫|_à venir_|-|
+|[WordPress](Playlists/wordpress.md)|🔜|_à venir_|-|
 
 ### API / Bibliothèques / Cadriciels
 
 |NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|
 |[Django](Playlists/django.md)|✅|_à venir_|-|
-|[JavaFX](Playlists/javafx.md)|⏫|_à venir_|-|
+|[JavaFX](Playlists/javafx.md)|🔜|_à venir_|-|
 
 ---
 

@@ -642,6 +642,7 @@
 
 + [1. Ça fait le café ?](https://www.youtube.com/watch?v=XQ7CSHi0Yt4)
 + [2. Sous conditions](https://www.youtube.com/watch?v=yfq9qPi3PcY)
++ [3. Usine à youtubeurs](https://www.youtube.com/watch?v=CMHBask3Dv0)
 
 ### PHP
 

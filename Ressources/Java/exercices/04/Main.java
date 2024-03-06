@@ -50,7 +50,7 @@ EXERCICE JAVA #4
                   clear -> efface toute la grille
                    quit -> met fin au programme
 
-    - Dans la méthode main() de la classe App, votre programme exécute une boucle infinie jusqu'à ce
+    - Dans la méthode main() de la classe Main, votre programme exécute une boucle infinie jusqu'à ce
       que l'utilisateur ait entré la commande "quit".
 
     - N'oubliez pas de gérer les cas où :
@@ -65,7 +65,7 @@ EXERCICE JAVA #4
 import java.util.Scanner;
 
 
-public class App
+public class Main
 {
     public static void main(String[] args)
     {

@@ -38,8 +38,8 @@ EXERCICE JAVA #4
             -> GRID_MIN_LINES (nombre minimal de lignes)
             -> GRID_MAX_LINES (nombre maximal de lignes)
             -> GRID_COLUMNS (nombre de colonnes de la grille)
-            -> GRID_MIN_LINES (nombre minimal de colonnes)
-            -> GRID_MAX_LINES (nombre maximal de colonnes)
+            -> GRID_MIN_COLUMNS (nombre minimal de colonnes)
+            -> GRID_MAX_COLUMNS (nombre maximal de colonnes)
             -> GRID_POINT (caractère dessiné sur la grille)
 
     - La partie "saisie des coordonnées" est déjà écrite et est fournie dans le programme. Les commandes
@@ -77,7 +77,7 @@ public class Main
 
         while(true)
         {
-            grid.print();
+            grid.print(); // Appelle la méthode print() de Grid (à implémenter)
 
             System.out.print("COMMANDE >> ");
             String command = scanner.next();

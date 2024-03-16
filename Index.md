@@ -60,6 +60,7 @@
 + [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
 + [Patron MVC](https://www.youtube.com/watch?v=NhFTswve-8o)
 + [Patron MVVM](https://www.youtube.com/watch?v=UzGYdZSuL7Q)
++ [Pile](https://www.youtube.com/watch?v=tF7t0aNplek)
 + [Principes SOLID](https://www.youtube.com/watch?v=N0-8jXHbG3Q)
 + [Processeur](https://www.youtube.com/watch?v=2jFBKfXxeZw)
 + [Registres](https://www.youtube.com/watch?v=met394KmyZ4)

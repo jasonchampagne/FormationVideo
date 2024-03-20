@@ -517,6 +517,7 @@
 + [2. Création du site](https://www.youtube.com/watch?v=SVEy2lowH6o)
 + [3. Premier article](https://www.youtube.com/watch?v=sQ8z41KYxo8)
 + [4. Pages et navigation](https://www.youtube.com/watch?v=79T_GaKWl08)
++ [5. Thèmes](https://www.youtube.com/watch?v=QNh9cQb9Nww)
 
 ---
 

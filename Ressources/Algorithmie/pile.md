@@ -483,7 +483,7 @@ class Stack
         return $value;
     }
 
-    public function top()
+    public function top(): int
     {
         if($this->empty())
             throw new Exception("Pas de sommet, la pile est vide");
@@ -491,12 +491,12 @@ class Stack
         return $this->_values[$this->_top - 1];
     }
 
-    public function size()
+    public function size(): int
     {
         return $this->_top;
     }
 
-    public function clear()
+    public function clear(): void
     {
         while(!$this->empty())
             $this->pop();

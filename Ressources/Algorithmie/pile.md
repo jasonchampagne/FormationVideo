@@ -425,7 +425,83 @@ class Stack
 ## PHP
 
 ```php
-// À venir...
+namespace fv;
+
+
+class Stack
+{
+    private const STACK_CAPACITY = 16;
+    private $_values = [];
+    private $_top = 0;
+
+
+    public function empty(): bool
+    {
+        return $this->_top === 0;
+    }
+
+    public function full(): bool
+    {
+        return $this->_top == self::STACK_CAPACITY;
+    }
+
+    public function print(): void
+    {
+        if($this->empty())
+        {
+            echo 'Rien à afficher, la pile est vide.'.PHP_EOL;
+            return;
+        }
+
+        for($i = $this->_top - 1 ; $i >= 0 ; --$i)
+            echo '['.$this->_values[$i].']'.PHP_EOL;
+    }
+
+    public function push(int $value): void
+    {
+        if($this->full())
+        {
+            echo 'Impossible d\'ajouter une valeur, la pile est pleine.'.PHP_EOL;
+            return;
+        }
+
+        $this->_values[$this->_top] = $value;
+        $this->_top++;
+    }
+
+    public function pop(): int|null
+    {
+        if($this->empty())
+        {
+            echo 'Impossible de retirer une valeur, la pile est vide.'.PHP_EOL;
+            return null;
+        }
+
+        $value = $this->_values[$this->_top - 1];
+        $this->_top--;
+
+        return $value;
+    }
+
+    public function top()
+    {
+        if($this->empty())
+            throw new Exception("Pas de sommet, la pile est vide");
+
+        return $this->_values[$this->_top - 1];
+    }
+
+    public function size()
+    {
+        return $this->_top;
+    }
+
+    public function clear()
+    {
+        while(!$this->empty())
+            $this->pop();
+    }
+}
 ```
 
 ---

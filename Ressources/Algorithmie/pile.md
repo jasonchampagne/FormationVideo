@@ -106,7 +106,82 @@ void clear_stack(struct Stack* st)
 ## C++
 
 ```cpp
-// À venir...
+namespace fv
+{
+    constexpr int STACK_CAPACITY = 16;
+
+    class stack
+    {
+        public:
+            bool empty() const
+            {
+                return _top == 0;
+            };
+
+            bool full() const
+            {
+                return _top == STACK_CAPACITY;
+            };
+
+            void print() const
+            {
+                if(empty())
+                {
+                    std::cerr << "Rien a afficher, la pile est vide." << std::endl;
+                    return;
+                }
+
+                for(int i = _top - 1 ; i >= 0 ; --i)
+                    std::cout << "[" << _values[i] << "]" << std::endl;
+            };
+
+            void push(int value)
+            {
+                if(full())
+                {
+                    std::cerr << "Impossible d'ajouter une valeur, la pile est pleine." << std::endl;
+                    return;
+                }
+
+                _values[_top] = value;
+                _top++;
+            };
+
+            int pop()
+            {
+                if(empty())
+                    throw std::out_of_range("Impossible de retirer une valeur, la pile est vide");
+
+                int n{_values[_top]};
+                _top--;
+
+                return n;
+            };
+
+            int top() const
+            {
+                if(empty())
+                    throw std::out_of_range("Pas de sommet, la pile est vide.");
+
+                return _values[_top - 1];
+            };
+
+            int size() const
+            {
+                return _top;
+            };
+
+            void clear()
+            {
+                while(!empty())
+                    pop();
+            };
+
+        private:
+            int _values[STACK_CAPACITY] = {0};
+            int _top = 0;
+    };
+}
 ```
 
 ---

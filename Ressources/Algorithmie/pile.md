@@ -189,7 +189,77 @@ namespace fv
 ## C#
 
 ```csharp
-// À venir...
+public class Stack
+{
+    private const int STACK_CAPACITY = 16;
+    private int[] _values = new int[STACK_CAPACITY];
+    private int _top = 0;
+
+
+    public bool Empty()
+    {
+        return _top == 0;
+    }
+
+    public bool Full()
+    {
+        return _top == STACK_CAPACITY;
+    }
+
+    public void Print()
+    {
+        if(Empty())
+        {
+            Console.WriteLine("Rien à afficher, la pile est vide.");
+            return;
+        }
+
+        for(int i = _top - 1 ; i >= 0 ; --i)
+            Console.WriteLine("[" + _values[i] + "]");
+    }
+
+    public void Push(int value)
+    {
+        if(Full())
+        {
+            Console.WriteLine("Impossible d'ajouter une valeur, la pile est pleine.");
+            return;
+        }
+
+        _values[_top] = value;
+        _top++;
+    }
+
+    public int Pop()
+    {
+        if(Empty())
+            throw new InvalidOperationException("Impossible de retirer une valeur, la pile est vide.");
+
+        int value = _values[_top - 1];
+        _top--;
+
+        return value;
+    }
+
+    public int Top()
+    {
+        if(Empty())
+            throw new InvalidOperationException("Pas de sommet, la pile est vide.");
+
+        return _values[_top - 1];
+    }
+
+    public int Size()
+    {
+        return _top;
+    }
+
+    public void Clear()
+    {
+        while(!Empty())
+            Pop();
+    }
+}
 ```
 
 ---

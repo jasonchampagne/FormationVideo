@@ -345,7 +345,79 @@ public class Stack
 ## JavaScript
 
 ```js
-// À venir...
+class Stack
+{
+    constructor()
+    {
+        this.STACK_CAPACITY = 16;
+        this._values = new Array(this.STACK_CAPACITY);
+        this._top = 0;
+    }
+
+    empty()
+    {
+        return this._top === 0;
+    }
+
+    full()
+    {
+        return this._top === this.STACK_CAPACITY;
+    }
+
+    print()
+    {
+        if(this.empty())
+        {
+            console.error("Rien à afficher, la pile est vide.");
+            return;
+        }
+
+        for(let i = this._top - 1 ; i >= 0 ; --i)
+            console.log("[" + this._values[i] + "]");
+    }
+
+    push(value)
+    {
+        if(this.full())
+        {
+            console.error("Impossible d'ajouter une valeur, la pile est pleine.");
+            return;
+        }
+
+        this._values[this._top] = value;
+        this._top++;
+    }
+
+    pop()
+    {
+        if(this.empty())
+            throw new Error("Impossible de retirer une valeur, la pile est vide.");
+
+        let value = this._values[this._top - 1];
+        this._top--;
+
+        return value;
+    }
+
+    top()
+    {
+        if(this.empty())
+            throw new Error("Pas de sommet, la pile est vide.");
+
+        return this._values[this._top - 1];
+    }
+
+    size()
+    {
+        return this._top;
+    }
+
+    clear()
+    {
+        while(!this.empty())
+            this.pop();
+    }
+}
 ```
 
 ---

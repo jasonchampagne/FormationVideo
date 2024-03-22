@@ -509,5 +509,53 @@ class Stack
 ## Python
 
 ```python
-# À venir...
+class Stack:
+    STACK_CAPACITY = 16
+
+    def __init__(self):
+        self._values = [0] * self.STACK_CAPACITY
+        self._top = 0
+
+    def empty(self):
+        return self._top == 0
+
+    def full(self):
+        return self._top == self.STACK_CAPACITY
+
+    def print(self):
+        if self.empty():
+            print("Rien à afficher, la pile est vide.")
+            return
+
+        for i in range(self._top - 1, -1, -1):
+            print("[{self._values[i]}]")
+
+    def push(self, value):
+        if self.full():
+            print("Impossible d'ajouter une valeur, la pile est pleine.")
+            return
+
+        self._values[self._top] = value
+        self._top += 1
+
+    def pop(self):
+        if self.empty():
+            print("Impossible de retirer une valeur, la pile est vide.")
+            return
+
+        self._top -= 1
+        return self._values[self._top]
+
+    def top(self):
+        if self.empty():
+            raise IndexError("Pas de sommet, la pile est vide.")
+
+        return self._values[self._top - 1]
+
+    def size(self):
+        return self._top
+
+    def clear(self):
+        while not self.empty():
+            self.pop()
 ```

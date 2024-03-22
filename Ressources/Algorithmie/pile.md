@@ -72,10 +72,8 @@ int pop_stack(struct Stack* st)
         return;
     }
 
-    int value = st->values[st->top - 1];
     st->top--;
-
-    return value;
+    return st->values[st->top - 1];
 }
 
 int top_stack(struct Stack* st)
@@ -152,10 +150,8 @@ namespace fv
                 if(empty())
                     throw std::out_of_range("Impossible de retirer une valeur, la pile est vide");
 
-                int value{_values[_top - 1]};
                 _top--;
-
-                return value;
+                return _values[_top];
             };
 
             int top() const
@@ -235,10 +231,8 @@ public class Stack
         if(Empty())
             throw new InvalidOperationException("Impossible de retirer une valeur, la pile est vide.");
 
-        int value = _values[_top - 1];
         _top--;
-
-        return value;
+        return _values[_top];
     }
 
     public int Top()
@@ -312,10 +306,8 @@ public class Stack
         if(empty())
             throw new IllegalStateException("Impossible de retirer une valeur, la pile est vide.");
 
-        int value = _values[_top - 1];
         _top--;
-
-        return value;
+        return _values[_top];
     }
 
     public int top()
@@ -393,10 +385,8 @@ class Stack
         if(this.empty())
             throw new Error("Impossible de retirer une valeur, la pile est vide.");
 
-        let value = this._values[this._top - 1];
         this._top--;
-
-        return value;
+        return this._values[this._top];
     }
 
     top()
@@ -477,10 +467,8 @@ class Stack
             return null;
         }
 
-        $value = $this->_values[$this->_top - 1];
         $this->_top--;
-
-        return $value;
+        return $this->_values[$this->_top];
     }
 
     public function top(): int

@@ -135,7 +135,7 @@ namespace fv
                     std::cout << "[" << _values[i] << "]" << std::endl;
             };
 
-            void push(int value)
+            void push(const int value)
             {
                 if(full())
                 {

@@ -152,7 +152,7 @@ namespace fv
                 if(empty())
                     throw std::out_of_range("Impossible de retirer une valeur, la pile est vide");
 
-                int value{_values[_top]};
+                int value{_values[_top - 1]};
                 _top--;
 
                 return value;

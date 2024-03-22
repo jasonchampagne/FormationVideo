@@ -267,7 +267,77 @@ public class Stack
 ## Java
 
 ```java
-// À venir...
+public class Stack
+{
+    private static final int STACK_CAPACITY = 16;
+    private int[] _values = new int[STACK_CAPACITY];
+    private int _top = 0;
+
+    public boolean empty()
+    {
+        return _top == 0;
+    }
+
+    public boolean full()
+    {
+        return _top == STACK_CAPACITY;
+    }
+
+    public void print()
+    {
+        if(empty())
+        {
+            System.err.println("Rien à afficher, la pile est vide.");
+            return;
+        }
+
+        for(int i = _top - 1 ; i >= 0 ; --i)
+            System.out.println("[" + _values[i] + "]");
+    }
+
+    public void push(int value)
+    {
+        if(full())
+        {
+            System.err.println("Impossible d'ajouter une valeur, la pile est pleine.");
+            return;
+        }
+
+        _values[_top] = value;
+        _top++;
+    }
+
+    public int pop()
+    {
+        if(empty())
+            throw new IllegalStateException("Impossible de retirer une valeur, la pile est vide.");
+
+        int value = _values[_top - 1];
+        _top--;
+
+        return value;
+    }
+
+    public int top()
+    {
+        if(empty())
+            throw new IllegalStateException("Pas de sommet, la pile est vide.");
+
+        return _values[_top - 1];
+    }
+
+    public int size()
+    {
+        return _top;
+    }
+
+    public void clear()
+    {
+        while(!empty())
+            pop();
+    }
+}
+
 ```
 
 ---

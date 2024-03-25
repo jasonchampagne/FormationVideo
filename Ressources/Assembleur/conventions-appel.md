@@ -1,6 +1,8 @@
 # Conventions d'appel
 
-> 📛 **Vérifiez les conventions d'appel qui sont prises en charge par votre compilateur et/ou votre environnement de développement**
+> [!NOTE]
+> + Les registres conservés sont sauvegardés par la fonction appelée (_callee-saved_)
+> + Les registres dits "volatiles" sont sauvegardés par l'appelant (_caller-saved_)
 
 ## GNU/Linux
 

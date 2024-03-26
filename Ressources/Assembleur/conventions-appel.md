@@ -7,10 +7,10 @@
 > + [StdCall (x86)](#stdcall-x86)
 > + [Autres conventions](#autres-conventions)
 
----
 > [!NOTE]
 > + Un registre conservé appartient à l'appelant : c'est à la fonction appelée de le sauvegarder avant toute modification.
 > + Un registre volatile appartient à la fonction appelée : c'est à l'appelant de le sauvegarder avant toute modification.
+
 ---
 
 ## SystemV AMD64 ABI (x64)

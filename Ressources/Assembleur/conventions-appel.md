@@ -16,6 +16,9 @@
 
 + <ins>Paramètres</ins>
     + Entiers 64 bits : `RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9`
+    + Flottants 128 bits : `XMM0` à `XMM5`
+    + Flottants 256 bits : `YMM0` à `YMM5`
+    + Flottants 512 bits : `ZMM0` à `ZMM5`
 
 ## Vectorcall (x64)
 

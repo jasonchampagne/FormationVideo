@@ -10,21 +10,17 @@
 > [!NOTE]
 > Bla bla bla
 
----
-
-## SystemV i386 ABI (x86)
-
-> [!NOTE]
-> Bla bla bla
-
----
-
 ## Vectorcall (x64)
 
 > [!NOTE]
 > Bla bla bla
 
 ---
+
+## SystemV i386 ABI (x86)
+
+> [!NOTE]
+> Bla bla bla
 
 ## StdCall (x86)
 

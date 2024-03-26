@@ -12,7 +12,7 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|`RDI` `RSI` `RDX` `RCX` `R8` `R9`<br><br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5`|
+|Paramères|`RDI` `RSI` `RDX` `RCX` `R8` `R9` : entier 64 bits<br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5` : flottant 128 bits (SSE)<br>`YMM0` `YMM1` `YMM2` `YMM3` `YMM4` `YMM5` : flottant 256 bits (AVX)`ZMM0` `ZMM1` `ZMM2` `ZMM3` `ZMM4` `ZMM5` : flottant 512 bits (AVX-512)|
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
 |Valeur de retour|`RAX` ou `RDX` + `RAX`<br><br>`XMM0` `XMM1`|
 |Registres conservés<br>_(callee-saved)_|`RBX` `RBP` `RSP` `R12` `R13` `R14` `R15`|

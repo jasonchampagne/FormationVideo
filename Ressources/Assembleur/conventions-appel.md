@@ -35,7 +35,7 @@
 
 ### 64 bits
 
-> [Microsoft x64](https://learn.microsoft.com/en-us/cpp/build/x64-calling-convention)
+> [Microsoft x64 vectorcall](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
 
 |/|DESCRIPTION|
 |--:|:--|

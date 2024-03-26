@@ -39,6 +39,12 @@
 > [!NOTE]
 > Cette convention d'appel est utilisée sur les systèmes 64 bits Windows.
 
++ <ins>Paramètres</ins>
+    + Entiers de 64 bits : `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`
++ <ins>Valeur de retour</ins>
+    + Entier de 64 bits : `EAX`
+    + Entier de 128 bits : `EDX` + `EAX`
+
 ---
 
 ## SystemV i386 ABI (x86)

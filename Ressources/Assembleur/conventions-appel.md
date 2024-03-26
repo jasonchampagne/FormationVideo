@@ -24,7 +24,7 @@
 ## SystemV i386 ABI (x86)
 
 > [!NOTE]
-> Bla bla bla
+> Cette convention d'appel est utilisée sur les systèmes GNU/Linux, MacOS, BSD ou encore Solaris, en 32 bits.
 
 ## StdCall (x86)
 

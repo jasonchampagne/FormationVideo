@@ -15,11 +15,16 @@
 > Cette convention d'appel est utilisée sur les systèmes GNU/Linux, MacOS, BSD ou encore Solaris, en 64 bits.
 
 + <ins>Paramètres</ins>
-    + Entiers 64 bits : `RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9`
-    + Flottants 128 bits : `XMM0` à `XMM5`
-    + Flottants 256 bits : `YMM0` à `YMM5`
-    + Flottants 512 bits : `ZMM0` à `ZMM5`
-+ <ins>Paramètres supplémentaires</ins> : pile (_de droite à gauche_)
+    + Entiers de 64 bits : `RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9`
+    + Flottants de 128 bits : `XMM0` à `XMM5`
+    + Flottants de 256 bits : `YMM0` à `YMM5`
+    + Flottants de 512 bits : `ZMM0` à `ZMM5`
++ <ins>Paramètres supplémentaires</ins>
+    + pile (_de droite à gauche_)
++ <ins>Valeur de retour</ins>
+    + Entier de 64 bits : `RAX`
+    + Entier de 128 bits : `RDX` + `RAX`
+    + Flottant de 128 bits : `XMM0` + `XMM1`
 
 ## Vectorcall (x64)
 

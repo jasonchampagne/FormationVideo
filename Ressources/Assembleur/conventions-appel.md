@@ -1,5 +1,6 @@
 # Conventions d'appel
 
+<!--
 > [!NOTE]
 > + Les **registres conservés** (_callee-saved_) doivent être sauvegardés par la fonction appelée avant leur modification.
 > + Les **registres volatiles** (_caller-saved_) doivent être sauvegardés par la fonction appelante avant leur modification.
@@ -53,3 +54,4 @@
 |--:|:--|
 |Paramères<br>_(dans l'ordre)_|pile (_de droite à gauche_)|
 |Valeur de retour|`EAX`|
+-->

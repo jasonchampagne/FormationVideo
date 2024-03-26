@@ -16,7 +16,7 @@
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
 |Valeur de retour|`RAX` : entier de 64 bits<br>`RDX` + `RAX` : entier de 128 bits<br><br>`XMM0` `XMM1` : flottant de 128 bits|
 |Registres conservés<br>_(callee-saved)_|`RBX` `RBP` `RSP` `R12` `R13` `R14` `R15`|
-|Registres volatiles<br>_(caller-saved)_|`RAX` `RCX` `RDX` `RSI` `RDI` `R8` `R9` `R10` `R11`<br><br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5` `XMM6` `XMM7`<br>`XMM8` `XMM9` `XMM10` `XMM11` `XMM12` `XMM13` `XMM14` `XMM15`<br><br>`YMM0` `YMM1` `YMM2` `YMM3` `YMM4` `YMM5` `YMM6` `YMM7`<br><br>`YMM8` `YMM9` `YMM10` `YMM11` `YMM12` `YMM13` `YMM14` `YMM15`<br>`ZMM0` `ZMM1` `ZMM2` `ZMM3` `ZMM4` `ZMM5` `ZMM6` `ZMM7`<br>`ZMM8` `ZMM9` `ZMM10` `ZMM11` `ZMM12` `ZMM13` `ZMM14` `ZMM15`|
+|Registres volatiles<br>_(caller-saved)_|`RAX` `RCX` `RDX` `RSI` `RDI` `R8` `R9` `R10` `R11`<br><br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5` `XMM6` `XMM7`<br>`XMM8` `XMM9` `XMM10` `XMM11` `XMM12` `XMM13` `XMM14` `XMM15`<br><br>`YMM0` `YMM1` `YMM2` `YMM3` `YMM4` `YMM5` `YMM6` `YMM7`<br>`YMM8` `YMM9` `YMM10` `YMM11` `YMM12` `YMM13` `YMM14` `YMM15`<br><br>`ZMM0` `ZMM1` `ZMM2` `ZMM3` `ZMM4` `ZMM5` `ZMM6` `ZMM7`<br>`ZMM8` `ZMM9` `ZMM10` `ZMM11` `ZMM12` `ZMM13` `ZMM14` `ZMM15`|
 
 ### 32 bits
 

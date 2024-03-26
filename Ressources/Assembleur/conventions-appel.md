@@ -24,7 +24,8 @@
 + <ins>Valeur de retour</ins>
     + Entier de 64 bits : `RAX`
     + Entier de 128 bits : `RDX` + `RAX`
-    + Flottant de 128 bits : `XMM0` + `XMM1`
+    + Flottant de 128 bits : `XMM0`
+    + Flottant de 256 bits : `XMM0` + `XMM1`
 
 ## Vectorcall (x64)
 

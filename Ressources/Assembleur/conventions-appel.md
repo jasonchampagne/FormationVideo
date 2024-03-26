@@ -8,7 +8,7 @@
 
 ### 64 bits
 
-> [SystemV AMD64](https://www.uclibc.org/docs/psABI-x86_64.pdf)
+> [SystemV AMD64](https://cs61.seas.harvard.edu/site/pdf/x86-64-abi-20210928.pdf)
 
 |/|DESCRIPTION|
 |--:|:--|

@@ -25,7 +25,7 @@
 |/|DESCRIPTION|
 |--:|:--|
 |Paramères|`EBX` `ECX` `EDX` `ESI` `EDI` `EBP`|
-|Valeur de retour|`EAX` : entier de 32 bits<br>`EDX` + `EAX` : entier de 64 bits|
+|Valeur de retour|`EAX` ou `EDX` + `EAX`|
 |Registres conservés<br>_(callee-saved)_||
 |Registres volatiles<br>_(caller-saver)_||
 

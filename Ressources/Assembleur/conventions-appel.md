@@ -41,9 +41,12 @@
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`
++ <ins>Paramètres supplémentaires</ins>
 + <ins>Valeur de retour</ins>
     + Entier de 64 bits : `EAX`
     + Entier de 128 bits : `EDX` + `EAX`
++ <ins>Registres sauvegardés par l'appelé (_callee_)</ins>
++ <ins>Registres sauvegardés par l'appelant (_caller_)</ins>
 
 ---
 

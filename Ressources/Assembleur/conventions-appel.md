@@ -30,6 +30,9 @@
     + `RBX`, `RBP`, `RSP`, `R12` à `R15`
 + <ins>Registres sauvegardés par l'appelant (_caller_)</ins>
     + `RAX`, `RCX`, `RDX`, `RSI`, `RDI`, `R8` à `R11`
+    + `XMM0` à `XMM15`
+    + `YMM0` à `YMM15`
+    + `ZMM0` à `ZMM15`
 
 ## Vectorcall (x64)
 

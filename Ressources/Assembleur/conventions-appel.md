@@ -12,7 +12,7 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|<ins>Entiers 64 bits</ins> :<br>1<sup>er</sup> : `RDI`<br>2<sup>e</sup> : `RSI`<br>3<sup>e</sup> : `RDX`<br>4<sup>e</sup> : `RCX`<br>5<sup>e</sup> : `R8`<br>6<sup>e</sup> : `R9`|
+|Paramères<br>_(dans l'ordre)_|<ins>Entiers 64 bits</ins> :<br>1<sup>er</sup> : `RDI`<br>2<sup>e</sup> : `RSI`<br>3<sup>e</sup> : `RDX`<br>4<sup>e</sup> : `RCX`<br>5<sup>e</sup> : `R8`<br>6<sup>e</sup> : `R9`|
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
 |Valeur de retour|`RAX` ou `RDX` + `RAX`<br><br>`XMM0` `XMM1`|
 |Registres conservés<br>_(callee-saved)_|`RBX` `RBP` `RSP` `R12` `R13` `R14` `R15`|
@@ -24,7 +24,7 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|`EBX` `ECX` `EDX` `ESI` `EDI` `EBP`|
+|Paramères<br>_(dans l'ordre)_|`EBX` `ECX` `EDX` `ESI` `EDI` `EBP`|
 |Valeur de retour|`EAX` ou `EDX` + `EAX`|
 |Registres conservés<br>_(callee-saved)_||
 |Registres volatiles<br>_(caller-saver)_||
@@ -39,7 +39,7 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|`RCX` `RDX` `R8` `R9` : entiers de 64 bits<br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5` : flottants de 128 bits<br>`YMM0` `YMM1` `YMM2` `YMM3` `YMM4` `YMM5` : flottants de 256 bits|
+|Paramères<br>_(dans l'ordre)_|`RCX` `RDX` `R8` `R9` : entiers de 64 bits<br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5` : flottants de 128 bits<br>`YMM0` `YMM1` `YMM2` `YMM3` `YMM4` `YMM5` : flottants de 256 bits|
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
 |Valeur de retour|`RAX` (entier : 64 bits)<br>`XMM0` (flottant : 128 bits)|
 |Registres conservés<br>_(callee-saved)_|`RBX`, `RDI`, `RSI`, `RBP`, `RSP`, `R12`, `R13`, `R14`, `R15`<br>`XMM6`, `XMM7`, `XMM8`, `XMM9`, `XMM10`, `XMM11`, `XMM12`, `XMM13`, `XMM14`, `XMM15`|
@@ -51,5 +51,5 @@
 
 |/|DESCRIPTION|
 |--:|:--|
-|Paramères|pile (_de droite à gauche_)|
+|Paramères<br>_(dans l'ordre)_|pile (_de droite à gauche_)|
 |Valeur de retour|`EAX`|

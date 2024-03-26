@@ -1,8 +1,8 @@
 # Conventions d'appel
 
 > [!NOTE]
-> + Les **registres conservés** doivent être sauvegardés par la fonction appelée avant leur modification (_callee-saved_)
-> + Les **registres volatiles** doivent être sauvegardés par la fonction appelante avant leur modification (_caller-saved_)
+> + Les **registres conservés** (_callee-saved_) doivent être sauvegardés par la fonction appelée avant leur modification.
+> + Les **registres volatiles** (_caller-saved_) doivent être sauvegardés par la fonction appelante avant leur modification.
 
 ## GNU/Linux
 

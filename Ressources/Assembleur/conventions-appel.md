@@ -39,6 +39,13 @@
 > [!NOTE]
 > Cette convention d'appel est utilisée sur les systèmes 64 bits Windows.
 
+---
+
+## SystemV i386 ABI (x86)
+
+> [!NOTE]
+> Cette convention d'appel est utilisée sur les systèmes 32 bits GNU/Linux, MacOS, BSD ou encore Solaris.
+
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`
 + <ins>Paramètres supplémentaires</ins>
@@ -47,13 +54,6 @@
     + Entier de 128 bits : `EDX` + `EAX`
 + <ins>Registres sauvegardés par l'appelé (_callee_)</ins>
 + <ins>Registres sauvegardés par l'appelant (_caller_)</ins>
-
----
-
-## SystemV i386 ABI (x86)
-
-> [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes 32 bits GNU/Linux, MacOS, BSD ou encore Solaris.
 
 ## StdCall (x86)
 

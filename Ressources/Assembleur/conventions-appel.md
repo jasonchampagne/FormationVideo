@@ -5,18 +5,19 @@
 > + [SystemV i386 ABI (x86)](#systemv-i386-abi-x86)
 > + [Vectorcall (x64)](#vectorcall-x64)
 > + [StdCall (x86)](#stdcall-x86)
+> + [Autres conventions](#autres-conventions)
 
 ---
 
 ## SystemV AMD64 ABI (x64)
 
 > [!NOTE]
-> Bla bla bla
+> Cette convention d'appel est utilisée sur les systèmes GNU/Linux, MacOS, BSD ou encore Solaris, en 64 bits.
 
 ## Vectorcall (x64)
 
 > [!NOTE]
-> Bla bla bla
+> Cette convention d'appel est utilisée sur les systèmes Windows en 64 bits.
 
 ---
 
@@ -28,7 +29,12 @@
 ## StdCall (x86)
 
 > [!NOTE]
-> Bla bla bla
+> Cette convention d'appel est utilisée sur les systèmes Windows en 64 bits.
+
+---
+
+## Autres conventions
+
 
 <!--
 > [!NOTE]

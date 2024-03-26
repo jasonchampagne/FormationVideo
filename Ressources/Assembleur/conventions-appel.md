@@ -8,11 +8,12 @@
 > + [Autres conventions](#autres-conventions)
 
 ---
+> [!NOTE]
+> + Un registre conservé appartient à l'appelant : c'est à la fonction appelée de le sauvegarder avant toute modification.
+> + Un registre volatile appartient à la fonction appelée : c'est à l'appelant de le sauvegarder avant toute modification.
+---
 
 ## SystemV AMD64 ABI (x64)
-
-> [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes 64 bits GNU/Linux, MacOS, BSD ou encore Solaris.
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9`
@@ -36,15 +37,9 @@
 
 ## Vectorcall (x64)
 
-> [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes 64 bits Windows.
-
 ---
 
 ## SystemV i386 ABI (x86)
-
-> [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes 32 bits GNU/Linux, MacOS, BSD ou encore Solaris.
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`
@@ -56,9 +51,6 @@
 + <ins>Registres sauvegardés par l'appelant</ins>
 
 ## StdCall (x86)
-
-> [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes 32 bits Windows.
 
 ---
 

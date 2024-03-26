@@ -19,7 +19,7 @@
     + Flottants 128 bits : `XMM0` à `XMM5`
     + Flottants 256 bits : `YMM0` à `YMM5`
     + Flottants 512 bits : `ZMM0` à `ZMM5`
-+ Paramètres supplémentaires : pile (_de droite à gauche_)
++ <ins>Paramètres supplémentaires</ins> : pile (_de droite à gauche_)
 
 ## Vectorcall (x64)
 

@@ -26,9 +26,9 @@
     + Entier de 128 bits : `RDX` + `RAX`
     + Flottant de 128 bits : `XMM0`
     + Flottant de 256 bits : `XMM0` + `XMM1`
-+ <ins>Registres sauvegardés par l'appelé (_callee_)</ins>
++ <ins>Registres sauvegardés par l'appelé</ins>
     + `RBX`, `RBP`, `RSP`, `R12` à `R15`
-+ <ins>Registres sauvegardés par l'appelant (_caller_)</ins>
++ <ins>Registres sauvegardés par l'appelant</ins>
     + `RAX`, `RCX`, `RDX`, `RSI`, `RDI`, `R8` à `R11`
     + `XMM0` à `XMM15`
     + `YMM0` à `YMM15`
@@ -52,8 +52,8 @@
 + <ins>Valeur de retour</ins>
     + Entier de 64 bits : `EAX`
     + Entier de 128 bits : `EDX` + `EAX`
-+ <ins>Registres sauvegardés par l'appelé (_callee_)</ins>
-+ <ins>Registres sauvegardés par l'appelant (_caller_)</ins>
++ <ins>Registres sauvegardés par l'appelé</ins>
++ <ins>Registres sauvegardés par l'appelant</ins>
 
 ## StdCall (x86)
 

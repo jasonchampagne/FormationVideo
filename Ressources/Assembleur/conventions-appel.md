@@ -8,7 +8,7 @@
 > + [Autres conventions](#autres-conventions)
 
 > [!NOTE]
-> |TYPE DE REGISTRE|À QUI APPARTIENT-IL ?|QUI DOIT LE CONSERVER ?|
+> |REGISTRE|À QUI APPARTIENT-IL ?|QUI DOIT LE CONSERVER ?|
 > |--:|:--:|:--:|
 > |Conservé|appelant (_caller_)|appelé (_callee_)|
 > |Volatile|appelé (_callee_)|appelant (_caller_)|

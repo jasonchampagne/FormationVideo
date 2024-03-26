@@ -16,7 +16,7 @@
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
 |Valeur de retour|`RAX` : entier de 64 bits<br>`RAX` + `RDX` : entier de 128 bits<br>`XMM0` `XMM1` : flottant|
 |Registres conservés<br>_(callee-saved)_|`RBX` `RBP` `RSP` `R12` `R13` `R14` `R15`|
-|Registres volatiles<br>_(caller-saved)_|`RAX` `RCX` `RDX` `RDI` `RSI` `R8` `R9` `R10` `R11`<br>`XMM0` `XMM1` `XMM2` `XMM3` `XMM4` `XMM5` `XMM6` `XMM7`<br>`XMM8` `XMM9` `XMM10` `XMM11` `XMM12` `XMM13` `XMM14` `XMM15`|
+|Registres volatiles<br>_(caller-saved)_|`RAX` `RCX` `RDX` `RDI` `RSI` `R8` `R9` `R10` `R11`<br>`X/Y/ZMM0` `X/Y/ZMM1` `X/Y/ZMM2` `X/Y/ZMM3` `X/Y/ZMM4` `X/Y/ZMM5` `X/Y/ZMM6` `X/Y/ZMM7`<br>`X/Y/ZMM8` `X/Y/ZMM9` `X/Y/ZMM10` `X/Y/ZMM11` `X/Y/ZMM12` `X/Y/ZMM13` `X/Y/ZMM14` `X/Y/ZMM15`|
 
 ### 32 bits
 

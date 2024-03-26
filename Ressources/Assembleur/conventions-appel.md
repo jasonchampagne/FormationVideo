@@ -37,6 +37,7 @@
 
 + [cdecl](https://learn.microsoft.com/en-us/cpp/cpp/cdecl)
 + [fastcall](https://learn.microsoft.com/en-us/cpp/cpp/fastcall)
++ [thiscall](https://learn.microsoft.com/en-us/cpp/cpp/thiscall)
 
 <!--
 > [!NOTE]

@@ -26,6 +26,10 @@
     + Entier de 128 bits : `RDX` + `RAX`
     + Flottant de 128 bits : `XMM0`
     + Flottant de 256 bits : `XMM0` + `XMM1`
++ <ins>Registres sauvegardés par l'appelé (_callee_)</ins>
+    + `RBX`, `RBP`, `RSP`, `R12` à `R15`
++ <ins>Registres sauvegardés par l'appelant (_caller_)</ins>
+    + `RAX`, `RCX`, `RDX`, `RSI`, `RDI`, `R8` à `R11`
 
 ## Vectorcall (x64)
 

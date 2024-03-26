@@ -3,8 +3,8 @@
 > **SOMMAIRE**
 > + [SystemV AMD64 ABI (x64)](#systemv-amd64-abi-x64)
 > + [SystemV i386 ABI (x86)](#systemv-i386-abi-x86)
-> + [Vectorcall (x64)](#vectorcall-x64)
-> + [StdCall (x86)](#stdcall-x86)
+> + [Vectorcall (x64)](#microsoft-vectorcall-x64)
+> + [StdCall (x86)](#microsoft-stdcall-x86)
 > + [Autres conventions](#autres-conventions)
 
 > [!NOTE]
@@ -37,7 +37,7 @@
     + `YMM0` à `YMM15`
     + `ZMM0` à `ZMM15`
 
-## Vectorcall (x64)
+## [Microsoft Vectorcall (x64)](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
 
 ---
 
@@ -52,7 +52,7 @@
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
 
-## StdCall (x86)
+## [Microsoft StdCall (x86)](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 
 ---
 

@@ -14,7 +14,7 @@
 |--:|:--|
 |Paramères|`RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9` (entiers)<br>`XMM0` à `XMM7` (flottants)|
 |Paramètres supplémentaires|pile (_de droite à gauche_)|
-|Valeur de retour|`RAX` (entier : 64 bits)<br>`RAX` + `RDX` (entier : 128 bits)<br>`XMM0`, `XMM1` (flottant)|
+|Valeur de retour|`RAX` (entier : 64 bits)<br>`RAX` + `RDX` (entier : 128 bits)<br>`XMM0` + `XMM1` (flottant)|
 |Registres conservés<br>_(callee-saved)_|`RBX`, `RBP`, `RSP`, `R12` à `R15`|
 |Registres volatiles<br>_(caller-saved)_|`RAX`, `RCX`, `RDX`, `RDI`, `RSI`, `R8`, `R9`, `R10`, `R11`<br>`XMM0` à `XMM15`|
 

@@ -29,7 +29,7 @@
 ## StdCall (x86)
 
 > [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes Windows en 64 bits.
+> Cette convention d'appel est utilisée sur les systèmes Windows en 32 bits.
 
 ---
 

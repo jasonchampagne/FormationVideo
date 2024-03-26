@@ -8,8 +8,10 @@
 > + [Autres conventions](#autres-conventions)
 
 > [!NOTE]
-> + Un registre conservé appartient à l'appelant : c'est à la fonction appelée de le sauvegarder avant toute modification.
-> + Un registre volatile appartient à la fonction appelée : c'est à l'appelant de le sauvegarder avant toute modification.
+> |TYPE DE REGISTRE|À QUI APPARTIENT-IL ?|QUI DOIT LE CONSERVER ?|
+> |--:|:--:|:--:|
+> |Conservé<br>(_callee-saved_)|appelant|appelé|
+> |Volatile<br>(_caller-saved_)|appelé|appelant|
 
 ---
 

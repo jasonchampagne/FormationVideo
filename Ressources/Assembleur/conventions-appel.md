@@ -10,8 +10,8 @@
 > [!NOTE]
 > |TYPE DE REGISTRE|À QUI APPARTIENT-IL ?|QUI DOIT LE CONSERVER ?|
 > |--:|:--:|:--:|
-> |Conservé<br>(_callee-saved_)|appelant|appelé|
-> |Volatile<br>(_caller-saved_)|appelé|appelant|
+> |Conservé|appelant (_caller_)|appelé (_callee_)|
+> |Volatile|appelé (_callee_)|appelant (_caller_)|
 
 ---
 

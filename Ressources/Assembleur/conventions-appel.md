@@ -12,7 +12,7 @@
 ## SystemV AMD64 ABI (x64)
 
 > [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes GNU/Linux, MacOS, BSD ou encore Solaris, en 64 bits.
+> Cette convention d'appel est utilisée sur les systèmes 64 bits GNU/Linux, MacOS, BSD ou encore Solaris.
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9`
@@ -37,19 +37,19 @@
 ## Vectorcall (x64)
 
 > [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes Windows en 64 bits.
+> Cette convention d'appel est utilisée sur les systèmes 64 bits Windows.
 
 ---
 
 ## SystemV i386 ABI (x86)
 
 > [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes GNU/Linux, MacOS, BSD ou encore Solaris, en 32 bits.
+> Cette convention d'appel est utilisée sur les systèmes 32 bits GNU/Linux, MacOS, BSD ou encore Solaris.
 
 ## StdCall (x86)
 
 > [!NOTE]
-> Cette convention d'appel est utilisée sur les systèmes Windows en 32 bits.
+> Cette convention d'appel est utilisée sur les systèmes 32 bits Windows.
 
 ---
 

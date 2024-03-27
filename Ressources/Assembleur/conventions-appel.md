@@ -58,6 +58,8 @@
 
 ## Autres conventions
 
+> 📛 Les conventions __fortran, __pascal, ou __syscall sont obsolètes
+
 + [cdecl](https://learn.microsoft.com/en-us/cpp/cpp/cdecl)
 + [clrcall](https://learn.microsoft.com/en-us/cpp/cpp/clrcall)
 + [fastcall](https://learn.microsoft.com/en-us/cpp/cpp/fastcall)

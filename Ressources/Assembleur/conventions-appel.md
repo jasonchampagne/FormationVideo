@@ -59,5 +59,6 @@
 ## Autres conventions
 
 + [cdecl](https://learn.microsoft.com/en-us/cpp/cpp/cdecl)
++ [clrcall](https://learn.microsoft.com/en-us/cpp/cpp/clrcall)
 + [fastcall](https://learn.microsoft.com/en-us/cpp/cpp/fastcall)
 + [thiscall](https://learn.microsoft.com/en-us/cpp/cpp/thiscall)

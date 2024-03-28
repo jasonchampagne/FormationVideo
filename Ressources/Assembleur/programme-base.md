@@ -87,7 +87,7 @@ section .bss
 section .text
     global main
     main:
-        sub rsp, 40             ; Réservation du "Shadow space"
+        sub rsp, 40             ; Réservation du "Shadow Space"
 
         mov rcx, -11            ; _In_ DWORD nStdHandle
         call GetStdHandle
@@ -99,7 +99,7 @@ section .text
         mov qword [rsp + 32], 0 ; _Reserved_ LPVOID lpReserved
         call WriteConsoleA
 
-        add rsp, 40             ; Libération du "Shadow space"
+        add rsp, 40             ; Libération du "Shadow Space"
 
         xor rcx, rcx            ; [in] UINT uExitCode
         call ExitProcess

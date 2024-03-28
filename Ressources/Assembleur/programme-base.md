@@ -22,7 +22,7 @@ section .text
         mov rsi, message ; const char* buf
         mov rdx, 13 + 1  ; size_t count
         syscall
-        
+
         mov rax, 60      ; sys_exit
         mov rdi, 0       ; int error_code
         syscall

@@ -72,7 +72,37 @@ $ ld <file>.o -o <file>
 > Au total, un espace de 40 octets est à réserver (32 octets pour les quatre registres + 8 octets pour le retour de l'instruction `call`)
 
 ```asm
-d
+bits 64
+
+extern GetStdHandle
+extern WriteConsoleA
+extern ExitProcess
+
+section .data
+	message: db 'Hello World !', 10
+
+section .bss
+	written: resq 1
+
+section .text
+	global main
+	main:
+        sub rsp, 40             ; Réservation du "Shadow space"
+
+		mov rcx, -11            ; _In_ DWORD nStdHandle
+		call GetStdHandle
+
+		mov rcx, rax            ; _In_ HANDLE hConsoleOutput
+		mov rdx, message        ; _In_ const VOID* lpBuffer
+		mov r8, 13              ; _In_ DWORD nNumberOfCharsToWrite
+		mov r9, written         ; _Out_opt_ LPDWORD lpNumberOfCharsWritten
+		mov qword [rsp + 32], 0 ; _Reserved_ LPVOID lpReserved
+		call WriteConsoleA
+
+		add rsp, 40             ; Libération du "Shadow space"
+
+		xor rcx, rcx            ; [in] UINT uExitCode
+		call ExitProcess
 ```
 ```powershell
 > nasm.exe -f win64 <file>.asm -o <file>.obj

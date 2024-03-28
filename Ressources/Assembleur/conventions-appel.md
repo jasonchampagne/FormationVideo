@@ -52,11 +52,11 @@
 ## [SystemV i386 ABI (x86)](https://uclibc.org/docs/psABI-i386.pdf)
 
 + <ins>Paramètres</ins>
-    + Entiers de 64 bits : `EBX`, `ECX`, `EDX`, `ESI`, `EDI`, `EBP`
+    + Entiers de 64 bits : `ebx`, `ecx`, `edx`, `esi`, `edi`, `ebp`
 + <ins>Paramètres supplémentaires</ins>
 + <ins>Valeur de retour</ins>
-    + Entier de 64 bits : `EAX`
-    + Entier de 128 bits : `EAX` + `EDX`
+    + Entier de 64 bits : `eax`
+    + Entier de 128 bits : `eax` + `edx`
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
 

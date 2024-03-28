@@ -18,24 +18,24 @@
 ## [SystemV AMD64 ABI (x64)](https://cs61.seas.harvard.edu/site/pdf/x86-64-abi-20210928.pdf)
 
 + <ins>Paramètres</ins>
-    + Entiers de 64 bits : `RDI`, `RSI`, `RDX`, `RCX`, `R8`, `R9`
-    + Flottants de 128 bits : `XMM0` à `XMM5`
-    + Flottants de 256 bits : `YMM0` à `YMM5`
-    + Flottants de 512 bits : `ZMM0` à `ZMM5`
+    + Entiers de 64 bits : `rdi`, `rsi`, `rdx`, `rcx`, `r8`, `r9`
+    + Flottants de 128 bits : `xmm0-xmm5`
+    + Flottants de 256 bits : `ymm0-ymm5`
+    + Flottants de 512 bits : `zmm0-zmm5`
 + <ins>Paramètres supplémentaires</ins>
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
-    + Entier de 64 bits : `RAX`
-    + Entier de 128 bits : `RAX` + `RDX`
-    + Flottant de 128 bits : `XMM0`
-    + Flottant de 256 bits : `XMM0` + `XMM1`
+    + Entier de 64 bits : `rax`
+    + Entier de 128 bits : `rax` + `rdx`
+    + Flottant de 128 bits : `xmm0`
+    + Flottant de 256 bits : `xmm0` + `xmm1`
 + <ins>Registres sauvegardés par l'appelé</ins>
-    + `RBX`, `RBP`, `RSP`, `R12` à `R15`
+    + `rbx`, `rbp`, `rsp`, `r12-r15`
 + <ins>Registres sauvegardés par l'appelant</ins>
-    + `RAX`, `RCX`, `RDX`, `RSI`, `RDI`, `R8` à `R11`
-    + `XMM0` à `XMM15`
-    + `YMM0` à `YMM15`
-    + `ZMM0` à `ZMM15`
+    + `rax`, `rcx`, `rdx`, `rsi`, `rdi`, `r8-r11`
+    + `xmm0-xmm15`
+    + `ymm0-tmm15`
+    + `zmm0-zmm15`
 
 ## [Microsoft Vectorcall (x64)](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
 

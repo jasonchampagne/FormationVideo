@@ -19,9 +19,9 @@
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `rdi`, `rsi`, `rdx`, `rcx`, `r8`, `r9`
-    + Flottants de 128 bits : `xmm0...xmm5`
-    + Flottants de 256 bits : `ymm0...ymm5`
-    + Flottants de 512 bits : `zmm0...zmm5`
+    + Flottants de 128 bits : `xmm0...xmm7`
+    + Flottants de 256 bits : `ymm0...ymm7`
+    + Flottants de 512 bits : `zmm0...zmm7`
 + <ins>Paramètres supplémentaires</ins>
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>

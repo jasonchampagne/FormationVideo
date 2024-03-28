@@ -19,9 +19,9 @@
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `rdi`, `rsi`, `rdx`, `rcx`, `r8`, `r9`
-    + Flottants de 128 bits : `xmm0...xmm7`
-    + Flottants de 256 bits : `ymm0...ymm7`
-    + Flottants de 512 bits : `zmm0...zmm7`
+    + Flottants de 128 bits : `xmm0`, `xmm1`, `xmm2`, `xmm3`, `xmm4`, `xmm5`, `xmm6`, `xmm7`
+    + Flottants de 256 bits : `ymm0`, `ymm1`, `ymm2`, `ymm3`, `ymm4`, `ymm5`, `ymm6`, `ymm7`
+    + Flottants de 512 bits : `zmm0`, `zmm1`, `zmm2`, `zmm3`, `zmm4`, `zmm5`, `zmm6`, `zmm7`
 + <ins>Paramètres supplémentaires</ins>
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
@@ -37,10 +37,13 @@
     + `ymm0...tmm15`
     + `zmm0...zmm15`
 
+---
+
 ## [Microsoft Vectorcall (x64)](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `rcx`, `rdx`, `r8`, `r9`
+    + Flottants de 128 bits : `xmm0`, `xmm1`, `xmm2`, `xmm3`
 + <ins>Paramètres supplémentaires</ins>
     + pile (_de droite à gauche_)
 
@@ -56,6 +59,8 @@
     + Entier de 128 bits : `EAX` + `EDX`
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
+
+---
 
 ## [Microsoft StdCall (x86)](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 

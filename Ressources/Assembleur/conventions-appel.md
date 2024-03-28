@@ -49,6 +49,8 @@
 + <ins>Valeur de retour</ins>
     + Entier de 64 bits : `rax`
     + Flottant de 128 bits : `xmm0`
++ <ins>Registres sauvegardés par l'appelé</ins>
++ <ins>Registres sauvegardés par l'appelant</ins>
 
 ---
 
@@ -66,6 +68,12 @@
 ---
 
 ## [Microsoft StdCall (x86)](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
+
++ <ins>Paramètres</ins>
++ <ins>Paramètres supplémentaires</ins>
++ <ins>Valeur de retour</ins>
++ <ins>Registres sauvegardés par l'appelé</ins>
++ <ins>Registres sauvegardés par l'appelant</ins>
 
 ---
 

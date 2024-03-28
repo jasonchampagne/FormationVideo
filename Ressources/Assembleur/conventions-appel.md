@@ -39,6 +39,11 @@
 
 ## [Microsoft Vectorcall (x64)](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
 
++ <ins>Paramètres</ins>
+    + Entiers de 64 bits : `rcx`, `rdx`, `r8`, `r9`
++ <ins>Paramètres supplémentaires</ins>
+    + pile (_de droite à gauche_)
+
 ---
 
 ## [SystemV i386 ABI (x86)](https://uclibc.org/docs/psABI-i386.pdf)

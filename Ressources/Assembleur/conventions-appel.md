@@ -26,9 +26,9 @@
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
     + Entier de 64 bits : `rax`
-    + Entier de 128 bits : `rax` + `rdx`
+    + Entier de 128 bits : `rax`, `rdx`
     + Flottant de 128 bits : `xmm0`
-    + Flottant de 256 bits : `xmm0` + `xmm1`
+    + Flottant de 256 bits : `xmm0`, `xmm1`
 + <ins>Registres sauvegardés par l'appelé</ins>
     + `rbx`, `rbp`, `rsp`, `r12...r15`
 + <ins>Registres sauvegardés par l'appelant</ins>

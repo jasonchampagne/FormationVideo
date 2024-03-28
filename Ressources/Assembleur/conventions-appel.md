@@ -19,9 +19,9 @@
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `rdi`, `rsi`, `rdx`, `rcx`, `r8`, `r9`
-    + Flottants de 128 bits : `xmm0-xmm5`
-    + Flottants de 256 bits : `ymm0-ymm5`
-    + Flottants de 512 bits : `zmm0-zmm5`
+    + Flottants de 128 bits : `xmm0...xmm5`
+    + Flottants de 256 bits : `ymm0...ymm5`
+    + Flottants de 512 bits : `zmm0...zmm5`
 + <ins>Paramètres supplémentaires</ins>
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
@@ -30,12 +30,12 @@
     + Flottant de 128 bits : `xmm0`
     + Flottant de 256 bits : `xmm0` + `xmm1`
 + <ins>Registres sauvegardés par l'appelé</ins>
-    + `rbx`, `rbp`, `rsp`, `r12-r15`
+    + `rbx`, `rbp`, `rsp`, `r12...r15`
 + <ins>Registres sauvegardés par l'appelant</ins>
-    + `rax`, `rcx`, `rdx`, `rsi`, `rdi`, `r8-r11`
-    + `xmm0-xmm15`
-    + `ymm0-tmm15`
-    + `zmm0-zmm15`
+    + `rax`, `rcx`, `rdx`, `rsi`, `rdi`, `r8...r11`
+    + `xmm0...xmm15`
+    + `ymm0...tmm15`
+    + `zmm0...zmm15`
 
 ## [Microsoft Vectorcall (x64)](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
 

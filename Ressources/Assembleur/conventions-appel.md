@@ -46,6 +46,9 @@
     + Flottants de 128 bits : `xmm0`, `xmm1`, `xmm2`, `xmm3`
 + <ins>Paramètres supplémentaires</ins>
     + pile (_de droite à gauche_)
++ <ins>Valeur de retour</ins>
+    + Entier de 64 bits : `rax`
+    + Flottant de 128 bits : `xmm0`
 
 ---
 

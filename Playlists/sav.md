@@ -11,6 +11,7 @@
 + [CGI script python exec format error](https://www.youtube.com/watch?v=Sn41oQAla80) 🖍
 + [Mon code ne marche pas](https://www.youtube.com/watch?v=NyECg6AUfGE) 🖍
 + [No such file or directory](https://www.youtube.com/watch?v=ymzo7cGvxlo) 🖍
++ [Programme qui se ferme tout seul](https://www.youtube.com/watch?v=xd-RJPam8z0)
 + [Serveur mysqld ne démarre pas](https://www.youtube.com/watch?v=JvyM_mZqYrc) 🖍
 + [Table mysql.plugin doesn't exist](https://www.youtube.com/watch?v=ISNpuRRqqww) 🖍 🌐
 + [Tkinter has no attribute Tk](https://www.youtube.com/watch?v=PJympjnm2L8) 🖍 🌐

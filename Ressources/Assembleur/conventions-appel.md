@@ -5,7 +5,6 @@
 > + [SystemV i386](#systemv-i386)
 > + [Windows x64](#windows-x64)
 > + [Windows StdCall](#windows-stdcall)
-> + [Autres conventions](#autres-conventions)
 
 > [!NOTE]
 > |REGISTRE|À QUI APPARTIENT-IL ?|QUI DOIT LE CONSERVER ?|
@@ -85,14 +84,3 @@
 + <ins>Valeur de retour</ins>
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
-
----
-
-## Autres conventions
-
-> 📛 Les conventions __fortran, __pascal, ou __syscall sont obsolètes
-
-+ [cdecl](https://learn.microsoft.com/en-us/cpp/cpp/cdecl)
-+ [clrcall](https://learn.microsoft.com/en-us/cpp/cpp/clrcall)
-+ [fastcall](https://learn.microsoft.com/en-us/cpp/cpp/fastcall)
-+ [thiscall](https://learn.microsoft.com/en-us/cpp/cpp/thiscall)

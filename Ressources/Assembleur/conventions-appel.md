@@ -14,7 +14,7 @@
 
 ---
 
-## [SystemV AMD64 ABI (x64)](https://cs61.seas.harvard.edu/site/pdf/x86-64-abi-20210928.pdf)
+## [SystemV AMD64](https://cs61.seas.harvard.edu/site/pdf/x86-64-abi-20210928.pdf)
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `rdi`, `rsi`, `rdx`, `rcx`, `r8`, `r9`
@@ -64,7 +64,7 @@
 
 ---
 
-## [SystemV i386 ABI (x86)](https://uclibc.org/docs/psABI-i386.pdf)
+## [SystemV i386](https://uclibc.org/docs/psABI-i386.pdf)
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `ebx`, `ecx`, `edx`, `esi`, `edi`, `ebp`

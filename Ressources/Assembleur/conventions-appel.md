@@ -1,10 +1,10 @@
 # Conventions d'appel
 
 > **SOMMAIRE**
-> + [SystemV AMD64 ABI (x64)](#systemv-amd64-abi-x64)
-> + [SystemV i386 ABI (x86)](#systemv-i386-abi-x86)
-> + [Vectorcall (x64)](#microsoft-vectorcall-x64)
-> + [StdCall (x86)](#microsoft-stdcall-x86)
+> + [SystemV AMD64](#systemv-amd64)
+> + [SystemV i386](#systemv-i386)
+> + [Windows x64](#windows-x64)
+> + [Windows StdCall](#windows-stdcall)
 > + [Autres conventions](#autres-conventions)
 
 > [!NOTE]
@@ -39,7 +39,7 @@
 
 ---
 
-## [Microsoft Vectorcall (x64)](https://learn.microsoft.com/en-us/cpp/cpp/vectorcall)
+## [Windows x64](https://learn.microsoft.com/en-us/cpp/build/x64-software-conventions)
 
 + <ins>Paramètres</ins>
     + Entiers de 64 bits : `rcx`, `rdx`, `r8`, `r9`
@@ -78,7 +78,7 @@
 
 ---
 
-## [Microsoft StdCall (x86)](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
+## [Windows StdCall](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 
 + <ins>Paramètres</ins>
     + pile (_de droite à gauche_)

@@ -81,7 +81,7 @@
 ## [Microsoft StdCall (x86)](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 
 + <ins>Paramètres</ins>
-+ <ins>Paramètres supplémentaires</ins>
+    + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>

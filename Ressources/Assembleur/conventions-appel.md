@@ -64,7 +64,7 @@
 
 ---
 
-## [SystemV i386](https://uclibc.org/docs/psABI-i386.pdf)
+## [SystemV i386](https://www.sco.com/developers/devspecs/abi386-4.pdf)
 
 > À venir...
 

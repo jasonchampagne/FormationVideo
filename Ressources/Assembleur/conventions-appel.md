@@ -81,8 +81,9 @@
 + <ins>Paramètres</ins>
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
-    + Entier de 32 bits : `eax`
-    + Entier de 64 bits : `eax:edx`
+    + Entiers de 32 bits : `eax`
+    + Entiers de 64 bits : `eax:edx`
+    + Flottants de 128 bits : `st0`
 + <ins>Registres sauvegardés par l'appelé</ins>
     + `ebx`, `ebp`, `esp`, `esi`, `edi`
 + <ins>Registres sauvegardés par l'appelant</ins>

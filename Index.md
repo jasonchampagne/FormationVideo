@@ -78,6 +78,7 @@
 + [7. Conditions](https://www.youtube.com/watch?v=KYMt8tA_fe0)
 + [8. Boucles](https://www.youtube.com/watch?v=lBp9guUoA0A)
 + [9. Opérations](https://www.youtube.com/watch?v=8E8vOQuFQzQ)
++ [10. Fonctions (1/2)](https://www.youtube.com/watch?v=lW6oRlMxHXo)
 
 ### C
 

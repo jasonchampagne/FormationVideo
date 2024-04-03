@@ -82,5 +82,7 @@
     + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
     + Entier de 32 bits : `eax`
+    + Entier de 64 bits : `eax:edx`
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
+    + `eax`, `ecx`, `edx`

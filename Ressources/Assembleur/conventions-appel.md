@@ -73,6 +73,7 @@
 + <ins>Valeur de retour</ins>
     + Entiers de 32 bits : `eax`
 + <ins>Registres sauvegardés par l'appelé</ins>
+    + `ebx`, `ebp`, `esp`, `esi`, `edi`
 + <ins>Registres sauvegardés par l'appelant</ins>
 
 ---

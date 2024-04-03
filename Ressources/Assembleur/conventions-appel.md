@@ -75,6 +75,7 @@
 + <ins>Registres sauvegardés par l'appelé</ins>
     + `ebx`, `ebp`, `esp`, `esi`, `edi`
 + <ins>Registres sauvegardés par l'appelant</ins>
+    + `eax`, `ecx`, `edx`
 
 ---
 

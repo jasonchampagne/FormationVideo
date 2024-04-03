@@ -71,6 +71,7 @@
 + <ins>Paramètres</ins>
 + <ins>Paramètres supplémentaires</ins>
 + <ins>Valeur de retour</ins>
+    + Entiers de 32 bits : `eax`
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
 

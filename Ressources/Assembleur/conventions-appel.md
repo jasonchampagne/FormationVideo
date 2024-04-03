@@ -78,9 +78,9 @@
 
 ## [Windows StdCall](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 
-> À venir...
-
 + <ins>Paramètres</ins>
+    + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
+    + Entier de 32 bits : `eax`
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>

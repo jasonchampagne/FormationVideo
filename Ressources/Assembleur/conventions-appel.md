@@ -66,12 +66,11 @@
 
 ## [SystemV i386](https://uclibc.org/docs/psABI-i386.pdf)
 
+> À venir...
+
 + <ins>Paramètres</ins>
-    + Entiers de 64 bits : `ebx`, `ecx`, `edx`, `esi`, `edi`, `ebp`
 + <ins>Paramètres supplémentaires</ins>
 + <ins>Valeur de retour</ins>
-    + Entier de 64 bits : `eax`
-    + Entier de 128 bits : `eax` + `edx`
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>
 
@@ -79,8 +78,9 @@
 
 ## [Windows StdCall](https://learn.microsoft.com/en-us/cpp/cpp/stdcall)
 
+> À venir...
+
 + <ins>Paramètres</ins>
-    + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
 + <ins>Registres sauvegardés par l'appelé</ins>
 + <ins>Registres sauvegardés par l'appelant</ins>

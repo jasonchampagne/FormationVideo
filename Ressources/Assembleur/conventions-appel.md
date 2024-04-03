@@ -66,12 +66,10 @@
 
 ## [SystemV i386](https://www.sco.com/developers/devspecs/abi386-4.pdf)
 
-> À venir...
-
 + <ins>Paramètres</ins>
-+ <ins>Paramètres supplémentaires</ins>
+    + pile (_de droite à gauche_)
 + <ins>Valeur de retour</ins>
-    + Entiers de 32 bits : `eax`
+    + Entier de 32 bits : `eax`
     + Entier de 64 bits : `edx:eax`
 + <ins>Registres sauvegardés par l'appelé</ins>
     + `ebx`, `ebp`, `esp`, `esi`, `edi`

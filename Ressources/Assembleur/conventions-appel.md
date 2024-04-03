@@ -85,7 +85,7 @@
     + Entiers de 64 bits : `eax:edx`
     + Flottants de 128 bits : `st0`
 + <ins>Registres sauvegardés par l'appelé</ins>
-    + `ebx`, `ebp`, `esp`, `esi`, `edi`
+    + `ebx`, `ebp`, `esp`, `esi`, `edi`, `cs`, `ds`, `es`, `fs`, `gs`
 + <ins>Registres sauvegardés par l'appelant</ins>
     + `eax`, `ecx`, `edx`
     + `st0`, `st1`, `st2`, `st3`, `st4`, `st5`, `st6`, `st7`

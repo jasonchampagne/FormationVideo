@@ -18,6 +18,7 @@
 + [8. Boucles](https://www.youtube.com/watch?v=lBp9guUoA0A)
 + [9. Opérations](https://www.youtube.com/watch?v=8E8vOQuFQzQ)
 + [10. Fonctions (1/2)](https://www.youtube.com/watch?v=lW6oRlMxHXo)
++ [11. Fonctions (2/2)](https://www.youtube.com/watch?v=FJerdO0CIis)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE8fM7h9N60hU7TYfGumA_7)
 

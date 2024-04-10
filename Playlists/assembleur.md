@@ -23,3 +23,5 @@
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE8fM7h9N60hU7TYfGumA_7)
 
 ## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGU-qQVx2Wtrz1fKgeUqout)
+
++ [1. QCM](https://www.youtube.com/watch?v=LnSLoJs7zBw)

@@ -620,6 +620,10 @@
 
 ## 🔵 Exercices
 
+### Assembleur
+
++ [1. QCM](https://www.youtube.com/watch?v=LnSLoJs7zBw)
+
 ### C
 
 + [1. Affichage formaté](https://www.youtube.com/watch?v=JpKaxVCjAMw)

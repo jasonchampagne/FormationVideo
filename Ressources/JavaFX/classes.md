@@ -30,6 +30,7 @@
 + [SelectionMode](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/SelectionMode.html)
 + [SelectionModel](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/SelectionModel.html)
 + [Separator](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/Separator.html)
++ [SeparatorMenuItem](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/SeparatorMenuItem.html)
 + [SimpleStringProperty](https://openjfx.io/javadoc/17/javafx.base/javafx/beans/property/SimpleStringProperty.html)
 + [Slider](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/Slider.html)
 + [Stage](https://openjfx.io/javadoc/17/javafx.graphics/javafx/stage/Stage.html)

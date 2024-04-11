@@ -35,6 +35,8 @@
 + [TableView](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TableView.html)
 + [Text](https://openjfx.io/javadoc/17/javafx.graphics/javafx/scene/text/Text.html)
 + [TextAlignment](https://openjfx.io/javadoc/17/javafx.graphics/javafx/scene/text/TextAlignment.html)
++ [TreeItem](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TreeItem.html)
++ [TreeView](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TreeView.html)
 + [TextArea](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TextArea.html)
 + [TextField](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TextField.html)
 + [ToggleGroup](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/ToggleGroup.html)

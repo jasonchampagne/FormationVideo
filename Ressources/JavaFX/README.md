@@ -6,4 +6,4 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|||
+|classes|Liste des classes abordées dans le cours et les tutoriels|

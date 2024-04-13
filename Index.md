@@ -623,6 +623,7 @@
 ### Assembleur
 
 + [1. QCM](https://www.youtube.com/watch?v=LnSLoJs7zBw)
++ [2. Un petit mot](https://www.youtube.com/watch?v=-tBWFSSwWwE)
 
 ### C
 

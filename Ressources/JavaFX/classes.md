@@ -39,6 +39,7 @@
 + [Slider](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/Slider.html)
 + [Stage](https://openjfx.io/javadoc/17/javafx.graphics/javafx/stage/Stage.html)
 + [StageStyle](https://openjfx.io/javadoc/17/javafx.graphics/javafx/stage/StageStyle.html)
++ [StringProperty](https://openjfx.io/javadoc/17/javafx.base/javafx/beans/property/StringProperty.html)
 + [TableColumn](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TableColumn.html)
 + [TableView](https://openjfx.io/javadoc/17/javafx.controls/javafx/scene/control/TableView.html)
 + [Text](https://openjfx.io/javadoc/17/javafx.graphics/javafx/scene/text/Text.html)

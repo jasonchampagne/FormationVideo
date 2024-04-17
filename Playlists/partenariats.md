@@ -10,6 +10,7 @@
 + [Hostinger : hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
++ [WooCommerce : créer sa boutique en ligne chez Hostinger](https://www.youtube.com/watch?v=QrXgQZyhwrY)
 
 ### Wondershare
 

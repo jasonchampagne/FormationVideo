@@ -3,11 +3,11 @@
 > Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste toutes les vidéos des cours, tutoriels, exercices et vidéos annexes (partenariats, actualités, ...). Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
 >
 > **SOMMAIRE**
-> [Immersion]()
-> [Cours]()
-> [Tutoriels]()
-> [Exercices]()
-> [Les restes du monde]()
+> + [Immersion](#-immersion)
+> + [Cours](#-cours)
+> + [Tutoriels](#-tutoriels)
+> + [Exercices](#-exercices)
+> + [Les restes du monde](#-les-restes-du-monde)
 
 ## 🔵 Immersion
 

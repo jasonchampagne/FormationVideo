@@ -7,6 +7,7 @@
 > + [Cours](#-cours)
 > + [Tutoriels](#-tutoriels)
 > + [Exercices](#-exercices)
+> + [En direct](#-en-direct)
 > + [Les restes du monde](#-les-restes-du-monde)
 
 ---
@@ -698,6 +699,10 @@
 + [3. Le changement, c'est maintenant](https://www.youtube.com/watch?v=c_5HpHja4u0)
 + [4. Travail terminé !](https://www.youtube.com/watch?v=cem3UGra0uU)
 + [5. Ptdr c ki l'elfe ?](https://www.youtube.com/watch?v=gY4petb_SDM)
+
+---
+
+## 🔵 En direct
 
 ---
 

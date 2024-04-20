@@ -1,4 +1,4 @@
-# Classes
+# Classes et interfaces
 
 + [ActionEvent](https://openjfx.io/javadoc/22/javafx.base/javafx/event/ActionEvent.html)
 + [Application](https://openjfx.io/javadoc/22/javafx.graphics/javafx/application/Application.html)

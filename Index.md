@@ -313,6 +313,17 @@
 + [34. Communication réseau (2/2)](https://www.youtube.com/watch?v=0kHi1qO0vmQ)
 + [35. Conclusion](https://www.youtube.com/watch?v=6f3RQN9jdBU)
 
+### JavaFX
+
++ [1. Introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
++ [2. Architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
++ [3. Préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)
++ [4. Éléments de texte](https://www.youtube.com/watch?v=TmSIutrOk14)
++ [5. Éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
++ [6. Éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
++ [7. Éléments de menu](https://www.youtube.com/watch?v=qoMbUdzdKZQ)
++ [8. Évènements](https://www.youtube.com/watch?v=GDGB1z-Co5U)
+
 ### JavaScript
 
 + [1. Introduction](https://www.youtube.com/watch?v=02Xs2ySaXcs)
@@ -341,17 +352,6 @@
 + [24. Évènements](https://www.youtube.com/watch?v=uqqbVX37-vs)
 + [25. Code asynchrone](https://www.youtube.com/watch?v=l25m8s6noTg)
 + [26. Conclusion](https://www.youtube.com/watch?v=x65IyueCABg)
-
-### JavaFX
-
-+ [1. Introduction](https://www.youtube.com/watch?v=I_bpcc6R338)
-+ [2. Architecture](https://www.youtube.com/watch?v=VkbRLNwfjV4)
-+ [3. Préparation du projet](https://www.youtube.com/watch?v=0pm1kZLweVE)
-+ [4. Éléments de texte](https://www.youtube.com/watch?v=TmSIutrOk14)
-+ [5. Éléments de sélection](https://www.youtube.com/watch?v=veejlhq7Z_A)
-+ [6. Éléments de vue](https://www.youtube.com/watch?v=4vbAUTsFp3c)
-+ [7. Éléments de menu](https://www.youtube.com/watch?v=qoMbUdzdKZQ)
-+ [8. Évènements](https://www.youtube.com/watch?v=GDGB1z-Co5U)
 
 ## PHP
 

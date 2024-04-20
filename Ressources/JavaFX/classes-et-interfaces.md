@@ -42,6 +42,7 @@
 + [PropertyValueFactory](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/cell/PropertyValueFactory.html)
 + [RadioButton](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/RadioButton.html)
 + [RadioMenuItem](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/RadioMenuItem.html)
++ [Rectangle](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/shape/Rectangle.html)
 + [Scene](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/Scene.html)
 + [SelectionMode](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/SelectionMode.html)
 + [SelectionModel](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/SelectionModel.html)

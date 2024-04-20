@@ -1,6 +1,7 @@
 # Classes et interfaces
 
 + [ActionEvent](https://openjfx.io/javadoc/22/javafx.base/javafx/event/ActionEvent.html)
++ [Alert](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/Alert.html)
 + [AnchorPane](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/layout/AnchorPane.html)
 + [Application](https://openjfx.io/javadoc/22/javafx.graphics/javafx/application/Application.html)
 + [BorderPane](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/layout/BorderPane.html)

@@ -6,5 +6,5 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
-|classes|Liste des classes abordées dans le cours et les tutoriels|
+|classes-et-interfaces|Liste des classes et interfaces abordées dans le cours et les tutoriels|
 |evenements|Hiérarchie de classes et interfaces liées aux évènements|

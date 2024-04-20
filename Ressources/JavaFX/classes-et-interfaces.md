@@ -39,6 +39,7 @@
 + [HBox](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/layout/HBox.html)
 + [InputEvent](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/input/InputEvent.html)
 + [Insets](https://openjfx.io/javadoc/22/javafx.graphics/javafx/geometry/Insets.html)
++ [IntegerProperty](https://openjfx.io/javadoc/22/javafx.base/javafx/beans/property/IntegerProperty.html)
 + [KeyCode](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/input/KeyCode.html)
 + [KeyEvent](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/input/KeyEvent.html)
 + [Label](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/Label.html)

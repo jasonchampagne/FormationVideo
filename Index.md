@@ -3,7 +3,7 @@
 > Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste toutes les vidéos des cours, tutoriels, exercices et vidéos annexes (partenariats, actualités, ...). Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
 >
 > **SOMMAIRE**
-> + [Immersion](#-immersion)
+> + [Point de départ](#-point-de-départ)
 > + [Cours](#-cours)
 > + [Tutoriels](#-tutoriels)
 > + [Exercices](#-exercices)
@@ -11,10 +11,10 @@
 
 ---
 
-## 🔵 Immersion
+## 🔵 Point de départ
 
 > [!NOTE]
-> _Cette playlist est LE point de départ de l'ensemble du contenu de la chaîne !_
+> _Cette playlist **Immersion** est LE point de départ de l'ensemble du contenu de la chaîne !_
 
 + [Immersion #1 - introduction](https://www.youtube.com/watch?v=tkId1al9Q04)
 

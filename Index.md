@@ -9,6 +9,8 @@
 > + [Exercices](#-exercices)
 > + [Les restes du monde](#-les-restes-du-monde)
 
+---
+
 ## 🔵 Immersion
 
 > [!NOTE]

@@ -1,6 +1,6 @@
 # Index
 
-> Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste toutes les vidéos des cours, tutoriels et exercices. Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
+> Tu cherches un contenu bien précis sur la chaîne, ou voudrais savoir si j'ai publié une vidéo sur un sujet qui t'intéresse ? Cet index liste toutes les vidéos des cours, tutoriels, exercices et vidéos annexes (partenariats, actualités, ...). Utilise le raccourci `Ctrl + F` de ton navigateur pour faire une recherche. À défaut d'avoir trouvé ce qu'il te fallait, tu peux toujours me le demander 😉
 
 ## 🔵 Immersion
 
@@ -695,6 +695,7 @@
 ## 🔵 Les restes du monde
 
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
++ [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
 + [FormationVidéo : ce qui arrive, vos inquiétudes](https://www.youtube.com/watch?v=fNzevnH1KY4)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
@@ -703,4 +704,8 @@
 + [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
 + [Intérêt pour l'informatique](https://www.youtube.com/watch?v=DkTFQ4t6igA)
++ [Le meilleur de la conversion vidéo avec Wondershare Uniconverter](https://www.youtube.com/watch?v=qe6oXyDVQik)
++ [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)
++ [OneEntry Headless CMS](https://www.youtube.com/watch?v=noX89iLx6zA)
 + [TOP 3 des meilleurs logiciels de montage vidéo en 2024](https://www.youtube.com/watch?v=nLRzXLZFVJI)
++ [WooCommerce : créer sa boutique en ligne chez Hostinger](https://www.youtube.com/watch?v=QrXgQZyhwrY)

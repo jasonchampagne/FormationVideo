@@ -704,6 +704,12 @@
 
 ## 🔵 En direct
 
++ [Contenus à venir, vos inquiétudes (02/02/2024)](https://www.youtube.com/watch?v=fNzevnH1KY4)
++ [Oui m'dame, 10 000 abonnés ! (13/05/2017)](https://www.youtube.com/watch?v=4sKtfgOrQ4Y)
++ [Vie privée, surveillance, harcèlement (15/04/2017)](https://www.youtube.com/watch?v=amkUVQETijI)
++ [Faisons connaissance ! (04/03/2017)](https://www.youtube.com/watch?v=8ornRuB72Wo)
++ [Premier test improvisé (22/02/2017)](https://www.youtube.com/watch?v=RNLbTwdv070)
+
 ---
 
 ## 🔵 Les restes du monde

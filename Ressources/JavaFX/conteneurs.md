@@ -4,3 +4,5 @@
 
 > [!NOTE]
 > _Certaines dispositions ne sont pas illustrées sur ce schéma_
+
+![Conteneurs de disposition (layouts) des noeuds en JavaFX](https://www.zupimages.net/up/24/16/2lpm.png)

@@ -7,4 +7,5 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |classes-et-interfaces|Liste des classes et interfaces abordées dans le cours et les tutoriels|
+|conteneurs|Représentation visuelle de la disposition des noeuds selon le conteneur|
 |evenements|Hiérarchie de classes et interfaces liées aux évènements|

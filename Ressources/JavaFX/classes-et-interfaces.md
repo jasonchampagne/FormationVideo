@@ -57,6 +57,7 @@
 + [Parent](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/Parent.html)
 + [PasswordField](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/PasswordField.html)
 + [Pos](https://openjfx.io/javadoc/22/javafx.graphics/javafx/geometry/Pos.html)
++ [Priority](https://openjfx.io/javadoc/22/javafx.graphics/javafx/scene/layout/Priority.html)
 + [ProgressBar](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/ProgressBar.html)
 + [PropertyValueFactory](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/cell/PropertyValueFactory.html)
 + [RadioButton](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/RadioButton.html)

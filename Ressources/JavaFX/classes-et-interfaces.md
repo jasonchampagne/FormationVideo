@@ -72,6 +72,7 @@
 + [SelectionModel](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/SelectionModel.html)
 + [Separator](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/Separator.html)
 + [SeparatorMenuItem](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/SeparatorMenuItem.html)
++ [Side](https://openjfx.io/javadoc/22/javafx.graphics/javafx/geometry/Side.html)
 + [SimpleStringProperty](https://openjfx.io/javadoc/22/javafx.base/javafx/beans/property/SimpleStringProperty.html)
 + [Slider](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/Slider.html)
 + [SplitPane](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/SplitPane.html)

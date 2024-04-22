@@ -81,6 +81,7 @@
 + [StageStyle](https://openjfx.io/javadoc/22/javafx.graphics/javafx/stage/StageStyle.html)
 + [StringProperty](https://openjfx.io/javadoc/22/javafx.base/javafx/beans/property/StringProperty.html)
 + [Tab](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/Tab.html)
++ [TabClosingPolicy](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/TabPane.TabClosingPolicy.html)
 + [TableColumn](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/TableColumn.html)
 + [TableView](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/TableView.html)
 + [TabPane](https://openjfx.io/javadoc/22/javafx.controls/javafx/scene/control/TabPane.html)

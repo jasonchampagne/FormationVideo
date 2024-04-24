@@ -5,4 +5,4 @@
 > [!NOTE]
 > _Certaines dispositions (Group, TexFlow) ne sont pas illustrées sur ce schéma_
 
-![Conteneurs de disposition (layouts) des noeuds en JavaFX](https://www.zupimages.net/up/24/16/2lpm.png)
+![Conteneurs de disposition (layouts) des noeuds en JavaFX](https://www.zupimages.net/up/24/17/bzs6.png)

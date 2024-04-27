@@ -50,6 +50,7 @@
 + [Comparer et trier des objets](https://www.youtube.com/watch?v=rmwqHf2ZaeQ)
 + [Créer un exécutable JAR](https://www.youtube.com/watch?v=f5hvSH6x-eY) 🖍
 + [Maven](https://www.youtube.com/watch?v=Aaq3FaadNQo)
++ [Tests unitaires](https://www.youtube.com/watch?v=wIibT9Vfy5k)
 
 ## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGfwasBSNmhx0egKfahfvIq)
 

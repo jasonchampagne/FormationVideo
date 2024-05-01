@@ -57,7 +57,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |NOM|COURS|TUTORIELS|EXERCICES|
 |:--:|:--:|:--:|:--:|
 |[Assembleur](Playlists/assembleur.md)|🔜|_à venir_|🔜|
-|[C](Playlists/c.md)|✅|🟩|🔜|
+|[C](Playlists/c.md)|✅|🟩|✅|
 |[C++](Playlists/cpp.md)|✅|_à venir_|_à venir_|
 |[C#](Playlists/csharp.md)|🔜|🟩|_à venir_|
 |[HTML/CSS](Playlists/html-css.md)|✅|🟩|🔜|

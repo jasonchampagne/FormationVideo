@@ -719,6 +719,7 @@
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
++ [Filmora : sublimez vos montages vidéo avec des filtres LUT](https://www.youtube.com/watch?v=JQXB6_ZrTp8)
 + [FormationVidéo : ce qui arrive, vos inquiétudes](https://www.youtube.com/watch?v=fNzevnH1KY4)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Hostinger : créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)

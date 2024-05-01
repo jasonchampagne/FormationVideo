@@ -11,7 +11,7 @@
 |exo-6|Fichiers pour réaliser l'exercice n°6|
 |exo-9|Fichier pour réaliser l'exercice n°9|
 |exo-10|Fichier JSON pour réaliser l'exercice n°10|
-|exo-12|Archive pour réaliser l'exercice n°12|
+|exo-12|Fichiers pour réaliser l'exercice n°12|
 |fonctions-integrees|Fonctions intégrées|
 |methodes-speciales|Méthodes spéciales|
 |methodes-tests-unitaires|Méthodes usuelles pour les tests unitaires (module unittest)|

@@ -66,6 +66,7 @@
 + [Énumérations](https://www.youtube.com/watch?v=HJI5ETooMso)
 + [Environnements virtuels](https://www.youtube.com/watch?v=zW0yI3m7Ydg)
 + [Événements tkinter](https://www.youtube.com/watch?v=yZp6958SkVI) 🖍
++ [Fonction lambda](https://www.youtube.com/watch?v=uWZfob-a1jY)
 + [Formatage de texte](https://www.youtube.com/watch?v=4ApZ80RegNI) 🖍
 + [Installer des paquets](https://www.youtube.com/watch?v=MxvLhp9xJo4) 🖍
 + [Introspection](https://www.youtube.com/watch?v=JKrpRtHBZRk) 🖍

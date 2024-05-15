@@ -607,6 +607,7 @@
 + [Événements tkinter](https://www.youtube.com/watch?v=yZp6958SkVI)
 + [Fonction lambda](https://www.youtube.com/watch?v=uWZfob-a1jY)
 + [Formatage de texte](https://www.youtube.com/watch?v=4ApZ80RegNI)
++ [Gestionnaires de contexte](https://www.youtube.com/watch?v=QnEB7KpywdI)
 + [Installer des paquets](https://www.youtube.com/watch?v=MxvLhp9xJo4)
 + [Introspection](https://www.youtube.com/watch?v=JKrpRtHBZRk)
 + [Itérateurs](https://www.youtube.com/watch?v=H9FIOc-bIHU)

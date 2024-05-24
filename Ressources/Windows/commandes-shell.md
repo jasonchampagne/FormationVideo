@@ -83,6 +83,7 @@
 |[**Stop-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service)|`spsv`|Stopper un ou plusieurs services en cours d'exécution|
 |[**Suspend-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/suspend-service)|-|Mettre en pause un ou plusieurs services en cours d'exécution|
 |[**Test-Connection**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/test-connection?view=powershell-7.4)|-|Envoyer des paquets de demande d'écho ICMP (ou pings) à un ou plusieurs ordinateurs|
+|[**Test-NetConnection**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps)|`tnc`|Afficher des informations de diagnostic pour une connexion|
 |[**Test-Path**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/test-path)|-|Vérifier si tous les éléments d'un chemin d'accès existent|
 |[**Unregister-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/unregister-scheduledtask)|-|Supprimer une tâche planifiée|
 |[**Wait-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/wait-job)|`wjb`|Attendre que l'un ou l'ensemble des travaux PowerShell en cours d'exécution dans la session soient à l'état de fin|

@@ -24,6 +24,7 @@
 |[**Get-LocalGroupMember**](https://learn.microsoft.com/th-th/powershell/module/microsoft.powershell.localaccounts/get-localgroupmember)|`glgm`|Récupérer les membres d'un groupe local spécifique|
 |[**Get-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/get-localuser)|`glu`|Récupérer les utilisateurs locaux|
 |[**Get-Location**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-location)|`gl`, `pwd`|Récupérer le nom du répertoire courant|
+|[**Get-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/get-netadapter?view=windowsserver2022-ps)|-|Récupérer les propriétés de base des interfaces (cartes) réseau|
 |[**Get-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallprofile)|-|Afficher les paramètres appliqués aux profils du pare-feu|
 |[**Get-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallrule)|-|Récupèrer les règles du pare-feu de l'ordinateur cible|
 |[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2022-ps)|-|Lister les partitions|
@@ -58,6 +59,7 @@
 |[**Rename-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/rename-item)|`ren`, `rni`|Renommer un élément|
 |[**Rename-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localgroup)|`rnlg`|Renommer un groupe local|
 |[**Rename-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localuser)|`rnlu`|Renommer un utilisateur local|
+|[**Rename-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/rename-netadapter?view=windowsserver2022-ps)|-|Renommer une interface (carte) réseau|
 |[**Repair-FileIntegrity**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-fileintegrity?view=windowsserver2022-ps)|-|Réparer un fichier corrompu sur un volume NTFS ou ReFS|
 |[**Repair-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-volume?view=windowsserver2022-ps)|-|Scanner et réparer un volume|
 |[**Resize-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/resize-partition?view=windowsserver2022-ps)|-|Redimensionner une partition|

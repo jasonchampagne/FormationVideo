@@ -64,6 +64,8 @@
 |[**Remove-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-partition?view=windowsserver2022-ps)|-|Supprimer une partition sur un disque et tous ses volumes|
 |[**Remove-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-physicaldisk)|-|Supprimer un disque physique d'un pool de stockage|
 |[**Remove-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-service)|-|Supprime un service|
+|[**Remove-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbmapping?view=windowsserver2022-ps)|`rsmbm`|Supprimer le mappage d'un partage SMB|
+|[**Remove-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbshare?view=windowsserver2022-ps)|`rsmbs`|Supprimer les partages SMB spécifiés|
 |[**Rename-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/rename-item)|`ren`, `rni`|Renommer un élément|
 |[**Rename-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localgroup)|`rnlg`|Renommer un groupe local|
 |[**Rename-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localuser)|`rnlu`|Renommer un utilisateur local|

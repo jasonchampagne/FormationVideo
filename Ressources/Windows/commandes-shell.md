@@ -74,6 +74,7 @@
 |[**Restart-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/restart-netadapter?view=windowsserver2022-ps)|-|Redémarrer une interface (carte) réseau en la désactivant puis en la réactivant|
 |[**Restart-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-service)|-|Stoppe puis démarre un ou plusieurs services|
 |[**Resume-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/resume-service)|-|Reprend un ou plusieurs services suspendus|
+|[**Revoke-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/revoke-smbshareaccess?view=windowsserver2022-ps)|`rksmba`|Supprimer tous les contrôles d'accès autorisés d'un administrateur d'un partage SMB|
 |[**Set-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-item)|`si`|Remplacer la valeur d'un élément|
 |[**Set-ItemProperty**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-itemproperty)|`sp`|Créer ou modifier la valeur d'une propriété d'un élément|
 |[**Set-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localgroup)|`slg`|Modifier un groupe local|

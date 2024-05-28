@@ -2,7 +2,7 @@
 
 > _Un **élément** peut être un répertoire, un fichier, un alias, une variable, une fonction, etc._
 
-|POWERSHELL|BATCH|DESCRIPTION|
+|COMMANDE_POWERSHELL|BATCH|DESCRIPTION|
 |:--|:--|:--|
 |[**Add-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/add-localgroupmember)|`algm`|Ajouter un utilisateur à un groupe local|
 |[**Clear-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/clear-host)|`clear`, `cls`|Effacer le terminal|

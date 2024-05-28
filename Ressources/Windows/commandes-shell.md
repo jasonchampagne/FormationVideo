@@ -29,13 +29,14 @@
 |[**Get-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/get-netadapter?view=windowsserver2022-ps)|-|Récupérer les propriétés de base des interfaces (cartes) réseau|
 |[**Get-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/get-netconnectionprofile?view=windowsserver2022-ps)|-|Récupérer un profil de connexion réseau|
 |[**Get-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallprofile)|-|Afficher les paramètres appliqués aux profils du pare-feu|
-|[**Get-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallrule)|-|Récupèrer les règles du pare-feu de l'ordinateur cible|
+|[**Get-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallrule)|-|Récupérer les règles du pare-feu de l'ordinateur cible|
 |[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2022-ps)|-|Lister les partitions|
 |[**Get-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-physicaldisk?view=windowsserver2022-ps)|-|Lister les disques physiques|
 |[**Get-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process)|`gps`, `ps`|Lister les processus en cours d'exécution|
 |[**Get-ScheduledTak**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/get-scheduledtask)|-|Obtenir la liste des tâches planifiées|
 |[**Get-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-service)|`gsv`|Lister tous les services|
-|[**Get-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshareaccess?view=windowsserver2022-ps)|`gsmba`|Récupèrer les droits du partage SMB|
+|[**Get-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshare?view=windowsserver2022-ps)|`gsmbs`|Récupérer les partages SMB sur l'ordinateur|
+|[**Get-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshareaccess?view=windowsserver2022-ps)|`gsmba`|Récupérer les droits du partage SMB|
 |[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume?view=windowsserver2022-ps)|-|Lister les volumes|
 |[**Get-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Obtenir les événements des journaux sur les ordinateurs locaux et distants|
 |[**Invoke-Expression**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression)|`iex`|Exécuter des commandes ou des expressions|

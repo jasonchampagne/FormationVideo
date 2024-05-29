@@ -527,6 +527,7 @@
 + [29. Observateur d'évènements](https://www.youtube.com/watch?v=5rOA9NK3FO0)
 + [30. Pare-feu](https://www.youtube.com/watch?v=wn6UQSbXpI8)
 + [31. Interfaces réseau](https://www.youtube.com/watch?v=5Cki4GNF6Tw)
++ [32. Profils et partage réseau](https://www.youtube.com/watch?v=07To_o0RehI)
 
 ### WordPress
 

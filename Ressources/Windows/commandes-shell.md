@@ -36,6 +36,7 @@
 |[**Get-NetIPv4Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipv4protocol)|-|Récupérer les configurations de protocole IPv4|
 |[**Get-NetIPv6Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipv6protocol)|-|Récupérer les configurations de protocole IPv6|
 |[**Get-NetTCPConnection**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-nettcpconnection)|-|Récupérer les connexions TCP|
+|[**Get-NetTCPSetting**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-nettcpsetting)|-|Récupérer les informations sur les paramètres et la configuration TCP|
 |[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Lister les partitions|
 |[**Get-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-physicaldisk)|-|Lister les disques physiques|
 |[**Get-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process)|`gps`, `ps`|Lister les processus en cours d'exécution|
@@ -96,6 +97,7 @@
 |[**Set-NetIPv4Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipv4protocol)|-|Modifier les informations de configuration du protocole IPv4|
 |[**Set-NetIPv6Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipv6protocol)|-|Modifier les informations de configuration du protocole IPv6|
 |[**Set-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallprofile)|-|Configurer les paramètres des profils du pare-feu|
+|[**Set-NetTCPSetting**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-nettcpsetting)|-|Modifier les paramètres TCP|
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
 |[**Set-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/set-smbshare)|`ssmbs`|Modifier les propriétés d'un partage SMB|

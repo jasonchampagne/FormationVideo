@@ -30,6 +30,7 @@
 |[**Get-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/get-netconnectionprofile)|-|Récupérer un profil de connexion réseau|
 |[**Get-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallprofile)|-|Afficher les paramètres appliqués aux profils du pare-feu|
 |[**Get-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallrule)|-|Récupérer les règles du pare-feu de l'ordinateur cible|
+|[**Get-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipaddress)|-|Récupérer la configuration de l'adresse IP|
 |[**Get-NetIPConfiguration**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipconfiguration)|`gip`|Récupérer la configuration du réseau IP|
 |[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Lister les partitions|
 |[**Get-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-physicaldisk)|-|Lister les disques physiques|

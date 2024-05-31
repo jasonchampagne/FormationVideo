@@ -46,6 +46,7 @@
 |[**New-Item**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item)|`ni`|Créer un nouvel élément|
 |[**New-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localgroup)|`nlg`|Créer un groupe local|
 |[**New-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser)|`nlu`|Créer un utilisateur local|
+|[**New-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/new-netipaddress)|-|Créer et configurer une adresse IP|
 |[**New-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule)|-|Créer une nouvelle règle de pare-feu entrant ou sortant et l'ajouter à l'ordinateur cible|
 |[**New-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/new-partition)|-|Créer une partition sur un disque|
 |[**New-ScheduledTaskAction**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtaskaction)|-|Créer une action pour une tâche planifiée|
@@ -62,6 +63,7 @@
 |[**Remove-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localgroup)|`rlg`|Supprimer un groupe local|
 |[**Remove-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localgroupmember)|`rlgm`|Retirer un utilisateur d'un groupe local|
 |[**Remove-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localuser)|`rlu`|Supprimer un utilisateur local|
+|[**Remove-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/remove-netipaddress)|-|Supprimer une adresse IP et sa configuration|
 |[**Remove-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/remove-netfirewallrule)|-|Supprimer une ou plusieurs règles du pare-feu|
 |[**Remove-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-partition)|-|Supprimer une partition sur un disque et tous ses volumes|
 |[**Remove-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-physicaldisk)|-|Supprimer un disque physique d'un pool de stockage|

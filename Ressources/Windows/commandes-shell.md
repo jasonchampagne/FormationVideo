@@ -92,6 +92,9 @@
 |[**Set-Location**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-location)|`cd`, `chdir`, `sl`|Changer de répertoire|
 |[**Set-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/set-netconnectionprofile)|-|Modifier la catégorie de réseau d'un profil de connexion|
 |[**Set-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipaddress)|-|Modifier la configuration d'une adresse IP|
+|[**Set-NetIPInterface**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipinterface)|-|Modifier une interface IP|
+|[**Set-NetIPv4Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipv4protocol)|-|Modifier les informations de configuration du protocole IPv4|
+|[**Set-NetIPv6Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipv6protocol)|-|Modifier les informations de configuration du protocole IPv6|
 |[**Set-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallprofile)|-|Configurer les paramètres des profils du pare-feu|
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|

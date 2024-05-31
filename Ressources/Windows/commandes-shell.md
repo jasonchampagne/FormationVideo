@@ -32,6 +32,9 @@
 |[**Get-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallrule)|-|Récupérer les règles du pare-feu de l'ordinateur cible|
 |[**Get-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipaddress)|-|Récupérer la configuration de l'adresse IP|
 |[**Get-NetIPConfiguration**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipconfiguration)|`gip`|Récupérer la configuration du réseau IP|
+|[**Get-NetIPInterface**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipinterface)|-|Récupérer une interface IP|
+|[**Get-NetIPv4Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipv4protocol)|-|Récupérer les configurations de protocole IPv4|
+|[**Get-NetIPv6Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipv6protocol)|-|Récupérer les configurations de protocole IPv6|
 |[**Get-NetTCPConnection**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-nettcpconnection)|-|Récupérer les connexions TCP|
 |[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Lister les partitions|
 |[**Get-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-physicaldisk)|-|Lister les disques physiques|
@@ -88,6 +91,7 @@
 |[**Set-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localuser)|`slu`|Modifier un utilisateur local|
 |[**Set-Location**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-location)|`cd`, `chdir`, `sl`|Changer de répertoire|
 |[**Set-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/set-netconnectionprofile)|-|Modifier la catégorie de réseau d'un profil de connexion|
+|[**Set-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipaddress)|-|Modifier la configuration d'une adresse IP|
 |[**Set-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallprofile)|-|Configurer les paramètres des profils du pare-feu|
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|

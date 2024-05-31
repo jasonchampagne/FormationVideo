@@ -7,15 +7,15 @@
 |[**Add-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/add-localgroupmember)|`algm`|Ajouter un utilisateur à un groupe local|
 |[**Clear-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/clear-host)|`clear`, `cls`|Effacer le terminal|
 |[**Copy-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/copy-item)|`copy`, `cp`, `cpi`|Copier un élément d'un emplacement à un autre|
-|[**Disable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/disable-netadapter?view=windowsserver2022-ps)|-|Désactiver une interface (carte) réseau|
+|[**Disable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/disable-netadapter)|-|Désactiver une interface (carte) réseau|
 |[**Disable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/disable-netfirewallrule)|-|Désactiver une règle de pare-feu|
-|[**Enable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/enable-netadapter?view=windowsserver2022-ps)|-|Activer une interface (carte) réseau|
+|[**Enable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/enable-netadapter)|-|Activer une interface (carte) réseau|
 |[**Enable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/enable-netfirewallrule)|-|Activer une règle de pare-feu|
 |[**Get-ChildItem**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-childitem)|`gci`, `ls`, `dir`|Lister ou rechercher des répertoires et fichiers|
 |[**Get-Command**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-command)|`gcm`|Lister des commandes PowerShell|
 |[**Get-Content**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content)|`cat`, `gc`, `type`|Récupérer le contenu d'un élément|
 |[**Get-Date**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date)|-|Récupérer la date|
-|[**Get-Disk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-disk?view=windowsserver2022-ps)|-|Lister les disques (physiques et virtuels)|
+|[**Get-Disk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-disk)|-|Lister les disques (physiques et virtuels)|
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|
 |[**Get-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-item)|`gi`|Obtenir l'élément d'un emplacement spécifié|
@@ -26,32 +26,33 @@
 |[**Get-LocalGroupMember**](https://learn.microsoft.com/th-th/powershell/module/microsoft.powershell.localaccounts/get-localgroupmember)|`glgm`|Récupérer les membres d'un groupe local spécifique|
 |[**Get-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/get-localuser)|`glu`|Récupérer les utilisateurs locaux|
 |[**Get-Location**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-location)|`gl`, `pwd`|Récupérer le nom du répertoire courant|
-|[**Get-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/get-netadapter?view=windowsserver2022-ps)|-|Récupérer les propriétés de base des interfaces (cartes) réseau|
-|[**Get-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/get-netconnectionprofile?view=windowsserver2022-ps)|-|Récupérer un profil de connexion réseau|
+|[**Get-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/get-netadapter)|-|Récupérer les propriétés de base des interfaces (cartes) réseau|
+|[**Get-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/get-netconnectionprofile)|-|Récupérer un profil de connexion réseau|
 |[**Get-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallprofile)|-|Afficher les paramètres appliqués aux profils du pare-feu|
 |[**Get-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/get-netfirewallrule)|-|Récupérer les règles du pare-feu de l'ordinateur cible|
-|[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2022-ps)|-|Lister les partitions|
-|[**Get-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-physicaldisk?view=windowsserver2022-ps)|-|Lister les disques physiques|
+|[**Get-NetIPConfiguration**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipconfiguration)|-|Récupérer la configuration du réseau IP|
+|[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Lister les partitions|
+|[**Get-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-physicaldisk)|-|Lister les disques physiques|
 |[**Get-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-process)|`gps`, `ps`|Lister les processus en cours d'exécution|
 |[**Get-ScheduledTak**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/get-scheduledtask)|-|Obtenir la liste des tâches planifiées|
 |[**Get-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-service)|`gsv`|Lister tous les services|
-|[**Get-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshare?view=windowsserver2022-ps)|`gsmbs`|Récupérer les partages SMB sur l'ordinateur|
-|[**Get-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshareaccess?view=windowsserver2022-ps)|`gsmba`|Récupérer les droits du partage SMB|
-|[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume?view=windowsserver2022-ps)|-|Lister les volumes|
+|[**Get-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshare)|`gsmbs`|Récupérer les partages SMB sur l'ordinateur|
+|[**Get-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshareaccess)|`gsmba`|Récupérer les droits du partage SMB|
+|[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume)|-|Lister les volumes|
 |[**Get-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Obtenir les événements des journaux sur les ordinateurs locaux et distants|
-|[**Grant-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/grant-smbshareaccess?view=windowsserver2022-ps)|`grsmba`|Ajouter une entrée de contrôle d'accès pour un administrateur à un partage SMB|
+|[**Grant-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/grant-smbshareaccess)|`grsmba`|Ajouter une entrée de contrôle d'accès pour un administrateur à un partage SMB|
 |[**Invoke-Expression**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression)|`iex`|Exécuter des commandes ou des expressions|
 |[**New-Item**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item)|`ni`|Créer un nouvel élément|
 |[**New-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localgroup)|`nlg`|Créer un groupe local|
 |[**New-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser)|`nlu`|Créer un utilisateur local|
 |[**New-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule)|-|Créer une nouvelle règle de pare-feu entrant ou sortant et l'ajouter à l'ordinateur cible|
-|[**New-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/new-partition?view=windowsserver2022-ps)|-|Créer une partition sur un disque|
+|[**New-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/new-partition)|-|Créer une partition sur un disque|
 |[**New-ScheduledTaskAction**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtaskaction)|-|Créer une action pour une tâche planifiée|
 |[**New-ScheduledTaskTrigger**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtasktrigger)|-|Créer un déclencheur pour une tâche planifiée|
 |[**New-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-service)|-|Créée un nouveau service|
-|[**New-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbmapping?view=windowsserver2022-ps)|`nsmbm`|Créer un mappage SMB|
-|[**New-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbshare?view=windowsserver2022-ps)|`nsmbs`|Créer un partage SMB|
-|[**New-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition?view=windowsserver2022-ps)|-|Créer un volume avec un système de fichiers spécifique|
+|[**New-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbmapping)|`nsmbm`|Créer un mappage SMB|
+|[**New-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbshare)|`nsmbs`|Créer un partage SMB|
+|[**New-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Créer un volume avec un système de fichiers spécifique|
 |[**New-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/new-winevent)|-|Créer un nouvel événement pour le fournisseur d'événements spécifié|
 |[**Receive-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/receive-job)|`rcjb`|Récupérer les résultats des travaux en arrière-plan PowerShell dans la session active|
 |[**Register-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/register-scheduledtask)|-|Enregistrer une tâche planifiée|
@@ -61,32 +62,32 @@
 |[**Remove-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localgroupmember)|`rlgm`|Retirer un utilisateur d'un groupe local|
 |[**Remove-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localuser)|`rlu`|Supprimer un utilisateur local|
 |[**Remove-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/remove-netfirewallrule)|-|Supprimer une ou plusieurs règles du pare-feu|
-|[**Remove-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-partition?view=windowsserver2022-ps)|-|Supprimer une partition sur un disque et tous ses volumes|
+|[**Remove-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-partition)|-|Supprimer une partition sur un disque et tous ses volumes|
 |[**Remove-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-physicaldisk)|-|Supprimer un disque physique d'un pool de stockage|
 |[**Remove-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-service)|-|Supprime un service|
-|[**Remove-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbmapping?view=windowsserver2022-ps)|`rsmbm`|Supprimer le mappage d'un partage SMB|
-|[**Remove-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbshare?view=windowsserver2022-ps)|`rsmbs`|Supprimer les partages SMB spécifiés|
+|[**Remove-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbmapping)|`rsmbm`|Supprimer le mappage d'un partage SMB|
+|[**Remove-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbshare)|`rsmbs`|Supprimer les partages SMB spécifiés|
 |[**Rename-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/rename-item)|`ren`, `rni`|Renommer un élément|
 |[**Rename-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localgroup)|`rnlg`|Renommer un groupe local|
 |[**Rename-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localuser)|`rnlu`|Renommer un utilisateur local|
-|[**Rename-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/rename-netadapter?view=windowsserver2022-ps)|-|Renommer une interface (carte) réseau|
-|[**Repair-FileIntegrity**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-fileintegrity?view=windowsserver2022-ps)|-|Réparer un fichier corrompu sur un volume NTFS ou ReFS|
-|[**Repair-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-volume?view=windowsserver2022-ps)|-|Scanner et réparer un volume|
-|[**Resize-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/resize-partition?view=windowsserver2022-ps)|-|Redimensionner une partition|
-|[**Restart-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/restart-netadapter?view=windowsserver2022-ps)|-|Redémarrer une interface (carte) réseau en la désactivant puis en la réactivant|
+|[**Rename-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/rename-netadapter)|-|Renommer une interface (carte) réseau|
+|[**Repair-FileIntegrity**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-fileintegrity)|-|Réparer un fichier corrompu sur un volume NTFS ou ReFS|
+|[**Repair-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-volume)|-|Scanner et réparer un volume|
+|[**Resize-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/resize-partition)|-|Redimensionner une partition|
+|[**Restart-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/restart-netadapter)|-|Redémarrer une interface (carte) réseau en la désactivant puis en la réactivant|
 |[**Restart-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-service)|-|Stoppe puis démarre un ou plusieurs services|
 |[**Resume-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/resume-service)|-|Reprend un ou plusieurs services suspendus|
-|[**Revoke-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/revoke-smbshareaccess?view=windowsserver2022-ps)|`rksmba`|Supprimer tous les contrôles d'accès autorisés d'un administrateur d'un partage SMB|
+|[**Revoke-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/revoke-smbshareaccess)|`rksmba`|Supprimer tous les contrôles d'accès autorisés d'un administrateur d'un partage SMB|
 |[**Set-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-item)|`si`|Remplacer la valeur d'un élément|
 |[**Set-ItemProperty**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-itemproperty)|`sp`|Créer ou modifier la valeur d'une propriété d'un élément|
 |[**Set-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localgroup)|`slg`|Modifier un groupe local|
 |[**Set-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localuser)|`slu`|Modifier un utilisateur local|
 |[**Set-Location**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-location)|`cd`, `chdir`, `sl`|Changer de répertoire|
-|[**Set-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/set-netconnectionprofile?view=windowsserver2022-ps)|-|Modifier la catégorie de réseau d'un profil de connexion|
+|[**Set-NetConnectionProfile**](https://learn.microsoft.com/en-us/powershell/module/netconnection/set-netconnectionprofile)|-|Modifier la catégorie de réseau d'un profil de connexion|
 |[**Set-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallprofile)|-|Configurer les paramètres des profils du pare-feu|
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
-|[**Set-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/set-smbshare?view=windowsserver2022-ps)|`ssmbs`|Modifier les propriétés d'un partage SMB|
+|[**Set-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/set-smbshare)|`ssmbs`|Modifier les propriétés d'un partage SMB|
 |[**Sort-Object**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/sort-object)|`sort`|Trier des éléments|
 |[**Start-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/start-job)|`sajb`|Démarrer un travail en arrière-plan PowerShell|
 |[**Start-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)|`saps`, `start`|Démarre un ou plusieurs processus|
@@ -98,8 +99,8 @@
 |[**Stop-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/stop-scheduledtask)|-|Arrêter toutes les instances en cours d'exécution d'une tâche planifiée|
 |[**Stop-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/stop-service)|`spsv`|Stopper un ou plusieurs services en cours d'exécution|
 |[**Suspend-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/suspend-service)|-|Mettre en pause un ou plusieurs services en cours d'exécution|
-|[**Test-Connection**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/test-connection?view=powershell-7.4)|-|Envoyer des paquets de demande d'écho ICMP (ou pings) à un ou plusieurs ordinateurs|
-|[**Test-NetConnection**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps)|`tnc`|Afficher des informations de diagnostic pour une connexion|
+|[**Test-Connection**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/test-connection)|-|Envoyer des paquets de demande d'écho ICMP (ou pings) à un ou plusieurs ordinateurs|
+|[**Test-NetConnection**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection)|`tnc`|Afficher des informations de diagnostic pour une connexion|
 |[**Test-Path**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/test-path)|-|Vérifier si tous les éléments d'un chemin d'accès existent|
 |[**Unregister-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/unregister-scheduledtask)|-|Supprimer une tâche planifiée|
 |[**Wait-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/wait-job)|`wjb`|Attendre que l'un ou l'ensemble des travaux PowerShell en cours d'exécution dans la session soient à l'état de fin|

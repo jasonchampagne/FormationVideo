@@ -12,6 +12,7 @@
 |[**Disable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/disable-netfirewallrule)|-|Désactiver une règle de pare-feu|
 |[**Enable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/enable-netadapter)|-|Activer une interface (carte) réseau|
 |[**Enable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/enable-netfirewallrule)|-|Activer une règle de pare-feu|
+|[**Get-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/get-alias)|`gal`|Récupérer les alias de commandes de la session active|
 |[**Get-ChildItem**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-childitem)|`gci`, `ls`, `dir`|Lister ou rechercher des répertoires et fichiers|
 |[**Get-Command**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-command)|`gcm`|Lister des commandes PowerShell|
 |[**Get-Content**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content)|`cat`, `gc`, `type`|Récupérer le contenu d'un élément|
@@ -53,6 +54,7 @@
 |[**Get-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Obtenir les événements des journaux sur les ordinateurs locaux et distants|
 |[**Grant-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/grant-smbshareaccess)|`grsmba`|Ajouter une entrée de contrôle d'accès pour un administrateur à un partage SMB|
 |[**Invoke-Expression**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression)|`iex`|Exécuter des commandes ou des expressions|
+|[**New-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/new-alias)|`nal`|Créer un nouvel alias de commande|
 |[**New-Item**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item)|`ni`|Créer un nouvel élément|
 |[**New-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localgroup)|`nlg`|Créer un groupe local|
 |[**New-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser)|`nlu`|Créer un utilisateur local|
@@ -94,6 +96,7 @@
 |[**Restart-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-service)|-|Stoppe puis démarre un ou plusieurs services|
 |[**Resume-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/resume-service)|-|Reprend un ou plusieurs services suspendus|
 |[**Revoke-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/revoke-smbshareaccess)|`rksmba`|Supprimer tous les contrôles d'accès autorisés d'un administrateur d'un partage SMB|
+|[**Set-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/set-alias)|`sal`|Créer ou modifier un alias de commande pour la session PowerShell active|
 |[**Set-DnsClient**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclient)|-|Définir les configurations du client DNS d'une interface de l'ordinateur|
 |[**Set-DnsClientGlobalSetting**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclientglobalsetting)|-|Définir les paramètres globaux du client DNS (non spécifiques à une interface)|
 |[**Set-DnsClientServerAddress**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclientserveraddress)|-|Définir les adresses des serveurs DNS associées aux propriétés TCP/IP d'une interface|

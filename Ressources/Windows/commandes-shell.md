@@ -39,6 +39,7 @@
 |[**Get-NetIPInterface**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipinterface)|-|Récupérer une interface IP|
 |[**Get-NetIPv4Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipv4protocol)|-|Récupérer les configurations de protocole IPv4|
 |[**Get-NetIPv6Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netipv6protocol)|-|Récupérer les configurations de protocole IPv6|
+|[**Get-NetRoute**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-netroute)|-|Récupérer la table de routage IP|
 |[**Get-NetTCPConnection**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-nettcpconnection)|-|Récupérer les connexions TCP|
 |[**Get-NetTCPSetting**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/get-nettcpsetting)|-|Récupérer les informations sur les paramètres et la configuration TCP|
 |[**Get-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Lister les partitions|

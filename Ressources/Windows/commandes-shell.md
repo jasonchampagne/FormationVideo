@@ -89,6 +89,7 @@
 |[**Restart-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-service)|-|Stoppe puis démarre un ou plusieurs services|
 |[**Resume-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/resume-service)|-|Reprend un ou plusieurs services suspendus|
 |[**Revoke-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/revoke-smbshareaccess)|`rksmba`|Supprimer tous les contrôles d'accès autorisés d'un administrateur d'un partage SMB|
+|[**Set-DnsClientServerAddress**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclientserveraddress)|-|Définir les adresses des serveurs DNS associées aux propriétés TCP/IP d'une interface|
 |[**Set-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-item)|`si`|Remplacer la valeur d'un élément|
 |[**Set-ItemProperty**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-itemproperty)|`sp`|Créer ou modifier la valeur d'une propriété d'un élément|
 |[**Set-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localgroup)|`slg`|Modifier un groupe local|

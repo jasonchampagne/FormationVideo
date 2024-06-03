@@ -12,6 +12,7 @@
 |[**Disable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/disable-netfirewallrule)|-|Désactiver une règle de pare-feu|
 |[**Enable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/enable-netadapter)|-|Activer une interface (carte) réseau|
 |[**Enable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/enable-netfirewallrule)|-|Activer une règle de pare-feu|
+|[**Export-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/export-alias)|`epal`|Exporter les alias dans un fichier|
 |[**Get-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/get-alias)|`gal`|Récupérer les alias de commandes de la session active|
 |[**Get-ChildItem**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-childitem)|`gci`, `ls`, `dir`|Lister ou rechercher des répertoires et fichiers|
 |[**Get-Command**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-command)|`gcm`|Lister des commandes PowerShell|
@@ -53,6 +54,7 @@
 |[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume)|-|Lister les volumes|
 |[**Get-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Obtenir les événements des journaux sur les ordinateurs locaux et distants|
 |[**Grant-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/grant-smbshareaccess)|`grsmba`|Ajouter une entrée de contrôle d'accès pour un administrateur à un partage SMB|
+|[**Import-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/import-alias)|`ipal`|Importer des alias à partir d'un fichier|
 |[**Invoke-Expression**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression)|`iex`|Exécuter des commandes ou des expressions|
 |[**New-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/new-alias)|`nal`|Créer un nouvel alias de commande|
 |[**New-Item**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item)|`ni`|Créer un nouvel élément|

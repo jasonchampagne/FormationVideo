@@ -5,6 +5,7 @@
 |COMMANDE_POWERSHELL|BATCH|DESCRIPTION|
 |:--|:--|:--|
 |[**Add-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/add-localgroupmember)|`algm`|Ajouter un utilisateur à un groupe local|
+|[**Clear-DnsClientCache**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/clear-dnsclientcache)|-|Effacer le cache du client DNS|
 |[**Clear-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/clear-host)|`clear`, `cls`|Effacer le terminal|
 |[**Copy-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/copy-item)|`copy`, `cp`, `cpi`|Copier un élément d'un emplacement à un autre|
 |[**Disable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/disable-netadapter)|-|Désactiver une interface (carte) réseau|

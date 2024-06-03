@@ -71,6 +71,7 @@
 |[**New-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/new-winevent)|-|Créer un nouvel événement pour le fournisseur d'événements spécifié|
 |[**Receive-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/receive-job)|`rcjb`|Récupérer les résultats des travaux en arrière-plan PowerShell dans la session active|
 |[**Register-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/register-scheduledtask)|-|Enregistrer une tâche planifiée|
+|[**Remove-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/remove-alias)|-|Supprimer un alias de commande de la session active|
 |[**Remove-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/remove-item)|`del`, `erase`, `rd`, `ri`, `rm`, `rmdir`|Supprimer un élément|
 |[**Remove-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/remove-job)|`rjb`|Supprimer un travail en arrière-plan PowerShell|
 |[**Remove-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localgroup)|`rlg`|Supprimer un groupe local|

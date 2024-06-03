@@ -86,6 +86,7 @@
 |[**Repair-FileIntegrity**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-fileintegrity)|-|Réparer un fichier corrompu sur un volume NTFS ou ReFS|
 |[**Repair-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/repair-volume)|-|Scanner et réparer un volume|
 |[**Resize-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/resize-partition)|-|Redimensionner une partition|
+|[**Resolve-DnsName**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/resolve-dnsname)|-|Effectuer une résolution de requête de nom DNS pour le nom spécifié|
 |[**Restart-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/restart-netadapter)|-|Redémarrer une interface (carte) réseau en la désactivant puis en la réactivant|
 |[**Restart-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restart-service)|-|Stoppe puis démarre un ou plusieurs services|
 |[**Resume-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/resume-service)|-|Reprend un ou plusieurs services suspendus|

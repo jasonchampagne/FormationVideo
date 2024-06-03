@@ -16,6 +16,7 @@
 |[**Get-Content**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-content)|`cat`, `gc`, `type`|Récupérer le contenu d'un élément|
 |[**Get-Date**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-date)|-|Récupérer la date|
 |[**Get-Disk**](https://learn.microsoft.com/en-us/powershell/module/storage/get-disk)|-|Lister les disques (physiques et virtuels)|
+|[**Get-DnsClientServerAddress**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/get-dnsclientserveraddress)|-|Récupérer les adresses IP des serveurs DNS à partir des propriétés TCP/IP d'une interface|
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|
 |[**Get-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-item)|`gi`|Obtenir l'élément d'un emplacement spécifié|

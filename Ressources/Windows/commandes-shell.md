@@ -58,6 +58,7 @@
 |[**New-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/new-localuser)|`nlu`|Créer un utilisateur local|
 |[**New-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/new-netipaddress)|-|Créer et configurer une adresse IP|
 |[**New-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/new-netfirewallrule)|-|Créer une nouvelle règle de pare-feu entrant ou sortant et l'ajouter à l'ordinateur cible|
+|[**New-NetRoute**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/new-netroute)|-|Créer une route dans la table de routage IP|
 |[**New-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/new-partition)|-|Créer une partition sur un disque|
 |[**New-ScheduledTaskAction**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtaskaction)|-|Créer une action pour une tâche planifiée|
 |[**New-ScheduledTaskTrigger**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/new-scheduledtasktrigger)|-|Créer un déclencheur pour une tâche planifiée|

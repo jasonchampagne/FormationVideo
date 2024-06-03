@@ -76,6 +76,7 @@
 |[**Remove-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/remove-localuser)|`rlu`|Supprimer un utilisateur local|
 |[**Remove-NetIPAddress**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/remove-netipaddress)|-|Supprimer une adresse IP et sa configuration|
 |[**Remove-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/remove-netfirewallrule)|-|Supprimer une ou plusieurs règles du pare-feu|
+|[**Remove-NetRoute**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/remove-netroute)|-|Supprimer des routes de la table de routage IP|
 |[**Remove-Partition**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-partition)|-|Supprimer une partition sur un disque et tous ses volumes|
 |[**Remove-PhysicalDisk**](https://learn.microsoft.com/en-us/powershell/module/storage/remove-physicaldisk)|-|Supprimer un disque physique d'un pool de stockage|
 |[**Remove-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-service)|-|Supprime un service|
@@ -107,6 +108,7 @@
 |[**Set-NetIPv4Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipv4protocol)|-|Modifier les informations de configuration du protocole IPv4|
 |[**Set-NetIPv6Protocol**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netipv6protocol)|-|Modifier les informations de configuration du protocole IPv6|
 |[**Set-NetFirewallProfile**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallprofile)|-|Configurer les paramètres des profils du pare-feu|
+|[**Set-NetRoute**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-netroute)|-|Modifier une ou plusieurs entrées de la table de routage IP|
 |[**Set-NetTCPSetting**](https://learn.microsoft.com/en-us/powershell/module/nettcpip/set-nettcpsetting)|-|Modifier les paramètres TCP|
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|

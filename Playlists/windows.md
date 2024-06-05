@@ -41,6 +41,7 @@
 + [31. Interfaces réseau](https://www.youtube.com/watch?v=5Cki4GNF6Tw)
 + [32. Profils et partage réseau](https://www.youtube.com/watch?v=07To_o0RehI)
 + [33. Configuration IP](https://www.youtube.com/watch?v=HTVJysOVKUI)
++ [34. Configuration DNS](https://www.youtube.com/watch?v=Sby2hY6oXdg)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd)
 

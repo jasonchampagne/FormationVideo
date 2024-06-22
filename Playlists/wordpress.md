@@ -16,3 +16,5 @@
 + [7. Extensions](https://www.youtube.com/watch?v=FihPpmCM0OM)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)
+
++ [Créer sa boutique WooCommerce](https://www.youtube.com/watch?v=QrXgQZyhwrY)

@@ -641,6 +641,10 @@
 + [Registre](https://www.youtube.com/watch?v=DuwRCZiB8QE)
 + [Variable d'environnement Path](https://www.youtube.com/watch?v=M2BWTJXDJXY)
 
+### WordPress
+
++ [Créer sa boutique WooCommerce](https://www.youtube.com/watch?v=QrXgQZyhwrY)
+
 ---
 
 ## 🔵 Exercices
@@ -746,4 +750,3 @@
 + [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)
 + [OneEntry Headless CMS](https://www.youtube.com/watch?v=noX89iLx6zA)
 + [TOP 3 des meilleurs logiciels de montage vidéo en 2024](https://www.youtube.com/watch?v=nLRzXLZFVJI)
-+ [WooCommerce : créer sa boutique en ligne chez Hostinger](https://www.youtube.com/watch?v=QrXgQZyhwrY)

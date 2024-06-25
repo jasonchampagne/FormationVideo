@@ -3,7 +3,7 @@
 🔗 [Référence CSS](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
 
 > [!NOTE]
-> **La liste est encore incomplète par rapport à ce qui a été abordé en cours.**
+> **La liste est encore incomplète par rapport à ce qui a été abordé dans le cours.**
 
 ---
 > **SOMMAIRE**

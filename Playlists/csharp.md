@@ -42,6 +42,7 @@
 + [32. Bases de données](https://www.youtube.com/watch?v=wp7b5QSYQKw)
 + [33. Communication réseau (1/2)](https://www.youtube.com/watch?v=Nst4O1S20SA)
 + [34. Communication réseau (2/2)](https://www.youtube.com/watch?v=Lk-hvYvXuMw)
++ [35. Introduction LINQ](https://www.youtube.com/watch?v=bViFCrbL72c)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFkVDbvfAYgIs4S936sq652)
 

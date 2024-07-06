@@ -534,6 +534,7 @@
 + [33. Configuration IP](https://www.youtube.com/watch?v=HTVJysOVKUI)
 + [34. Configuration DNS](https://www.youtube.com/watch?v=Sby2hY6oXdg)
 + [35. Routage IP](https://www.youtube.com/watch?v=x3mvRfCA9qw)
++ [36. Premier script](https://www.youtube.com/watch?v=XNR5hAjjh1M)
 
 ### WordPress
 

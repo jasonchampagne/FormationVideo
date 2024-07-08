@@ -22,6 +22,7 @@
 |[**Get-DnsClient**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/get-dnsclient)|-|Récupérer les détails des interfaces réseau configurées sur un ordinateur|
 |[**Get-DnsClientGlobalSetting**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/get-dnsclientglobalsetting)|-|Récupérer les paramètres globaux du client DNS|
 |[**Get-DnsClientServerAddress**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/get-dnsclientserveraddress)|-|Récupérer les adresses IP des serveurs DNS à partir des propriétés TCP/IP d'une interface|
+|[**Get-ExecutionPolicy**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.security/get-executionpolicy)|-|Récupérer les stratégies d'exécution pour la session active|
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|
 |[**Get-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/get-item)|`gi`|Obtenir l'élément d'un emplacement spécifié|
@@ -103,6 +104,7 @@
 |[**Set-DnsClient**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclient)|-|Définir les configurations du client DNS d'une interface de l'ordinateur|
 |[**Set-DnsClientGlobalSetting**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclientglobalsetting)|-|Définir les paramètres globaux du client DNS (non spécifiques à une interface)|
 |[**Set-DnsClientServerAddress**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/set-dnsclientserveraddress)|-|Définir les adresses des serveurs DNS associées aux propriétés TCP/IP d'une interface|
+|[**Set-ExecutionPolicy**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.security/set-executionpolicy)|-|Définir les stratégies d’exécution de PowerShell|
 |[**Set-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-item)|`si`|Remplacer la valeur d'un élément|
 |[**Set-ItemProperty**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-itemproperty)|`sp`|Créer ou modifier la valeur d'une propriété d'un élément|
 |[**Set-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/set-localgroup)|`slg`|Modifier un groupe local|

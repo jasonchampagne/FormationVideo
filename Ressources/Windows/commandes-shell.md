@@ -7,6 +7,7 @@
 |[**Add-LocalGroupMember**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/add-localgroupmember)|`algm`|Ajouter un utilisateur à un groupe local|
 |[**Clear-DnsClientCache**](https://learn.microsoft.com/en-us/powershell/module/dnsclient/clear-dnsclientcache)|-|Effacer le cache du client DNS|
 |[**Clear-Host**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/clear-host)|`clear`, `cls`|Effacer le terminal|
+|[**Clear-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/clear-variable)|`clv`|Supprimer la valeur d'une variable|
 |[**Copy-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/copy-item)|`copy`, `cp`, `cpi`|Copier un élément d'un emplacement à un autre|
 |[**Disable-NetAdapter**](https://learn.microsoft.com/en-us/powershell/module/netadapter/disable-netadapter)|-|Désactiver une interface (carte) réseau|
 |[**Disable-NetFirewallRule**](https://learn.microsoft.com/en-us/powershell/module/netsecurity/disable-netfirewallrule)|-|Désactiver une règle de pare-feu|
@@ -71,6 +72,7 @@
 |[**New-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-service)|-|Créée un nouveau service|
 |[**New-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbmapping)|`nsmbm`|Créer un mappage SMB|
 |[**New-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/new-smbshare)|`nsmbs`|Créer un partage SMB|
+|[**New-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/new-variable)|`nv`|Créer une variable|
 |[**New-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Créer un volume avec un système de fichiers spécifique|
 |[**New-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/new-winevent)|-|Créer un nouvel événement pour le fournisseur d'événements spécifié|
 |[**Receive-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/receive-job)|`rcjb`|Récupérer les résultats des travaux en arrière-plan PowerShell dans la session active|
@@ -89,6 +91,7 @@
 |[**Remove-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-service)|-|Supprime un service|
 |[**Remove-SmbMapping**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbmapping)|`rsmbm`|Supprimer le mappage d'un partage SMB|
 |[**Remove-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/remove-smbshare)|`rsmbs`|Supprimer les partages SMB spécifiés|
+|[**Remove-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/remove-variable)|`rv`|Supprimer une variable et sa valeur|
 |[**Rename-Item**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/rename-item)|`ren`, `rni`|Renommer un élément|
 |[**Rename-LocalGroup**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localgroup)|`rnlg`|Renommer un groupe local|
 |[**Rename-LocalUser**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/rename-localuser)|`rnlu`|Renommer un utilisateur local|

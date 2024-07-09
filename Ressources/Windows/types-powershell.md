@@ -1,6 +1,12 @@
 # Types de données PowerShell
 
-
+|POWERSHELL|.NET|TAILLE|USAGE|
+|:--|:--|:--:|:--|
+|||||
+|||||
+|||||
+|||||
+|||||
 
 ---
 

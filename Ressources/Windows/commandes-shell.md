@@ -52,6 +52,7 @@
 |[**Get-Service**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-service)|`gsv`|Lister tous les services|
 |[**Get-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshare)|`gsmbs`|Récupérer les partages SMB sur l'ordinateur|
 |[**Get-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/get-smbshareaccess)|`gsmba`|Récupérer les droits du partage SMB|
+|[**Get-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/get-variable)|`gv`|Récupérer les variables définies|
 |[**Get-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-volume)|-|Lister les volumes|
 |[**Get-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Obtenir les événements des journaux sur les ordinateurs locaux et distants|
 |[**Grant-SmbShareAccess**](https://learn.microsoft.com/en-us/powershell/module/smbshare/grant-smbshareaccess)|`grsmba`|Ajouter une entrée de contrôle d'accès pour un administrateur à un partage SMB|
@@ -122,6 +123,7 @@
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
 |[**Set-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/set-smbshare)|`ssmbs`|Modifier les propriétés d'un partage SMB|
 |[**Set-StrictMode**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/set-strictmode)|-|Établir et appliquer des règles de codage dans les expressions, les scripts et les blocs de script|
+|[**Set-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/set-variable)|`set`, `sv`|Définir la valeur d'une variable (la crée si elle n'existe pas)|
 |[**Sort-Object**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/sort-object)|`sort`|Trier des éléments|
 |[**Start-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/start-job)|`sajb`|Démarrer un travail en arrière-plan PowerShell|
 |[**Start-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)|`saps`, `start`|Démarre un ou plusieurs processus|

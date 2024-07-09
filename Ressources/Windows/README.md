@@ -12,5 +12,6 @@
 |introduction-formation|Diaporama d'introduction au cours Windows|
 |path-variable|Variable Path (valeur par défaut)|
 |services-systeme|Liste des services système|
+|types-powershell|Liste de quelques types de données PowerShell|
 |variables-environnement|Variables d'environnement|
 |visual-redistributable-packages|Paquets redistribuables Visual C++|

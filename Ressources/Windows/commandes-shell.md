@@ -75,6 +75,7 @@
 |[**New-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/new-variable)|`nv`|Créer une variable|
 |[**New-Volume**](https://learn.microsoft.com/en-us/powershell/module/storage/get-partition)|-|Créer un volume avec un système de fichiers spécifique|
 |[**New-WinEvent**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/new-winevent)|-|Créer un nouvel événement pour le fournisseur d'événements spécifié|
+|[**Read-Host**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/read-host)|-|Lire une ligne d'entrée de la console|
 |[**Receive-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/receive-job)|`rcjb`|Récupérer les résultats des travaux en arrière-plan PowerShell dans la session active|
 |[**Register-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/register-scheduledtask)|-|Enregistrer une tâche planifiée|
 |[**Remove-Alias**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/remove-alias)|-|Supprimer un alias de commande de la session active|

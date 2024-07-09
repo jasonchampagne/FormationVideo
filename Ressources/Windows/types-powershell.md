@@ -4,7 +4,7 @@
 
 |POWERSHELL|.NET|TAILLE|DESCRIPTION|
 |:--|:--|:--:|:--|
-|`bool`|`System.Boolean`|8 bits|Booléen (`$true` ou `$false`)|
+|`bool`|`System.Boolean`|8 bits|Booléen (`True` ou `False`)|
 |`byte`|`System.Byte`|8 bits|Entier non signé|
 |`sbyte`|`System.SByte`|8 bits|Entier signé|
 |`char`|`System.Char`|16 bits|Caractère UTF-16|

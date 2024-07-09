@@ -1,12 +1,29 @@
 # Types de données PowerShell
 
+## Types valeur
+
 |POWERSHELL|.NET|TAILLE|USAGE|
 |:--|:--|:--:|:--|
-|||||
-|||||
-|||||
-|||||
-|||||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+
+## Types référence
+
+|POWERSHELL|.NET|TAILLE|USAGE|
+|:--|:--|:--:|:--|
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+|`aaaaa`|`BBBBB`|||
+
+## Types spéciaux
+
++ `$null`
++ `void`
 
 ---
 

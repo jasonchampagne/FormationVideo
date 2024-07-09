@@ -121,6 +121,7 @@
 |[**Set-ScheduledTask**](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/set-scheduledtask)|-|Modifier une tâche planifiée|
 |[**Set-Service**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.management/set-service)|-|Gérer un service et ses propriétés|
 |[**Set-SmbShare**](https://learn.microsoft.com/en-us/powershell/module/smbshare/set-smbshare)|`ssmbs`|Modifier les propriétés d'un partage SMB|
+|[**Set-StrictMode**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/set-strictmode)|-|Établir et appliquer des règles de codage dans les expressions, les scripts et les blocs de script|
 |[**Sort-Object**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/sort-object)|`sort`|Trier des éléments|
 |[**Start-Job**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/start-job)|`sajb`|Démarrer un travail en arrière-plan PowerShell|
 |[**Start-Process**](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/start-process)|`saps`, `start`|Démarre un ou plusieurs processus|

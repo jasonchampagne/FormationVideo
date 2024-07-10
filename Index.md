@@ -535,6 +535,7 @@
 + [34. Configuration DNS](https://www.youtube.com/watch?v=Sby2hY6oXdg)
 + [35. Routage IP](https://www.youtube.com/watch?v=x3mvRfCA9qw)
 + [36. Premier script](https://www.youtube.com/watch?v=XNR5hAjjh1M)
++ [37. Types de données](https://www.youtube.com/watch?v=BNfo9ajRIqo)
 
 ### WordPress
 

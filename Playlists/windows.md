@@ -45,6 +45,7 @@
 + [35. Routage IP](https://www.youtube.com/watch?v=x3mvRfCA9qw)
 + [36. Premier script](https://www.youtube.com/watch?v=XNR5hAjjh1M)
 + [37. Types de données](https://www.youtube.com/watch?v=BNfo9ajRIqo)
++ [38. Variables](https://www.youtube.com/watch?v=ScSF9076LvY)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd)
 

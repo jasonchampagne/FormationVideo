@@ -552,6 +552,10 @@
 
 ## 🔵 Tutoriels
 
+### Assembleur
+
++ [Appeler une fonction du langage C](https://www.youtube.com/watch?v=LJ1xsmQpiTs)
+
 ### C
 
 + [Afficher des images (SDL)](https://www.youtube.com/watch?v=ZJrXO8hKpS8)

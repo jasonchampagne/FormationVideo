@@ -21,8 +21,8 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 ## Contenus disponibles
 
 + ✅ Contenu terminé
-+ 🟩 Contenu avec publication occasionnelle
-+ 🔜 Contenu en cours de publication
++ 🟩 Contenu avec publication sans fin
++ 🔜 Contenu à terminer
 
 ### Guides et dépannage
 

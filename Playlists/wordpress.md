@@ -14,6 +14,7 @@
 + [5. Thèmes](https://www.youtube.com/watch?v=QNh9cQb9Nww)
 + [6. Utilisateurs](https://www.youtube.com/watch?v=0EwgV9_5z3E)
 + [7. Extensions](https://www.youtube.com/watch?v=FihPpmCM0OM)
++ [8. Introduction développement](https://www.youtube.com/watch?v=YeFehjGkGSg)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)
 

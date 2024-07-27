@@ -47,6 +47,7 @@
 + [37. Types de données](https://www.youtube.com/watch?v=BNfo9ajRIqo)
 + [38. Variables](https://www.youtube.com/watch?v=ScSF9076LvY)
 + [39. Affichage et saisie](https://www.youtube.com/watch?v=Aep7S24nGTw)
++ [40. Opérateurs](https://www.youtube.com/watch?v=o2DeAmAdHmE)
 
 ## [Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrcRVrJ2ELX2_160l_CpQd)
 

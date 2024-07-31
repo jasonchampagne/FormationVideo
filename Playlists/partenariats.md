@@ -14,6 +14,7 @@
 ### Wondershare
 
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
++ [Filmora : montage vidéo complet pour débutants](https://www.youtube.com/watch?v=3T_CcjieaW0)
 + [Filmora : sublimez vos montages vidéo avec des filtres LUT](https://www.youtube.com/watch?v=JQXB6_ZrTp8)
 + [Le meilleur de la conversion vidéo avec Wondershare Uniconverter](https://www.youtube.com/watch?v=qe6oXyDVQik)
 + [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)

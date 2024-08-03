@@ -37,6 +37,7 @@
 + [Expressions rationnelles](https://www.youtube.com/watch?v=f3QwwnvSQ50)
 + [FFmpeg - convertir des fichiers média](https://www.youtube.com/watch?v=gIZzxPgilCA)
 + [GCC - compilation en C/C++](https://www.youtube.com/watch?v=gr44z0Fyx_Y)
++ [GDB - débogage en C/C++](https://www.youtube.com/watch?v=uEYlttTe3jE)
 + [Git - gérer plusieurs versions de fichiers](https://www.youtube.com/watch?v=CEb_JM_hsFw&)
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw)
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE)

@@ -25,6 +25,7 @@
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8) 🖍
 + [Inno Setup - créer un installateur](https://www.youtube.com/watch?v=ormsdIk_Uhw) 🖍
 + [KeePass - sécuriser ses mots de passe](https://www.youtube.com/watch?v=oG3QSXRCuvE) 🖍
++ [LosslessCut - éditeur audio/vidéo](https://www.youtube.com/watch?v=7qB-s1ysrAg)
 + [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU) 🖍
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw) 🖍
 + [Optimiser un SSD](https://www.youtube.com/watch?v=6k3f72d9UXQ) 🖍

@@ -54,7 +54,7 @@
 |[**Get-SmbShare**](https://learn.microsoft.com/fr-fr/powershell/module/smbshare/get-smbshare)|`gsmbs`|Récupérer les partages SMB sur l'ordinateur|
 |[**Get-SmbShareAccess**](https://learn.microsoft.com/fr-fr/powershell/module/smbshare/get-smbshareaccess)|`gsmba`|Récupérer les droits du partage SMB|
 |[**Get-Variable**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/get-variable)|`gv`|Récupérer les variables définies|
-|[**Get-Verb**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-verb)|-|Récupérer la liste des verbes PowerShell approuvés|
+|[**Get-Verb**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-verb)|-|Lister les verbes PowerShell approuvés|
 |[**Get-Volume**](https://learn.microsoft.com/fr-fr/powershell/module/storage/get-volume)|-|Lister les volumes|
 |[**Get-WinEvent**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.diagnostics/get-winevent)|-|Lister les événements des journaux sur les ordinateurs locaux et distants|
 |[**Grant-SmbShareAccess**](https://learn.microsoft.com/fr-fr/powershell/module/smbshare/grant-smbshareaccess)|`grsmba`|Ajouter une entrée de contrôle d'accès pour un administrateur à un partage SMB|

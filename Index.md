@@ -570,7 +570,7 @@
 + [Arguments de la fonction main()](https://www.youtube.com/watch?v=sy7VBahyBLI)
 + [Fichiers binaires](https://www.youtube.com/watch?v=_Z39xKbRd2E)
 + [Généricité](https://www.youtube.com/watch?v=v19K2jHXsQk)
-+ [Gestion erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
++ [Gestion des erreurs](https://www.youtube.com/watch?v=lzzXNRK7Khw)
 + [Lecture sécurisée](https://www.youtube.com/watch?v=dbUDyMtFFlc)
 + [Récursivité](https://www.youtube.com/watch?v=3XyKY9BKVN0)
 + [Sockets](https://www.youtube.com/watch?v=oYBgV474Udc)

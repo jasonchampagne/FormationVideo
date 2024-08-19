@@ -1,6 +1,6 @@
 # Projets communautaires
 
-Afin de vous aider à mettre en application tout ce que vous avez appris et pour vous exercer, des projets vous sont proposés régulièrement sur cette page, mais aussi communiqués sur [Discord](https://discord.me/jasonchampagne) et les [réseaux sociaux](https://jasonchampagne.fr/liens).
+Afin de vous aider à mettre en application tout ce que vous avez appris et pour vous exercer, des projets vous sont proposés régulièrement sur cette page, mais aussi communiqués sur [Discord](https://discords.com/servers/jachampagne) et les [réseaux sociaux](https://jasonchampagne.fr/liens).
 
 > **NOTE** : Rien n'est imposé et chacun est libre de participer aux projets de son choix
 
@@ -45,7 +45,7 @@ Ici, le but est de vous donner des idées et d'apprendre à travailler de maniè
 
 ### Discord
 
-Sur le [serveur Discord](https://discord.me/jasonchampagne), un canal **\#projets** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce canal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
+Sur le [serveur Discord](https://discords.com/servers/jachampagne), un canal **\#projets** a été spécialement créé pour discuter entre vous autour des projets communautaires, poser des questions ou même trouver des gens avec qui bosser sur un projet autonome. Pour accéder à ce canal, vous devez disposer d'un rôle spécial, à demander à un Modérateur ou moi-même.
 
 ### Lives
 

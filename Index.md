@@ -544,6 +544,7 @@
 + [41. Conditions](https://www.youtube.com/watch?v=U3BfmX7ssNc)
 + [42. Boucles](https://www.youtube.com/watch?v=bB7YyNji3D4)
 + [43. Fonctions (1/2)](https://www.youtube.com/watch?v=22Urx9_fXfs)
++ [44. Fonctions (2/2](https://www.youtube.com/watch?v=QFNJkESBUpI)
 
 ### WordPress
 

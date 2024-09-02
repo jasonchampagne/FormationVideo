@@ -23,6 +23,7 @@
 |[**Get-DnsClient**](https://learn.microsoft.com/fr-fr/powershell/module/dnsclient/get-dnsclient)|-|Récupérer les détails des interfaces réseau configurées sur un ordinateur|
 |[**Get-DnsClientGlobalSetting**](https://learn.microsoft.com/fr-fr/powershell/module/dnsclient/get-dnsclientglobalsetting)|-|Récupérer les paramètres globaux du client DNS|
 |[**Get-DnsClientServerAddress**](https://learn.microsoft.com/fr-fr/powershell/module/dnsclient/get-dnsclientserveraddress)|-|Récupérer les adresses IP des serveurs DNS à partir des propriétés TCP/IP d'une interface|
+|[**Get-Error**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/get-error)|`gerr`|Récupérer les messages d'erreur les plus récents de la session active|
 |[**Get-ExecutionPolicy**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.security/get-executionpolicy)|-|Récupérer les stratégies d'exécution pour la session active|
 |[**Get-Help**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.core/get-help)|`help`, `man`|Afficher des informations sur une commande|
 |[**Get-Host**](https://learn.microsoft.com/fr-fr/powershell/module/microsoft.powershell.utility/get-host)|-|Récupérer le programme hôte actuel|

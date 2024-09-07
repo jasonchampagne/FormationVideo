@@ -546,6 +546,7 @@
 + [43. Fonctions (1/2)](https://www.youtube.com/watch?v=22Urx9_fXfs)
 + [44. Fonctions (2/2)](https://www.youtube.com/watch?v=QFNJkESBUpI)
 + [45. Gestion des erreurs](https://www.youtube.com/watch?v=eyoc5omztIU)
++ [46. Modules](https://www.youtube.com/watch?v=Hn8bnJD92SI)
 
 ### WordPress
 

@@ -756,6 +756,7 @@
 
 ## 🔵 Les restes du monde
 
++ [Blabla - 5 erreurs que tu fais quand tu apprends](https://www.youtube.com/watch?v=zKTTcvwAvp8)
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)

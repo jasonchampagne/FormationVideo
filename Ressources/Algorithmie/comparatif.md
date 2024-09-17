@@ -3,6 +3,6 @@
 > [!Note]
 > ...
 
-|ALGORITHME|COMPLEXITÉ|STABLE|
-|:--|:--:|:--:|
-||||
+|ALGORITHME|COMPLEXITÉ|STABLE ?|EN PLACE ?|
+|:--|:--:|:--:|:--:|
+|||||

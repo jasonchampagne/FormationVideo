@@ -7,6 +7,7 @@
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
 |code-cesar|Exemples d'implémentation du code de César (_caesar cipher_)|
+|comparatif|Comparatif des algorithmes (complexité, stabilité, ...)|
 |parcours-sequentiel|Exemples d'implémentation du parcours séquentiel (ou itératif)|
 |pile|Exemples d'implémentation de la pile (structure de données _LIFO_)|
 |pseudo-code|Notation du pseudo-code choisie pour le cours|

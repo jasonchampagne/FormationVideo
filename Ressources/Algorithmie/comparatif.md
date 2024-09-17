@@ -1,6 +1,6 @@
 # Comparatif
 
-> [!RAPPELS]
+> [!Note]
 > ...
 
 |ALGORITHME|COMPLEXITÉ|STABLE|

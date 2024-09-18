@@ -139,7 +139,22 @@ function insertionSort(collection, size)
 ## PHP
 
 ```php
-ddd
+function insertionSort(array &$collection, int $size): void
+{
+    for($i = 1 ; $i < $size ; ++$i)
+    {
+        $value = $collection[$i];
+        $j = $i - 1;
+
+        while($j >= 0 && $collection[$j] > $value)
+        {
+            $collection[$j + 1] = $collection[$j];
+            --$j;
+        }
+
+        $collection[$j + 1] = $value;
+    }
+}
 ```
 
 ---

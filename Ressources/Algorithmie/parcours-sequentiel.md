@@ -41,7 +41,7 @@ for(i = 0 ; i < COLLECTION_SIZE ; ++i)
 
 ```cpp
 std::array<int, 5> collection{1, 2, 3, 4, 5};
-std::size_t collectionSize{collection.size()};
+const std::size_t collectionSize{collection.size()};
 auto i = 0;
 
 //--------------------------------------------------------
@@ -68,7 +68,7 @@ for(auto& value : collection)
 
 ```csharp
 int[] collection = {1, 2, 3, 4, 5};
-int collectionSize = collection.Length;
+const int collectionSize = collection.Length;
 int i = 0;
 
 //--------------------------------------------------------
@@ -95,7 +95,7 @@ foreach(int value in collection)
 
 ```java
 int[] collection = {1, 2, 3, 4, 5};
-int collectionSize = collection.length;
+final int collectionSize = collection.length;
 int i = 0;
 
 //--------------------------------------------------------
@@ -122,7 +122,7 @@ for(int value : collection)
 
 ```javascript
 let collection = [1, 2, 3, 4, 5];
-let collectionSize = collection.length;
+const collectionSize = collection.length;
 let i = 0;
 
 //--------------------------------------------------------

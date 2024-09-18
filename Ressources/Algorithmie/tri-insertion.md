@@ -42,8 +42,8 @@ void insertionSort(std::array<T, ARRAY_SIZE>& collection)
 {
     for(std::size_t i = 1 ; i < ARRAY_SIZE ; ++i)
     {
-        T value = collection[i];
-        std::size_t j = i - 1;
+        T value{collection[i]};
+        std::size_t j{i - 1};
 
         while(j >= 0 && collection[j] > value)
         {

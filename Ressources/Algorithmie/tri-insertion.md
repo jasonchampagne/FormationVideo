@@ -139,8 +139,10 @@ function insertionSort(collection, size)
 ## PHP
 
 ```php
-function insertionSort(array &$collection, int $size): void
+function insertionSort(array &$collection): void
 {
+    $size = count($collection);
+
     for($i = 1 ; $i < $size ; ++$i)
     {
         $value = $collection[$i];

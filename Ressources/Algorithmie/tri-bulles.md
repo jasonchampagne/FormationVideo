@@ -16,7 +16,7 @@
 ### Version de base
 
 ```c
-void bubbleSort(int collection[], int size)
+void bubbleSort(int collection[], const int size)
 {
     for(int i = size - 1 ; i > 0 ; --i)
         for(int j = 0 ; j < i ; ++j)
@@ -32,7 +32,7 @@ void bubbleSort(int collection[], int size)
 ### Version optimisée
 
 ```c
-void bubbleSort(int collection[], int size)
+void bubbleSort(int collection[], const int size)
 {
     for(int i = size - 1 ; i > 0 ; --i)
     {
@@ -97,7 +97,7 @@ public class BubbleSort
 {
     public static <T extends Comparable<T>> T[] sort(T[] collection)
     {
-        int size = collection.length;
+        final int size = collection.length;
 
         for(int i = size - 1 ; i > 0 ; --i)
             for(int j = 0 ; j < i ; ++j)
@@ -120,7 +120,7 @@ public class BubbleSort
 {
     public static <T extends Comparable<T>> T[] sort(T[] collection)
     {
-        int size = collection.length;
+        final int size = collection.length;
 
         for(int i = size - 1 ; i > 0 ; --i)
         {

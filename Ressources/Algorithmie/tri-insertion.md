@@ -37,7 +37,22 @@ void insertionSort(int collection[], int size)
 ## C++
 
 ```cpp
-ddd
+template <typename T, std::size_t ARRAY_SIZE>
+void insertionSort(std::array<T, ARRAY_SIZE>& collection)
+{
+    for(std::size_t i = 1 ; i < ARRAY_SIZE ; ++i)
+    {
+        T value = collection[i];
+        std::size_t j = i - 1;
+
+        while(j >= 0 && collection[j] > value)
+        {
+            collection[j + 1] = collection[j];
+            --j;
+        }
+        collection[j + 1] = value;
+    }
+}
 ```
 
 ---

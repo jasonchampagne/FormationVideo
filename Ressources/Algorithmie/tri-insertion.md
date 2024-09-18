@@ -116,8 +116,10 @@ public class InsertionSort
 ## JavaScript
 
 ```js
-function insertionSort(collection, size)
+function insertionSort(collection)
 {
+    const size = collection.length;
+
     for(let i = 1 ; i < size ; ++i)
     {
         let value = collection[i];

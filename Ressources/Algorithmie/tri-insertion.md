@@ -60,7 +60,27 @@ void insertionSort(std::array<T, ARRAY_SIZE>& collection)
 ## C#
 
 ```csharp
-ddd
+public class InsertionSort
+{
+    public static void Sort<T>(T[] collection) where T : IComparable<T>
+    {
+        int size = collection.Length;
+
+        for(int i = 1 ; i < size ; ++i)
+        {
+            T value = collection[i];
+            int j = i - 1;
+
+            while(j >= 0 && collection[j].CompareTo(value) > 0)
+            {
+                collection[j + 1] = collection[j];
+                j--;
+            }
+
+            collection[j + 1] = value;
+        }
+    }
+}
 ```
 
 ---

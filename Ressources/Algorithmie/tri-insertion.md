@@ -74,7 +74,7 @@ public class InsertionSort
             while(j >= 0 && collection[j].CompareTo(value) > 0)
             {
                 collection[j + 1] = collection[j];
-                j--;
+                --j;
             }
 
             collection[j + 1] = value;
@@ -88,7 +88,27 @@ public class InsertionSort
 ## Java
 
 ```java
-ddd
+public class InsertionSort
+{
+    public static <T extends Comparable<T>> void sort(T[] collection)
+    {
+        int size = collection.length;
+
+        for(int i = 1 ; i < size ; ++i)
+        {
+            T value = collection[i];
+            int j = i - 1;
+
+            while(j >= 0 && collection[j].compareTo(value) > 0)
+            {
+                collection[j + 1] = collection[j];
+                --j;
+            }
+
+            collection[j + 1] = value;
+        }
+    }
+}
 ```
 
 ---

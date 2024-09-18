@@ -14,7 +14,7 @@
 ## C
 
 ```c
-void insertionSort(int collection[], int size)
+void insertionSort(int collection[], const int size)
 {
     for(int i = 1 ; i < size ; ++i)
     {
@@ -64,7 +64,7 @@ public class InsertionSort
 {
     public static void Sort<T>(T[] collection) where T : IComparable<T>
     {
-        int size = collection.Length;
+        const int size = collection.Length;
 
         for(int i = 1 ; i < size ; ++i)
         {
@@ -92,7 +92,7 @@ public class InsertionSort
 {
     public static <T extends Comparable<T>> void sort(T[] collection)
     {
-        int size = collection.length;
+        final int size = collection.length;
 
         for(int i = 1 ; i < size ; ++i)
         {

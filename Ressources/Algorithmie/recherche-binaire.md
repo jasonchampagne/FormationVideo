@@ -25,7 +25,7 @@ Les conditions d'usage de cet algorithme :
 ```c
 #define ARRAY_SIZE 10
 
-int binarySearch(int collection[], int value)
+int binarySearch(int collection[], const int value)
 {
     int beginIndex = 0;
     int endIndex = ARRAY_SIZE - 1;
@@ -49,7 +49,7 @@ int binarySearch(int collection[], int value)
 ### Version récursive
 
 ```c
-int binarySearch(int collection[], int beginIndex, int endIndex, int value)
+int binarySearch(int collection[], int beginIndex, int endIndex, const int value)
 {
     if(beginIndex > endIndex)
         return -1;
@@ -116,7 +116,7 @@ class value_not_found : public std::exception
 };
 
 template <typename T, std::size_t ARRAY_SIZE>
-int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, int beginIndex, int endIndex, const T& value)
+int binarySearchRecursive(const std::array<int, ARRAY_SIZE>& collection, int beginIndex, int endIndex, T& value)
 {
     if(beginIndex > endIndex)
         throw value_not_found();
@@ -174,7 +174,7 @@ public class BinarySearch
 ```csharp
 public class BinarySearch
 {
-    public static int Search<T>(T[] collection, int beginIndex, int endIndex, T value) where T : IComparable<T>
+    public static int Search<T>(T[] collection, int beginIndex, int endIndex, const T value) where T : IComparable<T>
     {
         if(beginIndex > endIndex)
             throw new Exception("La valeur n'a pas ete trouvee.");

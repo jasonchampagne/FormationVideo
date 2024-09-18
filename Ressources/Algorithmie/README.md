@@ -13,3 +13,4 @@
 |recherche-binaire|Exemples d'implémentation de la recherche binaire ou dichotomiquie (_binary search_)|
 |tri-bulles|Exemples d'implémentation du tri à bulles (_bubble sort_)|
 |tri-insertion|Exemples d'implémentation du tri par insertion (_insertion sort_)|
+|tri-selection|Exemples d'implémentation du tri par sélection (_insertion sort_) ou tri par extraction (_extraction sort_)|

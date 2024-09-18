@@ -162,5 +162,16 @@ function insertionSort(array &$collection, int $size): void
 ## Python
 
 ```python
-ddd
+def insertion_sort(collection):
+    size = len(collection)
+
+    for i in range(1, size):
+        value = collection[i]
+        j = i - 1
+
+        while j >= 0 and collection[j] > value:
+            collection[j + 1] = collection[j]
+            j -= 1
+
+        collection[j + 1] = value
 ```

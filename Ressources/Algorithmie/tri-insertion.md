@@ -24,7 +24,7 @@ void insertionSort(int collection[], int size)
         while(j >= 0 && collection[j] > value)
         {
             collection[j + 1] = collection[j];
-            j--;
+            --j;
         }
 
         collection[j + 1] = value;

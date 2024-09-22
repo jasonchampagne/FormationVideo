@@ -13,5 +13,6 @@
     + [Pile](https://www.youtube.com/watch?v=H2MVJ_WgMHE)
     + [Recherche binaire](https://www.youtube.com/watch?v=gsaQRO0cU7Q)
     + [Tri à bulles](https://www.youtube.com/watch?v=daATbeKXOhE)
+    + [Tri par insertion](https://www.youtube.com/watch?v=zXrr1QSoBXA)
 
 ## [Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHzupAh7gJWX6GocGsJXrwK)

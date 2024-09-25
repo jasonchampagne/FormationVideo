@@ -44,30 +44,21 @@ int pgcd(int a, int b)
 
 ## C++
 
-### Version itérative
+### Version native
 
 ```cpp
-int pgcd(int a, int b)
+#include <iostream>
+#include <numeric>
+
+
+int main()
 {
-    auto temp{0};
+    auto n1{144};
+    auto n2{26};
 
-    while(b != 0)
-    {
-        temp = a % b;
-        a = b;
-        b = temp;
-    }
+    std::cout << "pgcd(" << n1 << ", " << n2 << ") = " << std::gcd(n1, n2) << std::endl;
 
-    return a;
-}
-```
-
-### Version récursive
-
-```cpp
-int pgcd(int a, int b)
-{
-    return (b == 0) ? a : pgcd(b, a % b);
+    return 0;
 }
 ```
 
@@ -78,13 +69,31 @@ int pgcd(int a, int b)
 ### Version itérative
 
 ```csharp
-ppp
+public class Euclide
+{
+    public static int Pgcd(int a, int b)
+    {
+        int temp;
+
+        while(b != 0)
+        {
+            temp = a % b;
+            a = b;
+            b = temp;
+        }
+
+        return a;
+    }
+}
 ```
 
 ### Version récursive
 
 ```csharp
-ppp
+public class Euclide
+{
+    public static int Pgcd(int a, int b) => (b == 0) ? a : Pgcd(b, a % b);
+}
 ```
 
 ---

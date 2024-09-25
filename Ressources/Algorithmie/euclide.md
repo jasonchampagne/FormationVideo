@@ -147,13 +147,28 @@ console.log(pgcd(144, 26));
 ### Version itérative
 
 ```php
-ppp
+function pgcd(int $a, int $b): int
+{
+    $temp = 0;
+    
+    while($b != 0)
+    {
+        $temp = $a % $b;
+        $a = $b;
+        $b = $temp;
+    }
+    
+    return $a;
+}
 ```
 
 ### Version récursive
 
 ```php
-ppp
+function pgcd(int $a, int $b): int
+{
+    return ($b == 0) ? $a : pgcd($b, $a % $b);
+}
 ```
 
 ---

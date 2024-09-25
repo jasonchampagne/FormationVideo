@@ -175,14 +175,13 @@ function pgcd(int $a, int $b): int
 
 ## Python
 
-### Version itérative
+### Version native
 
 ```python
-ppp
-```
+import math
 
-### Version récursive
+a = 144
+b = 26
 
-```python
-ppp
+print(f'pgcd({a}, {b}) = {math.gcd(a, b)}')
 ```

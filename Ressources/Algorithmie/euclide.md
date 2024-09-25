@@ -36,10 +36,7 @@ int pgcd(int a, int b)
 ```c
 int pgcd(int a, int b)
 {
-    if(b == 0)
-        return a;
-
-    return pgcd(b, a % b);
+    return (b == 0) ? a : pgcd(b, a % b);
 }
 ```
 
@@ -50,13 +47,28 @@ int pgcd(int a, int b)
 ### Version itérative
 
 ```cpp
-ppp
+int pgcd(int a, int b)
+{
+    auto temp{0};
+
+    while(b != 0)
+    {
+        temp = a % b;
+        a = b;
+        b = temp;
+    }
+
+    return a;
+}
 ```
 
 ### Version récursive
 
 ```cpp
-ppp
+int pgcd(int a, int b)
+{
+    return (b == 0) ? a : pgcd(b, a % b);
+}
 ```
 
 ---

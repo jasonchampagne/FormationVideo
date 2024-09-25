@@ -50,7 +50,6 @@ int pgcd(int a, int b)
 #include <iostream>
 #include <numeric>
 
-
 int main()
 {
     auto n1{144};
@@ -100,16 +99,21 @@ public class Euclide
 
 ## Java
 
-### Version itérative
+### Version native
 
 ```java
-ppp
-```
+import java.math.BigInteger;
 
-### Version récursive
-
-```java
-ppp
+public class Euclide
+{
+    public static void main(String[] args)
+    {
+        BigInteger a = new BigInteger("144");
+        BigInteger b = new BigInteger("26");
+        
+        System.out.println("pgcd("+a+", "+b+") : " + a.gcd(b));
+    }
+}
 ```
 
 ---

@@ -123,13 +123,21 @@ public class Euclide
 ### Version itérative
 
 ```js
-ppp
+const pgcd = (a, b) =>
+{
+    while (b !== 0) [a, b] = [b, a % b];
+    return a;
+};
+
+console.log(pgcd(144, 26));
 ```
 
 ### Version récursive
 
 ```js
-ppp
+const pgcd = (a, b) => (b === 0) ? a : pgcd(b, a % b);
+
+console.log(pgcd(144, 26));
 ```
 
 ---

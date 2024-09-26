@@ -167,7 +167,7 @@ function gcd(int $a, int $b): int
 ```php
 function gcd(int $a, int $b): int
 {
-    return ($b == 0) ? $a : pgcd($b, $a % $b);
+    return ($b == 0) ? $a : gcd($b, $a % $b);
 }
 ```
 

@@ -135,7 +135,7 @@ console.log(gcd(144, 26));
 ### Version récursive
 
 ```js
-const gcd = (a, b) => (b === 0) ? a : pgcd(b, a % b);
+const gcd = (a, b) => (b === 0) ? a : gcd(b, a % b);
 
 console.log(gcd(144, 26));
 ```

@@ -16,7 +16,7 @@
 ### Version itérative
 
 ```c
-int pgcd(int a, int b)
+int gcd(int a, int b)
 {
     int temp = 0;
 
@@ -34,7 +34,7 @@ int pgcd(int a, int b)
 ### Version récursive
 
 ```c
-int pgcd(int a, int b)
+int gcd(int a, int b)
 {
     return (b == 0) ? a : pgcd(b, a % b);
 }
@@ -70,7 +70,7 @@ int main()
 ```csharp
 public class Euclide
 {
-    public static int Pgcd(int a, int b)
+    public static int Gcd(int a, int b)
     {
         int temp;
 
@@ -91,7 +91,7 @@ public class Euclide
 ```csharp
 public class Euclide
 {
-    public static int Pgcd(int a, int b) => (b == 0) ? a : Pgcd(b, a % b);
+    public static int Gcd(int a, int b) => (b == 0) ? a : Pgcd(b, a % b);
 }
 ```
 
@@ -123,21 +123,21 @@ public class Euclide
 ### Version itérative
 
 ```js
-const pgcd = (a, b) =>
+const gcd = (a, b) =>
 {
     while (b !== 0) [a, b] = [b, a % b];
     return a;
 };
 
-console.log(pgcd(144, 26));
+console.log(gcd(144, 26));
 ```
 
 ### Version récursive
 
 ```js
-const pgcd = (a, b) => (b === 0) ? a : pgcd(b, a % b);
+const gcd = (a, b) => (b === 0) ? a : pgcd(b, a % b);
 
-console.log(pgcd(144, 26));
+console.log(gcd(144, 26));
 ```
 
 ---
@@ -147,7 +147,7 @@ console.log(pgcd(144, 26));
 ### Version itérative
 
 ```php
-function pgcd(int $a, int $b): int
+function gcd(int $a, int $b): int
 {
     $temp = 0;
     
@@ -165,7 +165,7 @@ function pgcd(int $a, int $b): int
 ### Version récursive
 
 ```php
-function pgcd(int $a, int $b): int
+function gcd(int $a, int $b): int
 {
     return ($b == 0) ? $a : pgcd($b, $a % $b);
 }

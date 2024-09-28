@@ -72,6 +72,7 @@
 + --
 + [Conversion de base numérique](https://www.youtube.com/watch?v=RdBNK43JK5c)
 + [Format JSON](https://www.youtube.com/watch?v=UjV4XZotT_o)
++ [Graphe](https://www.youtube.com/watch?v=TwO8rCTFy1c)
 + [Mémoire virtuelle](https://www.youtube.com/watch?v=B1wJJNITvkY)
 + [Patron MVC](https://www.youtube.com/watch?v=NhFTswve-8o)
 + [Patron MVVM](https://www.youtube.com/watch?v=UzGYdZSuL7Q)

@@ -24,25 +24,25 @@ struct Stack
 };
 
 
-struct Stack new_stack(void)
+struct Stack newStack(void)
 {
     struct Stack st = {{0}, 0};
     return st;
 }
 
-bool empty_stack(struct Stack* st)
+bool emptyStack(struct Stack* st)
 {
     return (st->top == 0);
 }
 
-bool full_stack(struct Stack* st)
+bool fullStack(struct Stack* st)
 {
     return (st->top == STACK_CAPACITY - 1);
 }
 
-void print_stack(struct Stack* st)
+void printStack(struct Stack* st)
 {
-    if(empty_stack(st))
+    if(emptyStack(st))
     {
         fprintf(stderr, "Rien a afficher, la pile est vide.\n");
         return;
@@ -52,9 +52,9 @@ void print_stack(struct Stack* st)
         printf("[%d]\n", st->values[i]);
 }
 
-void push_stack(struct Stack* st, int value)
+void pushStack(struct Stack* st, int value)
 {
-    if(full_stack(st))
+    if(fullStack(st))
     {
         fprintf(stderr, "Impossible d'ajouter une valeur, la pile est pleine.\n");
         return;
@@ -64,9 +64,9 @@ void push_stack(struct Stack* st, int value)
     st->top++;
 }
 
-int pop_stack(struct Stack* st)
+int popStack(struct Stack* st)
 {
-    if(empty_stack(st))
+    if(emptyStack(st))
     {
         fprintf(stderr, "Impossible de retirer une valeur, la pile est vide.\n");
         return;
@@ -76,9 +76,9 @@ int pop_stack(struct Stack* st)
     return st->values[st->top - 1];
 }
 
-int top_stack(struct Stack* st)
+int topStack(struct Stack* st)
 {
-    if(empty_stack(st))
+    if(emptyStack(st))
     {
         fprintf(stderr, "Pas de sommet, la pile est vide.\n");
         exit(1);
@@ -87,15 +87,15 @@ int top_stack(struct Stack* st)
     return st->values[st->top - 1];
 }
 
-int size_stack(struct Stack* st)
+int sizeStack(struct Stack* st)
 {
     return st->top;
 }
 
-void clear_stack(struct Stack* st)
+void clearStack(struct Stack* st)
 {
-    while(!empty_stack(st))
-        pop_stack(st);
+    while(!emptyStack(st))
+        popStack(st);
 }
 ```
 

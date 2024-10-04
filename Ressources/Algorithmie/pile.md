@@ -24,23 +24,23 @@ struct Stack
 };
 
 
-struct Stack newStack(void)
+struct Stack stack_new(void)
 {
     struct Stack st = {{0}, 0};
     return st;
 }
 
-bool emptyStack(struct Stack* st)
+bool stack_empty(struct Stack* st)
 {
     return (st->top == 0);
 }
 
-bool fullStack(struct Stack* st)
+bool stack_full(struct Stack* st)
 {
     return (st->top == STACK_CAPACITY - 1);
 }
 
-void printStack(struct Stack* st)
+void stack_print(struct Stack* st)
 {
     if(emptyStack(st))
     {
@@ -52,7 +52,7 @@ void printStack(struct Stack* st)
         printf("[%d]\n", st->values[i]);
 }
 
-void pushStack(struct Stack* st, int value)
+void stack_push(struct Stack* st, int value)
 {
     if(fullStack(st))
     {
@@ -64,7 +64,7 @@ void pushStack(struct Stack* st, int value)
     st->top++;
 }
 
-int popStack(struct Stack* st)
+int stack_pop(struct Stack* st)
 {
     if(emptyStack(st))
     {
@@ -76,7 +76,7 @@ int popStack(struct Stack* st)
     return st->values[st->top - 1];
 }
 
-int topStack(struct Stack* st)
+int stack_top(struct Stack* st)
 {
     if(emptyStack(st))
     {
@@ -87,12 +87,12 @@ int topStack(struct Stack* st)
     return st->values[st->top - 1];
 }
 
-int sizeStack(struct Stack* st)
+int stack_size(struct Stack* st)
 {
     return st->top;
 }
 
-void clearStack(struct Stack* st)
+void stack_clear(struct Stack* st)
 {
     while(!emptyStack(st))
         popStack(st);

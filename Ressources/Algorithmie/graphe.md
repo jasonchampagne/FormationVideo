@@ -18,7 +18,6 @@
 #define GRAPH_UNDEFINED_WEIGHT 0
 
 
-// Structure d'un graphe (non orienté)
 struct Graph
 {
     int neighbours[GRAPH_MAX_VERTICES][GRAPH_MAX_VERTICES];

@@ -88,17 +88,19 @@ void graph_addEdge(struct Graph* g, const char vertexLabelSource, const char ver
         g->neighbours[destIndex][srcIndex] = weight;
     }
     else
-        printf("Impossible d'ajouter l'arete (%c)--(%c)\n", vertexLabelSource, vertexLabelDestination);
+        fprintf(stderr, "Impossible d'ajouter l'arete (%c)--(%c)\n", vertexLabelSource, vertexLabelDestination);
 }
 
 void graph_removeVertex(struct Graph* g, const char vertexLabel)
 {
     int index = graph_indexOfVertex(g, vertexLabel);
 
-    if (index == -1)
+    if(index == -1)
+    {
+        fprintf(stderr, "Impossible de supprimer le sommet %c (il n'existe pas)\n", vertexLabel);
         return;
+    }
 
-    // Suppression des arêtes liées au sommet
     for(int i = 0; i < g->nVertices; ++i)
     {
         g->neighbours[i][index] = GRAPH_UNDEFINED_WEIGHT;
@@ -107,15 +109,12 @@ void graph_removeVertex(struct Graph* g, const char vertexLabel)
 
     for(int i = index ; i < g->nVertices - 1 ; ++i)
     {
-        // Décalage des colonnes
         for(int j = 0 ; j < g->nVertices ; ++j)
             g->neighbours[j][i] = g->neighbours[j][i + 1];
 
-        // Décalage des lignes
         for(int j = 0 ; j < g->nVertices ; ++j)
             g->neighbours[i][j] = g->neighbours[i + 1][j];
 
-        // Suppression du sommet et décalage des autres
         g->vertices[i] = g->vertices[i + 1];
     }
 
@@ -132,6 +131,8 @@ void graph_removeEdge(struct Graph* g, const char vertexLabelSource, const char 
         g->neighbours[srcIndex][destIndex] = GRAPH_UNDEFINED_WEIGHT;
         g->neighbours[destIndex][srcIndex] = GRAPH_UNDEFINED_WEIGHT;
     }
+    else
+        fprintf(stderr, "Impossible d'ajouter l'arete (%c)--(%c)\n", vertexLabelSource, vertexLabelDestination);
 }
 
 int graph_degreeOfVertex(struct Graph* g, const char vertexLabel)

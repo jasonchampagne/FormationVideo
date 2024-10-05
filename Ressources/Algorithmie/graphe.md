@@ -453,7 +453,133 @@ public class Graph
 ## PHP
 
 ```php
-// à venir
+class Graph
+{
+    private const GRAPH_MAX_VERTICES = 26;
+    private const GRAPH_UNDEFINED_WEIGHT = 0;
+
+    private array $neighbours;
+    private array $vertices;
+    private int $nVertices;
+
+    public function __construct()
+    {
+        $this->neighbours = array_fill(0, self::GRAPH_MAX_VERTICES, array_fill(0, self::GRAPH_MAX_VERTICES, self::GRAPH_UNDEFINED_WEIGHT));
+        $this->vertices = array_fill(0, self::GRAPH_MAX_VERTICES, null);
+        $this->nVertices = 0;
+    }
+
+    public function empty(): bool
+    {
+        return $this->nVertices === 0;
+    }
+
+    public function indexOfVertex(string $vertexLabel): int
+    {
+        for($i = 0 ; $i < $this->nVertices ; ++$i)
+            if($this->vertices[$i] === $vertexLabel)
+                return $i;
+
+        return -1;
+    }
+
+    public function addVertex(string $vertexLabel): void
+    {
+        if($this->nVertices < self::GRAPH_MAX_VERTICES && $this->indexOfVertex($vertexLabel) === -1)
+        {
+            $this->vertices[$this->nVertices] = $vertexLabel;
+            $this->nVertices++;
+        }
+        else
+            echo "Impossible d'ajouter le sommet $vertexLabel\n";
+    }
+
+    public function addEdge(string $vertexSource, string $vertexDestination, int $weight): void
+    {
+        $sourceIndex = $this->indexOfVertex($vertexSource);
+        $destinationIndex = $this->indexOfVertex($vertexDestination);
+
+        if($sourceIndex !== -1 && $destinationIndex !== -1 && $weight !== self::GRAPH_UNDEFINED_WEIGHT)
+        {
+            $this->neighbours[$sourceIndex][$destinationIndex] = $weight;
+            $this->neighbours[$destinationIndex][$sourceIndex] = $weight;
+        }
+        else
+            echo "Impossible d'ajouter l'arête ($vertexSource)--($vertexDestination)\n";
+    }
+
+    public function removeVertex(string $vertexLabel): void
+    {
+        $index = $this->indexOfVertex($vertexLabel);
+
+        if($index === -1)
+        {
+            echo "Impossible de supprimer le sommet $vertexLabel (il n'existe pas)";
+            return;
+        }
+
+        for($i = 0 ; $i < $this->nVertices ; ++$i)
+        {
+            $this->neighbours[$i][$index] = self::GRAPH_UNDEFINED_WEIGHT;
+            $this->neighbours[$index][$i] = self::GRAPH_UNDEFINED_WEIGHT;
+        }
+
+        for($i = $index ; $i < $this->nVertices - 1 ; ++$i)
+        {
+            for($j = 0 ; $j < $this->nVertices ; ++$j)
+                $this->neighbours[$j][$i] = $this->neighbours[$j][$i + 1];
+
+            for($j = 0 ; $j < $this->nVertices ; ++$j)
+                $this->neighbours[$i][$j] = $this->neighbours[$i + 1][$j];
+
+            $this->vertices[$i] = $this->vertices[$i + 1];
+        }
+
+        $this->nVertices--;
+    }
+
+    public function removeEdge($vertexSource, $vertexDestination)
+    {
+        $sourceIndex = $this->indexOfVertex($vertexSource);
+        $destinationIndex = $this->indexOfVertex($vertexDestination);
+
+        if($sourceIndex != -1 && $destinationIndex != -1)
+        {
+            $this->neighbours[$sourceIndex][$destinationIndex] = self::GRAPH_UNDEFINED_WEIGHT;
+            $this->neighbours[$destinationIndex][$sourceIndex] = self::GRAPH_UNDEFINED_WEIGHT;
+        }
+        else
+            echo "Impossible de supprimer l'arête ($vertexSource)--($vertexDestination)\n";
+    }
+
+    public function degreeOfVertex(string $vertexLabel): int
+    {
+        $index = $this->indexOfVertex($vertexLabel);
+
+        if($index == -1)
+            throw new Exception("Le sommet $vertexLabel n'existe pas");
+
+        $degree = 0;
+
+        for($i = 0 ; $i < $this->nVertices ; ++$i)
+            if($this->neighbours[$index][$i] !== self::GRAPH_UNDEFINED_WEIGHT)
+                $degree++;
+
+        return $degree;
+    }
+
+    public function density(): float
+    {
+        $edges = 0;
+
+        for($i = 0 ; $i < $this->nVertices ; ++$i)
+            for($j = $i + 1 ; $j < $this->nVertices ; ++$j)
+                if($this->neighbours[$i][$j] !== self::GRAPH_UNDEFINED_WEIGHT)
+                    $edges++;
+
+        return (2.0 * $edges) / ($this->nVertices * ($this->nVertices - 1));
+    }
+}
 ```
 
 ---

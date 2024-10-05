@@ -354,7 +354,7 @@ public class Graph
             neighbours[destinationIndex, sourceIndex] = weight;
         }
         else
-            Console.WriteLine($"Impossible d'ajouter l'arete ({vertexSource})--({vertexDestination})");
+            Console.Error.WriteLine($"Impossible d'ajouter l'arete ({vertexSource})--({vertexDestination})");
     }
 
     public void RemoveVertex(char vertexLabel)
@@ -398,7 +398,7 @@ public class Graph
             neighbours[destinationIndex, sourceIndex] = GRAPH_UNDEFINED_WEIGHT;
         }
         else
-            Console.WriteLine($"Impossible de supprimer l'arete ({vertexSource})--({vertexDestination})");
+            Console.Error.WriteLine($"Impossible de supprimer l'arete ({vertexSource})--({vertexDestination})");
     }
 
 

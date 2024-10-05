@@ -30,7 +30,7 @@ struct Graph
 struct Graph graph_new(void);
 bool graph_empty(struct Graph* g);
 void graph_print(struct Graph* g);
-int graph_indexOfVertex(struct Graph* g, char vertexLabel);
+int graph_indexOfVertex(struct Graph* g, const char vertexLabel);
 void graph_addVertex(struct Graph* g, const char vertexLabel);
 void graph_addEdge(struct Graph* g, const char vertexLabelSource, const char vertexLabelDestination, const int weight);
 void graph_removeEdge(struct Graph* g, const char vertexLabelSource, const char vertexLabelDestination);
@@ -57,7 +57,7 @@ bool graph_empty(struct Graph* g)
     return (g->nVertices == 0);
 }
 
-int graph_indexOfVertex(struct Graph* g, char vertexLabel)
+int graph_indexOfVertex(struct Graph* g, const char vertexLabel)
 {
     for(int i = 0 ; i < g->nVertices ; ++i)
         if(g->vertices[i] == vertexLabel)

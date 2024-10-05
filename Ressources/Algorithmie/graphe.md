@@ -575,7 +575,129 @@ public class Graph
 ## JavaScript
 
 ```js
-// à venir
+const GRAPH_MAX_VERTICES = 26;
+const GRAPH_UNDEFINED_WEIGHT = 0;
+
+
+class Graph
+{
+    constructor()
+    {
+        this.neighbours = Array.from({ length: GRAPH_MAX_VERTICES }, () => Array(GRAPH_MAX_VERTICES).fill(GRAPH_UNDEFINED_WEIGHT));
+        this.vertices = Array(GRAPH_MAX_VERTICES).fill(null);
+        this.nVertices = 0;
+    }
+
+    empty()
+    {
+        return this.nVertices === 0;
+    }
+
+    indexOfVertex(vertexLabel)
+    {
+        for(let i = 0 ; i < this.nVertices ; ++i)
+            if(this.vertices[i] === vertexLabel) return i;
+
+        return -1;
+    }
+
+    addVertex(vertexLabel)
+    {
+        if(this.nVertices < GRAPH_MAX_VERTICES && this.indexOfVertex(vertexLabel) === -1)
+        {
+            this.vertices[this.nVertices] = vertexLabel;
+            this.nVertices++;
+        }
+        else
+            console.error(`Impossible d'ajouter le sommet ${vertexLabel}`);
+    }
+
+    addEdge(vertexSource, vertexDestination, weight)
+    {
+        const sourceIndex = this.indexOfVertex(vertexSource);
+        const destinationIndex = this.indexOfVertex(vertexDestination);
+
+        if(sourceIndex !== -1 && destinationIndex !== -1 && weight !== GRAPH_UNDEFINED_WEIGHT)
+        {
+            this.neighbours[sourceIndex][destinationIndex] = weight;
+            this.neighbours[destinationIndex][sourceIndex] = weight;
+        }
+        else
+            console.error(`Impossible d'ajouter l'arête (${vertexSource})--(${vertexDestination})`);
+    }
+
+    removeVertex(vertexLabel)
+    {
+        const index = this.indexOfVertex(vertexLabel);
+
+        if(index === -1)
+        {
+            console.error(`Impossible de supprimer le sommet ${vertexLabel} (il n'existe pas)`);
+            return;
+        }
+
+        for(let i = 0 ; i < this.nVertices ; ++i)
+        {
+            this.neighbours[i][index] = GRAPH_UNDEFINED_WEIGHT;
+            this.neighbours[index][i] = GRAPH_UNDEFINED_WEIGHT;
+        }
+
+        for(let i = index; i < this.nVertices - 1; ++i)
+        {
+            for(let j = 0 ; j < this.nVertices ; ++j)
+                this.neighbours[j][i] = this.neighbours[j][i + 1];
+
+            for(let j = 0 ; j < this.nVertices ; ++j)
+                this.neighbours[i][j] = this.neighbours[i + 1][j];
+
+            this.vertices[i] = this.vertices[i + 1];
+        }
+
+        this.nVertices--;
+    }
+
+    removeEdge(vertexSource, vertexDestination)
+    {
+        const sourceIndex = this.indexOfVertex(vertexSource);
+        const destinationIndex = this.indexOfVertex(vertexDestination);
+
+        if (sourceIndex !== -1 && destinationIndex !== -1)
+        {
+            this.neighbours[sourceIndex][destinationIndex] = GRAPH_UNDEFINED_WEIGHT;
+            this.neighbours[destinationIndex][sourceIndex] = GRAPH_UNDEFINED_WEIGHT;
+        }
+        else
+            console.error(`Impossible de supprimer l'arête (${vertexSource})--(${vertexDestination})`);
+    }
+
+    degreeOfVertex(vertexLabel)
+    {
+        const index = this.indexOfVertex(vertexLabel);
+
+        if(index == -1)
+            throw `Le sommet ${vertexLabel} n'existe pas`;
+
+        let degree = 0;
+
+        for(let i = 0 ; i < this.nVertices ; ++i)
+            if(this.neighbours[index][i] !== GRAPH_UNDEFINED_WEIGHT)
+                degree++;
+
+        return degree;
+    }
+
+    density()
+    {
+        let edges = 0;
+
+        for(let i = 0 ; i < this.nVertices ; ++i)
+            for(let j = i + 1 ; j < this.nVertices ; ++j)
+                if(this.neighbours[i][j] !== GRAPH_UNDEFINED_WEIGHT)
+                    edges++;
+
+        return (2.0 * edges) / (this.nVertices * (this.nVertices - 1));
+    }
+}
 ```
 
 ---

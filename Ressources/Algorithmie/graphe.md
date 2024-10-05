@@ -138,6 +138,13 @@ void graph_removeEdge(struct Graph* g, const char vertexLabelSource, const char 
 int graph_degreeOfVertex(struct Graph* g, const char vertexLabel)
 {
     int index = graph_indexOfVertex(g, vertexLabel);
+
+    if(index == -1)
+    {
+        fprintf(stderr, "Le sommet %c n'existe pas\n", vertexLabel);
+        return -1;
+    }
+
     int degree = 0;
 
     for(int i = 0 ; i < g->nVertices ; ++i)
@@ -252,7 +259,8 @@ class Graph
             auto sourceIndex = indexOfVertex(vertexSource);
             auto destinationIndex = indexOfVertex(vertexDestination);
 
-            if(sourceIndex != -1 && destinationIndex != -1) {
+            if(sourceIndex != -1 && destinationIndex != -1)
+            {
                 neighbours[sourceIndex][destinationIndex] = GRAPH_UNDEFINED_WEIGHT;
                 neighbours[destinationIndex][sourceIndex] = GRAPH_UNDEFINED_WEIGHT;
             }
@@ -263,6 +271,9 @@ class Graph
         int degreeOfVertex(const char vertexLabel) const
         {
             auto index = indexOfVertex(vertexLabel);
+
+            if(index == -1)
+                throw std::runtime_error("Le sommet n'existe pas");
 
             return std::count_if(neighbours[index].begin(), neighbours[index].begin() + nVertices, [](auto weight)
             {

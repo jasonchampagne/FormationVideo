@@ -461,5 +461,97 @@ public class Graph
 ## Python
 
 ```python
-# à venir
+class Graph:
+    GRAPH_MAX_VERTICES = 26
+    GRAPH_UNDEFINED_WEIGHT = 0
+
+
+    def __init__(self):
+        self.neighbours = [[self.GRAPH_UNDEFINED_WEIGHT for _ in range(self.GRAPH_MAX_VERTICES)] for _ in range(self.GRAPH_MAX_VERTICES)]
+        self.vertices = [None] * self.GRAPH_MAX_VERTICES
+        self.n_vertices = 0
+
+    def empty(self):
+        return self.n_vertices == 0
+
+    def index_of_vertex(self, vertex_label):
+        for i in range(self.n_vertices):
+            if self.vertices[i] == vertex_label:
+                return i
+
+        return -1
+
+    def add_vertex(self, vertex_label):
+        if self.n_vertices < self.GRAPH_MAX_VERTICES and self.index_of_vertex(vertex_label) == -1:
+            self.vertices[self.n_vertices] = vertex_label
+            self.n_vertices += 1
+        else:
+            print(f'Impossible d\'ajouter le sommet {vertex_label}')
+
+    def add_edge(self, vertex_source, vertex_destination, weight):
+        source_index = self.index_of_vertex(vertex_source)
+        destination_index = self.index_of_vertex(vertex_destination)
+
+        if source_index != -1 and destination_index != -1 and weight != self.GRAPH_UNDEFINED_WEIGHT:
+            self.neighbours[source_index][destination_index] = weight
+            self.neighbours[destination_index][source_index] = weight
+        else:
+            print(f'Impossible d\'ajouter l\'arête ({vertex_source})--({vertex_destination})')
+
+    def remove_vertex(self, vertex_label):
+        index = self.index_of_vertex(vertex_label)
+
+        if index == -1:
+            print(f'Impossible de supprimer le sommet {vertex_label} (il n\'existe pas)')
+            return
+
+        for i in range(self.n_vertices):
+            self.neighbours[i][index] = self.GRAPH_UNDEFINED_WEIGHT
+            self.neighbours[index][i] = self.GRAPH_UNDEFINED_WEIGHT
+
+        for i in range(index, self.n_vertices - 1):
+            for j in range(self.n_vertices):
+                self.neighbours[j][i] = self.neighbours[j][i + 1]
+
+            for j in range(self.n_vertices):
+                self.neighbours[i][j] = self.neighbours[i + 1][j]
+
+            self.vertices[i] = self.vertices[i + 1]
+
+        self.n_vertices -= 1
+
+    def remove_edge(self, vertex_source, vertex_destination):
+        source_index = self.index_of_vertex(vertex_source)
+        destination_index = self.index_of_vertex(vertex_destination)
+
+        if source_index != -1 and destination_index != -1:
+            self.neighbours[source_index][destination_index] = self.GRAPH_UNDEFINED_WEIGHT
+            self.neighbours[destination_index][source_index] = self.GRAPH_UNDEFINED_WEIGHT
+        else:
+            print(f'Impossible de supprimer l\'arête ({vertex_source})--({vertex_destination})')
+
+
+    def degree_of_vertex(self, vertex_label):
+        index = self.index_of_vertex(vertex_label)
+
+        if index == -1:
+            raise Exception(f'Le sommet {vertex_label} n\'existe pas')
+
+        degree = 0
+
+        for i in range(self.n_vertices):
+            if self.neighbours[index][i] != self.GRAPH_UNDEFINED_WEIGHT:
+                degree += 1
+
+        return degree
+
+    def density(self):
+        edges = 0
+
+        for i in range(self.n_vertices):
+            for j in range(i + 1, self.n_vertices):
+                if self.neighbours[i][j] != self.GRAPH_UNDEFINED_WEIGHT:
+                    edges += 1
+
+        return (2.0 * edges) / (self.n_vertices * (self.n_vertices - 1))
 ```

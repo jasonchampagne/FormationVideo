@@ -305,7 +305,132 @@ class Graph
 ## C#
 
 ```csharp
-// à venir
+public class Graph
+{
+    private const int GRAPH_MAX_VERTICES = 26;
+    private const int GRAPH_UNDEFINED_WEIGHT = 0;
+
+    private int[,] neighbours = new int[GRAPH_MAX_VERTICES, GRAPH_MAX_VERTICES];
+    private char[] vertices = new char[GRAPH_MAX_VERTICES];
+    private int nVertices = 0;
+
+
+    public Graph()
+    {
+        for(int i = 0 ; i < GRAPH_MAX_VERTICES ; ++i)
+            for(int j = 0 ; j < GRAPH_MAX_VERTICES ; ++j)
+                neighbours[i, j] = GRAPH_UNDEFINED_WEIGHT;
+    }
+
+    public bool Empty() => nVertices == 0;
+
+    public int IndexOfVertex(char vertexLabel)
+    {
+        for(int i = 0 ; i < nVertices ; ++i)
+            if(vertices[i] == vertexLabel)
+                return i;
+
+        return -1;
+    }
+
+    public void AddVertex(char vertexLabel)
+    {
+        if(nVertices < GRAPH_MAX_VERTICES && IndexOfVertex(vertexLabel) == -1)
+        {
+            vertices[nVertices] = vertexLabel;
+            nVertices++;
+        }
+        else
+            Console.Error.WriteLine($"Impossible d'ajouter le sommet {vertexLabel}");
+    }
+
+    public void AddEdge(char vertexSource, char vertexDestination, int weight)
+    {
+        int sourceIndex = IndexOfVertex(vertexSource);
+        int destinationIndex = IndexOfVertex(vertexDestination);
+
+        if(sourceIndex != -1 && destinationIndex != -1 && weight != GRAPH_UNDEFINED_WEIGHT)
+        {
+            neighbours[sourceIndex, destinationIndex] = weight;
+            neighbours[destinationIndex, sourceIndex] = weight;
+        }
+        else
+            Console.WriteLine($"Impossible d'ajouter l'arete ({vertexSource})--({vertexDestination})");
+    }
+
+    public void RemoveVertex(char vertexLabel)
+    {
+        int index = IndexOfVertex(vertexLabel);
+
+        if(index == -1)
+        {
+            Console.Error.WriteLine($"Impossible de supprimer le sommet {vertexLabel} (il n'existe pas)");
+            return;
+        }
+
+        for(int i = 0 ; i < nVertices ; ++i)
+        {
+            neighbours[i, index] = GRAPH_UNDEFINED_WEIGHT;
+            neighbours[index, i] = GRAPH_UNDEFINED_WEIGHT;
+        }
+
+        for(int i = index ; i < nVertices - 1 ; ++i)
+        {
+            for(int j = 0 ; j < nVertices ; ++j)
+                neighbours[j, i] = neighbours[j, i + 1];
+
+            for(int j = 0 ; j < nVertices ; ++j)
+                neighbours[i, j] = neighbours[i + 1, j];
+
+            vertices[i] = vertices[i + 1];
+        }
+
+        nVertices--;
+    }
+
+    public void RemoveEdge(char vertexSource, char vertexDestination)
+    {
+        int sourceIndex = IndexOfVertex(vertexSource);
+        int destinationIndex = IndexOfVertex(vertexDestination);
+
+        if(sourceIndex != -1 && destinationIndex != -1)
+        {
+            neighbours[sourceIndex, destinationIndex] = GRAPH_UNDEFINED_WEIGHT;
+            neighbours[destinationIndex, sourceIndex] = GRAPH_UNDEFINED_WEIGHT;
+        }
+        else
+            Console.WriteLine($"Impossible de supprimer l'arete ({vertexSource})--({vertexDestination})");
+    }
+
+
+    public int DegreeOfVertex(char vertexLabel)
+    {
+        int index = IndexOfVertex(vertexLabel);
+
+        if(index == -1)
+            throw new Exception($"Le sommet {vertexLabel} n'existe pas");
+
+        int degree = 0;
+
+        for(int i = 0 ; i < nVertices ; ++i)
+            if(neighbours[index, i] != GRAPH_UNDEFINED_WEIGHT)
+                degree++;
+
+        return degree;
+    }
+
+    public double Density()
+    {
+        int edges = 0;
+
+        for(int i = 0 ; i < nVertices ; ++i)
+            for(int j = i + 1 ; j < nVertices ; ++j)
+                if(neighbours[i, j] != GRAPH_UNDEFINED_WEIGHT)
+                    edges++;
+
+        return (2.0 * edges) / (nVertices * (nVertices - 1));
+    }
+}
 ```
 
 ---

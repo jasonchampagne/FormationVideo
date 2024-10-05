@@ -132,7 +132,7 @@ void graph_removeEdge(struct Graph* g, const char vertexLabelSource, const char 
         g->neighbours[destIndex][srcIndex] = GRAPH_UNDEFINED_WEIGHT;
     }
     else
-        fprintf(stderr, "Impossible d'ajouter l'arete (%c)--(%c)\n", vertexLabelSource, vertexLabelDestination);
+        fprintf(stderr, "Impossible de supprimer l'arete (%c)--(%c)\n", vertexLabelSource, vertexLabelDestination);
 }
 
 int graph_degreeOfVertex(struct Graph* g, const char vertexLabel)

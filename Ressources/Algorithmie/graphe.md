@@ -165,7 +165,128 @@ double graph_density(struct Graph* g)
 ## C++
 
 ```cpp
-// à venir
+constexpr int GRAPH_MAX_VERTICES = 26;
+constexpr int GRAPH_UNDEFINED_WEIGHT = 0;
+
+
+class Graph
+{
+    public:
+        Graph() : nVertices(0)
+        {
+            for(auto& row : neighbours)
+                row.fill(GRAPH_UNDEFINED_WEIGHT);
+        }
+
+        bool empty() const
+        {
+            return nVertices == 0;
+        }
+
+        int indexOfVertex(const char vertexLabel) const
+        {
+            for(auto i = 0 ; i < nVertices ; ++i)
+                if(vertices[i] == vertexLabel)
+                    return i;
+
+            return -1;
+        }
+
+        void addVertex(const char vertexLabel)
+        {
+            if(nVertices < GRAPH_MAX_VERTICES && indexOfVertex(vertexLabel) == -1)
+            {
+                vertices[nVertices] = vertexLabel;
+                nVertices++;
+            }
+            else
+                std::cerr << "Impossible d'ajouter le sommet " << vertexLabel << std::endl;
+        }
+
+        void addEdge(const char vertexSource, const char vertexDestination, const int weight)
+        {
+            auto sourceIndex = indexOfVertex(vertexSource);
+            auto destinationIndex = indexOfVertex(vertexDestination);
+
+            if(sourceIndex != -1 && destinationIndex != -1 && weight != GRAPH_UNDEFINED_WEIGHT)
+            {
+                neighbours[sourceIndex][destinationIndex] = weight;
+                neighbours[destinationIndex][sourceIndex] = weight;
+            }
+            else
+                std::cerr << "Impossible d'ajouter l'arete (" << vertexSource << ")--(" << vertexDestination << ")" << std::endl;
+        }
+
+        void removeVertex(const char vertexLabel)
+        {
+            auto index = indexOfVertex(vertexLabel);
+
+            if(index == -1)
+            {
+                std::cerr << "Impossible de supprimer le sommet " << vertexLabel << std::endl;
+                return;
+            }
+
+            for(auto i = 0 ; i < nVertices ; ++i)
+            {
+                neighbours[i][index] = GRAPH_UNDEFINED_WEIGHT;
+                neighbours[index][i] = GRAPH_UNDEFINED_WEIGHT;
+            }
+
+            for(auto i = index ; i < nVertices - 1 ; ++i)
+            {
+                for(auto j = 0 ; j < nVertices ; ++j)
+                    neighbours[j][i] = neighbours[j][i + 1];
+
+                for(auto j = 0 ; j < nVertices ; ++j)
+                    neighbours[i][j] = neighbours[i + 1][j];
+
+                vertices[i] = vertices[i + 1];
+            }
+
+            nVertices--;
+        }
+
+        void removeEdge(const char vertexSource, const char vertexDestination)
+        {
+            auto sourceIndex = indexOfVertex(vertexSource);
+            auto destinationIndex = indexOfVertex(vertexDestination);
+
+            if(sourceIndex != -1 && destinationIndex != -1) {
+                neighbours[sourceIndex][destinationIndex] = GRAPH_UNDEFINED_WEIGHT;
+                neighbours[destinationIndex][sourceIndex] = GRAPH_UNDEFINED_WEIGHT;
+            }
+            else
+                std::cerr << "Impossible de supprimer l'arete (" << vertexSource << ")--(" << vertexDestination << ")" << std::endl;
+        }
+
+        int degreeOfVertex(const char vertexLabel) const
+        {
+            auto index = indexOfVertex(vertexLabel);
+
+            return std::count_if(neighbours[index].begin(), neighbours[index].begin() + nVertices, [](auto weight)
+            {
+                return weight != GRAPH_UNDEFINED_WEIGHT;
+            });
+        }
+
+        double density() const
+        {
+            auto edges = 0;
+
+            for(auto i = 0 ; i < nVertices ; ++i)
+                for(auto j = i + 1 ; j < nVertices ; ++j)
+                    if(neighbours[i][j] != GRAPH_UNDEFINED_WEIGHT)
+                        edges++;
+
+            return (2.0 * edges) / (nVertices * (nVertices - 1));
+        }
+
+    private:
+        std::array<std::array<int, GRAPH_MAX_VERTICES>, GRAPH_MAX_VERTICES> neighbours{};
+        std::array<char, GRAPH_MAX_VERTICES> vertices{};
+        int nVertices;
+};
 ```
 
 ---

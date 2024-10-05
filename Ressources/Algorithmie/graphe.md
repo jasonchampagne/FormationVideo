@@ -437,7 +437,137 @@ public class Graph
 ## Java
 
 ```java
-// à venir
+public class Graph
+{
+    private static final int GRAPH_MAX_VERTICES = 26;
+    private static final int GRAPH_UNDEFINED_WEIGHT = 0;
+
+    private int[][] neighbours;
+    private char[] vertices;
+    private int nVertices;
+
+    public Graph()
+    {
+        neighbours = new int[GRAPH_MAX_VERTICES][GRAPH_MAX_VERTICES];
+        vertices = new char[GRAPH_MAX_VERTICES];
+        nVertices = 0;
+
+        for(int i = 0 ; i < GRAPH_MAX_VERTICES ; ++i)
+            Arrays.fill(neighbours[i], GRAPH_UNDEFINED_WEIGHT);
+    }
+
+    public boolean empty()
+    {
+        return nVertices == 0;
+    }
+
+    public int indexOfVertex(char vertexLabel)
+    {
+        for(int i = 0 ; i < nVertices ; ++i)
+            if(vertices[i] == vertexLabel)
+                return i;
+
+        return -1;
+    }
+
+    public void addVertex(char vertexLabel)
+    {
+        if(nVertices < GRAPH_MAX_VERTICES && indexOfVertex(vertexLabel) == -1)
+        {
+            vertices[nVertices] = vertexLabel;
+            nVertices++;
+        }
+        else
+            System.err.println("Impossible d'ajouter le sommet " + vertexLabel);
+    }
+
+    public void addEdge(char vertexSource, char vertexDestination, int weight)
+    {
+        int sourceIndex = indexOfVertex(vertexSource);
+        int destinationIndex = indexOfVertex(vertexDestination);
+
+        if(sourceIndex != -1 && destinationIndex != -1 && weight != GRAPH_UNDEFINED_WEIGHT)
+        {
+            neighbours[sourceIndex][destinationIndex] = weight;
+            neighbours[destinationIndex][sourceIndex] = weight;
+        }
+        else
+            System.out.println("Impossible d'ajouter l'arete ("+vertexSource+")--("+vertexDestination+")");
+    }
+
+    public void removeVertex(char vertexLabel)
+    {
+        int index = indexOfVertex(vertexLabel);
+
+        if(index == -1)
+        {
+            System.err.println("Impossible de supprimer le sommet " + vertexLabel + " (il n'existe pas)");
+            return;
+        }
+
+        for(int i = 0 ; i < nVertices ; ++i)
+        {
+            neighbours[i][index] = GRAPH_UNDEFINED_WEIGHT;
+            neighbours[index][i] = GRAPH_UNDEFINED_WEIGHT;
+        }
+
+        for(int i = index ; i < nVertices - 1 ; ++i)
+        {
+            for(int j = 0 ; j < nVertices ; ++j)
+                neighbours[j][i] = neighbours[j][i + 1];
+
+            for(int j = 0 ; j < nVertices ; ++j)
+                neighbours[i][j] = neighbours[i + 1][j];
+
+            vertices[i] = vertices[i + 1];
+        }
+
+        nVertices--;
+    }
+
+    public void removeEdge(char vertexSource, char vertexDestination)
+    {
+        int sourceIndex = indexOfVertex(vertexSource);
+        int destinationIndex = indexOfVertex(vertexDestination);
+
+        if(sourceIndex != -1 && destinationIndex != -1)
+        {
+            neighbours[sourceIndex][destinationIndex] = GRAPH_UNDEFINED_WEIGHT;
+            neighbours[destinationIndex][sourceIndex] = GRAPH_UNDEFINED_WEIGHT;
+        }
+        else
+            System.out.println("Impossible de supprimer l'arete ("+vertexSource+")--("+vertexDestination+")");
+    }
+
+
+    public int degreeOfVertex(char vertexLabel) throws Exception
+    {
+        int index = indexOfVertex(vertexLabel);
+
+        if(index == -1)
+            throw new Exception("Le sommet " + vertexLabel + " n'existe pas");
+
+        int degree = 0;
+
+        for(int i = 0 ; i < nVertices ; ++i)
+            if(neighbours[index][i] != GRAPH_UNDEFINED_WEIGHT)
+                degree++;
+
+        return degree;
+    }
+
+    public double density()
+    {
+        int edges = 0;
+
+        for(int i = 0 ; i < nVertices ; ++i)
+            for(int j = i + 1 ; j < nVertices ; ++j)
+                if(neighbours[i][j] != GRAPH_UNDEFINED_WEIGHT)
+                    edges++;
+
+        return (2.0 * edges) / (nVertices * (nVertices - 1));
+    }
+}
 ```
 
 ---

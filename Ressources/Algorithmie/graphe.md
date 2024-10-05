@@ -74,7 +74,7 @@ void graph_addVertex(struct Graph* g, const char vertexLabel)
         g->nVertices++;
     }
     else
-        fprintf(stderr, "Impossible d'ajouter le sommet '%c'\n", vertexLabel);
+        fprintf(stderr, "Impossible d'ajouter le sommet %c\n", vertexLabel);
 }
 
 void graph_addEdge(struct Graph* g, const char vertexLabelSource, const char vertexLabelDestination, const int weight)

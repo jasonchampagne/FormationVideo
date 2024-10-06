@@ -790,7 +790,7 @@ class Graph
         $this->nVertices--;
     }
 
-    public function removeEdge(string $vertexSource, string $vertexDestination): vvoid
+    public function removeEdge(string $vertexSource, string $vertexDestination): void
     {
         $sourceIndex = $this->indexOfVertex($vertexSource);
         $destinationIndex = $this->indexOfVertex($vertexDestination);

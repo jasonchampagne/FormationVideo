@@ -765,6 +765,7 @@
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Enseignement dans les écoles](https://www.youtube.com/watch?v=EkrjVAV_ASw)
++ [Filmora : comment créer une miniature YouTube](https://www.youtube.com/watch?v=dvMWQZpnnOs)
 + [Filmora : montage vidéo complet pour débutants](https://www.youtube.com/watch?v=3T_CcjieaW0)
 + [Filmora : sublimez vos montages vidéo avec des filtres LUT](https://www.youtube.com/watch?v=JQXB6_ZrTp8)
 + [FormationVidéo : ce qui arrive, vos inquiétudes](https://www.youtube.com/watch?v=fNzevnH1KY4)

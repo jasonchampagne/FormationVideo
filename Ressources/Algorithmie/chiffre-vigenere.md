@@ -22,30 +22,23 @@ void vigenereCipherEncrypt(const char* message, const char* key, char* encrypted
 {
     size_t messageLength = strlen(message);
     size_t keyLength = strlen(key);
-    char messageCharacter = 0;
-    char keyCharacter = 0;
     int keyIndex = 0;
     int shift = 0;
 
     for(size_t i = 0 ; i < messageLength ; ++i)
-    {
-        messageCharacter = message[i];
-
-        if(isalpha(messageCharacter))
+        if(isalpha(message[i]))
         {
-            keyCharacter = key[keyIndex % keyLength];
-            shift = toupper(keyCharacter) - 'A';
+            shift = toupper(key[keyIndex % keyLength]) - 'A';
 
-            if(messageCharacter >= 'A' && messageCharacter <= 'Z')
-                encryptedMessage[i] = ((messageCharacter - 'A' + shift) % 26) + 'A';
-            else if(messageCharacter >= 'a' && messageCharacter <= 'z')
-                encryptedMessage[i] = ((messageCharacter - 'a' + shift) % 26) + 'a';
+            if(message[i] >= 'A' && message[i] <= 'Z')
+                encryptedMessage[i] = ((message[i] - 'A' + shift) % 26) + 'A';
+            else if(message[i] >= 'a' && message[i] <= 'z')
+                encryptedMessage[i] = ((message[i] - 'a' + shift) % 26) + 'a';
 
             keyIndex++;
         }
         else
-            encryptedMessage[i] = messageCharacter;
-    }
+            encryptedMessage[i] = message[i];
 }
 
 // Déchiffrement
@@ -53,30 +46,23 @@ void vigenereCipherDecrypt(const char* encryptedMessage, const char* key, char* 
 {
     size_t encryptedMessageLength = strlen(encryptedMessage);
     size_t keyLength = strlen(key);
-    char encryptedMessageCharacter = 0;
-    char keyCharacter = 0;
     int keyIndex = 0;
     int shift = 0;
 
     for(size_t i = 0 ; i < encryptedMessageLength ; ++i)
-    {
-        encryptedMessageCharacter = encryptedMessage[i];
-
-        if(isalpha(encryptedMessageCharacter))
+        if(isalpha(encryptedMessage[i]))
         {
-            keyCharacter = key[keyIndex % keyLength];
-            shift = toupper(keyCharacter) - 'A';
+            shift = toupper(key[keyIndex % keyLength]) - 'A';
 
-            if(encryptedMessageCharacter >= 'A' && encryptedMessageCharacter <= 'Z')
-                message[i] = ((encryptedMessageCharacter - 'A' - shift + 26) % 26) + 'A';
-            else if(encryptedMessageCharacter >= 'a' && encryptedMessageCharacter <= 'z')
-                message[i] = ((encryptedMessageCharacter - 'a' - shift + 26) % 26) + 'a';
+            if(encryptedMessage[i] >= 'A' && encryptedMessage[i] <= 'Z')
+                message[i] = ((encryptedMessage[i] - 'A' - shift + 26) % 26) + 'A';
+            else if(encryptedMessage[i] >= 'a' && encryptedMessage[i] <= 'z')
+                message[i] = ((encryptedMessage[i] - 'a' - shift + 26) % 26) + 'a';
 
             keyIndex++;
         }
         else
-            message[i] = encryptedMessageCharacter;
-    }
+            message[i] = encryptedMessage[i];
 }
 ```
 

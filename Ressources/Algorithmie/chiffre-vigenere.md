@@ -230,12 +230,11 @@ function vigenereCipherDecrypt(string $encryptedMessage, string $key): string
 ```python
 # Chiffrement
 def vigenere_cipher_encrypt(message, key):
+    encrypted_message = []
     key = key.upper()
     key_length = len(key)
     key_index = 0
     shift = 0
-
-    encrypted_message = []
 
     for character in message:
         if character.isalpha():
@@ -254,12 +253,11 @@ def vigenere_cipher_encrypt(message, key):
 
 # Déchiffrement
 def vigenere_cipher_decrypt(encrypted_message, key):
+    message = []
     key = key.upper()
     key_length = len(key)
     key_index = 0
     shift = 0
-
-    message = []
 
     for character in encrypted_message:
         if character.isalpha():

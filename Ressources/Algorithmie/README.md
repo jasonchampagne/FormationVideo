@@ -6,6 +6,7 @@
 
 |RESSOURCE|DESCRIPTION|
 |:--|:--|
+|chiffre-vigenere|Exemples d'implémentation du chiffre de Vigenere (_vigenere cipher_)|
 |code-cesar|Exemples d'implémentation du code de César (_caesar cipher_)|
 |euclide|Exemples d'implémentation du calcul du PGCD|
 |graphe|Exemples d'implémentation d'un graphe (non orienté et pondéré)|

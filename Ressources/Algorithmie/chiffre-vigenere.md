@@ -74,7 +74,7 @@ void vigenereCipherDecrypt(const char* encryptedMessage, const char* key, char* 
 // Chiffrement
 std::string vigenereCipherEncrypt(const std::string& message, const std::string& key)
 {
-    std::string encryptedMessage{message};
+    auto encryptedMessage{message};
     auto messageLength{message.length()};
     auto keyLength{key.length()};
     auto keyIndex{0};
@@ -99,7 +99,7 @@ std::string vigenereCipherEncrypt(const std::string& message, const std::string&
 // Déchiffrement
 std::string vigenereCipherDecrypt(const std::string& encryptedMessage, const std::string& key)
 {
-    std::string message{encryptedMessage};
+    auto message{encryptedMessage};
     auto encryptedMessageLength{encryptedMessage.length()};
     auto keyLength{key.length()};
     auto keyIndex{0};

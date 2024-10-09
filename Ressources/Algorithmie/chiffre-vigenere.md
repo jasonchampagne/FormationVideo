@@ -168,7 +168,59 @@ public class VigenereCipher
 ## PHP
 
 ```php
-à venir...
+// Chiffrement
+function vigenereCipherEncrypt(string $message, string $key): string
+{
+    $encryptedMessage = '';
+    $key = strtoupper($key);
+    $keyLength = strlen($key);
+    $keyIndex = 0;
+    $shift = 0;
+
+    for($i = 0 ; $i < strlen($message) ; ++$i)
+        if(ctype_alpha($message[$i]))
+        {
+            $shift = ord($key[$keyIndex % $keyLength]) - ord('A');
+
+            if(ctype_upper($message[$i]))
+                $encryptedMessage .= chr(((ord($message[$i]) - ord('A') + $shift) % 26) + ord('A'));
+            else
+                $encryptedMessage .= chr(((ord($message[$i]) - ord('a') + $shift) % 26) + ord('a'));
+
+            $keyIndex++;
+        }
+        else
+            $encryptedMessage .= $message[$i];
+
+    return $encryptedMessage;
+}
+
+// Déchiffrement
+function vigenereCipherDecrypt(string $encryptedMessage, string $key): string
+{
+    $message = '';
+    $key = strtoupper($key);
+    $keyLength = strlen($key);
+    $keyIndex = 0;
+    $shift = 0;
+
+    for($i = 0 ; $i < strlen($encryptedMessage) ; ++$i)
+        if(ctype_alpha($encryptedMessage[$i]))
+        {
+            $shift = ord($key[$keyIndex % $keyLength]) - ord('A');
+
+            if(ctype_upper($encryptedMessage[$i]))
+                $message .= chr(((ord($encryptedMessage[$i]) - ord('A') - $shift + 26) % 26) + ord('A'));
+            else
+                $message .= chr(((ord($encryptedMessage[$i]) - ord('a') - $shift + 26) % 26) + ord('a'));
+
+            $keyIndex++;
+        }
+        else
+            $message .= $encryptedMessage[$i];
+
+    return $message;
+}
 ```
 
 ---

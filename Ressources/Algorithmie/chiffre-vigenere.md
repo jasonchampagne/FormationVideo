@@ -87,7 +87,72 @@ void vigenereCipherDecrypt(const char* encryptedMessage, const char* key, char* 
 ## Java
 
 ```java
-à venir...
+public class VigenereCipher
+{
+    // Chiffrement
+    public static String encrypt(String message, String key)
+    {
+        StringBuilder encryptedMessage = new StringBuilder();
+        key = key.toUpperCase();
+        int messageLength = message.length();
+        int keyLength = key.length();
+        int keyIndex = 0;
+        int shift = 0;
+
+        for(int i = 0 ; i < messageLength ; ++i)
+        {
+            char messageCharacter = message.charAt(i);
+
+            if(Character.isLetter(messageCharacter))
+            {
+                shift = key.charAt(keyIndex % keyLength) - 'A';
+
+                if(Character.isUpperCase(messageCharacter))
+                    encryptedMessage.append((char)(((messageCharacter - 'A' + shift) % 26) + 'A'));
+                else
+                    encryptedMessage.append((char)(((messageCharacter - 'a' + shift) % 26) + 'a'));
+
+                keyIndex++;
+            }
+            else
+                encryptedMessage.append(messageCharacter);
+        }
+
+        return encryptedMessage.toString();
+    }
+
+    // Déchiffrement
+    public static String decrypt(String encryptedMessage, String key)
+    {
+        StringBuilder message = new StringBuilder();
+        key = key.toUpperCase();
+        int encryptedMessageLength = encryptedMessage.length();
+        int keyLength = key.length();
+        int keyIndex = 0;
+        int shift = 0;
+
+        for(int i = 0 ; i < encryptedMessageLength ; ++i)
+        {
+            char encryptedMessageCharacter = encryptedMessage.charAt(i);
+
+            if(Character.isLetter(encryptedMessageCharacter))
+            {
+                shift = key.charAt(keyIndex % keyLength) - 'A';
+
+                if(Character.isUpperCase(encryptedMessageCharacter))
+                    message.append((char)(((encryptedMessageCharacter - 'A' - shift + 26) % 26) + 'A'));
+                else
+                    message.append((char)(((encryptedMessageCharacter - 'a' - shift + 26) % 26) + 'a'));
+
+                keyIndex++;
+            }
+            else
+                message.append(encryptedMessageCharacter);
+        }
+
+        return message.toString();
+    }
+}
 ```
 
 ---

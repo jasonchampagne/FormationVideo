@@ -111,5 +111,51 @@ void vigenereCipherDecrypt(const char* encryptedMessage, const char* key, char* 
 ## Python
 
 ```python
-à venir...
+# Chiffrement
+def vigenere_cipher_encrypt(message, key):
+    key = key.upper()
+    key_length = len(key)
+    key_index = 0
+    shift = 0
+
+    encrypted_message = []
+
+    for character in message:
+        if character.isalpha():
+            shift = ord(key[key_index % key_length]) - ord('A')
+
+            if character.isupper():
+                encrypted_message.append(chr((ord(character) - ord('A') + shift) % 26 + ord('A')))
+            else:
+                encrypted_message.append(chr((ord(character) - ord('a') + shift) % 26 + ord('a')))
+
+            key_index += 1
+        else:
+            encrypted_message.append(character)
+
+    return ''.join(encrypted_message)
+
+# Déchiffrement
+def vigenere_cipher_decrypt(encrypted_message, key):
+    key = key.upper()
+    key_length = len(key)
+    key_index = 0
+    shift = 0
+
+    message = []
+
+    for character in encrypted_message:
+        if character.isalpha():
+            shift = ord(key[key_index % key_length]) - ord('A')
+
+            if character.isupper():
+                message.append(chr((ord(character) - ord('A') - shift + 26) % 26 + ord('A')))
+            else:
+                message.append(chr((ord(character) - ord('a') - shift + 26) % 26 + ord('a')))
+
+            key_index += 1
+        else:
+            message.append(character)
+
+    return ''.join(message)
 ```

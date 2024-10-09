@@ -8,6 +8,7 @@
 ## [Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ)
 
 + [Présentation](https://www.youtube.com/watch?v=R9iHBRQbiEI)
+    + [Chiffre de Vigenère](https://www.youtube.com/watch?v=rs8Obxc84Rg)
     + [Code de César](https://www.youtube.com/watch?v=47-kKTbGSz0)
     + [Euclide](https://www.youtube.com/watch?v=YFVx8hcngas)
     + [Parcours séquentiel](https://www.youtube.com/watch?v=h97sd-d0SLo)

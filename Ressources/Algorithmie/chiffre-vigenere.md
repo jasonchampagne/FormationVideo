@@ -213,7 +213,65 @@ public class VigenereCipher
 ## JavaScript
 
 ```js
-à venir...
+// Chiffrement
+function vigenereCipherEncrypt(message, key)
+{
+    let encryptedMessage = '';
+    key = key.toUpperCase();
+    const messageLength = message.length;
+    const keyLength = key.length;
+    let keyCharacter = 0;
+    let keyIndex = 0;
+    let shift = 0;
+
+    for(let i = 0 ; i < messageLength ; ++i)
+        if(/[a-zA-Z]/.test(message[i]))
+        {
+            keyCharacter = key[keyIndex % keyLength];
+            shift = keyCharacter.charCodeAt(0) - 'A'.charCodeAt(0);
+
+            if(/[A-Z]/.test(message[i]))
+                encryptedMessage += String.fromCharCode(((message[i].charCodeAt(0) - 'A'.charCodeAt(0) + shift) % 26) + 'A'.charCodeAt(0));
+            else
+                encryptedMessage += String.fromCharCode(((message[i].charCodeAt(0) - 'a'.charCodeAt(0) + shift) % 26) + 'a'.charCodeAt(0));
+
+            keyIndex++;
+        }
+        else
+            encryptedMessage += message[i];
+
+    return encryptedMessage;
+}
+
+// Déchiffrement
+function vigenereCipherDecrypt(encryptedMessage, key)
+{
+    let message = '';
+    key = key.toUpperCase();
+    const encryptedMessageLength = encryptedMessage.length;
+    const keyLength = key.length;
+    let keyCharacter = 0;
+    let keyIndex = 0;
+    let shift = 0;
+
+    for(let i = 0 ; i < encryptedMessageLength ; ++i)
+        if(/[a-zA-Z]/.test(encryptedMessage[i]))
+        {
+            keyCharacter = key[keyIndex % keyLength];
+            shift = keyCharacter.charCodeAt(0) - 'A'.charCodeAt(0);
+
+            if(/[A-Z]/.test(encryptedMessage[i]))
+                message += String.fromCharCode(((encryptedMessage[i].charCodeAt(0) - 'A'.charCodeAt(0) - shift + 26) % 26) + 'A'.charCodeAt(0));
+            else
+                message += String.fromCharCode(((encryptedMessage[i].charCodeAt(0) - 'a'.charCodeAt(0) - shift + 26) % 26) + 'a'.charCodeAt(0));
+
+            keyIndex++;
+        }
+        else
+            message += encryptedMessage[i];
+
+    return message;
+}
 ```
 
 ---

@@ -71,7 +71,59 @@ void vigenereCipherDecrypt(const char* encryptedMessage, const char* key, char* 
 ## C++
 
 ```cpp
-...
+// Chiffrement
+std::string vigenereCipherEncrypt(const std::string& message, const std::string& key)
+{
+    auto messageLength{message.size()};
+    auto keyLength{key.size()};
+    int keyIndex{0};
+
+    std::string encryptedMessage;
+
+    for(auto i = 0 ; i < messageLength ; ++i)
+        if(std::isalpha(message[i]))
+        {
+            int shift = std::toupper(key[keyIndex % keyLength]) - 'A';
+
+            if(std::isupper(message[i]))
+                encryptedMessage += ((message[i] - 'A' + shift) % 26) + 'A';
+            else
+                encryptedMessage += ((message[i] - 'a' + shift) % 26) + 'a';
+
+            keyIndex++;
+        }
+        else
+            encryptedMessage += message[i];
+
+    return encryptedMessage;
+}
+
+// Déchiffrement
+std::string vigenereCipherDecrypt(const std::string& encryptedMessage, const std::string& key)
+{
+    auto encryptedMessageLength{encryptedMessage.size()};
+    auto keyLength{key.size()};
+    int keyIndex{0};
+
+    std::string message;
+
+    for(auto i = 0 ; i < encryptedMessageLength ; ++i)
+        if(std::isalpha(encryptedMessage[i]))
+        {
+            int shift = std::toupper(key[keyIndex % keyLength]) - 'A';
+
+            if(std::isupper(encryptedMessage[i]))
+                message += ((encryptedMessage[i] - 'A' + shift) % 26) + 'A';
+            else
+                message += ((encryptedMessage[i] - 'a' + shift) % 26) + 'a';
+
+            keyIndex++;
+        }
+        else
+            message += encryptedMessage[i];
+
+    return message;
+}
 ```
 
 ---

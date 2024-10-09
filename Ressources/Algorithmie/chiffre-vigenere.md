@@ -79,7 +79,60 @@ void vigenereCipherDecrypt(const char* encryptedMessage, const char* key, char* 
 ## C#
 
 ```csharp
-à venir...
+class VigenereCipher
+{
+    // Chiffrement
+    public static string Encrypt(string message, string key)
+    {
+        StringBuilder encryptedMessage = new StringBuilder(message);
+        key = key.ToUpper();
+        int messageLength = message.Length;
+        int keyLength = key.Length;
+        int keyIndex = 0;
+        int shift = 0;
+
+        for(int i = 0 ; i < messageLength ; ++i)
+            if(char.IsLetter(message[i]))
+            {
+                shift = key[keyIndex % keyLength] - 'A';
+
+                if(char.IsUpper(message[i]))
+                    encryptedMessage[i] = (char)(((message[i] - 'A' + shift) % 26) + 'A');
+                else
+                    encryptedMessage[i] = (char)(((message[i] - 'a' + shift) % 26) + 'a');
+
+                keyIndex++;
+            }
+
+        return encryptedMessage.ToString();
+    }
+
+    // Déchiffrement
+    public static string Decrypt(string encryptedMessage, string key)
+    {
+        StringBuilder message = new StringBuilder(encryptedMessage);
+        key = key.ToUpper();
+        int encryptedMessageLength = message.Length;
+        int keyLength = key.Length;
+        int keyIndex = 0;
+        int shift = 0;
+
+        for(int i = 0 ; i < encryptedMessageLength ; ++i)
+            if(char.IsLetter(encryptedMessage[i]))
+            {
+                shift = key[keyIndex % keyLength] - 'A';
+
+                if(char.IsUpper(encryptedMessage[i]))
+                    message[i] = (char)(((encryptedMessage[i] - 'A' - shift + 26) % 26) + 'A');
+                else
+                    message[i] = (char)(((encryptedMessage[i] - 'a' - shift + 26) % 26) + 'a');
+
+                keyIndex++;
+            }
+
+        return message.ToString();
+    }
+}
 ```
 
 ---

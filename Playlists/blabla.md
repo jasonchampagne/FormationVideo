@@ -9,3 +9,4 @@
 
 + [5 erreurs que tu fais quand tu apprends](https://www.youtube.com/watch?v=zKTTcvwAvp8)
 + [Pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
++ [Utilisation de l'IA dans les écoles](https://www.youtube.com/watch?v=6AymSXTyiNI)

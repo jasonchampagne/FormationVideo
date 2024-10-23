@@ -6,10 +6,11 @@
 
 > _Voir aussi les [playlists WordPress](https://github.com/jasonchampagne/FormationVideo/blob/master/Playlists/wordpress.md)_
 
-+ [Hostinger : créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)
-+ [Hostinger : hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
-+ [Hostinger : migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
-+ [Hostinger : transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
++ [Créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)
++ [Hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
++ [Migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
++ [Transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
++ [WordPress : gagner de l'argent grâce à l'affiliation](https://www.youtube.com/watch?v=o-ZLmx15ub8)
 
 ### Wondershare
 

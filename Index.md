@@ -777,6 +777,7 @@
 + [Filmora : montage vidéo complet pour débutants](https://www.youtube.com/watch?v=3T_CcjieaW0)
 + [Filmora : sublimez vos montages vidéo avec des filtres LUT](https://www.youtube.com/watch?v=JQXB6_ZrTp8)
 + [Filmora 14 est sorti : les nouveautés du logiciel de montage !](https://www.youtube.com/watch?v=Zs2PjawSE0E)
++ [Filmora VS Capcut : quel logiciel de montage vidéo choisir ?](https://www.youtube.com/watch?v=o7Rf6FuSrc4)
 + [FormationVidéo : ce qui arrive, vos inquiétudes](https://www.youtube.com/watch?v=fNzevnH1KY4)
 + [Héberger son site en ligne](https://www.youtube.com/watch?v=mXVacXSTns8)
 + [Hostinger : créer votre site web avec une IA](https://www.youtube.com/watch?v=-h6yAy_m0gE)

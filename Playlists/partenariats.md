@@ -10,6 +10,7 @@
 + [Hébergement et WordPress en quelques clics !](https://www.youtube.com/watch?v=MMpPUB1ACd0)
 + [Migrer votre site web](https://www.youtube.com/watch?v=lN0BC154jmo)
 + [Transférer votre nom de domaine](https://www.youtube.com/watch?v=dR83-KQeVLE)
++ [WordPress : créer son CV en ligne](https://www.youtube.com/watch?v=WAbiiWoD2u4)
 + [WordPress : gagner de l'argent grâce à l'affiliation](https://www.youtube.com/watch?v=o-ZLmx15ub8)
 
 ### Wondershare

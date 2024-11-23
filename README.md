@@ -40,6 +40,7 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |:--:|:--:|:--:|:--:|
 |[Algorithmie](Playlists/algorithmie.md)|🟩|-|_à venir_|
 |[Architecture](Playlists/architecture.md)|🟩|-|-|
+|[Hacking](Playlists/hacking.md)|🔜|-|-|
 |[Immersion](Playlists/immersion.md)|🔜|-|-|
 
 ### Systèmes

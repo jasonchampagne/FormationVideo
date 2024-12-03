@@ -13,7 +13,7 @@ Plusieurs agencements de clavier existent :
 
 ## Liste de caractères
 
-Globalement, une touche de clavier peut permettre de taper jusqu'à 4 caractères différents, chacun étant accessible à l'aide d'une combinaison spécifique.
+Globalement, une touche de clavier peut permettre de taper jusqu'à 4 caractères différents, chacun étant accessible à l'aide d'une combinaison différente.
 
 > **NOTE** : la touche MAJ (français) est aussi appellée SHIFT (anglais)
 

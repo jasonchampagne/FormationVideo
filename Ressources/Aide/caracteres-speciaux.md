@@ -11,13 +11,9 @@ Plusieurs agencements de clavier existent :
 + **QWERTY** : type historique et copié des machines à écrire, répandu dans d'autres pays de l'Europe ou en Amérique.
 + **QWERTZ** : disposition de clavier germanophone, utilisée en Allemange ou en Suisse.
 
-## Disposition des caractères sur les touches
-
-Globalement, une touche de clavier peut présenter jusqu'à 4 caractères, dont chacun est accessible à l'aide d'une combinaison spécifique :
-
-![Touche de clavier](https://nsa40.casimages.com/img/2020/02/24/200224081650142301.png)
-
 ## Liste de caractères
+
+Globalement, une touche de clavier peut permettre de taper jusqu'à 4 caractères différents, chacun étant accessible à l'aide d'une combinaison spécifique.
 
 > **NOTE** : la touche MAJ (français) est aussi appellée SHIFT (anglais)
 

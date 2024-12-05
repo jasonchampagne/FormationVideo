@@ -15,6 +15,7 @@
 
 ### Wondershare
 
++ [EdrawMax : créer facilement des diagrammes](https://www.youtube.com/watch?v=DsdnTKaA340)
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Filmora : comment créer une miniature YouTube](https://www.youtube.com/watch?v=dvMWQZpnnOs)
 + [Filmora : montage vidéo complet pour débutants](https://www.youtube.com/watch?v=3T_CcjieaW0)

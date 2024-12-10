@@ -749,6 +749,7 @@
 + [14. À la queue leu leu](https://www.youtube.com/watch?v=Xw9HSESKqd0)
 + [15. Make america great again](https://www.youtube.com/watch?v=5Y2sQKyhTSc)
 + [16. Quatre mots sur un piano](https://www.youtube.com/watch?v=PXML8zrPFlc)
++ [17. Projet](https://www.youtube.com/watch?v=kpTZp6plGf8)
 
 ### SQL
 

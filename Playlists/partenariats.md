@@ -25,4 +25,5 @@
 + [Le meilleur de la conversion vidéo avec Wondershare Uniconverter](https://www.youtube.com/watch?v=qe6oXyDVQik)
 + [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)
 + [Montage vidéo facile assisté par l'IA sur Filmora](https://www.youtube.com/watch?v=Xj58d6T07d4)
++ [TOP 3 meilleures applications pour résumer un texte efficacement](https://www.youtube.com/watch?v=mr0rfi8BhB4)
 + [TOP 3 des meilleurs logiciels de montage vidéo en 2024](https://www.youtube.com/watch?v=nLRzXLZFVJI)

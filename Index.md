@@ -796,6 +796,7 @@
 + [Le meilleur logiciel de montage vidéo avec IA : Wondershare Filmora](https://www.youtube.com/watch?v=f0aG0BhNPSc)
 + [Montage vidéo facile assisté par l'IA sur Filmora](https://www.youtube.com/watch?v=Xj58d6T07d4)
 + [OneEntry Headless CMS](https://www.youtube.com/watch?v=noX89iLx6zA)
++ [TOP 3 meilleures applications pour résumer un texte efficacement](https://www.youtube.com/watch?v=mr0rfi8BhB4)
 + [TOP 3 des meilleurs logiciels de montage vidéo en 2024](https://www.youtube.com/watch?v=nLRzXLZFVJI)
 + [WordPress : créer son CV en ligne](https://www.youtube.com/watch?v=WAbiiWoD2u4)
 + [WordPress : gagner de l'argent grâce à l'affiliation](https://www.youtube.com/watch?v=o-ZLmx15ub8)

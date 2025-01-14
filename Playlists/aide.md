@@ -28,6 +28,7 @@
 + [LosslessCut - éditeur audio/vidéo](https://www.youtube.com/watch?v=7qB-s1ysrAg)
 + [Make - écrire un Makefile](https://www.youtube.com/watch?v=-riHEHGP2DU) 🖍
 + [Mener à bien son projet](https://www.youtube.com/watch?v=Jtoag3KUMMw) 🖍
++ [Obsidian - prendre des notes](https://www.youtube.com/watch?v=ZhFXHzRn2nI)
 + [Optimiser un SSD](https://www.youtube.com/watch?v=6k3f72d9UXQ) 🖍
 + [Paradigmes en programmation](https://www.youtube.com/watch?v=5D7Shf9nG0Q) 🖍
 + [Pastebin - partager du code](https://www.youtube.com/watch?v=brvwCwfF0U0) 🖍

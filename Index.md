@@ -775,6 +775,7 @@
 
 ## 🔵 Les restes du monde
 
++ [3 astuces pour récupérer des fichiers supprimés de la corbeille sur Windows 10](https://www.youtube.com/watch?v=An-s2Pn_Jo4)
 + [Blabla - 5 erreurs que tu fais quand tu apprends](https://www.youtube.com/watch?v=zKTTcvwAvp8)
 + [Blabla - pourquoi utiliser la ligne de commandes](https://www.youtube.com/watch?v=hre1w-mZF6k)
 + [Blabla - utilisation de l'IA dans les écoles](https://www.youtube.com/watch?v=6AymSXTyiNI)

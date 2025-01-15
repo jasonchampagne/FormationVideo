@@ -15,6 +15,7 @@
 
 ### Wondershare
 
++ [3 astuces pour récupérer des fichiers supprimés de la corbeille sur Windows 10](https://www.youtube.com/watch?v=An-s2Pn_Jo4)
 + [EdrawMax : créer facilement des diagrammes](https://www.youtube.com/watch?v=DsdnTKaA340)
 + [Enregistrez votre écran en quelques clics avec Wondershare DemoCreator](https://www.youtube.com/watch?v=-xPcP5Lof8k)
 + [Filmora : comment créer une miniature YouTube](https://www.youtube.com/watch?v=dvMWQZpnnOs)

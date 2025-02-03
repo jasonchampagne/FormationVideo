@@ -572,6 +572,7 @@
 + [9. Création d'un thème (1/2)](https://www.youtube.com/watch?v=VuHARDb5wjk)
 + [10. Création d'un thème (2/2)](https://www.youtube.com/watch?v=o0o8ZzYNh1E)
 + [11. Création d'une extension (1/2)](https://www.youtube.com/watch?v=4y6yxpIulNE)
++ [12. Création d'une extension (2/2)](https://www.youtube.com/watch?v=-SYP6rRVcuo)
 
 ---
 

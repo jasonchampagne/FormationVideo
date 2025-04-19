@@ -1,4 +1,4 @@
-# Présentation de la chaîne YouTube
+# FormationVidéo
 
 <p align="center">
 	<img src="https://formation-video.org/public/img/logo.png" alt=""><br>

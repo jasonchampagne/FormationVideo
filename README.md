@@ -5,12 +5,6 @@
 	<a href="https://formation-video.org">formation-video.org</a>
 </p>
 
-La chaîne [FormationVidéo](https://www.youtube.com/formationvideo8) vous invite à aborder plusieurs domaines techniques et artistiques. Des sujets qui me passionnent et que je tiens à vous partager. L'ensemble des contenus est réparti sur 3 catégories (sauf quelques exceptions) sous forme de **playlists** sur la plateforme de Google :
-
-+ Une playlist de **cours** aborde les notions essentielles.
-+ Une playlist de **tutoriels**, en complément du cours, aborde des concepts plus spécifiques.
-+ Une playlist d'**exercices** met en pratique ce que vous avez appris dans le cours.
-
 Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver tous les liens vers les vidéos de la chaîne, le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents utiles pour votre apprentissage. Enfin, un répertoire des **Projets** autonomes proposés à la communauté et ceux organisés de manière interactive en direct sur [Twitch](https://www.twitch.tv/jachampagne).
 
 > [!NOTE]
@@ -80,9 +74,3 @@ Depuis cette page, vous pouvez consulter le dossier **Playlists** pour retrouver
 |:--:|:--:|:--:|:--:|
 |[Django](Playlists/django.md)|✅|_à venir_|-|
 |[JavaFX](Playlists/javafx.md)|🔜|_à venir_|-|
-
----
-
-## Contenus à venir
-
-+ Voir la [feuille de route](https://jasonchampagne.fr/annonces) (mise à jour régulièrement) 😉

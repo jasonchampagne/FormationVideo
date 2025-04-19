@@ -11,4 +11,5 @@ Depuis cette page, vous pouvez consulter le dossier **Ressources** qui vous prop
 
 |NOM|PLAYLISTS|
 |--:|:--|
-|||
+|Assembleur|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEs7PCC6r44iXiX5gMlbjcR) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE8fM7h9N60hU7TYfGumA_7) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGU-qQVx2Wtrz1fKgeUqout)|
+|WordPress|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|

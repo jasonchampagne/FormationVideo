@@ -7,8 +7,6 @@ Depuis cette page, vous pouvez consulter le dossier **Ressources** qui vous prop
 > [!NOTE]
 > Pensez à consulter l'[index](https://github.com/jasonchampagne/FormationVideo/blob/master/Index.md) qui liste l'ensemble des anciennes vidéos que j'ai publiées sur YouTube, très pratique si vous cherchez un contenu en particulier ou à retrouver une vidéo visionnée auparavant.
 
----
-
 |NOM|VIDÉOS PUBLIÉES|
 |--:|:--|
 |Aide|[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)|

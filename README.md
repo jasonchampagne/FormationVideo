@@ -9,9 +9,10 @@ Depuis cette page, vous pouvez consulter le dossier **Ressources** qui vous prop
 
 ---
 
-|NOM|PLAYLISTS|
+|NOM|VIDÉOS PUBLIÉES|
 |--:|:--|
 |Assembleur|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEs7PCC6r44iXiX5gMlbjcR) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE8fM7h9N60hU7TYfGumA_7) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGU-qQVx2Wtrz1fKgeUqout)|
+|Blabla|[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEyv4H_Mz-LJ6UMM8To3Ufy)|
 |C#|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFkVDbvfAYgIs4S936sq652)|
 |Java|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGfwasBSNmhx0egKfahfvIq)|
 |JavaFX|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGPyx7UHfsJtrdnpa_ix0ah)|

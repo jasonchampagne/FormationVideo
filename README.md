@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://formation-video.org/public/img/logo.png" alt=""></p>
 
-Depuis cette page, vous pouvez consulter le dossier **Ressources** qui vous propose des résumés, mémentos, codes source et documents rattachés aux vidéos.
+Cette page regroupe tous les contenus publiés avant le changement de nom de la chaîne YouTube.
 
 > [!NOTE]
 > Pensez à consulter l'[index](https://github.com/jasonchampagne/FormationVideo/blob/master/Index.md) qui liste l'ensemble des anciennes vidéos que j'ai publiées sur YouTube, très pratique si vous cherchez un contenu en particulier ou à retrouver une vidéo visionnée auparavant.

@@ -21,6 +21,7 @@
 |HTML/CSS|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE5tpw0bjMevWxMWXotiSdO) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb)|
 |Java|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHpuMXidDB-c1sFVcdJ7BFZ) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGfwasBSNmhx0egKfahfvIq)|
 |JavaFX|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGPyx7UHfsJtrdnpa_ix0ah)|
+|JavaScript|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_)|
 |PHP|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEgg_cDMFLWj3hmdG9_2MR2) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGrcaFuQwVlcxUItjgl1cbj)|
 |Python|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFMB2Qeuej6efzZRvjRdXo8) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEiSgOG1FM4oq-yS24iV4s1)|
 |SAV|[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHutxT7b4SRo8xFoXLg_DJr)|

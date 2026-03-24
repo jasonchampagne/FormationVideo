@@ -13,7 +13,7 @@
 |Algorithmie|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ)|
 |Architecture|[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrlG51dj8p_zCV994yWahY)|
 |Assembleur|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEs7PCC6r44iXiX5gMlbjcR) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE8fM7h9N60hU7TYfGumA_7) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGU-qQVx2Wtrz1fKgeUqout)|
-|C|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ)|
+|C|[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfECGo-do0Xf6o3fjc8Rta5N) / [exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ)|
 |C++|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFKOzlm5iCBeXDTLxXdmxpx)|
 |C#|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) / [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFkVDbvfAYgIs4S936sq652)|
 |Django|[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfED_VFTa6labxAOPh29RYiO)|

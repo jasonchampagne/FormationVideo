@@ -27,6 +27,4 @@
 
 + [Aide](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
 + [Architecture](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrlG51dj8p_zCV994yWahY)
-+ WordPress :
-    + [cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)
-    + [tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)
++ [WordPress (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A) / [WordPress (tutoriels)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)

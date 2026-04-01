@@ -3,7 +3,7 @@
 <p align="center"><img src="https://formation-video.org/public/img/logo.png" alt=""></p>
 
 > [!NOTE]
-> Pour ne pas pénaliser les nouvelles vidéos et bloquer leur référencement sur YouTube, elles ne sont plus affichées publiquement. Toutefois, je laisse celles qui n'ont pas encore été mises à jour sous forme de liens ci-dessous.
+> Pour ne pas pénaliser les nouvelles vidéos et bloquer leur référencement sur YouTube, les anciennes ne sont plus affichées publiquement. Toutefois, je laisse celles qui n'ont pas encore été mises à jour sous forme de liens ci-dessous.
 
 ## Aide
 

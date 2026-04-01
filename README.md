@@ -1,7 +1,5 @@
 # FormationVidéo
 
-<p align="center"><img src="https://formation-video.org/public/img/logo.png" alt=""></p>
-
 ## Python
 
 + [1. Introduction](https://youtu.be/HWxBtxPBCAc)

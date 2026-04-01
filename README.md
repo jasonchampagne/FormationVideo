@@ -3,9 +3,17 @@
 <p align="center"><img src="https://formation-video.org/public/img/logo.png" alt=""></p>
 
 > [!NOTE]
-> Je mets à disposition ici les anciennes vidéos qui ont été masquées de la chaîne **EvoluNoob** pour ne pas pénaliser les nouvelles et optimiser leur référencement.
+> Pour ne pas pénaliser les nouvelles vidéos et bloquer leur référencement sur YouTube, elles ne sont plus affichées publiquement. Toutefois, je laisse celles qui n'ont pas encore été mises à jour sous forme de liens ci-dessous.
+
+## Aide
+
++ [playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
 
 ## Algorithmie
+## Architecture
+
++ [playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrlG51dj8p_zCV994yWahY)
+
 ## Assembleur
 ## C
 ## C++
@@ -20,11 +28,3 @@
 ## Python
 ## SQL
 ## Windows
-
----
-
-## Playlists toujours disponibles sur YouTube
-
-+ [Aide](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEwFMZ1YIXgUqOFODGyo7tB)
-+ [Architecture](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrlG51dj8p_zCV994yWahY)
-+ [WordPress (cours)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A) / [WordPress (tutoriels)](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)

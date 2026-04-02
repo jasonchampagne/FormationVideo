@@ -16,6 +16,9 @@
 ---
 
 ## Algorithmie
+## Assembleur
+## C++
+## C#
 ## Django
 ## GNU/Linux
 ## HTML/CSS

@@ -1,7 +1,7 @@
 # FormationVidéo
 
 ---
-> **SOMMAIRE**
+> **SOMMAIRE**<br>
 > | [Python](#python)
 ---
 

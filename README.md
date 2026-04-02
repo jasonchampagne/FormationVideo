@@ -20,6 +20,20 @@
 ---
 
 ## Algorithmie
+
+<ul>
+    <li><a href="https://youtu.be/rs8Obxc84Rg">Chiffre de Vigenère</a></li>
+    <li><a href="https://youtu.be/47-kKTbGSz0">Code de César</a></li>
+    <li><a href="https://youtu.be/YFVx8hcngas">Euclide</a></li>
+    <li><a href="https://youtu.be/EqsXrDesvaE">Graphe</a></li>
+    <li><a href="https://youtu.be/h97sd-d0SLo">Parcours séquentiel</a></li>
+    <li><a href="https://youtu.be/H2MVJ_WgMHE">Pile</a></li>
+    <li><a href="https://youtu.be/gsaQRO0cU7Q">Recherche binaire</a></li>
+    <li><a href="https://youtu.be/daATbeKXOhE">Tri à bulles</a></li>
+    <li><a href="https://youtu.be/zXrr1QSoBXA">Tri par insertion</a></li>
+    <li><a href="https://youtu.be/Ts2QA8h3UP0">Tri par sélection</a></li>
+</ul>
+
 ## Architecture
 ## Assembleur
 ## C++

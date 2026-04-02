@@ -52,6 +52,21 @@
 ## Assembleur
 
 ### Cours
+
+<ol>
+    <li><a href="https://youtu.be/fvtd2Ut3MHw">Introduction</a></li>
+    <li><a href="https://youtu.be/22UPjfgyRzI">Dis bonjour !</a></li>
+    <li><a href="https://youtu.be/sS_1SyDqVV8">Structure d'un programme</a></li>
+    <li><a href="https://youtu.be/ZpeMivhWuic">Conventions d'appel</a></li>
+    <li><a href="https://youtu.be/CIzKfH8Jtco">Variables</a></li>
+    <li><a href="https://youtu.be/Pq1kWf2lUpk">Lecture au clavier</a></li>
+    <li><a href="https://youtu.be/KYMt8tA_fe0">Conditions</a></li>
+    <li><a href="https://youtu.be/lBp9guUoA0A">Boucles</a></li>
+    <li><a href="https://youtu.be/8E8vOQuFQzQ">Opérations</a></li>
+    <li><a href="https://youtu.be/lW6oRlMxHXo">Fonctions (1/2)</a></li>
+    <li><a href="https://youtu.be/FJerdO0CIis">Fonctions (2/2)</a></li>
+</ol>
+
 ### Tutoriels
 
 <ul>

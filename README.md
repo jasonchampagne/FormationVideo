@@ -2,7 +2,7 @@
 
 ## Python
 
-### Exercices
+### Cours
 
 <details>
     <ol>

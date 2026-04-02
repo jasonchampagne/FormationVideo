@@ -1,6 +1,6 @@
 # FormationVidéo
 
-## Python
+## Python (cours)
 
 + [1. Introduction](https://youtu.be/HWxBtxPBCAc)
 + [2. Coder premier programme](https://youtu.be/S1SDhbJwfdk)
@@ -45,3 +45,23 @@
 + [41. Mesurer le temps](https://youtu.be/04Unwn9stCM)
 + [42. Jouer du son](https://youtu.be/qq8W5tMYb4w)
 + [43. Conclusion](https://youtu.be/Miw3Y131nsw)
+
+## Python (exercices)
+
++ [1. Affichage simple](https://youtu.be/HVN4qv6Dxdk)
++ [2. Variables (QCM)](https://youtu.be/7o3y47LYFvE)
++ [3. L'attaque des titans](https://youtu.be/2VhWLJ_TQ0U)
++ [4. Terminal de commandes](https://youtu.be/-3v4_AoCeKM)
++ [5. Damn geoshape !](https://youtu.be/mJwjyE5HSEA)
++ [6. Jeu de l'étudiant](https://youtu.be/mvWBlzDPcjQ)
++ [7. Famille bouftou](https://youtu.be/gUXFoGzCzLE)
++ [8. Where is Bryan](https://youtu.be/gmQp9F1oMIE)
++ [9. Tuple or not tuple](https://youtu.be/FWTezV5QjNk)
++ [10. Quizz](https://youtu.be/ulSPoAM7DCc)
++ [11. Prenez note](https://youtu.be/W1gKlpXE2hs)
++ [12. Avec le temps va tout s'en va](https://youtu.be/er4eJLmY2CU)
++ [13. Dans une époque lointaine](https://youtu.be/bvj4pgIHQlc)
++ [14. À la queue leu leu](https://youtu.be/Xw9HSESKqd0)
++ [15. Make America great again](https://youtu.be/5Y2sQKyhTSc)
++ [16. Quatre mots sur un piano](https://youtu.be/PXML8zrPFlc)
++ [17. Projet](https://youtu.be/PXML8zrPFlc)

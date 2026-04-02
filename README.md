@@ -50,6 +50,16 @@
 </ul>
 
 ## Assembleur
+
+### Cours
+### Tutoriels
+### Exercices
+
+<ol>
+    <li><a href="https://youtu.be/LnSLoJs7zBw">QCM</a></li>
+    <li><a href="https://youtu.be/-tBWFSSwWwE">https://youtu.be/-tBWFSSwWwE</a></li>
+</ol>
+
 ## C++
 ## C#
 ## Django

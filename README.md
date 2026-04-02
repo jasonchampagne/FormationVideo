@@ -86,6 +86,17 @@
 ## GNU/Linux
 ## HTML/CSS
 
+### Tutoriels
+
+<ul>
+    <li><a href="https://youtu.be/bLPONCBPDeQ">Accessibilité web</a></li>
+    <li><a href="https://youtu.be/TZwvw5niU7Q">Attributs universels</a></li>
+    <li><a href="https://youtu.be/23Kcs7AW-18">Balises obsolètes</a></li>
+    <li><a href="https://youtu.be/UmnzAkE6DJQ">Thème sombre</a></li>
+    <li><a href="https://youtu.be/qaSFdlICoOo">Valider page HTML</a></li>
+    <li><a href="https://youtu.be/XFYqxcChwO4">Variables</a></li>
+</ul>
+
 ### Exercices
 
 <ol>

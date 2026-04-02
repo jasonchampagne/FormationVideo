@@ -9,7 +9,12 @@
 > + [SQL](#sql)
 ---
 
+## Algorithmie
+## Django
+## GNU/Linux
+## HTML/CSS
 ## Java
+## JavaFX
 ## JavaScript
 ## PHP
 ## Python
@@ -89,3 +94,4 @@
 </details>
 
 ## SQL
+## Windows

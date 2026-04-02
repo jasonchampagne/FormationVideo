@@ -97,6 +97,17 @@
 </ol>
 
 ## Java
+
+<ol>
+    <li><a href="https://youtu.be/XQ7CSHi0Yt4">Ça fait le café</a></li>
+    <li><a href="https://youtu.be/yfq9qPi3PcY">Sous conditions</a></li>
+    <li><a href="https://youtu.be/CMHBask3Dv0">Usine à youtubeurs</a></li>
+    <li><a href="https://youtu.be/vx3dPWRtFoY">Draw my life</a></li>
+    <li><a href="https://youtu.be/Ugd4euHVZ04">Caput draconis</a></li>
+    <li><a href="https://youtu.be/Gd6LHcygLk0">Attrapez-les toutes !</a></li>
+    <li><a href="https://youtu.be/MtBoVuedrlA">Jacky tuning</a></li>
+</ol>
+
 ## JavaFX
 ## JavaScript
 ## PHP

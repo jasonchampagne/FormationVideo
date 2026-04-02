@@ -2,7 +2,7 @@
 
 ---
 > **SOMMAIRE**<br>
-> | [Python](#python)
+> + [Python](#python)
 ---
 
 ## Python

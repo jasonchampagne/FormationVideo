@@ -1,6 +1,5 @@
 # FormationVidéo
 
----
 > **SOMMAIRE**<br>
 > + [Algorithmie](#algorithmie)
 > + [Architecture](#architecture)

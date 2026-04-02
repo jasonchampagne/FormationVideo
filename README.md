@@ -35,6 +35,21 @@
 </ul>
 
 ## Architecture
+
+<ul>
+    <li><a href="https://youtu.be/RdBNK43JK5c">Conversion de base numérique</a></li>
+    <li><a href="https://youtu.be/UjV4XZotT_o">Format JSON</a></li>
+    <li><a href="https://youtu.be/TwO8rCTFy1c">Graphe</a></li>
+    <li><a href="https://youtu.be/B1wJJNITvkY">Mémoire virtuelle</a></li>
+    <li><a href="https://youtu.be/NhFTswve-8o">Patron MVC</a></li>
+    <li><a href="https://youtu.be/UzGYdZSuL7Q">Patron MVVM</a></li>
+    <li><a href="https://youtu.be/tF7t0aNplek">Pile</a></li>
+    <li><a href="https://youtu.be/N0-8jXHbG3Q">Principes SOLID</a></li>
+    <li><a href="https://youtu.be/2jFBKfXxeZw">Processeur</a></li>
+    <li><a href="https://youtu.be/met394KmyZ4">Registres</a></li>
+    <li><a href="https://youtu.be/GEW_PYZEdNU">Systèmes de numération</a></li>
+</ul>
+
 ## Assembleur
 ## C++
 ## C#

@@ -209,3 +209,14 @@
 </ol>
 
 ## Windows
+
+### Tutoriels
+
+<ul>
+    <li><a href="https://youtu.be/ZA425a-UCC4">Alias de commande</a></li>
+    <li><a href="https://youtu.be/ac1WdzSqatw">Afficher extension fichiers</a></li>
+    <li><a href="https://youtu.be/AaIsQ8Y5AtY">Mettre à jour PowerShell</a></li>
+    <li><a href="https://youtu.be/TCTpKPolAH4">Réduire latence sur les jeux</a></li>
+    <li><a href="https://youtu.be/DuwRCZiB8QE">Registre</a></li>
+    <li><a href="https://youtu.be/M2BWTJXDJXY">Variable d'environnement Path</a></li>
+</ul>

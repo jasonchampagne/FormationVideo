@@ -3,6 +3,9 @@
 ---
 > **SOMMAIRE**<br>
 > + [Algorithmie](#algorithmie)
+> + [Assembleur](#assembleur)
+> + [C++](#c)
+> + [C#](#c-1)
 > + [Django](#django)
 > + [GNU/Linux](#gnulinux)
 > + [HTML/CSS](#htmlcss)

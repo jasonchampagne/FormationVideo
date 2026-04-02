@@ -3,6 +3,7 @@
 ---
 > **SOMMAIRE**<br>
 > + [Algorithmie](#algorithmie)
+> + [Architecture](#architecture)
 > + [Assembleur](#assembleur)
 > + [C++](#c)
 > + [C#](#c-1)
@@ -19,6 +20,7 @@
 ---
 
 ## Algorithmie
+## Architecture
 ## Assembleur
 ## C++
 ## C#

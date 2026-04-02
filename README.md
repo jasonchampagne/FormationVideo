@@ -2,11 +2,17 @@
 
 ---
 > **SOMMAIRE**<br>
+> + [Algorithmie](#algorithmie)
+> + [Django](#django)
+> + [GNU/Linux](#gnulinux)
+> + [HTML/CSS](#htmlcss)
 > + [Java](#java)
+> + [JavaFX](#javafx)
 > + [JavaScript](#javascript)
 > + [PHP](#php)
 > + [Python](#python)
 > + [SQL](#sql)
+> + [Windows](#windows)
 ---
 
 ## Algorithmie

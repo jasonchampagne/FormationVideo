@@ -53,6 +53,11 @@
 
 ### Cours
 ### Tutoriels
+
+<ul>
+    <li><a href="https://youtu.be/LJ1xsmQpiTs">Appeler une fonction du langage C</a></li>
+</ul>
+
 ### Exercices
 
 <ol>

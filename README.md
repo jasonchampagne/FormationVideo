@@ -197,4 +197,15 @@
 </ol>
 
 ## SQL
+
+### Exercices
+
+<ol>
+    <li><a href="https://youtu.be/qkxVqr4qpFw">Pour Azeroth !</a></li>
+    <li><a href="https://youtu.be/tPydQHUFFic">Espionnage virtuel</a></li>
+    <li><a href="https://youtu.be/c_5HpHja4u0">Le changement, c'est maintenant</a></li>
+    <li><a href="https://youtu.be/cem3UGra0uU">Travail terminé !</a></li>
+    <li><a href="https://youtu.be/gY4petb_SDM">Ptdr c ki l'elfe ?</a></li>
+</ol>
+
 ## Windows

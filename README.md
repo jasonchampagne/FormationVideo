@@ -1,8 +1,5 @@
 # FormationVidéo
 
-> [!NOTE]
-> **Ces contenus ne sont plus disponibles publiquement sur la chaîne YouTube afin d'aider au référencement des nouvelles vidéos.**
-
 > **SOMMAIRE**<br>
 > + [Algorithmie](#algorithmie)
 > + [Architecture](#architecture)

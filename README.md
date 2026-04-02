@@ -85,6 +85,17 @@
 ## Django
 ## GNU/Linux
 ## HTML/CSS
+
+### Exercices
+
+<ol>
+    <li><a href="https://youtu.be/fzjar4drY-c">Article de blog</a></li>
+    <li><a href="https://youtu.be/jqNCf_NRXnc">Tableau de données</a></li>
+    <li><a href="https://youtu.be/mQB-f2scL3M">Formulaire saisie patient</a></li>
+    <li><a href="https://youtu.be/Rbt9amRWfm4">Un peu de style</a></li>
+    <li><a href="https://youtu.be/gagqaBk3GXo">Strange news</a></li>
+</ol>
+
 ## Java
 ## JavaFX
 ## JavaScript

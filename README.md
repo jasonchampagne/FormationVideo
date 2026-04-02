@@ -100,6 +100,19 @@
 ## JavaFX
 ## JavaScript
 ## PHP
+
+## Exercices
+
+<ol>
+    <li><a href="https://youtu.be/nDYD1MCKlGU">Écho !</a></li>
+    <li><a href="https://youtu.be/6-LnnMlxRto">Calculez-les tous !</a></li>
+    <li><a href="https://youtu.be/8zL7vZThq94">Tic-Tac</a></li>
+    <li><a href="https://youtu.be/ICpiB-YVuK8">Flemme</a></li>
+    <li><a href="https://youtu.be/195dwnpoZYU">Abracadarray</a></li>
+    <li><a href="https://youtu.be/SUi2dvr68qI">Une histoire de goûts</a></li>
+    <li><a href="https://youtu.be/Wj8Fdyn61oM">Netflex</a></li>
+</ol>
+
 ## Python
 
 ### Cours
